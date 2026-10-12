@@ -16,12 +16,16 @@ ROWS = [
 GAMING = [
  ("apex","Apex Legends","เอเพ็กซ์ เลเจนด์ส","UC0ZV6M2THA81QT9hrVWJG3A"),
  ("diablo","Diablo","ดิอาโบล","UCxn8csYeZg6awRnZS-aqg0g"),
- ("hype","Upcoming Hype Games","เกมที่รอคอย",["UC6VcWc1rAoWdBCM0JxrRQ3A","UCH3sMKVJ2P7hm7ROBy5FHJg","UCA5SLTAVA6unn1M-6lbo1NA"]),
+ ("dota2","Dota 2","โดต้า 2",["UCTQKT5QqO3h7y32G8VzuySQ","UCfx0faaQeyIgPFz6axudwGQ"]),
+ ("final-fantasy","Final Fantasy","ไฟนอลแฟนตาซี","UCH3sMKVJ2P7hm7ROBy5FHJg"),
+ ("pokemon-go","Pokémon GO","โปเกมอน โก","UCA698bls2pjQyiqP9N-iaeg"),
+ ("pokemon","Pokémon TCG & Pokémon News","การ์ดโปเกมอน & ข่าวโปเกมอน","UCFctpiB_Hnlk3ejWfHqSm6Q"),
+ ("hype","Upcoming Hype Games","เกมที่รอคอย",["UC6VcWc1rAoWdBCM0JxrRQ3A","UCA5SLTAVA6unn1M-6lbo1NA"]),
  ("new-releases","New Releases & Trailers","เกมใหม่ & ตัวอย่าง",["UC-2Y8dQb0S6DtpxNgAKoJKA","UCjBp_7RuDBUYbd1LegWEJ8g","UCGIY_O-8vW4rfX98KlMkvRg","UCKy1dAqELo0zrOtPkf0eTMw","UCbu2SsF-Or3Rsn3NxqODImw"]),
 ]
 # Minimum views per row (absolute floor). Rows keep at least MIN_KEEP videos: if too few pass, the next most-viewed fill in.
 FLOOR={"premier-league":50000,"laliga":10000,"ucl":20000,"nba":10000,"f1":50000,"boxing":20000,"golf":50000,"ufc":5000,
- "atp":3000,"wta":3000,"apex":30000,"diablo":10000,"hype":100000,"new-releases":100000}
+ "atp":3000,"wta":3000,"apex":30000,"diablo":10000,"hype":100000,"dota2":10000,"final-fantasy":10000,"pokemon-go":30000,"pokemon":20000,"new-releases":100000}
 MIN_KEEP=10; MAX_KEEP=20
 NS={"a":"http://www.w3.org/2005/Atom","yt":"http://www.youtube.com/xml/schemas/2015","m":"http://search.yahoo.com/mrss/"}
 UA={"User-Agent":"Mozilla/5.0 sports-highlights"}
@@ -46,6 +50,7 @@ def row(r):
     for cid in cids:
         try: ch,v=feed(cid); chans.append(ch); vids+=v
         except Exception as e: skipped.append({"channelId":cid,"error":str(e)})
+    seen=set();vids=[v for v in vids if not (v["id"] in seen or seen.add(v["id"]))]
     vids.sort(key=lambda v:v["published"],reverse=True)
     with cf.ThreadPoolExecutor(8) as ex: ok=list(ex.map(lambda v:embeddable(v["id"]),vids))
     vids=[v for v,o in zip(vids,ok) if o]
