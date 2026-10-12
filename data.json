@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T21:05:20+00:00",
+ "updated": "2026-10-12T21:05:56+00:00",
  "rows": [
   {
    "key": "premier-league",
@@ -173,14 +173,6 @@
      "thumb": "https://i.ytimg.com/vi/hRYHItX6_DQ/hqdefault.jpg"
     },
     {
-     "id": "0sTChYrT6C8",
-     "title": "VLACHODIMOS (De nuevo). 🚫🚫🚫",
-     "published": "2026-10-12T20:52:12+00:00",
-     "channel": "LALIGA EA SPORTS",
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/0sTChYrT6C8/hqdefault.jpg"
-    },
-    {
      "id": "e2lLa6e3v74",
      "title": "Dela. 🚀 Vlachodimos. 🧤",
      "published": "2026-10-12T19:46:36+00:00",
@@ -259,6 +251,14 @@
      "channel": "LALIGA EA SPORTS",
      "short": true,
      "thumb": "https://i.ytimg.com/vi/K8Fb9wbCdww/hqdefault.jpg"
+    },
+    {
+     "id": "WyQn5XwTARY",
+     "title": "𝗬𝗔𝗦𝗦𝗜𝗥 𝗭𝗔𝗕𝗜𝗥𝗜. 🇲🇦💚",
+     "published": "2026-10-11T19:49:53+00:00",
+     "channel": "LALIGA EA SPORTS",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/WyQn5XwTARY/hqdefault.jpg"
     }
    ],
    "skippedChannels": []
@@ -986,14 +986,6 @@
      "thumb": "https://i.ytimg.com/vi/DqGVe_QPQPE/hqdefault.jpg"
     },
     {
-     "id": "miJL625mY0E",
-     "title": "世界の松山英樹、母国でつかんだPGA Tour優勝！｜2021年Baycurrent Classic ベストショット",
-     "published": "2026-10-07T09:00:00+00:00",
-     "channel": "PGA Tour",
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/miJL625mY0E/hqdefault.jpg"
-    },
-    {
      "id": "crY6A9Gh6MY",
      "title": "Every Shot Of Migel Angel Jimenez's Final Winning Round | 2014 Open de España",
      "published": "2026-10-07T08:30:37+00:00",
@@ -1064,6 +1056,14 @@
      "channel": "The Masters",
      "short": false,
      "thumb": "https://i.ytimg.com/vi/hlKcOpPlU5k/hqdefault.jpg"
+    },
+    {
+     "id": "k2bGUx6deqs",
+     "title": "The 2026 Green Jacket Ceremony | The Masters",
+     "published": "2026-04-30T19:28:21+00:00",
+     "channel": "The Masters",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/k2bGUx6deqs/hqdefault.jpg"
     }
    ],
    "skippedChannels": []
