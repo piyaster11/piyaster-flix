@@ -4,7 +4,7 @@ const fmt=n=>n>=1e6?(n/1e6).toFixed(1).replace(/\.0$/,'')+'M':n>=1e3?Math.round(
 function play(v){$('#player').src=`https://www.youtube-nocookie.com/embed/${v.id}?autoplay=1&rel=0`;$('#mTitle').textContent=v.title;$('#mYt').href=yt(v.id);$('#modal').hidden=false}
 function close(){$('#modal').hidden=true;$('#player').src=''}
 $('#close').onclick=close;$('#modal').onclick=e=>{if(e.target.id==='modal')close()};document.onkeydown=e=>{if(e.key==='Escape')close()};
-const VER='202610130543';const get=u=>fetch(u+'?v='+VER+'-'+Date.now(),{cache:'no-store'}).then(r=>r.json()).catch(()=>null);
+const VER='202610130545';const get=u=>fetch(u+'?v='+VER+'-'+Date.now(),{cache:'no-store'}).then(r=>r.json()).catch(()=>null);
 let D,W={rows:{}},B,P,Q,J,MM=[],MCATS=[];
 const dayIdx=n=>{const d=new Date();const k=Math.floor(Date.UTC(d.getFullYear(),d.getMonth(),d.getDate())/864e5);return k%n};
 function weekly(key){const w=W.rows[key];if(!w)return null;const b=document.createElement('div');b.className='wk';

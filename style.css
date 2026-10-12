@@ -49,3 +49,4 @@ footer{color:#777;font-size:12px;padding:30px 4%}
 .pbtn{display:flex;gap:8px;margin-top:8px}.pbtn button{background:#e50914;color:#fff;border:0;border-radius:6px;padding:8px 12px;font-size:14px;cursor:pointer;min-height:36px}.pbtn .slow{background:#444}
 .empty{padding:20px 4%;color:#aaa}
 .pbar{padding:12px 4%;display:flex;flex-direction:column;gap:8px}.pbar input{width:100%;max-width:560px;padding:10px 12px;border-radius:6px;border:1px solid #444;background:#111;color:#fff;font-size:16px}
+@media(max-width:700px){.nav{flex-wrap:wrap}.tabs{flex-wrap:wrap;overflow:visible;width:100%;row-gap:4px}}
