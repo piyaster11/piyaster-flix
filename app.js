@@ -3,7 +3,7 @@ const yt=id=>`https://www.youtube.com/watch?v=${id}`,ago=d=>{const h=(Date.now()
 function play(v){$('#player').src=`https://www.youtube-nocookie.com/embed/${v.id}?autoplay=1&rel=0`;$('#mTitle').textContent=v.title;$('#mYt').href=yt(v.id);$('#modal').hidden=false}
 function close(){$('#modal').hidden=true;$('#player').src=''}
 $('#close').onclick=close;$('#modal').onclick=e=>{if(e.target.id==='modal')close()};document.onkeydown=e=>{if(e.key==='Escape')close()};
-let D;
+let D,W={rows:{}};const fmt=n=>n>=1e6?(n/1e6).toFixed(1).replace(/\.0$/,'')+'M':n>=1e3?Math.round(n/1e3)+'K':String(n);
 function render(sec){
  document.querySelectorAll('.tabs a').forEach(a=>a.classList.toggle('on',a.dataset.s===sec));
  const rs=D.rows.filter(r=>(r.section||'sports')===sec);
@@ -18,10 +18,11 @@ function render(sec){
   s.innerHTML=`<h2>${esc(r.name)}<small>${esc(r.th)}</small></h2><div class="track"></div>`;
   const t=s.querySelector('.track');
   r.videos.forEach(v=>{const c=document.createElement('div');c.className='card';
-   c.innerHTML=`${v.short?'<span class="badge">SHORT</span>':''}<img loading="lazy" src="${v.thumb}" alt=""><div class="t">${esc(v.title)}<br><span style="color:#888">${esc(v.channel)} · ${ago(v.published)}</span></div>`;
-   c.onclick=()=>play(v);t.appendChild(c)});rows.appendChild(s)});
+   c.innerHTML=`${v.short?'<span class="badge">SHORT</span>':''}<img loading="lazy" src="${v.thumb}" alt=""><div class="t">${esc(v.title)}<br><span style="color:#888">${fmt(v.views||0)} views · ${esc(v.channel)} · ${ago(v.published)}</span></div>`;
+   c.onclick=()=>play(v);t.appendChild(c)});const w=W.rows[r.key];if(w){const b=document.createElement('div');b.className='wk';b.innerHTML=`<div><b>This week · สัปดาห์นี้</b><ul>${w.week.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></div><div><b>What to watch out for · ต้องจับตา</b><ul>${w.watch.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></div><div class="src"><a href="${esc(w.src)}" target="_blank" rel="noopener">Source</a> · updated ${esc(W.updated)}</div>`;s.appendChild(b)}
+  rows.appendChild(s)});
  window.scrollTo(0,0);
 }
 const sec=()=>location.hash==='#gaming'?'gaming':'sports';
 window.onhashchange=()=>D&&render(sec());
-fetch('data.json?'+Date.now()).then(r=>r.json()).then(d=>{D=d;$('#upd').textContent='Updated '+new Date(d.updated).toLocaleString();render(sec())});
+Promise.all([fetch('data.json?'+Date.now()).then(r=>r.json()),fetch('weekly.json?'+Date.now()).then(r=>r.json()).catch(()=>({rows:{}}))]).then(([d,w])=>{D=d;W=w;$('#upd').textContent='Updated '+new Date(d.updated).toLocaleString();render(sec())});
