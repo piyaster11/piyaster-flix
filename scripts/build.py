@@ -45,7 +45,7 @@ FLOOR={"premier-league":50000,"laliga":10000,"ucl":20000,"nba":10000,"f1":50000,
 FLOOR.update(FLOOR_EXTRA)
 MIN_KEEP=10; MAX_KEEP=20
 NS={"a":"http://www.w3.org/2005/Atom","yt":"http://www.youtube.com/xml/schemas/2015","m":"http://search.yahoo.com/mrss/"}
-UA={"User-Agent":"Mozilla/5.0 sports-highlights"}
+UA={"User-Agent":"Mozilla/5.0 piyaster-flix"}
 def get(url,t=20):
     with urllib.request.urlopen(urllib.request.Request(url,headers=UA),timeout=t) as r: return r.status,r.read()
 def embeddable(vid):
