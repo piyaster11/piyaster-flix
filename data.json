@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T21:05:56+00:00",
+ "updated": "2026-10-12T21:12:58+00:00",
  "rows": [
   {
    "key": "premier-league",
@@ -130,7 +130,8 @@
      "thumb": "https://i.ytimg.com/vi/UlAGMtt2x5U/hqdefault.jpg"
     }
    ],
-   "skippedChannels": []
+   "skippedChannels": [],
+   "section": "sports"
   },
   {
    "key": "laliga",
@@ -171,6 +172,22 @@
      "channel": "LALIGA EA SPORTS",
      "short": false,
      "thumb": "https://i.ytimg.com/vi/hRYHItX6_DQ/hqdefault.jpg"
+    },
+    {
+     "id": "LfAJD5f3Rzg",
+     "title": "FOFANA. 💨💨💨",
+     "published": "2026-10-12T20:57:00+00:00",
+     "channel": "LALIGA EA SPORTS",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/LfAJD5f3Rzg/hqdefault.jpg"
+    },
+    {
+     "id": "0sTChYrT6C8",
+     "title": "VLACHODIMOS (De nuevo). 🚫🚫🚫",
+     "published": "2026-10-12T20:52:12+00:00",
+     "channel": "LALIGA EA SPORTS",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/0sTChYrT6C8/hqdefault.jpg"
     },
     {
      "id": "e2lLa6e3v74",
@@ -243,25 +260,10 @@
      "channel": "LALIGA EA SPORTS",
      "short": true,
      "thumb": "https://i.ytimg.com/vi/Ro9P_t11Huo/hqdefault.jpg"
-    },
-    {
-     "id": "K8Fb9wbCdww",
-     "title": "Una celebración muy especial. 🐣💚",
-     "published": "2026-10-11T20:26:03+00:00",
-     "channel": "LALIGA EA SPORTS",
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/K8Fb9wbCdww/hqdefault.jpg"
-    },
-    {
-     "id": "WyQn5XwTARY",
-     "title": "𝗬𝗔𝗦𝗦𝗜𝗥 𝗭𝗔𝗕𝗜𝗥𝗜. 🇲🇦💚",
-     "published": "2026-10-11T19:49:53+00:00",
-     "channel": "LALIGA EA SPORTS",
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/WyQn5XwTARY/hqdefault.jpg"
     }
    ],
-   "skippedChannels": []
+   "skippedChannels": [],
+   "section": "sports"
   },
   {
    "key": "ucl",
@@ -392,7 +394,8 @@
      "thumb": "https://i.ytimg.com/vi/BQmi0FOVDv4/hqdefault.jpg"
     }
    ],
-   "skippedChannels": []
+   "skippedChannels": [],
+   "section": "sports"
   },
   {
    "key": "nba",
@@ -523,7 +526,8 @@
      "thumb": "https://i.ytimg.com/vi/sHipLoay9Bs/hqdefault.jpg"
     }
    ],
-   "skippedChannels": []
+   "skippedChannels": [],
+   "section": "sports"
   },
   {
    "key": "f1",
@@ -654,7 +658,8 @@
      "thumb": "https://i.ytimg.com/vi/fOOBdskdezs/hqdefault.jpg"
     }
    ],
-   "skippedChannels": []
+   "skippedChannels": [],
+   "section": "sports"
   },
   {
    "key": "boxing",
@@ -860,7 +865,8 @@
      "thumb": "https://i.ytimg.com/vi/QreP_6gNo_g/hqdefault.jpg"
     }
    ],
-   "skippedChannels": []
+   "skippedChannels": [],
+   "section": "sports"
   },
   {
    "key": "golf",
@@ -1066,7 +1072,8 @@
      "thumb": "https://i.ytimg.com/vi/k2bGUx6deqs/hqdefault.jpg"
     }
    ],
-   "skippedChannels": []
+   "skippedChannels": [],
+   "section": "sports"
   },
   {
    "key": "ufc",
@@ -1197,7 +1204,8 @@
      "thumb": "https://i.ytimg.com/vi/C-JvqdCRt3k/hqdefault.jpg"
     }
    ],
-   "skippedChannels": []
+   "skippedChannels": [],
+   "section": "sports"
   },
   {
    "key": "atp",
@@ -1328,7 +1336,8 @@
      "thumb": "https://i.ytimg.com/vi/j-OhX18LxAM/hqdefault.jpg"
     }
    ],
-   "skippedChannels": []
+   "skippedChannels": [],
+   "section": "sports"
   },
   {
    "key": "wta",
@@ -1459,7 +1468,686 @@
      "thumb": "https://i.ytimg.com/vi/dE0fpmzwFXo/hqdefault.jpg"
     }
    ],
-   "skippedChannels": []
+   "skippedChannels": [],
+   "section": "sports"
+  },
+  {
+   "key": "apex",
+   "name": "Apex Legends",
+   "th": "เอเพ็กซ์ เลเจนด์ส",
+   "channels": [
+    "Apex Legends"
+   ],
+   "videos": [
+    {
+     "id": "33220_0t0H8",
+     "title": "Apex Legends VS Street Fighter 6 Event",
+     "published": "2026-09-15T15:00:03+00:00",
+     "channel": "Apex Legends",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/33220_0t0H8/hqdefault.jpg"
+    },
+    {
+     "id": "jJObfZSbzAw",
+     "title": "Apex Legends: Marked Gameplay Trailer",
+     "published": "2026-07-28T15:00:06+00:00",
+     "channel": "Apex Legends",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/jJObfZSbzAw/hqdefault.jpg"
+    },
+    {
+     "id": "KR1MCtCsuNY",
+     "title": "Apex Legends: Blood Pact Event Trailer",
+     "published": "2026-10-08T15:00:05+00:00",
+     "channel": "Apex Legends",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/KR1MCtCsuNY/hqdefault.jpg"
+    },
+    {
+     "id": "91beDJjQBqg",
+     "title": "CHUN-LI 🆚 ALTER",
+     "published": "2026-09-19T16:00:18+00:00",
+     "channel": "Apex Legends",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/91beDJjQBqg/hqdefault.jpg"
+    },
+    {
+     "id": "UAgBVjrx_FQ",
+     "title": "RYU 🆚 SPARROW",
+     "published": "2026-09-18T23:22:07+00:00",
+     "channel": "Apex Legends",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/UAgBVjrx_FQ/hqdefault.jpg"
+    },
+    {
+     "id": "pRnyjt_eIHQ",
+     "title": "⬇️ ↘️ ➡️ + 👊",
+     "published": "2026-09-14T17:59:47+00:00",
+     "channel": "Apex Legends",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/pRnyjt_eIHQ/hqdefault.jpg"
+    },
+    {
+     "id": "XoCCpg-qBtw",
+     "title": "Define \"1 shot\"",
+     "published": "2026-09-03T17:00:23+00:00",
+     "channel": "Apex Legends",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/XoCCpg-qBtw/hqdefault.jpg"
+    },
+    {
+     "id": "uF-JQowDlmY",
+     "title": "Gibby's going god mode",
+     "published": "2026-09-01T17:00:31+00:00",
+     "channel": "Apex Legends",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/uF-JQowDlmY/hqdefault.jpg"
+    },
+    {
+     "id": "oL-elLVLk3E",
+     "title": "EVO Enhanced Wildcards",
+     "published": "2026-08-31T17:38:40+00:00",
+     "channel": "Apex Legends",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/oL-elLVLk3E/hqdefault.jpg"
+    },
+    {
+     "id": "iBjIo29zmKw",
+     "title": "Apex Legends: Ascended Hunt Event Trailer #apexlegends",
+     "published": "2026-08-13T15:00:15+00:00",
+     "channel": "Apex Legends",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/iBjIo29zmKw/hqdefault.jpg"
+    },
+    {
+     "id": "xFSax7Cpqa8",
+     "title": "By the time you see them, it’s already over. 🎬: @fr0sty_t7 #apexlegends",
+     "published": "2026-08-05T20:00:14+00:00",
+     "channel": "Apex Legends",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/xFSax7Cpqa8/hqdefault.jpg"
+    },
+    {
+     "id": "lBBAyHQcFTA",
+     "title": "Apex Legends Loot and Attachments Explainer #apexlegends",
+     "published": "2026-08-04T18:39:02+00:00",
+     "channel": "Apex Legends",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/lBBAyHQcFTA/hqdefault.jpg"
+    },
+    {
+     "id": "aIij9Ygafec",
+     "title": "Blink and you'll miss it. Good luck keeping up",
+     "published": "2026-07-18T21:00:34+00:00",
+     "channel": "Apex Legends",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/aIij9Ygafec/hqdefault.jpg"
+    },
+    {
+     "id": "XCj-MHvOPO4",
+     "title": "Looking nova 🌟",
+     "published": "2026-07-17T21:00:21+00:00",
+     "channel": "Apex Legends",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/XCj-MHvOPO4/hqdefault.jpg"
+    },
+    {
+     "id": "q-Cu6KFWBfE",
+     "title": "Good mercs finish the job.",
+     "published": "2026-07-15T21:02:42+00:00",
+     "channel": "Apex Legends",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/q-Cu6KFWBfE/hqdefault.jpg"
+    }
+   ],
+   "skippedChannels": [],
+   "section": "gaming"
+  },
+  {
+   "key": "diablo",
+   "name": "Diablo",
+   "th": "ดิอาโบล",
+   "channels": [
+    "Diablo"
+   ],
+   "videos": [
+    {
+     "id": "W64QNl4VlLs",
+     "title": "Diablo IV | Lord of Hatred Collection | Nintendo Switch™ 2",
+     "published": "2026-09-16T21:58:01+00:00",
+     "channel": "Diablo",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/W64QNl4VlLs/hqdefault.jpg"
+    },
+    {
+     "id": "ZewePNZQvOA",
+     "title": "Diablo IV | Season of Hell’s Legacy | Your Prime Evil - Baal",
+     "published": "2026-10-09T17:00:37+00:00",
+     "channel": "Diablo",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/ZewePNZQvOA/hqdefault.jpg"
+    },
+    {
+     "id": "9vf0z9IRPrU",
+     "title": "Diablo IV | Season of Hell’s Legacy | Your Prime Evil - Diablo",
+     "published": "2026-10-08T17:01:02+00:00",
+     "channel": "Diablo",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/9vf0z9IRPrU/hqdefault.jpg"
+    },
+    {
+     "id": "SOKeYrAiOJE",
+     "title": "Diablo IV | Season of Hell’s Legacy | Your Prime Evil - Mephisto",
+     "published": "2026-10-07T17:08:26+00:00",
+     "channel": "Diablo",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/SOKeYrAiOJE/hqdefault.jpg"
+    },
+    {
+     "id": "oVAmHeXMj4c",
+     "title": "Diablo | Through the Years",
+     "published": "2026-09-24T17:27:33+00:00",
+     "channel": "Diablo",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/oVAmHeXMj4c/hqdefault.jpg"
+    },
+    {
+     "id": "3t4z9XhtvrI",
+     "title": "Diablo IV | Escape Room Walkthrough | BlizzCon 2026",
+     "published": "2026-09-18T19:01:01+00:00",
+     "channel": "Diablo",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/3t4z9XhtvrI/hqdefault.jpg"
+    },
+    {
+     "id": "UvRxi1_o6os",
+     "title": "Diablo | Hell’s Ink Booth Highlights | BlizzCon 2026",
+     "published": "2026-09-18T18:22:45+00:00",
+     "channel": "Diablo",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/UvRxi1_o6os/hqdefault.jpg"
+    },
+    {
+     "id": "2TxgVuwYeno",
+     "title": "Diablo | BlizzCon 2026 | ICYMI",
+     "published": "2026-09-18T17:00:37+00:00",
+     "channel": "Diablo",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/2TxgVuwYeno/hqdefault.jpg"
+    },
+    {
+     "id": "EnSQWldoyLc",
+     "title": "Diablo IV | Season of Hell’s Legacy | Diablo’s Back",
+     "published": "2026-09-17T18:00:36+00:00",
+     "channel": "Diablo",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/EnSQWldoyLc/hqdefault.jpg"
+    },
+    {
+     "id": "joxf_qEZqFc",
+     "title": "Diablo IV: Age of Hatred Collection | Nintendo Switch™ 2",
+     "published": "2026-09-16T21:59:51+00:00",
+     "channel": "Diablo",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/joxf_qEZqFc/hqdefault.jpg"
+    },
+    {
+     "id": "1dOFnQPkQfg",
+     "title": "Diablo IV: Season of Hell's Legacy | Live Now",
+     "published": "2026-09-15T22:14:51+00:00",
+     "channel": "Diablo",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/1dOFnQPkQfg/hqdefault.jpg"
+    },
+    {
+     "id": "f1sQE0UbbU4",
+     "title": "Diablo IV: Season of Hell’s Legacy | Earnable Reliquary",
+     "published": "2026-09-14T21:30:57+00:00",
+     "channel": "Diablo",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/f1sQE0UbbU4/hqdefault.jpg"
+    },
+    {
+     "id": "0LVLM4p77IM",
+     "title": "Diablo | BlizzCon 2026 | The Voices of Sanctuary",
+     "published": "2026-09-14T17:31:01+00:00",
+     "channel": "Diablo",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/0LVLM4p77IM/hqdefault.jpg"
+    },
+    {
+     "id": "zEQdYKFOlLM",
+     "title": "Diablo IV | Season of Hell’s Legacy | Demo Hands-On",
+     "published": "2026-09-14T17:00:52+00:00",
+     "channel": "Diablo",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/zEQdYKFOlLM/hqdefault.jpg"
+    },
+    {
+     "id": "BHLw3LsThQ0",
+     "title": "Diablo IV | BlizzCon 2026 | What’s Next Panel | Amazon Archetypes",
+     "published": "2026-09-14T00:45:53+00:00",
+     "channel": "Diablo",
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/BHLw3LsThQ0/hqdefault.jpg"
+    }
+   ],
+   "skippedChannels": [],
+   "section": "gaming"
+  },
+  {
+   "key": "hype",
+   "name": "Upcoming Hype Games",
+   "th": "เกมที่รอคอย",
+   "channels": [
+    "Rockstar Games",
+    "FINAL FANTASY",
+    "Square Enix"
+   ],
+   "videos": [
+    {
+     "id": "juORlA4AhaE",
+     "title": "Vaultbreakers | Demo Trailer",
+     "published": "2026-10-08T17:01:29+00:00",
+     "channel": "Square Enix",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/juORlA4AhaE/hqdefault.jpg"
+    },
+    {
+     "id": "QfkINrXbbAA",
+     "title": "KINGDOM HEARTS Collection [I ~ III] Launch Trailer",
+     "published": "2026-10-08T13:00:09+00:00",
+     "channel": "Square Enix",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/QfkINrXbbAA/hqdefault.jpg"
+    },
+    {
+     "id": "uA1rHCKIkI8",
+     "title": "FINAL FANTASY VII EVER CRISIS | Final Trailer",
+     "published": "2026-10-07T06:00:38+00:00",
+     "channel": "Square Enix",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/uA1rHCKIkI8/hqdefault.jpg"
+    },
+    {
+     "id": "0q9IVcbnEjQ",
+     "title": "FINAL FANTASY VII EVER CRISIS | Final Trailer",
+     "published": "2026-10-07T06:00:00+00:00",
+     "channel": "FINAL FANTASY",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/0q9IVcbnEjQ/hqdefault.jpg"
+    },
+    {
+     "id": "1qX08dpzxfU",
+     "title": "OCTOPATH TRAVELER & OCTOPATH TRAVELER II | Nintendo Switch™ 2 Release Trailer",
+     "published": "2026-10-01T13:00:39+00:00",
+     "channel": "Square Enix",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/1qX08dpzxfU/hqdefault.jpg"
+    },
+    {
+     "id": "BsxosytFaSA",
+     "title": "KINGDOM HEARTS Collection [I~III] Pre-Launch Livestream ft. @igobyGRAVEN",
+     "published": "2026-09-30T19:41:50+00:00",
+     "channel": "Square Enix",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/BsxosytFaSA/hqdefault.jpg"
+    },
+    {
+     "id": "-JIFKjXtKfA",
+     "title": "STAR OCEAN Official RTA EVENT Speedrun Challenge",
+     "published": "2026-09-28T13:00:03+00:00",
+     "channel": "Square Enix",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/-JIFKjXtKfA/hqdefault.jpg"
+    },
+    {
+     "id": "VwSzBGkBaAo",
+     "title": "Final Fantasy TCG 2026 North American Championship Livestream (Top 16)",
+     "published": "2026-09-28T01:11:35+00:00",
+     "channel": "Square Enix",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/VwSzBGkBaAo/hqdefault.jpg"
+    },
+    {
+     "id": "pAuiSE3YHcI",
+     "title": "Final Fantasy TCG 2026 North American Championship Livestream (Top 16)",
+     "published": "2026-09-28T00:48:12+00:00",
+     "channel": "Square Enix",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/pAuiSE3YHcI/hqdefault.jpg"
+    },
+    {
+     "id": "4zMvSufVevA",
+     "title": "Final Fantasy TCG 2026 North American Championship Livestream",
+     "published": "2026-09-27T02:01:47+00:00",
+     "channel": "Square Enix",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/4zMvSufVevA/hqdefault.jpg"
+    },
+    {
+     "id": "r9fbugErjp0",
+     "title": "FINAL FANTASY RESONANCE | Vision – Cecil",
+     "published": "2026-09-25T14:58:31+00:00",
+     "channel": "FINAL FANTASY",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/r9fbugErjp0/hqdefault.jpg"
+    },
+    {
+     "id": "ujIDetNfaz0",
+     "title": "DISSIDIA DUELLUM FINAL FANTASY | Character Preview – Kuja",
+     "published": "2026-09-25T11:22:01+00:00",
+     "channel": "Square Enix",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/ujIDetNfaz0/hqdefault.jpg"
+    },
+    {
+     "id": "5xT35QQ74Zs",
+     "title": "DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition｜Nintendo Switch 2 Launch Trailer",
+     "published": "2026-09-24T13:00:00+00:00",
+     "channel": "Square Enix",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/5xT35QQ74Zs/hqdefault.jpg"
+    },
+    {
+     "id": "W-4qDenLJEI",
+     "title": "The Adventures of Elliot: The Millennium Tales | Accolades Trailer",
+     "published": "2026-09-23T16:31:17+00:00",
+     "channel": "Square Enix",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/W-4qDenLJEI/hqdefault.jpg"
+    },
+    {
+     "id": "D8Uvlla9mEE",
+     "title": "FINAL FANTASY RESONANCE | Vision – Zidane",
+     "published": "2026-09-23T14:58:34+00:00",
+     "channel": "FINAL FANTASY",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/D8Uvlla9mEE/hqdefault.jpg"
+    },
+    {
+     "id": "GezyfPh4Qwc",
+     "title": "The Adventures of Elliot: The Millennium Tales in 90 Seconds",
+     "published": "2026-09-22T13:35:26+00:00",
+     "channel": "Square Enix",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/GezyfPh4Qwc/hqdefault.jpg"
+    },
+    {
+     "id": "FWtNgBjPkCY",
+     "title": "FINAL FANTASY RESONANCE | Vision – Terra",
+     "published": "2026-09-21T14:58:01+00:00",
+     "channel": "FINAL FANTASY",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/FWtNgBjPkCY/hqdefault.jpg"
+    },
+    {
+     "id": "sAxUJ1gNLU0",
+     "title": "Are you ready for Final Fantasy VII Revelation?",
+     "published": "2026-09-18T17:00:26+00:00",
+     "channel": "FINAL FANTASY",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/sAxUJ1gNLU0/hqdefault.jpg"
+    },
+    {
+     "id": "nrUb3vqr9Ds",
+     "title": "FINAL FANTASY RESONANCE | Tokyo Game Show Trailer",
+     "published": "2026-09-17T01:05:11+00:00",
+     "channel": "Square Enix",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/nrUb3vqr9Ds/hqdefault.jpg"
+    },
+    {
+     "id": "mkmhfUQPQss",
+     "title": "FINAL FANTASY RESONANCE | Tokyo Game Show Trailer",
+     "published": "2026-09-17T01:00:06+00:00",
+     "channel": "FINAL FANTASY",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/mkmhfUQPQss/hqdefault.jpg"
+    },
+    {
+     "id": "12Q_WmBFubg",
+     "title": "FINAL FANTASY RESONANCE - Gilgamesh Video",
+     "published": "2026-09-15T15:00:24+00:00",
+     "channel": "FINAL FANTASY",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/12Q_WmBFubg/hqdefault.jpg"
+    },
+    {
+     "id": "My-oWOBZLfw",
+     "title": "FINAL FANTASY RESONANCE | Vision – Clive",
+     "published": "2026-09-10T14:58:04+00:00",
+     "channel": "FINAL FANTASY",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/My-oWOBZLfw/hqdefault.jpg"
+    },
+    {
+     "id": "Af6f-KvBwLU",
+     "title": "CRISIS CORE –FINAL FANTASY VII– REUNION | Now available on Nintendo Switch 2",
+     "published": "2026-09-09T15:14:15+00:00",
+     "channel": "FINAL FANTASY",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/Af6f-KvBwLU/hqdefault.jpg"
+    },
+    {
+     "id": "KU4Zm-UdE7w",
+     "title": "FINAL FANTASY RESONANCE | Vision – Squall",
+     "published": "2026-09-08T14:58:35+00:00",
+     "channel": "FINAL FANTASY",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/KU4Zm-UdE7w/hqdefault.jpg"
+    }
+   ],
+   "skippedChannels": [],
+   "section": "gaming"
+  },
+  {
+   "key": "new-releases",
+   "name": "New Releases & Trailers",
+   "th": "เกมใหม่ & ตัวอย่าง",
+   "channels": [
+    "PlayStation",
+    "XBOX",
+    "Nintendo of America",
+    "IGN",
+    "GameSpot"
+   ],
+   "videos": [
+    {
+     "id": "AA9fqcep7cM",
+     "title": "Shadow of the Road - Official Demo Launch Trailer | IGN Fall Fan Fest 2026",
+     "published": "2026-10-12T20:00:12+00:00",
+     "channel": "IGN",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/AA9fqcep7cM/hqdefault.jpg"
+    },
+    {
+     "id": "CvEgCXixsNw",
+     "title": "Cozy After Dark 2026 | Cozy Games With a Dark Side",
+     "published": "2026-10-12T19:53:46+00:00",
+     "channel": "IGN",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/CvEgCXixsNw/hqdefault.jpg"
+    },
+    {
+     "id": "sslUG9iOblU",
+     "title": "Up Close with the Avengers: Doomsday Costumes | NYCC 2026",
+     "published": "2026-10-12T19:50:23+00:00",
+     "channel": "IGN",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/sslUG9iOblU/hqdefault.jpg"
+    },
+    {
+     "id": "fPtwA2ZbKoA",
+     "title": "Blind Descent - Official Release Date Trailer | IGN Fall Fan Fest 2026",
+     "published": "2026-10-12T19:30:12+00:00",
+     "channel": "IGN",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/fPtwA2ZbKoA/hqdefault.jpg"
+    },
+    {
+     "id": "T1BW42fLc_Q",
+     "title": "Station 58 - Official Announce Trailer",
+     "published": "2026-10-12T19:04:36+00:00",
+     "channel": "IGN",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/T1BW42fLc_Q/hqdefault.jpg"
+    },
+    {
+     "id": "_7hcl_N5ct4",
+     "title": "Waltz and Jam – Release Date Trailer – Nintendo Switch 2",
+     "published": "2026-10-12T19:00:32+00:00",
+     "channel": "Nintendo of America",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/_7hcl_N5ct4/hqdefault.jpg"
+    },
+    {
+     "id": "BrNtULqIUgE",
+     "title": "Anno 117 : Pax Romana -  Official Pyramids Trailer | IGN Fall Fan Fest 2026",
+     "published": "2026-10-12T18:00:08+00:00",
+     "channel": "IGN",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/BrNtULqIUgE/hqdefault.jpg"
+    },
+    {
+     "id": "b2sNsyr5CQM",
+     "title": "Sublustrum - Voice Cast Reveal Trailer | PS5 Games",
+     "published": "2026-10-12T17:15:10+00:00",
+     "channel": "PlayStation",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/b2sNsyr5CQM/hqdefault.jpg"
+    },
+    {
+     "id": "dOmqGIRO1pU",
+     "title": "S.O.N - Launch Trailer | PS5 Games",
+     "published": "2026-10-12T17:15:03+00:00",
+     "channel": "PlayStation",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/dOmqGIRO1pU/hqdefault.jpg"
+    },
+    {
+     "id": "rBPPryxDXuY",
+     "title": "Sifu - Official Mobile Launch Trailer",
+     "published": "2026-10-12T17:00:39+00:00",
+     "channel": "IGN",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/rBPPryxDXuY/hqdefault.jpg"
+    },
+    {
+     "id": "GjJZVHOsbYA",
+     "title": "Colorbound - Out Now | PS5 Games",
+     "published": "2026-10-12T17:00:01+00:00",
+     "channel": "PlayStation",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/GjJZVHOsbYA/hqdefault.jpg"
+    },
+    {
+     "id": "ajzyG3r-QlI",
+     "title": "Dragon's Dogma 2: Dark Arisen - Official 'Burn The Sky' Music Video | IGN Fall Fan Fest 2026",
+     "published": "2026-10-12T16:30:25+00:00",
+     "channel": "IGN",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/ajzyG3r-QlI/hqdefault.jpg"
+    },
+    {
+     "id": "_E2yeOUZlOw",
+     "title": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction – Release Date – Nintendo Switch",
+     "published": "2026-10-12T16:01:22+00:00",
+     "channel": "Nintendo of America",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/_E2yeOUZlOw/hqdefault.jpg"
+    },
+    {
+     "id": "cYrDu9GBxn8",
+     "title": "Biohazard Exclusive Teaser Trailer: Chandler Riggs' Resident Evil 7 Fan Film (2026)",
+     "published": "2026-10-12T16:00:28+00:00",
+     "channel": "IGN",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/cYrDu9GBxn8/hqdefault.jpg"
+    },
+    {
+     "id": "OoGxVW-_nZU",
+     "title": "A 'Vision Quest' Through New York Comic Con",
+     "published": "2026-10-12T15:03:29+00:00",
+     "channel": "GameSpot",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/OoGxVW-_nZU/hqdefault.jpg"
+    },
+    {
+     "id": "jH063Tze3Ng",
+     "title": "Alpha Nomos - Launch Trailer | PS5 Games",
+     "published": "2026-10-12T15:00:01+00:00",
+     "channel": "PlayStation",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/jH063Tze3Ng/hqdefault.jpg"
+    },
+    {
+     "id": "K3WzZ5GIC0k",
+     "title": "No Man's Sky - Official iOS Deep Dive Trailer",
+     "published": "2026-10-12T14:25:40+00:00",
+     "channel": "IGN",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/K3WzZ5GIC0k/hqdefault.jpg"
+    },
+    {
+     "id": "fLPTnpYWugs",
+     "title": "Gears of War: E-Day - Official Never Fight Alone Morida Trailer",
+     "published": "2026-10-12T14:15:18+00:00",
+     "channel": "IGN",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/fLPTnpYWugs/hqdefault.jpg"
+    },
+    {
+     "id": "sA2v6KGB57s",
+     "title": "He-Man & The Masters Of The Universe: Dragon Pearl Of Destruction – Release Date Trailer | XBOX",
+     "published": "2026-10-12T13:00:28+00:00",
+     "channel": "XBOX",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/sA2v6KGB57s/hqdefault.jpg"
+    },
+    {
+     "id": "290YrqdAvKI",
+     "title": "He-Man & The Masters Of The Universe: Dragon Pearl Of Destruction - Release Date | PS5 & PS4 Games",
+     "published": "2026-10-12T13:00:27+00:00",
+     "channel": "PlayStation",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/290YrqdAvKI/hqdefault.jpg"
+    },
+    {
+     "id": "X4Dzs-NZ6rw",
+     "title": "Valor Mortis Tries Too Much With Its Attempt At A First-Person Soulslike - Review",
+     "published": "2026-10-12T13:00:25+00:00",
+     "channel": "GameSpot",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/X4Dzs-NZ6rw/hqdefault.jpg"
+    },
+    {
+     "id": "Hw3XU-C6ltM",
+     "title": "Ravenswatch - Kintarō Launch Trailer | PS5 & PS4 Games",
+     "published": "2026-10-12T08:00:34+00:00",
+     "channel": "PlayStation",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/Hw3XU-C6ltM/hqdefault.jpg"
+    },
+    {
+     "id": "A8iV-6TG28k",
+     "title": "Agent Spider Reveal Trailer | Invincible VS",
+     "published": "2026-10-11T16:45:33+00:00",
+     "channel": "XBOX",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/A8iV-6TG28k/hqdefault.jpg"
+    },
+    {
+     "id": "2RoZ9faTBJI",
+     "title": "Marvel Tōkon: Fighting Souls - Year 1 DLC Character: Thor (Jane Foster) | PS5 & PC Games",
+     "published": "2026-10-11T12:02:46+00:00",
+     "channel": "PlayStation",
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/2RoZ9faTBJI/hqdefault.jpg"
+    }
+   ],
+   "skippedChannels": [],
+   "section": "gaming"
   }
  ],
  "skipped": []

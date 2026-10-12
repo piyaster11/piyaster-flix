@@ -13,6 +13,12 @@ ROWS = [
  ("atp","Tennis – ATP Tour","เทนนิสชาย","UCY_5h5zaSwN7Or4kIJDYNXA"),
  ("wta","Tennis – WTA","เทนนิสหญิง","UCaBIVVpHjq6j3tSyxwTE-8Q"),
 ]
+GAMING = [
+ ("apex","Apex Legends","เอเพ็กซ์ เลเจนด์ส","UC0ZV6M2THA81QT9hrVWJG3A"),
+ ("diablo","Diablo","ดิอาโบล","UCxn8csYeZg6awRnZS-aqg0g"),
+ ("hype","Upcoming Hype Games","เกมที่รอคอย",["UC6VcWc1rAoWdBCM0JxrRQ3A","UCH3sMKVJ2P7hm7ROBy5FHJg","UCA5SLTAVA6unn1M-6lbo1NA"]),
+ ("new-releases","New Releases & Trailers","เกมใหม่ & ตัวอย่าง",["UC-2Y8dQb0S6DtpxNgAKoJKA","UCjBp_7RuDBUYbd1LegWEJ8g","UCGIY_O-8vW4rfX98KlMkvRg","UCKy1dAqELo0zrOtPkf0eTMw","UCbu2SsF-Or3Rsn3NxqODImw"]),
+]
 NS={"a":"http://www.w3.org/2005/Atom","yt":"http://www.youtube.com/xml/schemas/2015","m":"http://search.yahoo.com/mrss/"}
 UA={"User-Agent":"Mozilla/5.0 sports-highlights"}
 def get(url,t=20):
@@ -41,7 +47,7 @@ def row(r):
     vids=[v for v,o in zip(vids,ok) if o]
     vids.sort(key=lambda v:v["short"]); vids=vids[:24]
     return {"key":key,"name":name,"th":th,"channels":chans,"videos":vids,"skippedChannels":skipped}
-rows=[row(r) for r in ROWS]
+rows=[dict(row(r),section="sports") for r in ROWS]+[dict(row(r),section="gaming") for r in GAMING]
 out={"updated":datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
      "rows":[r for r in rows if r.get("videos")],"skipped":[r for r in rows if not r.get("videos")]}
 json.dump(out,open("data.json","w"),ensure_ascii=False,indent=1)
