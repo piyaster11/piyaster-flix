@@ -37,6 +37,11 @@ MUSIC = [
  ("game-music","Game Music","เพลงเกม",["UCMx60HYcw1ieiPlZZagfqXQ"]),
 ]
 JAPAN = [
+ ("must-watch","Must-Watch Japan","ห้ามพลาด",["UULPHL9bfHTxCMi-7vfxQ-AYtg","UULPixD9UbKvDxzGNiPC_fgHyA","UULPDJ_LbyfNiutATmIIJ48HCQ","UULPnrVURWNd7VYjlQQ0UDpOQQ","UULPuJn_2HhHRqnu3xiIukNx1Q","UULPqwxJts-6yF33rupyF_DCsA","UULPm8xNi3kuBHE99QH-N_VJVg"]),
+ ("food-adventures","Food Adventures","ตะลุยกินญี่ปุ่น",["UULPcAd5Np7fO8SeejB1FVKcYw","UULPyEd6QBSgat5kkC6svyjudA","UCcAd5Np7fO8SeejB1FVKcYw","UCyEd6QBSgat5kkC6svyjudA","UULPixD9UbKvDxzGNiPC_fgHyA","UULPDJ_LbyfNiutATmIIJ48HCQ","UULPHL9bfHTxCMi-7vfxQ-AYtg","UULPnrVURWNd7VYjlQQ0UDpOQQ","UULPqwxJts-6yF33rupyF_DCsA"],r"(?is)(?=.*\b(food|eat|eating|ramen|sushi|wagyu|beef|street food|restaurant|breakfast|lunch|dinner|seafood|fish market|izakaya|udon|bento|konbini|meals?|chef|crab|tuna|tasting)\b)(?=.*(japan|tokyo|osaka|kyoto|hokkaido|okinawa|japanese|fukuoka|kobe|sapporo|nagoya))"),
+ ("4k-walks","4K Walks","เดินชมเมือง 4K",["UULPAcsAE1tpLuP3y7UhxUoWpQ","UCAcsAE1tpLuP3y7UhxUoWpQ","UULPoXm66ArnAYGC0SCItOb2Tg","UCoXm66ArnAYGC0SCItOb2Tg"]),
+ ("hidden-towns","Hidden Towns","เมืองลับ",["UULPHL9bfHTxCMi-7vfxQ-AYtg","UULPuJn_2HhHRqnu3xiIukNx1Q","UULPqwxJts-6yF33rupyF_DCsA","UULPDJ_LbyfNiutATmIIJ48HCQ","UULPixD9UbKvDxzGNiPC_fgHyA","UULPnrVURWNd7VYjlQQ0UDpOQQ","UULPm8xNi3kuBHE99QH-N_VJVg","UCHL9bfHTxCMi-7vfxQ-AYtg","UCixD9UbKvDxzGNiPC_fgHyA","UCDJ_LbyfNiutATmIIJ48HCQ","UCnrVURWNd7VYjlQQ0UDpOQQ","UCqwxJts-6yF33rupyF_DCsA","UCm8xNi3kuBHE99QH-N_VJVg","UULPAcsAE1tpLuP3y7UhxUoWpQ","UCAcsAE1tpLuP3y7UhxUoWpQ","UULPoXm66ArnAYGC0SCItOb2Tg","UCoXm66ArnAYGC0SCItOb2Tg","UCfFrsS14viloVm1dKqHSoxQ","UCAF3bpYrvw_3RIkZ3OUnMNA"],r"(?i)\b(town|village|rural|countryside|inaka|island|hidden|remote|onsen|hot spring|deserted|ghost town|forgotten|middle of nowhere|least visited|ryokan|inn)\b"),
+ ("wild-japan","Wild Japan / Nature","ธรรมชาติญี่ปุ่น",["UULPAcsAE1tpLuP3y7UhxUoWpQ","UULPHL9bfHTxCMi-7vfxQ-AYtg","UULPuJn_2HhHRqnu3xiIukNx1Q","UULPqwxJts-6yF33rupyF_DCsA","UULPDJ_LbyfNiutATmIIJ48HCQ","UULPixD9UbKvDxzGNiPC_fgHyA","UULPnrVURWNd7VYjlQQ0UDpOQQ","UULPoXm66ArnAYGC0SCItOb2Tg","UULPm8xNi3kuBHE99QH-N_VJVg","UCHL9bfHTxCMi-7vfxQ-AYtg","UCixD9UbKvDxzGNiPC_fgHyA","UCDJ_LbyfNiutATmIIJ48HCQ","UCnrVURWNd7VYjlQQ0UDpOQQ","UCqwxJts-6yF33rupyF_DCsA","UCm8xNi3kuBHE99QH-N_VJVg","UULPAcsAE1tpLuP3y7UhxUoWpQ","UCAcsAE1tpLuP3y7UhxUoWpQ","UULPoXm66ArnAYGC0SCItOb2Tg","UCoXm66ArnAYGC0SCItOb2Tg","UCfFrsS14viloVm1dKqHSoxQ","UCAF3bpYrvw_3RIkZ3OUnMNA"],r"(?i)\b(forest|mountains?|snow|fuji|nature|bears?|deer|monkeys?|volcano|hike|hiking|camping|beach|wild|wildlife|cherry blossoms?|sakura|autumn leaves|river|cave|waterfall|hot spring|onsen|island|aokigahara)\b"),
  ("hidden-gems","Hidden Gems","ที่เที่ยวลับ",["UCHL9bfHTxCMi-7vfxQ-AYtg","UCixD9UbKvDxzGNiPC_fgHyA","UCDJ_LbyfNiutATmIIJ48HCQ","UCAF3bpYrvw_3RIkZ3OUnMNA","UCfFrsS14viloVm1dKqHSoxQ","UCnrVURWNd7VYjlQQ0UDpOQQ"]),
  ("tips","Tips & Tricks","เคล็ดลับเที่ยวญี่ปุ่น",["UCfFrsS14viloVm1dKqHSoxQ"]),
  ("learn-japanese","Learn Japanese","เรียนภาษาญี่ปุ่น",["UC0ox9NuTHYeRys63yZpBFuA","UCdZHET-9_Comx6UaVTSETiQ"]),
@@ -44,7 +49,7 @@ JAPAN = [
  ("pokemon-japan","Pokémon in Japan","โปเกมอนในญี่ปุ่น",["UC_SI1j1d8vJo_rYMV5o_dRg"]),
 ]
 FLOOR_EXTRA={"global":2000000,"pop":300000,"hiphop":200000,"kpop":300000,"jpop":100000,"thaipop":10000,"edm":50000,"rock":50000,"rnb":200000,
- "anime-music":20000,"game-music":5000,"hidden-gems":50000,"tips":0,"learn-japanese":1000,"gaming-japan":20000,"anime-spots":0,"pokemon-japan":10000}
+ "anime-music":20000,"game-music":5000,"must-watch":1000000,"food-adventures":300000,"4k-walks":300000,"hidden-towns":300000,"wild-japan":300000,"hidden-gems":50000,"tips":0,"learn-japanese":1000,"gaming-japan":20000,"anime-spots":0,"pokemon-japan":10000}
 # Minimum views per row (absolute floor). Rows keep at least MIN_KEEP videos: if too few pass, the next most-viewed fill in.
 FLOOR={"premier-league":50000,"laliga":10000,"ucl":20000,"nba":10000,"f1":50000,"boxing":20000,"golf":50000,"ufc":5000,
  "atp":3000,"wta":3000,"apex":30000,"diablo":10000,"hype":100000,"dota2":10000,"final-fantasy":10000,"pokemon-go":30000,"pokemon":20000,"new-releases":100000}
@@ -63,8 +68,9 @@ def feed(cid):
     if cid not in _C: _C[cid]=_feed(cid)
     return _C[cid][0],[dict(v) for v in _C[cid][1]]
 def _feed(cid):
-    _,body=get(f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}")
-    root=ET.fromstring(body); ch=root.findtext("a:title",namespaces=NS); vids=[]
+    q=f"playlist_id={cid}" if cid.startswith(("UULP","UULF","PL")) else f"channel_id={cid}"
+    _,body=get(f"https://www.youtube.com/feeds/videos.xml?{q}")
+    root=ET.fromstring(body); ch=root.findtext("a:author/a:name",namespaces=NS) if cid.startswith(("UULP","UULF","PL")) else root.findtext("a:title",namespaces=NS); vids=[]
     for e in root.findall("a:entry",NS):
         vid=e.findtext("yt:videoId",namespaces=NS); link=e.find("a:link",NS).get("href","")
         vids.append({"id":vid,"title":e.findtext("a:title",namespaces=NS),"published":e.findtext("a:published",namespaces=NS),

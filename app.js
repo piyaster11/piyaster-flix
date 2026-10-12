@@ -5,7 +5,7 @@ function play(v){$('#player').src=`https://www.youtube-nocookie.com/embed/${v.id
 function close(){$('#modal').hidden=true;$('#player').src=''}
 $('#close').onclick=close;$('#modal').onclick=e=>{if(e.target.id==='modal')close()};document.onkeydown=e=>{if(e.key==='Escape')close()};
 const get=u=>fetch(u+'?'+Date.now()).then(r=>r.json()).catch(()=>null);
-let D,W={rows:{}},B,P,Q,J,MM=[];
+let D,W={rows:{}},B,P,Q,J,MM=[],MCATS=[];
 const dayIdx=n=>{const d=new Date();const k=Math.floor(Date.UTC(d.getFullYear(),d.getMonth(),d.getDate())/864e5);return k%n};
 function weekly(key){const w=W.rows[key];if(!w)return null;const b=document.createElement('div');b.className='wk';
  b.innerHTML=`<div><b>This week · สัปดาห์นี้</b><ul>${w.week.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></div><div><b>What to watch out for · ต้องจับตา</b><ul>${w.watch.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></div><div class="src"><a href="${esc(w.src)}" target="_blank" rel="noopener">Source</a> · updated ${esc(W.updated)}</div>`;return b}
@@ -37,7 +37,8 @@ function render(sec){
   const rs=D.rows.filter(r=>(r.section||'sports')===sec);
   if(sec==='japan'){
    const p=P.phrases[dayIdx(P.phrases.length)];
-   hero({tag:'Japanese phrase of the day · วลีญี่ปุ่นประจำวัน',title:p.jp,meta:`${p.romaji} — ${p.en}`,extra:`<p class="th">🇹🇭 ${esc(p.th)}</p><p class="ex">${esc(p.example)}</p>`,text:1,bg:'linear-gradient(135deg,#3a0610,#141414)'});
+   const mw=(rs.find(r=>r.key==='must-watch')||rs[0]).videos[0];
+   hero({tag:'🔥 Must-watch Japan · ห้ามพลาด',title:mw.title,meta:`${mw.channel} · ${fmt(mw.views)} views`,v:mw,bg:`linear-gradient(90deg,#000d 30%,#0000),url(https://i.ytimg.com/vi/${mw.id}/maxresdefault.jpg),url(${mw.thumb})`,extra:`<div class="phrase"><span class="pt">Phrase of the day · วลีประจำวัน</span><b>${esc(p.jp)}</b> <i>${esc(p.romaji)}</i><br>${esc(p.en)} · 🇹🇭 ${esc(p.th)}<br><span class="ex">${esc(p.example)}</span></div>`});
   } else {
    const all=rs.flatMap(r=>r.videos.filter(v=>!v.short).map(v=>({...v,row:r.name}))).sort((a,b)=>b.published.localeCompare(a.published));
    const h=all[0]||rs[0].videos[0];
@@ -58,14 +59,14 @@ function render(sec){
 const TABS=['sports','gaming','music','japan','books','memes'];
 const sec=()=>{const h=location.hash.slice(1);return TABS.includes(h)?h:'sports'};
 window.onhashchange=()=>D&&render(sec());
-Promise.all([get('data.json'),get('weekly.json'),get('books.json'),get('phrases.json'),get('quotes.json'),get('japan.json'),get('memes.json')]).then(([d,w,b,p,q,j,mm])=>{D=d;W=w||{rows:{}};B=b;P=p;Q=q;J=j;MM=(mm||[]).sort((x,y)=>x.rank-y.rank);$('#upd').textContent='Videos updated '+new Date(d.updated).toLocaleString();render(sec())});
+Promise.all([get('data.json'),get('weekly.json'),get('books.json'),get('phrases.json'),get('quotes.json'),get('japan.json'),get('memes.json')]).then(([d,w,b,p,q,j,mm])=>{D=d;W=w||{rows:{}};B=b;P=p;Q=q;J=j;MCATS=(mm&&mm.categories)||[];MM=((mm&&mm.memes)||mm||[]).sort((x,y)=>x.rank-y.rank);$('#upd').textContent='Videos updated '+new Date(d.updated).toLocaleString();render(sec())});
 
 // ---------- Memes ----------
 const OCC=[['work','Work · งาน'],['monday','Monday · วันจันทร์'],['friday','Friday · วันศุกร์'],['payday','Payday · เงินเดือนออก'],['broke','Broke · เงินหมด'],['birthday','Birthday · วันเกิด'],['thanks','Thanks · ขอบคุณ'],['sorry','Sorry · ขอโทษ'],['love','Love · รัก'],['food','Food · หิว'],['sad','Sad · เศร้า'],['happy','Happy · ดีใจ'],['shocked','Shocked · ตกใจ'],['agree','Agree · เห็นด้วย'],['disagree','Disagree · ไม่เห็นด้วย'],['no','No · ไม่'],['songkran','Songkran · สงกรานต์'],['newyear','New Year · ปีใหม่'],['loykrathong','Loy Krathong · ลอยกระทง']];
 const SYN={happy:['ดีใจ','สุข','yay','happy'],sad:['เศร้า','อกหัก','ร้องไห้','sad','cry'],work:['งาน','office','ออฟฟิศ','ทำงาน','boss','หัวหน้า','meeting','ประชุม','deadline','เดดไลน์'],monday:['วันจันทร์','จันทร์','monday'],payday:['เงินเดือนออก','เงินเดือน','salary','payday','money'],friday:['วันศุกร์','ศุกร์','weekend','friday'],birthday:['วันเกิด','hbd','birthday'],thanks:['ขอบคุณ','thank','thx'],sorry:['ขอโทษ','sorry','โทษที'],reply:['ตอบแชท','reply','chat','แชท','line','ไลน์'],food:['หิว','อาหาร','กิน','food','hungry'],love:['รัก','แฟน','love','crush'],broke:['เงินหมด','จน','broke','ไม่มีเงิน'],shocked:['ตกใจ','อึ้ง','shock','wow','omg'],agree:['เห็นด้วย','ใช่','agree','yes','same'],no:['ไม่','no','nope'],disagree:['ไม่เห็นด้วย','disagree','เถียง']};
 let memeQ='',memeOcc=null,fav=new Set(JSON.parse(localStorage.favs||'[]'));
 const expand=q=>{q=q.toLowerCase().trim();if(!q)return[];let k=[q];for(const[a,v]of Object.entries(SYN))if(a.includes(q)||v.some(w=>w.includes(q)||q.includes(w)))k.push(a,...v);return k};
-const hay=m=>(m.name+' '+(m.name_th||'')+' '+m.tags.join(' ')+' '+m.occasions.join(' ')).toLowerCase();
+const hay=m=>(m.name+' '+(m.name_th||'')+' '+m.tags.join(' ')+' '+m.occasions.join(' ')+' '+(m.category||'')).toLowerCase();
 function toast(t){const e=$('#toast');e.textContent=t;e.style.display='block';clearTimeout(e._t);e._t=setTimeout(()=>e.style.display='none',1800)}
 const mblob=async m=>(await fetch(m.img)).blob();
 async function msave(m){try{const b=await mblob(m),f=new File([b],m.id+'.jpg',{type:b.type||'image/jpeg'});if(navigator.canShare&&navigator.canShare({files:[f]})){await navigator.share({files:[f],title:m.name});return}}catch(e){if(e.name==='AbortError')return}
@@ -77,19 +78,19 @@ function macts(m){const d=document.createElement('div');d.className='acts';const
 function mopen(m){$('#mvi').src=m.img;$('#mvn').textContent=m.name+(m.caption_original?' · '+m.caption_original:'');$('#mva').replaceWith(Object.assign(macts(m),{id:'mva'}));$('#mv').hidden=false}
 $('#mvx').onclick=()=>$('#mv').hidden=true;$('#mv').onclick=e=>{if(e.target.id==='mv')$('#mv').hidden=true};
 function mcard(m){const c=document.createElement('div');c.className='card mcard'+(m.ratio==='1:1'?' sq':'');
- c.innerHTML=`${m.ratio==='1:1'?'<span class="badge">1:1</span>':''}<img loading="lazy" src="${m.img}" alt="${esc(m.name)}"><div class="t"><b>${esc(m.name)}</b><br><span class="m">${m.occasions.map(o=>'#'+o).join(' ')}</span></div>`;
+ c.innerHTML=`${m.ratio==='1:1'?'<span class="badge">1:1</span>':''}<img loading="lazy" src="${m.img}" alt="${esc(m.name)}"><div class="t"><b>${esc(m.name)}</b><br><span class="m">${esc((MCATS.find(c=>c.key===m.category)||{}).name||'')}${m.occasions.length?' · '+m.occasions.filter(o=>o!=='reply').slice(0,3).map(o=>'#'+o).join(' '):''}</span></div>`;
  c.querySelector('img').onclick=()=>mopen(m);c.append(macts(m));return c}
 function mrow(key,name,th,list){if(!list.length)return null;const s=section(key,name,th),t=s.querySelector('.track');list.forEach(m=>t.appendChild(mcard(m)));return s}
 function memes(add,links){
  hero({tag:'Meme library · คลังมีม',title:'Find the perfect meme',meta:`${MM.length} memes · tap Save to keep it on your phone`,text:1,bg:'linear-gradient(135deg,#2a0a0a,#141414)',
-  extra:`<input id="mq" type="search" placeholder="Search memes… ค้นหามีม (เช่น เงินเดือนออก, monday)" value="${esc(memeQ)}"><div class="chips">${OCC.map(([k,l])=>`<button data-o="${k}" class="${memeOcc===k?'on':''}">${l}</button>`).join('')}</div><p class="ex">📱 iPhone: tap <b>Save</b> → “Save Image”. Or long-press an image → “Save to Photos”. · กด “บันทึก” หรือกดค้างที่รูป</p>`});
+  extra:`<input id="mq" type="search" placeholder="Search memes… ค้นหามีม (เช่น เงินเดือนออก, monday, แมว)" value="${esc(memeQ)}"><div class="chips">${MCATS.map(c=>`<button data-o="${c.key}" class="${memeOcc===c.key?'on':''}">${esc(c.name)} · ${esc(c.th)}</button>`).join('')}</div><p class="ex">Thai occasions (Songkran, Loy Krathong, Payday, Monday…) work in search · ค้นหาตามเทศกาลได้ · 📱 iPhone: tap <b>Save</b> → “Save Image”.</p>`});
  const mq=$('#mq');mq.oninput=()=>{memeQ=mq.value;draw()};document.querySelectorAll('.chips button').forEach(b=>b.onclick=()=>{memeOcc=memeOcc===b.dataset.o?null:b.dataset.o;document.querySelectorAll('.chips button').forEach(x=>x.classList.toggle('on',x.dataset.o===memeOcc));draw()});
  const box=document.createElement('div');$('#rows').appendChild(box);
  function draw(){box.innerHTML='';const keys=expand(memeQ);
-  if(memeQ||memeOcc){const L=MM.filter(m=>(!memeOcc||m.occasions.includes(memeOcc))&&(!keys.length||keys.some(k=>hay(m).includes(k))));
-   const s=section('results',`Results · ผลลัพธ์ (${L.length})`,'');s.querySelector('.track').className='mgrid';L.forEach(m=>s.querySelector('.mgrid').appendChild(mcard(m)));if(!L.length)s.append('No memes found · ไม่พบมีม');box.appendChild(s);return}
-  const R=[mrow('m-reply','💬 Reply memes','มีมตอบแชท (1:1 for LINE)',MM.filter(m=>m.type==='reply')),mrow('m-top','🔥 Top memes','มีมยอดนิยม',MM.filter(m=>m.type!=='reply').slice(0,20)),mrow('m-fav','❤️ Favorites','ที่ชอบ',MM.filter(m=>fav.has(m.id)))];
-  OCC.forEach(([k,l])=>R.push(mrow('m-'+k,l.split(' · ')[0],l.split(' · ')[1],MM.filter(m=>m.occasions.includes(k)&&m.type!=='reply'))));
-  R.forEach(r=>r&&box.appendChild(r))}
- draw();links.push(['m-reply','Reply'],['m-top','Top'],['m-fav','Favorites']);
+  if(memeQ||memeOcc){const L=MM.filter(m=>(!memeOcc||m.category===memeOcc)&&(!keys.length||keys.some(k=>hay(m).includes(k))));
+   const c=MCATS.find(c=>c.key===memeOcc);const s=section('results',`${c?c.name+' · ':''}Results · ผลลัพธ์ (${L.length})`,'');s.querySelector('.track').className='mgrid';L.forEach(m=>s.querySelector('.mgrid').appendChild(mcard(m)));if(!L.length)s.append('No memes found · ไม่พบมีม');box.appendChild(s);return}
+  const R=[mrow('m-top','🔥 Top memes','มีมยอดนิยม',MM.filter(m=>m.type!=='reply').slice(0,24)),mrow('m-fav','❤️ Favorites','ที่ชอบ',MM.filter(m=>fav.has(m.id)))];
+  MCATS.forEach(c=>R.push(mrow('m-'+c.key,c.name,c.th,MM.filter(m=>m.category===c.key).slice(0,40))));
+  R.forEach(r=>{if(!r)return;const k=r.id.slice(2),c=MCATS.find(x=>x.key===k);if(c){const n=MM.filter(m=>m.category===k).length;if(n>40){const b=document.createElement('button');b.className='seeall';b.textContent=`See all ${n} · ดูทั้งหมด`;b.onclick=()=>{memeOcc=k;document.querySelectorAll('.chips button').forEach(x=>x.classList.toggle('on',x.dataset.o===k));draw();window.scrollTo(0,0)};r.querySelector('h2').append(b)}}box.appendChild(r)})}
+ draw();links.push(['m-top','Top'],['m-reply','Reply'],['m-fav','Favorites']);
 }
