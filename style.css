@@ -33,3 +33,10 @@ footer{color:#777;font-size:12px;padding:30px 4%}
 .nocover{aspect-ratio:2/3;display:flex;align-items:center;justify-content:center;text-align:center;padding:10px;background:linear-gradient(135deg,#e50914,#3a0610);font-weight:700}
 .src1{display:block}
 @media(max-width:600px){.tabs a{padding:4px 7px;font-size:12px}.logo{font-size:16px}}
+#mq{width:100%;max-width:560px;padding:12px 14px;border-radius:4px;border:0;font-size:16px;margin:10px 0;background:#fff;color:#000}
+.chips{display:flex;gap:6px;flex-wrap:wrap;max-width:900px}.chips button{background:#333;color:#ddd;border:0;border-radius:14px;padding:5px 10px;font-size:12px;cursor:pointer}.chips button.on{background:#e50914;color:#fff}
+.mcard{flex-basis:clamp(160px,18vw,230px);cursor:default}.mcard img{aspect-ratio:auto;max-height:230px;object-fit:contain;background:#000;cursor:pointer}.mcard.sq img{aspect-ratio:1/1}
+.acts{display:flex;gap:4px;padding:0 8px 8px}.acts button{flex:1;background:#e50914;color:#fff;border:0;border-radius:3px;padding:7px 4px;font-size:12px;cursor:pointer}.acts .fav{flex:0 0 40px;background:#333}
+.mgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:10px;padding:10px 4%}.mgrid .mcard:hover{transform:none}
+.mvb{text-align:center;padding-top:40px}.mvb img{max-width:100%;max-height:65vh}.mvb .acts{max-width:420px;margin:0 auto}
+#toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:#e50914;color:#fff;padding:8px 14px;border-radius:20px;display:none;z-index:20}
