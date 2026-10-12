@@ -1,0 +1,842 @@
+{
+ "rows": [
+  {
+   "key": "scifi",
+   "name": "Sci-Fi",
+   "th": "ไซไฟ",
+   "books": [
+    {
+     "title": "Dune",
+     "author": "Frank Herbert",
+     "line": "Feuding houses fight over a desert planet that holds the universe's most valuable spice.",
+     "year": 1965,
+     "url": "https://openlibrary.org/works/OL893414W",
+     "goodreads": "https://www.goodreads.com/search?q=Dune%20Frank%20Herbert",
+     "cover": "https://covers.openlibrary.org/b/id/11481354-M.jpg",
+     "rating": 4.3,
+     "ratingCount": 448,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Neuromancer",
+     "author": "William Gibson",
+     "line": "A burned-out hacker gets one last job in a dark, wired future. The book that started cyberpunk.",
+     "year": 1984,
+     "url": "https://openlibrary.org/works/OL27258W",
+     "goodreads": "https://www.goodreads.com/search?q=Neuromancer%20William%20Gibson",
+     "cover": "https://covers.openlibrary.org/b/id/283860-M.jpg",
+     "rating": 4.1,
+     "ratingCount": 81,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Foundation",
+     "author": "Isaac Asimov",
+     "line": "A scientist predicts the fall of a galactic empire and plans how to shorten the dark age after it.",
+     "year": 1951,
+     "url": "https://openlibrary.org/works/OL46125W",
+     "goodreads": "https://www.goodreads.com/search?q=Foundation%20Isaac%20Asimov",
+     "cover": "https://covers.openlibrary.org/b/id/14612610-M.jpg",
+     "rating": 4.1,
+     "ratingCount": 308,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Ender's Game",
+     "author": "Orson Scott Card",
+     "line": "A gifted child is trained in space war games to fight an alien enemy.",
+     "year": 1985,
+     "url": "https://openlibrary.org/works/OL49488W",
+     "goodreads": "https://www.goodreads.com/search?q=Ender%27s%20Game%20Orson%20Scott%20Card",
+     "cover": "https://covers.openlibrary.org/b/id/12996033-M.jpg",
+     "rating": 4.4,
+     "ratingCount": 417,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "The Martian",
+     "author": "Andy Weir",
+     "line": "An astronaut left alone on Mars uses science and humor to survive.",
+     "year": 2011,
+     "url": "https://openlibrary.org/works/OL17091839W",
+     "goodreads": "https://www.goodreads.com/search?q=The%20Martian%20Andy%20Weir",
+     "cover": "https://covers.openlibrary.org/b/id/11447888-M.jpg",
+     "rating": 4.4,
+     "ratingCount": 337,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Project Hail Mary",
+     "author": "Andy Weir",
+     "line": "A lone astronaut wakes up far from Earth with a mission to save it.",
+     "year": 2021,
+     "url": "https://openlibrary.org/works/OL21745884W",
+     "goodreads": "https://www.goodreads.com/search?q=Project%20Hail%20Mary%20Andy%20Weir",
+     "cover": "https://covers.openlibrary.org/b/id/11200092-M.jpg",
+     "rating": 4.5,
+     "ratingCount": 184,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Hyperion",
+     "author": "Dan Simmons",
+     "line": "Seven pilgrims tell their stories on the way to a feared, time-twisting creature.",
+     "year": 1989,
+     "url": "https://openlibrary.org/works/OL1963268W",
+     "goodreads": "https://www.goodreads.com/search?q=Hyperion%20Dan%20Simmons",
+     "cover": "https://covers.openlibrary.org/b/id/380332-M.jpg",
+     "rating": 4.2,
+     "ratingCount": 156,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "The Three-Body Problem",
+     "author": "Liu Cixin",
+     "line": "A secret project contacts an alien world, with huge results for humanity.",
+     "year": 2008,
+     "url": "https://openlibrary.org/works/OL17267881W",
+     "goodreads": "https://www.goodreads.com/search?q=The%20Three-Body%20Problem%20Liu%20Cixin",
+     "cover": "https://covers.openlibrary.org/b/id/9157544-M.jpg",
+     "rating": 3.9,
+     "ratingCount": 219,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Snow Crash",
+     "author": "Neal Stephenson",
+     "line": "A pizza-delivering hacker fights a digital virus in a corporate-run America.",
+     "year": 1992,
+     "url": "https://openlibrary.org/works/OL38501W",
+     "goodreads": "https://www.goodreads.com/search?q=Snow%20Crash%20Neal%20Stephenson",
+     "cover": "https://covers.openlibrary.org/b/id/392508-M.jpg",
+     "rating": 4.1,
+     "ratingCount": 200,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Children of Time",
+     "author": "Adrian Tchaikovsky",
+     "line": "The last humans meet a planet where evolved spiders built their own civilization.",
+     "year": 2015,
+     "url": "https://openlibrary.org/works/OL17373843W",
+     "goodreads": "https://www.goodreads.com/search?q=Children%20of%20Time%20Adrian%20Tchaikovsky",
+     "cover": "https://covers.openlibrary.org/b/id/8264706-M.jpg",
+     "rating": 4.2,
+     "ratingCount": 76,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "The Left Hand of Darkness",
+     "author": "Ursula K. Le Guin",
+     "line": "An envoy visits an icy world whose people have no fixed gender.",
+     "year": 1969,
+     "url": "https://openlibrary.org/works/OL59800W",
+     "goodreads": "https://www.goodreads.com/search?q=The%20Left%20Hand%20of%20Darkness%20Ursula%20K.%20Le%20Guin",
+     "cover": "https://covers.openlibrary.org/b/id/10618463-M.jpg",
+     "rating": 4.3,
+     "ratingCount": 56,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Fahrenheit 451",
+     "author": "Ray Bradbury",
+     "line": "A fireman whose job is burning books starts to question his world.",
+     "year": 1953,
+     "url": "https://openlibrary.org/works/OL103123W",
+     "goodreads": "https://www.goodreads.com/search?q=Fahrenheit%20451%20Ray%20Bradbury",
+     "cover": "https://covers.openlibrary.org/b/id/12993656-M.jpg",
+     "rating": 4.0,
+     "ratingCount": 452,
+     "ratingSource": "Open Library"
+    }
+   ]
+  },
+  {
+   "key": "thriller",
+   "name": "Thriller",
+   "th": "ระทึกขวัญ",
+   "books": [
+    {
+     "title": "The Silence of the Lambs",
+     "author": "Thomas Harris",
+     "line": "A young FBI trainee asks the jailed Dr. Hannibal Lecter for help catching a killer.",
+     "year": 1988,
+     "url": "https://openlibrary.org/works/OL23481W",
+     "goodreads": "https://www.goodreads.com/search?q=The%20Silence%20of%20the%20Lambs%20Thomas%20Harris",
+     "cover": "https://covers.openlibrary.org/b/id/8580475-M.jpg",
+     "rating": 4.2,
+     "ratingCount": 52,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Red Dragon",
+     "author": "Thomas Harris",
+     "line": "An FBI profiler hunts a serial killer, with Hannibal Lecter's dangerous help.",
+     "year": 1981,
+     "url": "https://openlibrary.org/works/OL23480W",
+     "goodreads": "https://www.goodreads.com/search?q=Red%20Dragon%20Thomas%20Harris",
+     "cover": "https://covers.openlibrary.org/b/id/6997898-M.jpg",
+     "rating": 4.3,
+     "ratingCount": 36,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Gone Girl",
+     "author": "Gillian Flynn",
+     "line": "A wife disappears on her anniversary, and her husband becomes the suspect.",
+     "year": 2011,
+     "url": "https://openlibrary.org/works/OL16239762W",
+     "goodreads": "https://www.goodreads.com/search?q=Gone%20Girl%20Gillian%20Flynn",
+     "cover": "https://covers.openlibrary.org/b/id/8368314-M.jpg",
+     "rating": 3.8,
+     "ratingCount": 76,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "The Girl with the Dragon Tattoo",
+     "author": "Stieg Larsson",
+     "line": "A journalist and a hacker dig into a decades-old disappearance.",
+     "year": 2005,
+     "url": "https://openlibrary.org/works/OL5784622W",
+     "goodreads": "https://www.goodreads.com/search?q=The%20Girl%20with%20the%20Dragon%20Tattoo%20Stieg%20Larsson",
+     "cover": "https://covers.openlibrary.org/b/id/9274740-M.jpg",
+     "rating": 4.1,
+     "ratingCount": 107,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Jurassic Park",
+     "author": "Michael Crichton",
+     "line": "Cloned dinosaurs, a theme park, and everything going wrong.",
+     "year": 1990,
+     "url": "https://openlibrary.org/works/OL46881W",
+     "goodreads": "https://www.goodreads.com/search?q=Jurassic%20Park%20Michael%20Crichton",
+     "cover": "https://covers.openlibrary.org/b/id/12882940-M.jpg",
+     "rating": 4.2,
+     "ratingCount": 203,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "The Bourne Identity",
+     "author": "Robert Ludlum",
+     "line": "A man with no memory finds he is being hunted by assassins.",
+     "year": 1980,
+     "url": "https://openlibrary.org/works/OL2664916W",
+     "goodreads": "https://www.goodreads.com/search?q=The%20Bourne%20Identity%20Robert%20Ludlum",
+     "cover": "https://covers.openlibrary.org/b/id/499340-M.jpg"
+    },
+    {
+     "title": "The Day of the Jackal",
+     "author": "Frederick Forsyth",
+     "line": "A hired assassin plots to kill the French president.",
+     "year": 1971,
+     "url": "https://openlibrary.org/works/OL7923819W",
+     "goodreads": "https://www.goodreads.com/search?q=The%20Day%20of%20the%20Jackal%20Frederick%20Forsyth",
+     "cover": "https://covers.openlibrary.org/b/id/77394-M.jpg"
+    },
+    {
+     "title": "The Hunt for Red October",
+     "author": "Tom Clancy",
+     "line": "A Soviet submarine captain tries to defect with his secret new sub.",
+     "year": 1984,
+     "url": "https://openlibrary.org/works/OL159452W",
+     "goodreads": "https://www.goodreads.com/search?q=The%20Hunt%20for%20Red%20October%20Tom%20Clancy",
+     "cover": "https://covers.openlibrary.org/b/id/683604-M.jpg",
+     "rating": 3.9,
+     "ratingCount": 55,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Rebecca",
+     "author": "Daphne du Maurier",
+     "line": "A new wife lives in the shadow of her husband's first wife.",
+     "year": 1938,
+     "url": "https://openlibrary.org/works/OL36633W",
+     "goodreads": "https://www.goodreads.com/search?q=Rebecca%20Daphne%20du%20Maurier",
+     "cover": "https://covers.openlibrary.org/b/id/8238729-M.jpg",
+     "rating": 4.2,
+     "ratingCount": 53,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "The Da Vinci Code",
+     "author": "Dan Brown",
+     "line": "A symbologist follows clues hidden in famous art after a murder at the Louvre.",
+     "year": 2003,
+     "url": "https://openlibrary.org/works/OL76837W",
+     "goodreads": "https://www.goodreads.com/search?q=The%20Da%20Vinci%20Code%20Dan%20Brown",
+     "cover": "https://covers.openlibrary.org/b/id/9255229-M.jpg",
+     "rating": 3.9,
+     "ratingCount": 194,
+     "ratingSource": "Open Library"
+    }
+   ]
+  },
+  {
+   "key": "timetravel",
+   "name": "Time Travel",
+   "th": "ย้อนเวลา",
+   "books": [
+    {
+     "title": "The Time Machine",
+     "author": "H. G. Wells",
+     "line": "A Victorian inventor travels to the far future. The classic that started it.",
+     "year": 1895,
+     "url": "https://openlibrary.org/works/OL52267W",
+     "goodreads": "https://www.goodreads.com/search?q=The%20Time%20Machine%20H.%20G.%20Wells",
+     "cover": "https://covers.openlibrary.org/b/id/9009316-M.jpg",
+     "rating": 4.0,
+     "ratingCount": 131,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "11/22/63",
+     "author": "Stephen King",
+     "line": "A teacher goes back in time to try to stop the JFK assassination.",
+     "year": 1925,
+     "url": "https://openlibrary.org/works/OL16002468W",
+     "goodreads": "https://www.goodreads.com/search?q=11/22/63%20Stephen%20King",
+     "cover": "https://covers.openlibrary.org/b/id/10713447-M.jpg",
+     "rating": 4.1,
+     "ratingCount": 116,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Kindred",
+     "author": "Octavia E. Butler",
+     "line": "A modern Black woman is pulled back to a slave plantation in the 1800s.",
+     "year": 1979,
+     "url": "https://openlibrary.org/works/OL35616W",
+     "goodreads": "https://www.goodreads.com/search?q=Kindred%20Octavia%20E.%20Butler",
+     "cover": "https://covers.openlibrary.org/b/id/8745330-M.jpg",
+     "rating": 4.4,
+     "ratingCount": 51,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "The Time Traveler's Wife",
+     "author": "Audrey Niffenegger",
+     "line": "A love story with a man who slips through time without control.",
+     "year": 2003,
+     "url": "https://openlibrary.org/works/OL4720160W",
+     "goodreads": "https://www.goodreads.com/search?q=The%20Time%20Traveler%27s%20Wife%20Audrey%20Niffenegger",
+     "cover": "https://covers.openlibrary.org/b/id/9273734-M.jpg",
+     "rating": 4.0,
+     "ratingCount": 57,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Replay",
+     "author": "Ken Grimwood",
+     "line": "A man dies and wakes up in his younger body, again and again.",
+     "year": 1986,
+     "url": "https://openlibrary.org/works/OL2252098W",
+     "goodreads": "https://www.goodreads.com/search?q=Replay%20Ken%20Grimwood",
+     "cover": "https://covers.openlibrary.org/b/id/432217-M.jpg",
+     "rating": 4.3,
+     "ratingCount": 26,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Timeline",
+     "author": "Michael Crichton",
+     "line": "Historians travel to 14th-century France to rescue their professor.",
+     "year": 1999,
+     "url": "https://openlibrary.org/works/OL46884W",
+     "goodreads": "https://www.goodreads.com/search?q=Timeline%20Michael%20Crichton",
+     "cover": "https://covers.openlibrary.org/b/id/12451613-M.jpg",
+     "rating": 3.5,
+     "ratingCount": 61,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Recursion",
+     "author": "Blake Crouch",
+     "line": "A detective and a scientist face a technology that lets people relive memories.",
+     "year": 2019,
+     "url": "https://openlibrary.org/works/OL20073906W",
+     "goodreads": "https://www.goodreads.com/search?q=Recursion%20Blake%20Crouch",
+     "cover": "https://covers.openlibrary.org/b/id/8748478-M.jpg",
+     "rating": 4.0,
+     "ratingCount": 83,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Slaughterhouse-Five",
+     "author": "Kurt Vonnegut",
+     "line": "A WWII soldier becomes 'unstuck in time' and lives his life out of order.",
+     "year": 1956,
+     "url": "https://openlibrary.org/works/OL98459W",
+     "goodreads": "https://www.goodreads.com/search?q=Slaughterhouse-Five%20Kurt%20Vonnegut",
+     "cover": "https://covers.openlibrary.org/b/id/12727001-M.jpg",
+     "rating": 4.2,
+     "ratingCount": 259,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "The End of Eternity",
+     "author": "Isaac Asimov",
+     "line": "An organization outside time edits history, until one of them falls in love.",
+     "year": 1955,
+     "url": "https://openlibrary.org/works/OL46108W",
+     "goodreads": "https://www.goodreads.com/search?q=The%20End%20of%20Eternity%20Isaac%20Asimov",
+     "cover": "https://covers.openlibrary.org/b/id/6622699-M.jpg"
+    },
+    {
+     "title": "All You Need Is Kill",
+     "author": "Hiroshi Sakurazaka",
+     "line": "A soldier relives the same day of battle against aliens.",
+     "year": 2004,
+     "url": "https://openlibrary.org/works/OL13683648W",
+     "goodreads": "https://www.goodreads.com/search?q=All%20You%20Need%20Is%20Kill%20Hiroshi%20Sakurazaka",
+     "cover": "https://covers.openlibrary.org/b/id/14339336-M.jpg"
+    },
+    {
+     "title": "Life After Life",
+     "author": "Kate Atkinson",
+     "line": "A woman is born again and again in 1910 and lives many versions of her life.",
+     "year": 2013,
+     "url": "https://openlibrary.org/works/OL16810448W",
+     "goodreads": "https://www.goodreads.com/search?q=Life%20After%20Life%20Kate%20Atkinson",
+     "cover": "https://covers.openlibrary.org/b/id/7268319-M.jpg"
+    }
+   ]
+  },
+  {
+   "key": "virus",
+   "name": "Virus & Pandemic",
+   "th": "ไวรัส & โรคระบาด",
+   "books": [
+    {
+     "title": "The Hot Zone",
+     "author": "Richard Preston",
+     "line": "True story of an Ebola-family virus outbreak near Washington, D.C.",
+     "year": 1994,
+     "url": "https://openlibrary.org/works/OL761342W",
+     "goodreads": "https://www.goodreads.com/search?q=The%20Hot%20Zone%20Richard%20Preston",
+     "cover": "https://covers.openlibrary.org/b/id/417976-M.jpg",
+     "rating": 4.0,
+     "ratingCount": 24,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "The Andromeda Strain",
+     "author": "Michael Crichton",
+     "line": "Scientists race to study a deadly microbe brought back by a satellite.",
+     "year": 1969,
+     "url": "https://openlibrary.org/works/OL46909W",
+     "goodreads": "https://www.goodreads.com/search?q=The%20Andromeda%20Strain%20Michael%20Crichton",
+     "cover": "https://covers.openlibrary.org/b/id/9330577-M.jpg"
+    },
+    {
+     "title": "Spillover",
+     "author": "David Quammen",
+     "line": "Non-fiction: how viruses jump from animals to people, and what comes next.",
+     "year": 2012,
+     "url": "https://openlibrary.org/works/OL19167303W",
+     "goodreads": "https://www.goodreads.com/search?q=Spillover%20David%20Quammen",
+     "cover": "https://covers.openlibrary.org/b/id/8425473-M.jpg"
+    },
+    {
+     "title": "The Demon in the Freezer",
+     "author": "Richard Preston",
+     "line": "Non-fiction: smallpox, anthrax and the labs that keep them.",
+     "year": 2002,
+     "url": "https://openlibrary.org/works/OL24320180W",
+     "goodreads": "https://www.goodreads.com/search?q=The%20Demon%20in%20the%20Freezer%20Richard%20Preston",
+     "cover": "https://covers.openlibrary.org/b/id/10838711-M.jpg"
+    },
+    {
+     "title": "The Great Influenza",
+     "author": "John M. Barry",
+     "line": "Non-fiction: the 1918 flu pandemic and the science of the time.",
+     "year": 2004,
+     "url": "https://openlibrary.org/works/OL7989229W",
+     "goodreads": "https://www.goodreads.com/search?q=The%20Great%20Influenza%20John%20M.%20Barry",
+     "cover": "https://covers.openlibrary.org/b/id/402769-M.jpg",
+     "rating": 3.9,
+     "ratingCount": 20,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "The Stand",
+     "author": "Stephen King",
+     "line": "A weaponized flu wipes out most people, and survivors take sides.",
+     "year": 1978,
+     "url": "https://openlibrary.org/works/OL81618W",
+     "goodreads": "https://www.goodreads.com/search?q=The%20Stand%20Stephen%20King",
+     "cover": "https://covers.openlibrary.org/b/id/9255992-M.jpg",
+     "rating": 4.3,
+     "ratingCount": 91,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Station Eleven",
+     "author": "Emily St. John Mandel",
+     "line": "A traveling theater troupe after a flu pandemic collapses civilization.",
+     "year": 2014,
+     "url": "https://openlibrary.org/works/OL17202418W",
+     "goodreads": "https://www.goodreads.com/search?q=Station%20Eleven%20Emily%20St.%20John%20Mandel",
+     "cover": "https://covers.openlibrary.org/b/id/7369961-M.jpg",
+     "rating": 4.1,
+     "ratingCount": 88,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "World War Z",
+     "author": "Max Brooks",
+     "line": "An oral history of a global zombie outbreak, told by survivors.",
+     "year": 2006,
+     "url": "https://openlibrary.org/works/OL5969057W",
+     "goodreads": "https://www.goodreads.com/search?q=World%20War%20Z%20Max%20Brooks",
+     "cover": "https://covers.openlibrary.org/b/id/168106-M.jpg",
+     "rating": 3.9,
+     "ratingCount": 139,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Blindness",
+     "author": "José Saramago",
+     "line": "A sudden epidemic of blindness breaks a city's society apart.",
+     "year": 1999,
+     "url": "https://openlibrary.org/works/OL16212507W",
+     "goodreads": "https://www.goodreads.com/search?q=Blindness%20Jos%C3%A9%20Saramago"
+    },
+    {
+     "title": "The Plague",
+     "author": "Albert Camus",
+     "line": "A town in Algeria is sealed off by an outbreak of plague.",
+     "year": 1942,
+     "url": "https://openlibrary.org/works/OL1230715W",
+     "goodreads": "https://www.goodreads.com/search?q=The%20Plague%20Albert%20Camus",
+     "cover": "https://covers.openlibrary.org/b/id/13151272-M.jpg",
+     "rating": 4.2,
+     "ratingCount": 38,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Severance",
+     "author": "Ling Ma",
+     "line": "A young woman keeps working in New York as a fever pandemic spreads.",
+     "year": 2018,
+     "url": "https://openlibrary.org/works/OL19748973W",
+     "goodreads": "https://www.goodreads.com/search?q=Severance%20Ling%20Ma",
+     "cover": "https://covers.openlibrary.org/b/id/10622831-M.jpg",
+     "rating": 3.8,
+     "ratingCount": 22,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Wanderers",
+     "author": "Chuck Wendig",
+     "line": "People sleepwalk across America as a mysterious illness spreads.",
+     "year": 2019,
+     "url": "https://openlibrary.org/works/OL20073919W",
+     "goodreads": "https://www.goodreads.com/search?q=Wanderers%20Chuck%20Wendig",
+     "cover": "https://covers.openlibrary.org/b/id/8748494-M.jpg"
+    }
+   ]
+  },
+  {
+   "key": "king",
+   "name": "Stephen King",
+   "th": "สตีเฟน คิง",
+   "books": [
+    {
+     "title": "It",
+     "author": "Stephen King",
+     "line": "Seven kids, and later adults, face a shape-shifting evil in their town.",
+     "year": 1986,
+     "url": "https://openlibrary.org/works/OL81613W",
+     "goodreads": "https://www.goodreads.com/search?q=It%20Stephen%20King",
+     "cover": "https://covers.openlibrary.org/b/id/8569284-M.jpg",
+     "rating": 4.1,
+     "ratingCount": 493,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "The Shining",
+     "author": "Stephen King",
+     "line": "A family winters alone in a haunted hotel, and the father starts to break.",
+     "year": 1977,
+     "url": "https://openlibrary.org/works/OL81633W",
+     "goodreads": "https://www.goodreads.com/search?q=The%20Shining%20Stephen%20King",
+     "cover": "https://covers.openlibrary.org/b/id/12376585-M.jpg",
+     "rating": 4.2,
+     "ratingCount": 288,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "The Stand",
+     "author": "Stephen King",
+     "line": "After a plague, survivors split between good and evil.",
+     "year": 1978,
+     "url": "https://openlibrary.org/works/OL81618W",
+     "goodreads": "https://www.goodreads.com/search?q=The%20Stand%20Stephen%20King",
+     "cover": "https://covers.openlibrary.org/b/id/9255992-M.jpg",
+     "rating": 4.3,
+     "ratingCount": 91,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Misery",
+     "author": "Stephen King",
+     "line": "A famous author is held captive by his 'number one fan'.",
+     "year": 1978,
+     "url": "https://openlibrary.org/works/OL81634W",
+     "goodreads": "https://www.goodreads.com/search?q=Misery%20Stephen%20King",
+     "cover": "https://covers.openlibrary.org/b/id/8259296-M.jpg",
+     "rating": 4.2,
+     "ratingCount": 146,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Pet Sematary",
+     "author": "Stephen King",
+     "line": "A burial ground that brings the dead back, but not the same.",
+     "year": 1983,
+     "url": "https://openlibrary.org/works/OL81631W",
+     "goodreads": "https://www.goodreads.com/search?q=Pet%20Sematary%20Stephen%20King",
+     "cover": "https://covers.openlibrary.org/b/id/12015500-M.jpg",
+     "rating": 4.0,
+     "ratingCount": 179,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "'Salem's Lot",
+     "author": "Stephen King",
+     "line": "A writer returns to his hometown as vampires take it over.",
+     "year": 1959,
+     "url": "https://openlibrary.org/works/OL81632W",
+     "goodreads": "https://www.goodreads.com/search?q=%27Salem%27s%20Lot%20Stephen%20King",
+     "cover": "https://covers.openlibrary.org/b/id/14654118-M.jpg",
+     "rating": 4.0,
+     "ratingCount": 99,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Carrie",
+     "author": "Stephen King",
+     "line": "A bullied teen with telekinetic powers. King's first novel.",
+     "year": 1974,
+     "url": "https://openlibrary.org/works/OL81626W",
+     "goodreads": "https://www.goodreads.com/search?q=Carrie%20Stephen%20King",
+     "cover": "https://covers.openlibrary.org/b/id/9256043-M.jpg",
+     "rating": 4.0,
+     "ratingCount": 170,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "The Gunslinger",
+     "author": "Stephen King",
+     "line": "The first Dark Tower book: a gunslinger chases the man in black.",
+     "year": 1976,
+     "url": "https://openlibrary.org/works/OL81628W",
+     "goodreads": "https://www.goodreads.com/search?q=The%20Gunslinger%20Stephen%20King",
+     "cover": "https://covers.openlibrary.org/b/id/8396638-M.jpg",
+     "rating": 4.0,
+     "ratingCount": 71,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Different Seasons",
+     "author": "Stephen King",
+     "line": "Four novellas, including the stories behind Shawshank and Stand by Me.",
+     "year": 1982,
+     "url": "https://openlibrary.org/works/OL81621W",
+     "goodreads": "https://www.goodreads.com/search?q=Different%20Seasons%20Stephen%20King",
+     "cover": "https://covers.openlibrary.org/b/id/14655761-M.jpg"
+    },
+    {
+     "title": "The Institute",
+     "author": "Stephen King",
+     "line": "Kids with special powers are taken to a secret facility.",
+     "year": 2019,
+     "url": "https://openlibrary.org/works/OL20126932W",
+     "goodreads": "https://www.goodreads.com/search?q=The%20Institute%20Stephen%20King",
+     "cover": "https://covers.openlibrary.org/b/id/10712767-M.jpg"
+    },
+    {
+     "title": "Holly",
+     "author": "Stephen King",
+     "line": "Private detective Holly Gibney investigates a missing-person case.",
+     "year": 2023,
+     "url": "https://openlibrary.org/works/OL34057778W",
+     "goodreads": "https://www.goodreads.com/search?q=Holly%20Stephen%20King",
+     "cover": "https://covers.openlibrary.org/b/id/14655773-M.jpg"
+    }
+   ]
+  },
+  {
+   "key": "ai",
+   "name": "AI & Robots",
+   "th": "เอไอ & หุ่นยนต์",
+   "books": [
+    {
+     "title": "I, Robot",
+     "author": "Isaac Asimov",
+     "line": "Short stories that introduced the Three Laws of Robotics.",
+     "year": 1950,
+     "url": "https://openlibrary.org/works/OL46241W",
+     "goodreads": "https://www.goodreads.com/search?q=I%2C%20Robot%20Isaac%20Asimov",
+     "cover": "https://covers.openlibrary.org/b/id/12385229-M.jpg",
+     "rating": 4.2,
+     "ratingCount": 190,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Do Androids Dream of Electric Sheep?",
+     "author": "Philip K. Dick",
+     "line": "A bounty hunter tracks escaped androids. Basis for Blade Runner.",
+     "year": 1968,
+     "url": "https://openlibrary.org/works/OL2172356W",
+     "goodreads": "https://www.goodreads.com/search?q=Do%20Androids%20Dream%20of%20Electric%20Sheep%3F%20Philip%20K.%20Dick",
+     "cover": "https://covers.openlibrary.org/b/id/207515-M.jpg",
+     "rating": 4.0,
+     "ratingCount": 161,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Robopocalypse",
+     "author": "Daniel H. Wilson",
+     "line": "An AI turns the world's machines against humans. Skynet vibes.",
+     "year": 2011,
+     "url": "https://openlibrary.org/works/OL15673300W",
+     "goodreads": "https://www.goodreads.com/search?q=Robopocalypse%20Daniel%20H.%20Wilson",
+     "cover": "https://covers.openlibrary.org/b/id/6891643-M.jpg"
+    },
+    {
+     "title": "Klara and the Sun",
+     "author": "Kazuo Ishiguro",
+     "line": "An AI companion watches over a sick girl and tries to understand people.",
+     "year": 2019,
+     "url": "https://openlibrary.org/works/OL20883297W",
+     "goodreads": "https://www.goodreads.com/search?q=Klara%20and%20the%20Sun%20Kazuo%20Ishiguro",
+     "cover": "https://covers.openlibrary.org/b/id/10648686-M.jpg",
+     "rating": 3.8,
+     "ratingCount": 48,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "The Moon Is a Harsh Mistress",
+     "author": "Robert A. Heinlein",
+     "line": "A self-aware computer helps a lunar colony rebel against Earth.",
+     "year": 1965,
+     "url": "https://openlibrary.org/works/OL59704W",
+     "goodreads": "https://www.goodreads.com/search?q=The%20Moon%20Is%20a%20Harsh%20Mistress%20Robert%20A.%20Heinlein",
+     "cover": "https://covers.openlibrary.org/b/id/14631258-M.jpg",
+     "rating": 4.0,
+     "ratingCount": 87,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "All Systems Red",
+     "author": "Martha Wells",
+     "line": "A security robot that hacked itself just wants to watch TV, but must protect its humans.",
+     "year": 2017,
+     "url": "https://openlibrary.org/works/OL17914663W",
+     "goodreads": "https://www.goodreads.com/search?q=All%20Systems%20Red%20Martha%20Wells",
+     "cover": "https://covers.openlibrary.org/b/id/9157148-M.jpg",
+     "rating": 4.3,
+     "ratingCount": 45,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Daemon",
+     "author": "Daniel Suarez",
+     "line": "A dead game designer's program starts taking over the world's systems.",
+     "year": 2009,
+     "url": "https://openlibrary.org/works/OL13646905W",
+     "goodreads": "https://www.goodreads.com/search?q=Daemon%20Daniel%20Suarez",
+     "cover": "https://covers.openlibrary.org/b/id/6404884-M.jpg",
+     "rating": 4.1,
+     "ratingCount": 48,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Colossus",
+     "author": "D. F. Jones",
+     "line": "A defense supercomputer takes control of the world. A Skynet ancestor.",
+     "year": 1966,
+     "url": "https://openlibrary.org/works/OL7211425W",
+     "goodreads": "https://www.goodreads.com/search?q=Colossus%20D.%20F.%20Jones",
+     "cover": "https://covers.openlibrary.org/b/id/7947965-M.jpg"
+    },
+    {
+     "title": "Never Let Me Go",
+     "author": "Kazuo Ishiguro",
+     "line": "Students at an English boarding school learn the truth about why they exist.",
+     "year": 2005,
+     "url": "https://openlibrary.org/works/OL59038W",
+     "goodreads": "https://www.goodreads.com/search?q=Never%20Let%20Me%20Go%20Kazuo%20Ishiguro",
+     "cover": "https://covers.openlibrary.org/b/id/1047334-M.jpg",
+     "rating": 3.8,
+     "ratingCount": 76,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Brave New World",
+     "author": "Aldous Huxley",
+     "line": "A future society engineered by genetics and conditioning, like Gattaca.",
+     "year": 1932,
+     "url": "https://openlibrary.org/works/OL64365W",
+     "goodreads": "https://www.goodreads.com/search?q=Brave%20New%20World%20Aldous%20Huxley",
+     "cover": "https://covers.openlibrary.org/b/id/8231823-M.jpg",
+     "rating": 4.0,
+     "ratingCount": 482,
+     "ratingSource": "Open Library"
+    },
+    {
+     "title": "Machines Like Me",
+     "author": "Ian McEwan",
+     "line": "A couple shares their life with one of the first lifelike androids.",
+     "year": 2019,
+     "url": "https://openlibrary.org/works/OL20077992W",
+     "goodreads": "https://www.goodreads.com/search?q=Machines%20Like%20Me%20Ian%20McEwan",
+     "cover": "https://covers.openlibrary.org/b/id/10541630-M.jpg"
+    }
+   ]
+  },
+  {
+   "key": "new-books",
+   "name": "New & Upcoming",
+   "th": "หนังสือใหม่",
+   "books": [
+    {
+     "title": "Other Worlds Than These",
+     "author": "Stephen King & Peter Straub",
+     "line": "Final Talisman book: Jack Sawyer returns.",
+     "release": "Oct 6, 2026",
+     "url": "https://stephenking.com/works/novel/other-worlds-than-these.html",
+     "goodreads": "https://www.goodreads.com/search?q=9781668233092",
+     "cover": "https://covers.openlibrary.org/b/isbn/9781668233092-M.jpg"
+    },
+    {
+     "title": "The Fist of Memory",
+     "author": "Wole Talabi",
+     "line": "Near-future first-contact thriller set in Nigeria.",
+     "release": "Oct 27, 2026",
+     "url": "https://www.penguinrandomhouse.com/books/688458/the-fist-of-memory-by-wole-talabi/",
+     "goodreads": "https://www.goodreads.com/search?q=9780756418243"
+    },
+    {
+     "title": "Children of Strife",
+     "author": "Adrian Tchaikovsky",
+     "line": "New book in the Children of Time series.",
+     "release": "Oct 29, 2026",
+     "url": "https://www.panmacmillan.com/authors/adrian-tchaikovsky/children-of-strife/9781035057801",
+     "goodreads": "https://www.goodreads.com/search?q=9781035057801"
+    },
+    {
+     "title": "Line of Descent",
+     "author": "Adam Oyebanji",
+     "line": "Murder mystery on a generation ship.",
+     "release": "Nov 17, 2026",
+     "url": "https://www.penguinrandomhouse.com/books/827534/line-of-descent-by-adam-oyebanji/",
+     "goodreads": "https://www.goodreads.com/search?q=9780756420222"
+    }
+   ]
+  }
+ ],
+ "skipped": []
+}

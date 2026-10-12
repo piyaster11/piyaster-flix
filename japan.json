@@ -1,0 +1,249 @@
+{
+ "updated": "2026-10-13",
+ "tips": [
+  {
+   "t": "Get an IC card (Welcome Suica)",
+   "th": "บัตร IC สำหรับนักท่องเที่ยว",
+   "d": "Tap in and out at train gates and on buses. Also works in shops and lockers. Valid 28 days, top up with cash up to ¥20,000, no refund.",
+   "src": "https://www.jreast.co.jp/en/multi/welcomesuica/welcomesuica.html"
+  },
+  {
+   "t": "iPhone? Use Welcome Suica Mobile",
+   "th": "ใช้ Suica ในมือถือ",
+   "d": "JR East's app for visitors: issue a Suica in the app and top up with Apple Pay. Works anywhere with the IC logo.",
+   "src": "https://www.jreast.co.jp/en/multi/welcomesuicamobile/howto/shop.html"
+  },
+  {
+   "t": "Japan Rail Pass: buy on the official site",
+   "th": "JR Pass ซื้อเว็บทางการถูกกว่า",
+   "d": "7-day Ordinary: ¥50,000 on japanrailpass.net vs ¥53,000 at overseas agencies (since 1 Oct 2026).",
+   "src": "https://japanrailpass.net/en/purchase/price/"
+  },
+  {
+   "t": "No tipping",
+   "th": "ไม่ต้องให้ทิป",
+   "d": "Tipping is not a custom and can confuse staff. Say 'arigatō gozaimashita' instead.",
+   "src": "https://www.japan.travel/en/responsible-travel-guide/japanese-customs-and-etiquette/"
+  },
+  {
+   "t": "Carry your trash",
+   "th": "พกขยะกลับเอง",
+   "d": "Public bins are rare. Keep trash until a station, convenience store or your hotel.",
+   "src": "https://www.japan-guide.com/e/e2009.html"
+  },
+  {
+   "t": "Don't walk on escalators",
+   "th": "ยืนนิ่งบนบันไดเลื่อน",
+   "d": "JNTO asks visitors to stand still on escalators to avoid accidents.",
+   "src": "https://www.japan.travel/en/responsible-travel-guide/japanese-customs-and-etiquette/"
+  },
+  {
+   "t": "Phone on silent on trains",
+   "th": "ปิดเสียงมือถือบนรถไฟ",
+   "d": "Keep your phone on silent and avoid calls on public transport.",
+   "src": "https://faq.japan-travel.jnto.go.jp/en/plan/custom-manners/"
+  },
+  {
+   "t": "Don't eat while walking",
+   "th": "ไม่กินไปเดินไป",
+   "d": "Seen as bad manners. Stand aside or sit down to eat.",
+   "src": "https://www.japan-guide.com/e/e2009.html"
+  },
+  {
+   "t": "Carry some cash",
+   "th": "พกเงินสดไว้บ้าง",
+   "d": "Some rural buses, taxis and ticket machines only take cash.",
+   "src": "https://www.japan.travel/en/responsible-travel-guide/japanese-customs-and-etiquette/"
+  }
+ ],
+ "gems": [
+  {
+   "n": "Oki Islands (Shimane)",
+   "th": "หมู่เกาะโอกิ",
+   "d": "UNESCO Global Geopark. Sea kayaking, snorkeling, coastal hikes.",
+   "src": "https://www.japan.travel/en/japans-local-treasures/explore-hidden-isles-oki-islands/",
+   "map": "https://www.google.com/maps/search/Oki%20Islands%20%28Shimane%29"
+  },
+  {
+   "n": "Hirosaki Castle (Aomori)",
+   "th": "ปราสาทฮิโรซากิ",
+   "d": "Famous cherry blossoms in spring; Aomori is called a hidden gem by JNTO.",
+   "src": "https://www.japan.travel/en/destinations/tohoku/aomori/",
+   "map": "https://www.google.com/maps/search/Hirosaki%20Castle%20%28Aomori%29"
+  },
+  {
+   "n": "Inakadate rice paddy art (Aomori)",
+   "th": "ศิลปะนาข้าวอินากาดาเตะ",
+   "d": "Giant pictures made from rice plants in summer.",
+   "src": "https://www.japan.travel/en/destinations/tohoku/aomori/",
+   "map": "https://www.google.com/maps/search/Inakadate%20rice%20paddy%20art%20%28Aomori%29"
+  },
+  {
+   "n": "Zao Snow Monsters (Yamagata/Miyagi)",
+   "th": "ปีศาจหิมะซาโอ",
+   "d": "Trees covered in ice and snow in winter.",
+   "src": "https://faq.japan-travel.jnto.go.jp/en/destinations/tohoku/",
+   "map": "https://www.google.com/maps/search/Zao%20Snow%20Monsters%20%28Yamagata/Miyagi%29"
+  },
+  {
+   "n": "Hiraizumi (Iwate)",
+   "th": "ฮิราอิซุมิ",
+   "d": "World Heritage temples, gardens and archaeological sites.",
+   "src": "https://faq.japan-travel.jnto.go.jp/en/destinations/tohoku/",
+   "map": "https://www.google.com/maps/search/Hiraizumi%20%28Iwate%29"
+  },
+  {
+   "n": "Matsushima (Miyagi)",
+   "th": "มัตสึชิมะ",
+   "d": "Bay of pine-covered islands, one of Japan's three most beautiful views.",
+   "src": "https://www.japan.travel/en/us/blog/video-series-japan-s-off-the-beaten-path-destinations/",
+   "map": "https://www.google.com/maps/search/Matsushima%20%28Miyagi%29"
+  },
+  {
+   "n": "Aizu-Higashiyama Onsen (Fukushima)",
+   "th": "ออนเซ็นไอสึฮิงาชิยามะ",
+   "d": "Hot spring town with its own geisha culture.",
+   "src": "https://www.japan.travel/en/us/blog/video-series-japan-s-off-the-beaten-path-destinations/",
+   "map": "https://www.google.com/maps/search/Aizu-Higashiyama%20Onsen%20%28Fukushima%29"
+  },
+  {
+   "n": "Ama diver huts (Toba, Mie)",
+   "th": "กระท่อมนักดำน้ำหญิงอามะ",
+   "d": "Eat grilled seafood with ama free-divers in their seaside huts.",
+   "src": "https://www.japan.travel/en/us/blog/video-series-japan-s-off-the-beaten-path-destinations/",
+   "map": "https://www.google.com/maps/search/Ama%20diver%20huts%20%28Toba%2C%20Mie%29"
+  },
+  {
+   "n": "Ogasawara Islands (Tokyo)",
+   "th": "หมู่เกาะโองาซาวาระ",
+   "d": "Remote Tokyo islands with unique wildlife.",
+   "src": "https://www.japan.travel/en/japans-local-treasures/",
+   "map": "https://www.google.com/maps/search/Ogasawara%20Islands%20%28Tokyo%29"
+  }
+ ],
+ "anime": [
+  {
+   "n": "Akihabara",
+   "th": "อากิฮาบาระ",
+   "d": "Center of otaku culture: anime, manga, games, themed cafes.",
+   "src": "https://www.japan.travel/en/spot/2178/",
+   "q": "Akihabara Tokyo",
+   "map": "https://www.google.com/maps/search/Akihabara%20Tokyo"
+  },
+  {
+   "n": "Akihabara Radio Kaikan",
+   "th": "อากิบะ เรดิโอ ไคคัง",
+   "d": "Building full of anime and character goods shops.",
+   "src": "https://www.gotokyo.org/en/destinations/central-tokyo/akihabara/index.html",
+   "q": "Akihabara Radio Kaikan",
+   "map": "https://www.google.com/maps/search/Akihabara%20Radio%20Kaikan"
+  },
+  {
+   "n": "Nakano Broadway",
+   "th": "นากาโนะ บรอดเวย์",
+   "d": "Retro arcade packed with Mandarake and collector shops.",
+   "src": "https://www.japan.travel/en/experiences-in-japan/3363/",
+   "q": "Nakano Broadway",
+   "map": "https://www.google.com/maps/search/Nakano%20Broadway"
+  },
+  {
+   "n": "Ghibli Museum, Mitaka",
+   "th": "พิพิธภัณฑ์จิบลิ มิตากะ",
+   "d": "Advance tickets only.",
+   "src": "https://www.ghibli-museum.jp/en/",
+   "q": "Ghibli Museum Mitaka",
+   "map": "https://www.google.com/maps/search/Ghibli%20Museum%20Mitaka"
+  },
+  {
+   "n": "Ghibli Park (Aichi)",
+   "th": "จิบลิพาร์ค",
+   "d": "Studio Ghibli park in Expo 2005 Aichi Commemorative Park.",
+   "src": "https://ghibli-park.jp/en/",
+   "q": "Ghibli Park Aichi",
+   "map": "https://www.google.com/maps/search/Ghibli%20Park%20Aichi"
+  },
+  {
+   "n": "Pokémon Center MEGA TOKYO",
+   "th": "โปเกมอนเซ็นเตอร์ เมกะ โตเกียว",
+   "d": "Sunshine City alpa 2F, Ikebukuro.",
+   "src": "https://www.pokemon.co.jp/shop/en/",
+   "q": "Pokémon Center MEGA TOKYO",
+   "map": "https://www.google.com/maps/search/Pok%C3%A9mon%20Center%20MEGA%20TOKYO"
+  }
+ ],
+ "pokemon": [
+  {
+   "n": "Pokémon Center TOKYO DX + Pokémon Cafe TOKYO",
+   "d": "Nihombashi Takashimaya S.C. East Building 5F",
+   "q": "Pokémon Center TOKYO DX",
+   "map": "https://www.google.com/maps/search/Pok%C3%A9mon%20Center%20TOKYO%20DX"
+  },
+  {
+   "n": "Pokémon Center MEGA TOKYO + Pikachu Sweets",
+   "d": "Sunshine City alpa 2F, Ikebukuro",
+   "q": "Pokémon Center MEGA TOKYO",
+   "map": "https://www.google.com/maps/search/Pok%C3%A9mon%20Center%20MEGA%20TOKYO"
+  },
+  {
+   "n": "Pokémon Center SHIBUYA",
+   "d": "Shibuya PARCO 6F",
+   "q": "Pokémon Center SHIBUYA",
+   "map": "https://www.google.com/maps/search/Pok%C3%A9mon%20Center%20SHIBUYA"
+  },
+  {
+   "n": "Pokémon Center SKYTREE TOWN",
+   "d": "Tokyo Skytree Town Solamachi East Yard 4F",
+   "q": "Pokémon Center SKYTREE TOWN",
+   "map": "https://www.google.com/maps/search/Pok%C3%A9mon%20Center%20SKYTREE%20TOWN"
+  },
+  {
+   "n": "Pokémon Center YOKOHAMA",
+   "d": "Yokohama Sky Building 8F",
+   "q": "Pokémon Center YOKOHAMA",
+   "map": "https://www.google.com/maps/search/Pok%C3%A9mon%20Center%20YOKOHAMA"
+  },
+  {
+   "n": "Pokémon Center KYOTO",
+   "d": "SUINA-MUROMACHI 2F, Shijo-dori",
+   "q": "Pokémon Center KYOTO",
+   "map": "https://www.google.com/maps/search/Pok%C3%A9mon%20Center%20KYOTO"
+  },
+  {
+   "n": "Pokémon Center OSAKA DX + Pokémon Cafe OSAKA",
+   "d": "Daimaru Shinsaibashi Main Building 9F",
+   "q": "Pokémon Center OSAKA DX",
+   "map": "https://www.google.com/maps/search/Pok%C3%A9mon%20Center%20OSAKA%20DX"
+  },
+  {
+   "n": "Pokémon Center OSAKA",
+   "d": "LUCUA South 13F, Umeda",
+   "q": "Pokémon Center OSAKA Umeda",
+   "map": "https://www.google.com/maps/search/Pok%C3%A9mon%20Center%20OSAKA%20Umeda"
+  },
+  {
+   "n": "Pokémon Center NAGOYA",
+   "d": "Nagoya PARCO East 2F",
+   "q": "Pokémon Center NAGOYA",
+   "map": "https://www.google.com/maps/search/Pok%C3%A9mon%20Center%20NAGOYA"
+  },
+  {
+   "n": "Pokémon Center FUKUOKA",
+   "d": "Hakata Marui 2F",
+   "q": "Pokémon Center FUKUOKA",
+   "map": "https://www.google.com/maps/search/Pok%C3%A9mon%20Center%20FUKUOKA"
+  },
+  {
+   "n": "Pokémon Center SAPPORO",
+   "d": "Daimaru Sapporo 8F",
+   "q": "Pokémon Center SAPPORO",
+   "map": "https://www.google.com/maps/search/Pok%C3%A9mon%20Center%20SAPPORO"
+  },
+  {
+   "n": "Pokémon Center OKINAWA",
+   "d": "AEON MALL Okinawa Rycom 1F",
+   "q": "Pokémon Center OKINAWA",
+   "map": "https://www.google.com/maps/search/Pok%C3%A9mon%20Center%20OKINAWA"
+  }
+ ],
+ "pokemonSrc": "https://www.pokemon.co.jp/shop/en/"
+}

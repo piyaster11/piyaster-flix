@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Regenerate data.json from official YouTube channel RSS feeds. Stdlib only."""
-import json, urllib.request, urllib.parse, xml.etree.ElementTree as ET, datetime, concurrent.futures as cf
+import json, re, urllib.request, urllib.parse, xml.etree.ElementTree as ET, datetime, concurrent.futures as cf
 ROWS = [
  ("premier-league","Premier League","พรีเมียร์ลีก","UCG5qGWdu8nIRZqJ_GgDwQ-w"),
  ("laliga","LaLiga","ลาลีกา","UCTv-XvfzLX3i4IGWAm4sbmA"),
@@ -23,9 +23,32 @@ GAMING = [
  ("hype","Upcoming Hype Games","เกมที่รอคอย",["UC6VcWc1rAoWdBCM0JxrRQ3A","UCA5SLTAVA6unn1M-6lbo1NA"]),
  ("new-releases","New Releases & Trailers","เกมใหม่ & ตัวอย่าง",["UC-2Y8dQb0S6DtpxNgAKoJKA","UCjBp_7RuDBUYbd1LegWEJ8g","UCGIY_O-8vW4rfX98KlMkvRg","UCKy1dAqELo0zrOtPkf0eTMw","UCbu2SsF-Or3Rsn3NxqODImw"]),
 ]
+MUSIC = [
+ ("global","Global Trending","มาแรงทั่วโลก",["UCqECaJ8Gagnn7YCbPEzWH6g","UCPKWE1H6xhxwPlqUlKgHb_w","UC0WP5P-ufpRfjbNrmOWwLBQ","UC3lBXcrKFnFAFkfVk5WuKcQ","UCO5IQ70V7l-XpHW40HwaGsw","UCoUM-UJ7rirJYP8CQ0EIaHA","UCOmHUn--16B90oW2L6FRR3A","UCiGm_E4ZwYSHV3bcW1pnSeQ","UC9CoOnJkIBMdeijd9qYoT_g","UC9rMiEjNaCSsebs31MRDCRA","UCpFgmZm65yOU5X-hmWkWjuw"]),
+ ("pop","Pop","ป๊อป",["UCqECaJ8Gagnn7YCbPEzWH6g","UCPKWE1H6xhxwPlqUlKgHb_w","UCiGm_E4ZwYSHV3bcW1pnSeQ","UC9CoOnJkIBMdeijd9qYoT_g","UCoUM-UJ7rirJYP8CQ0EIaHA"]),
+ ("hiphop","Hip-Hop / Rap","ฮิปฮอป / แร็ป",["UC3lBXcrKFnFAFkfVk5WuKcQ","UCWY9g9jNYh6AS-E8-SKfBmA","UCfM3zsQsOnfWNUppiycmBuw","UCOjEHmBKwdS7joWpW0VrXkg","UCzpl23pGTHVYqvKsgY0A-_w","UCeLHszkByNZtPKcaVXOCOQQ"]),
+ ("kpop","K-Pop","เคป๊อป",["UC3IZKseVpdzPSBaWxBxundA","UCEf_Bc-KVd7onSeifS3py9g","UCaO6TYtlC8U5ttz62hTrZgg","UCOmHUn--16B90oW2L6FRR3A","UCLkAepWjdylmXSltofFvsYQ","UC9rMiEjNaCSsebs31MRDCRA","UCMki_UkHb4qSc0qyEcOHHJw","UC9GtSLeksfK4yuJ_g1lgQbg","UCEpFoWeCMCo5z3EvWaz6hQQ","UCzgxx_DM2Dcb9Y1spb9mUJA"]),
+ ("jpop","J-Pop","เจป๊อป",["UCvpredjG93ifbCP1Y77JyFA","UCpFgmZm65yOU5X-hmWkWjuw","UC3vg17IZ1IV73xx069jG44w","UCUCeZaZeJbEYAAzvMgrKOPQ","UCln9P4Qm3-EAY4aiEPmRwEA"]),
+ ("thaipop","Thai Pop","เพลงไทย",["UCG9gfnA5UDoLvz-tC9B-HKw","UC_mceLIVkQun_Xcu1KBmfdw","UCrNFXmtWRFgbMHYJpjS3_0g","UC1T-ZwcYVQB6EpqOQD10tmw","UCs2t9DlvAuyTBkvk2djGZKw","UCEziz_UlMBt0e_pT-nWiRPw"]),
+ ("edm","EDM / Dance","อีดีเอ็ม / แดนซ์",["UC1l7wYrva1qCH-wgqcHaaRg","UCIjYyZxkFucP_W-tmXg_9Ow","UC5H_KXkPbEsGs0tFt8R35mA"]),
+ ("rock","Rock","ร็อก",["UCT9zcQNlyht7fRlcjmflRSA","UCZU9T1ceaOgwfLRq7OKFU4Q","UCi2KNss4Yx73NG0JARSFe0A"]),
+ ("rnb","R&B","อาร์แอนด์บี",["UCO5IQ70V7l-XpHW40HwaGsw","UC0WP5P-ufpRfjbNrmOWwLBQ","UCuE1A4MDBt8YkgUkRAKMtjw","UCoUM-UJ7rirJYP8CQ0EIaHA"]),
+ ("anime-music","Anime Music","เพลงอนิเมะ",["UC6pGDc4bFGD1_36IKv3FnYg","UCDb0peSmF5rLX7BvuTcJfCw","UC14QT5j2nQI8lKBCGtrrBQA"]),
+ ("game-music","Game Music","เพลงเกม",["UCMx60HYcw1ieiPlZZagfqXQ"]),
+]
+JAPAN = [
+ ("hidden-gems","Hidden Gems","ที่เที่ยวลับ",["UCHL9bfHTxCMi-7vfxQ-AYtg","UCixD9UbKvDxzGNiPC_fgHyA","UCDJ_LbyfNiutATmIIJ48HCQ","UCAF3bpYrvw_3RIkZ3OUnMNA","UCfFrsS14viloVm1dKqHSoxQ","UCnrVURWNd7VYjlQQ0UDpOQQ"]),
+ ("tips","Tips & Tricks","เคล็ดลับเที่ยวญี่ปุ่น",["UCfFrsS14viloVm1dKqHSoxQ"]),
+ ("learn-japanese","Learn Japanese","เรียนภาษาญี่ปุ่น",["UC0ox9NuTHYeRys63yZpBFuA","UCdZHET-9_Comx6UaVTSETiQ"]),
+ ("gaming-japan","Gaming in Japan","เกมในญี่ปุ่น",["UCkH3CcMfqww9RsZvPRPkAJA","UCyuEAZQzRqhcaLZvQd9ZUNA","UClFyIegrk4g6CFqGYCwTViA","UCHHnklRmgcQ-cBWtwrHZYuQ"]),
+ ("pokemon-japan","Pokémon in Japan","โปเกมอนในญี่ปุ่น",["UC_SI1j1d8vJo_rYMV5o_dRg"]),
+]
+FLOOR_EXTRA={"global":2000000,"pop":300000,"hiphop":200000,"kpop":300000,"jpop":100000,"thaipop":10000,"edm":50000,"rock":50000,"rnb":200000,
+ "anime-music":20000,"game-music":5000,"hidden-gems":50000,"tips":0,"learn-japanese":1000,"gaming-japan":20000,"anime-spots":0,"pokemon-japan":10000}
 # Minimum views per row (absolute floor). Rows keep at least MIN_KEEP videos: if too few pass, the next most-viewed fill in.
 FLOOR={"premier-league":50000,"laliga":10000,"ucl":20000,"nba":10000,"f1":50000,"boxing":20000,"golf":50000,"ufc":5000,
  "atp":3000,"wta":3000,"apex":30000,"diablo":10000,"hype":100000,"dota2":10000,"final-fantasy":10000,"pokemon-go":30000,"pokemon":20000,"new-releases":100000}
+FLOOR.update(FLOOR_EXTRA)
 MIN_KEEP=10; MAX_KEEP=20
 NS={"a":"http://www.w3.org/2005/Atom","yt":"http://www.youtube.com/xml/schemas/2015","m":"http://search.yahoo.com/mrss/"}
 UA={"User-Agent":"Mozilla/5.0 sports-highlights"}
@@ -35,7 +58,11 @@ def embeddable(vid):
     try:
         s,_=get("https://www.youtube.com/oembed?format=json&url="+urllib.parse.quote(f"https://www.youtube.com/watch?v={vid}"),10); return s==200
     except Exception: return False
+_C={}
 def feed(cid):
+    if cid not in _C: _C[cid]=_feed(cid)
+    return _C[cid][0],[dict(v) for v in _C[cid][1]]
+def _feed(cid):
     _,body=get(f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}")
     root=ET.fromstring(body); ch=root.findtext("a:title",namespaces=NS); vids=[]
     for e in root.findall("a:entry",NS):
@@ -44,12 +71,13 @@ def feed(cid):
           "channel":ch,"views":int((e.find("m:group/m:community/m:statistics",NS).get("views") if e.find("m:group/m:community/m:statistics",NS) is not None else 0) or 0),"short":"/shorts/" in link,"thumb":f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg"})
     return ch,vids
 def row(r):
-    key,name,th,cids=r
+    key,name,th,cids=r[:4]; kw=r[4] if len(r)>4 else None
     if isinstance(cids,str): cids=[cids]
     vids=[];chans=[];skipped=[]
     for cid in cids:
         try: ch,v=feed(cid); chans.append(ch); vids+=v
         except Exception as e: skipped.append({"channelId":cid,"error":str(e)})
+    if kw: vids=[v for v in vids if re.search(kw,v["title"] or "")]
     seen=set();vids=[v for v in vids if not (v["id"] in seen or seen.add(v["id"]))]
     vids.sort(key=lambda v:v["published"],reverse=True)
     with cf.ThreadPoolExecutor(8) as ex: ok=list(ex.map(lambda v:embeddable(v["id"]),vids))
@@ -59,7 +87,7 @@ def row(r):
     if len(keep)<MIN_KEEP: keep=vids[:MIN_KEEP]
     vids=keep[:MAX_KEEP]
     return {"key":key,"name":name,"th":th,"channels":chans,"minViews":FLOOR.get(key,0),"videos":vids,"skippedChannels":skipped}
-rows=[dict(row(r),section="sports") for r in ROWS]+[dict(row(r),section="gaming") for r in GAMING]
+rows=[dict(row(r),section="sports") for r in ROWS]+[dict(row(r),section="gaming") for r in GAMING]+[dict(row(r),section="music") for r in MUSIC]+[dict(row(r),section="japan") for r in JAPAN]
 out={"updated":datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
      "rows":[r for r in rows if r.get("videos")],"skipped":[r for r in rows if not r.get("videos")]}
 json.dump(out,open("data.json","w"),ensure_ascii=False,indent=1)

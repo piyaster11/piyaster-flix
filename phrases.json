@@ -1,0 +1,425 @@
+{
+ "note": "Curated everyday phrases. Rotates daily by date.",
+ "phrases": [
+  {
+   "jp": "おはようございます",
+   "romaji": "ohayō gozaimasu",
+   "en": "Good morning (polite)",
+   "th": "สวัสดีตอนเช้า (สุภาพ)",
+   "example": "おはようございます！今日も暑いですね。— Good morning! Hot again today."
+  },
+  {
+   "jp": "こんにちは",
+   "romaji": "konnichiwa",
+   "en": "Hello / Good afternoon",
+   "th": "สวัสดี (ตอนกลางวัน)",
+   "example": "こんにちは、はじめまして。— Hello, nice to meet you."
+  },
+  {
+   "jp": "こんばんは",
+   "romaji": "konbanwa",
+   "en": "Good evening",
+   "th": "สวัสดีตอนเย็น",
+   "example": "こんばんは、予約した田中です。— Good evening, I'm Tanaka, I have a reservation."
+  },
+  {
+   "jp": "ありがとうございます",
+   "romaji": "arigatō gozaimasu",
+   "en": "Thank you (polite)",
+   "th": "ขอบคุณครับ/ค่ะ (สุภาพ)",
+   "example": "手伝ってくれてありがとうございます。— Thank you for helping me."
+  },
+  {
+   "jp": "すみません",
+   "romaji": "sumimasen",
+   "en": "Excuse me / Sorry",
+   "th": "ขอโทษครับ/ค่ะ / ขอโทษนะ (เรียกคน)",
+   "example": "すみません、駅はどこですか？— Excuse me, where is the station?"
+  },
+  {
+   "jp": "ごめんなさい",
+   "romaji": "gomen nasai",
+   "en": "I'm sorry",
+   "th": "ขอโทษ",
+   "example": "遅れてごめんなさい。— Sorry I'm late."
+  },
+  {
+   "jp": "はじめまして",
+   "romaji": "hajimemashite",
+   "en": "Nice to meet you (first time)",
+   "th": "ยินดีที่ได้รู้จัก (ครั้งแรก)",
+   "example": "はじめまして、ピヤです。— Nice to meet you, I'm Piya."
+  },
+  {
+   "jp": "よろしくお願いします",
+   "romaji": "yoroshiku onegaishimasu",
+   "en": "Please treat me well / I look forward to working with you",
+   "th": "ฝากเนื้อฝากตัวด้วย",
+   "example": "これからよろしくお願いします。— I look forward to working with you."
+  },
+  {
+   "jp": "お願いします",
+   "romaji": "onegaishimasu",
+   "en": "Please (when asking)",
+   "th": "กรุณา / ขอ...ด้วย",
+   "example": "お水をお願いします。— Water, please."
+  },
+  {
+   "jp": "いただきます",
+   "romaji": "itadakimasu",
+   "en": "Said before eating",
+   "th": "คำพูดก่อนกินข้าว (ขอบคุณสำหรับอาหาร)",
+   "example": "じゃあ、いただきます！— Well then, let's eat!"
+  },
+  {
+   "jp": "ごちそうさまでした",
+   "romaji": "gochisōsama deshita",
+   "en": "Thank you for the meal (after eating)",
+   "th": "ขอบคุณสำหรับอาหาร (หลังกินเสร็จ)",
+   "example": "おいしかったです。ごちそうさまでした。— That was delicious. Thank you for the meal."
+  },
+  {
+   "jp": "おいしい",
+   "romaji": "oishii",
+   "en": "Delicious",
+   "th": "อร่อย",
+   "example": "このラーメン、すごくおいしい！— This ramen is really delicious!"
+  },
+  {
+   "jp": "いくらですか",
+   "romaji": "ikura desu ka",
+   "en": "How much is it?",
+   "th": "ราคาเท่าไหร่",
+   "example": "これはいくらですか？— How much is this?"
+  },
+  {
+   "jp": "これをください",
+   "romaji": "kore o kudasai",
+   "en": "This one, please",
+   "th": "ขออันนี้",
+   "example": "これを二つください。— Two of these, please."
+  },
+  {
+   "jp": "トイレはどこですか",
+   "romaji": "toire wa doko desu ka",
+   "en": "Where is the toilet?",
+   "th": "ห้องน้ำอยู่ที่ไหน",
+   "example": "すみません、トイレはどこですか？— Excuse me, where is the toilet?"
+  },
+  {
+   "jp": "駅はどこですか",
+   "romaji": "eki wa doko desu ka",
+   "en": "Where is the station?",
+   "th": "สถานีรถไฟอยู่ที่ไหน",
+   "example": "新宿駅はどこですか？— Where is Shinjuku Station?"
+  },
+  {
+   "jp": "英語のメニューはありますか",
+   "romaji": "eigo no menyū wa arimasu ka",
+   "en": "Do you have an English menu?",
+   "th": "มีเมนูภาษาอังกฤษไหม",
+   "example": "すみません、英語のメニューはありますか？— Excuse me, do you have an English menu?"
+  },
+  {
+   "jp": "お会計お願いします",
+   "romaji": "okaikei onegaishimasu",
+   "en": "The bill, please",
+   "th": "เช็คบิลด้วย",
+   "example": "すみません、お会計お願いします。— Excuse me, the bill please."
+  },
+  {
+   "jp": "カードで払えますか",
+   "romaji": "kādo de haraemasu ka",
+   "en": "Can I pay by card?",
+   "th": "จ่ายด้วยบัตรได้ไหม",
+   "example": "カードで払えますか？— Can I pay by card?"
+  },
+  {
+   "jp": "大丈夫です",
+   "romaji": "daijōbu desu",
+   "en": "I'm fine / No thanks / It's OK",
+   "th": "ไม่เป็นไร / โอเค / ไม่ต้องครับ",
+   "example": "袋は大丈夫です。— I don't need a bag, thanks."
+  },
+  {
+   "jp": "わかりました",
+   "romaji": "wakarimashita",
+   "en": "I understand / Got it",
+   "th": "เข้าใจแล้ว / รับทราบ",
+   "example": "わかりました。すぐ行きます。— Got it. I'll go right away."
+  },
+  {
+   "jp": "わかりません",
+   "romaji": "wakarimasen",
+   "en": "I don't understand",
+   "th": "ไม่เข้าใจ",
+   "example": "すみません、わかりません。— Sorry, I don't understand."
+  },
+  {
+   "jp": "もう一度お願いします",
+   "romaji": "mō ichido onegaishimasu",
+   "en": "One more time, please",
+   "th": "ช่วยพูดอีกครั้งได้ไหม",
+   "example": "すみません、もう一度お願いします。— Sorry, once more please."
+  },
+  {
+   "jp": "ゆっくり話してください",
+   "romaji": "yukkuri hanashite kudasai",
+   "en": "Please speak slowly",
+   "th": "ช่วยพูดช้าๆ หน่อย",
+   "example": "ゆっくり話してください。— Please speak slowly."
+  },
+  {
+   "jp": "日本語は少しだけです",
+   "romaji": "nihongo wa sukoshi dake desu",
+   "en": "I only speak a little Japanese",
+   "th": "พูดญี่ปุ่นได้นิดหน่อย",
+   "example": "日本語は少しだけです。— I only speak a little Japanese."
+  },
+  {
+   "jp": "英語を話せますか",
+   "romaji": "eigo o hanasemasu ka",
+   "en": "Can you speak English?",
+   "th": "พูดภาษาอังกฤษได้ไหม",
+   "example": "すみません、英語を話せますか？— Excuse me, can you speak English?"
+  },
+  {
+   "jp": "写真を撮ってもいいですか",
+   "romaji": "shashin o tottemo ii desu ka",
+   "en": "May I take a photo?",
+   "th": "ถ่ายรูปได้ไหม",
+   "example": "ここで写真を撮ってもいいですか？— May I take a photo here?"
+  },
+  {
+   "jp": "〜に行きたいです",
+   "romaji": "~ ni ikitai desu",
+   "en": "I want to go to ~",
+   "th": "อยากไป ~",
+   "example": "浅草に行きたいです。— I want to go to Asakusa."
+  },
+  {
+   "jp": "この電車は〜に行きますか",
+   "romaji": "kono densha wa ~ ni ikimasu ka",
+   "en": "Does this train go to ~?",
+   "th": "รถไฟขบวนนี้ไป ~ ไหม",
+   "example": "この電車は京都に行きますか？— Does this train go to Kyoto?"
+  },
+  {
+   "jp": "予約しています",
+   "romaji": "yoyaku shite imasu",
+   "en": "I have a reservation",
+   "th": "จองไว้แล้ว",
+   "example": "七時に二人で予約しています。— I have a reservation for two at seven."
+  },
+  {
+   "jp": "二人です",
+   "romaji": "futari desu",
+   "en": "Two people",
+   "th": "สองคน",
+   "example": "二人です。— (Table for) two."
+  },
+  {
+   "jp": "おすすめは何ですか",
+   "romaji": "osusume wa nan desu ka",
+   "en": "What do you recommend?",
+   "th": "แนะนำอะไรดี",
+   "example": "今日のおすすめは何ですか？— What do you recommend today?"
+  },
+  {
+   "jp": "辛くしないでください",
+   "romaji": "karaku shinaide kudasai",
+   "en": "Please don't make it spicy",
+   "th": "ไม่เอาเผ็ดนะ",
+   "example": "辛くしないでください。— Please don't make it spicy."
+  },
+  {
+   "jp": "〜は入っていますか",
+   "romaji": "~ wa haitte imasu ka",
+   "en": "Does it contain ~?",
+   "th": "มี ~ ผสมอยู่ไหม",
+   "example": "豚肉は入っていますか？— Does it contain pork?"
+  },
+  {
+   "jp": "持ち帰りでお願いします",
+   "romaji": "mochikaeri de onegaishimasu",
+   "en": "To go / Takeaway, please",
+   "th": "ขอใส่กลับบ้าน",
+   "example": "持ち帰りでお願いします。— To go, please."
+  },
+  {
+   "jp": "温めてください",
+   "romaji": "atatamete kudasai",
+   "en": "Please heat it up",
+   "th": "ช่วยอุ่นให้หน่อย",
+   "example": "お弁当を温めてください。— Please heat up the bento."
+  },
+  {
+   "jp": "袋はいりません",
+   "romaji": "fukuro wa irimasen",
+   "en": "I don't need a bag",
+   "th": "ไม่รับถุง",
+   "example": "袋はいりません。— I don't need a bag."
+  },
+  {
+   "jp": "試着してもいいですか",
+   "romaji": "shichaku shitemo ii desu ka",
+   "en": "May I try it on?",
+   "th": "ลองใส่ได้ไหม",
+   "example": "これ、試着してもいいですか？— May I try this on?"
+  },
+  {
+   "jp": "免税できますか",
+   "romaji": "menzei dekimasu ka",
+   "en": "Can I get tax-free?",
+   "th": "ทำปลอดภาษีได้ไหม",
+   "example": "パスポートがあります。免税できますか？— I have my passport. Can I get tax-free?"
+  },
+  {
+   "jp": "助けてください",
+   "romaji": "tasukete kudasai",
+   "en": "Please help me",
+   "th": "ช่วยด้วย",
+   "example": "助けてください！— Please help me!"
+  },
+  {
+   "jp": "道に迷いました",
+   "romaji": "michi ni mayoimashita",
+   "en": "I'm lost",
+   "th": "หลงทาง",
+   "example": "すみません、道に迷いました。— Excuse me, I'm lost."
+  },
+  {
+   "jp": "気分が悪いです",
+   "romaji": "kibun ga warui desu",
+   "en": "I feel sick",
+   "th": "รู้สึกไม่สบาย",
+   "example": "ちょっと気分が悪いです。— I feel a bit sick."
+  },
+  {
+   "jp": "お疲れ様です",
+   "romaji": "otsukaresama desu",
+   "en": "Thanks for your hard work (greeting at work)",
+   "th": "ขอบคุณที่เหนื่อย (ทักทายในที่ทำงาน)",
+   "example": "お疲れ様です。会議は終わりましたか？— Good work. Is the meeting over?"
+  },
+  {
+   "jp": "いらっしゃいませ",
+   "romaji": "irasshaimase",
+   "en": "Welcome (said by shop staff)",
+   "th": "ยินดีต้อนรับ (พนักงานร้านพูด)",
+   "example": "いらっしゃいませ！何名様ですか？— Welcome! How many people?"
+  },
+  {
+   "jp": "少々お待ちください",
+   "romaji": "shōshō omachi kudasai",
+   "en": "Please wait a moment (polite)",
+   "th": "กรุณารอสักครู่",
+   "example": "少々お待ちください。— Please wait a moment."
+  },
+  {
+   "jp": "ちょっと待ってください",
+   "romaji": "chotto matte kudasai",
+   "en": "Wait a moment, please",
+   "th": "รอแป๊บนึงนะ",
+   "example": "ちょっと待ってください、財布を探します。— Wait a moment, I'll find my wallet."
+  },
+  {
+   "jp": "いいですね",
+   "romaji": "ii desu ne",
+   "en": "That sounds good / Nice",
+   "th": "ดีนะ / ฟังดูดี",
+   "example": "明日、花火に行きませんか？— いいですね！— Shall we go to the fireworks tomorrow? — Sounds good!"
+  },
+  {
+   "jp": "本当ですか",
+   "romaji": "hontō desu ka",
+   "en": "Really?",
+   "th": "จริงเหรอ",
+   "example": "本当ですか？すごい！— Really? Amazing!"
+  },
+  {
+   "jp": "すごい",
+   "romaji": "sugoi",
+   "en": "Amazing / Wow",
+   "th": "สุดยอด / ว้าว",
+   "example": "富士山が見える！すごい！— I can see Mt. Fuji! Wow!"
+  },
+  {
+   "jp": "かわいい",
+   "romaji": "kawaii",
+   "en": "Cute",
+   "th": "น่ารัก",
+   "example": "この猫、かわいい！— This cat is cute!"
+  },
+  {
+   "jp": "また今度",
+   "romaji": "mata kondo",
+   "en": "Maybe next time",
+   "th": "ไว้คราวหน้านะ",
+   "example": "今日は忙しいので、また今度。— I'm busy today, so maybe next time."
+  },
+  {
+   "jp": "じゃあね",
+   "romaji": "jā ne",
+   "en": "See you / Bye (casual)",
+   "th": "ไปละนะ / บาย (กันเอง)",
+   "example": "じゃあね、また明日！— Bye, see you tomorrow!"
+  },
+  {
+   "jp": "おやすみなさい",
+   "romaji": "oyasumi nasai",
+   "en": "Good night",
+   "th": "ราตรีสวัสดิ์",
+   "example": "今日はありがとう。おやすみなさい。— Thanks for today. Good night."
+  },
+  {
+   "jp": "お元気ですか",
+   "romaji": "o-genki desu ka",
+   "en": "How are you?",
+   "th": "สบายดีไหม",
+   "example": "久しぶりですね。お元気ですか？— Long time no see. How are you?"
+  },
+  {
+   "jp": "久しぶり",
+   "romaji": "hisashiburi",
+   "en": "Long time no see",
+   "th": "ไม่ได้เจอกันนาน",
+   "example": "わあ、久しぶり！— Wow, long time no see!"
+  },
+  {
+   "jp": "どういたしまして",
+   "romaji": "dō itashimashite",
+   "en": "You're welcome",
+   "th": "ไม่เป็นไร (ตอบคำขอบคุณ)",
+   "example": "ありがとう！— どういたしまして。— Thanks! — You're welcome."
+  },
+  {
+   "jp": "〜はありますか",
+   "romaji": "~ wa arimasu ka",
+   "en": "Do you have ~?",
+   "th": "มี ~ ไหม",
+   "example": "Wi-Fiはありますか？— Do you have Wi-Fi?"
+  },
+  {
+   "jp": "Wi-Fiのパスワードは何ですか",
+   "romaji": "waifai no pasuwādo wa nan desu ka",
+   "en": "What's the Wi-Fi password?",
+   "th": "รหัส Wi-Fi คืออะไร",
+   "example": "すみません、Wi-Fiのパスワードは何ですか？— Excuse me, what's the Wi-Fi password?"
+  },
+  {
+   "jp": "荷物を預けられますか",
+   "romaji": "nimotsu o azukeraremasu ka",
+   "en": "Can I leave my luggage?",
+   "th": "ฝากกระเป๋าได้ไหม",
+   "example": "チェックインの前に荷物を預けられますか？— Can I leave my luggage before check-in?"
+  },
+  {
+   "jp": "乾杯",
+   "romaji": "kanpai",
+   "en": "Cheers!",
+   "th": "ชนแก้ว!",
+   "example": "じゃあ、乾杯！— Well then, cheers!"
+  }
+ ]
+}
