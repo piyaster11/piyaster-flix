@@ -1,425 +1,1817 @@
 {
- "note": "Curated everyday phrases. Rotates daily by date.",
- "phrases": [
+ "note": "Everyday Japanese phrases by situation. Audio: Google Translate TTS via gTTS (lang=ja), Web Speech fallback.",
+ "categories": [
   {
-   "jp": "おはようございます",
-   "romaji": "ohayō gozaimasu",
-   "en": "Good morning (polite)",
-   "th": "สวัสดีตอนเช้า (สุภาพ)",
-   "example": "おはようございます！今日も暑いですね。— Good morning! Hot again today."
+   "key": "greet",
+   "name": "Greetings",
+   "th": "ทักทาย"
   },
   {
+   "key": "food",
+   "name": "Restaurant & Ordering",
+   "th": "ร้านอาหาร/สั่งอาหาร"
+  },
+  {
+   "key": "shop",
+   "name": "Shopping",
+   "th": "ช้อปปิ้ง"
+  },
+  {
+   "key": "transport",
+   "name": "Directions & Transport",
+   "th": "ถามทาง/การเดินทาง"
+  },
+  {
+   "key": "hotel",
+   "name": "Hotel",
+   "th": "โรงแรม"
+  },
+  {
+   "key": "help",
+   "name": "Emergencies & Help",
+   "th": "ฉุกเฉิน/ขอความช่วยเหลือ"
+  },
+  {
+   "key": "talk",
+   "name": "Small Talk",
+   "th": "คุยเล่น"
+  },
+  {
+   "key": "polite",
+   "name": "Polite Expressions",
+   "th": "สำนวนสุภาพ"
+  },
+  {
+   "key": "num",
+   "name": "Numbers & Time",
+   "th": "ตัวเลข/เวลา"
+  },
+  {
+   "key": "game",
+   "name": "Gaming & Anime Chat",
+   "th": "คุยเรื่องเกม/อนิเมะ"
+  }
+ ],
+ "phrases": [
+  {
+   "id": 1,
+   "cat": "greet",
+   "jp": "おはようございます",
+   "romaji": "ohayō gozaimasu",
+   "en": "Good morning",
+   "th": "สวัสดีตอนเช้า",
+   "note": "Polite. Friends just say おはよう.",
+   "say": "おはようございます",
+   "audio": "audio/ja/e12eb2fcd5.mp3"
+  },
+  {
+   "id": 2,
+   "cat": "greet",
    "jp": "こんにちは",
    "romaji": "konnichiwa",
    "en": "Hello / Good afternoon",
    "th": "สวัสดี (ตอนกลางวัน)",
-   "example": "こんにちは、はじめまして。— Hello, nice to meet you."
+   "note": "Standard daytime greeting.",
+   "say": "こんにちは",
+   "audio": "audio/ja/c0e89a293b.mp3"
   },
   {
+   "id": 3,
+   "cat": "greet",
    "jp": "こんばんは",
    "romaji": "konbanwa",
    "en": "Good evening",
    "th": "สวัสดีตอนเย็น",
-   "example": "こんばんは、予約した田中です。— Good evening, I'm Tanaka, I have a reservation."
+   "note": "Use after dark.",
+   "say": "こんばんは",
+   "audio": "audio/ja/73c9cdc2c8.mp3"
   },
   {
-   "jp": "ありがとうございます",
-   "romaji": "arigatō gozaimasu",
-   "en": "Thank you (polite)",
-   "th": "ขอบคุณครับ/ค่ะ (สุภาพ)",
-   "example": "手伝ってくれてありがとうございます。— Thank you for helping me."
-  },
-  {
-   "jp": "すみません",
-   "romaji": "sumimasen",
-   "en": "Excuse me / Sorry",
-   "th": "ขอโทษครับ/ค่ะ / ขอโทษนะ (เรียกคน)",
-   "example": "すみません、駅はどこですか？— Excuse me, where is the station?"
-  },
-  {
-   "jp": "ごめんなさい",
-   "romaji": "gomen nasai",
-   "en": "I'm sorry",
-   "th": "ขอโทษ",
-   "example": "遅れてごめんなさい。— Sorry I'm late."
-  },
-  {
+   "id": 4,
+   "cat": "greet",
    "jp": "はじめまして",
    "romaji": "hajimemashite",
    "en": "Nice to meet you (first time)",
-   "th": "ยินดีที่ได้รู้จัก (ครั้งแรก)",
-   "example": "はじめまして、ピヤです。— Nice to meet you, I'm Piya."
+   "th": "ยินดีที่ได้รู้จัก",
+   "note": "Only when meeting someone for the first time.",
+   "say": "はじめまして",
+   "audio": "audio/ja/9527cdc3ed.mp3"
   },
   {
+   "id": 5,
+   "cat": "greet",
    "jp": "よろしくお願いします",
    "romaji": "yoroshiku onegaishimasu",
-   "en": "Please treat me well / I look forward to working with you",
+   "en": "Pleased to meet you / I'm in your care",
    "th": "ฝากเนื้อฝากตัวด้วย",
-   "example": "これからよろしくお願いします。— I look forward to working with you."
+   "note": "Used after introductions and when asking a favor.",
+   "say": "よろしくお願いします",
+   "audio": "audio/ja/6770510c18.mp3"
   },
   {
-   "jp": "お願いします",
-   "romaji": "onegaishimasu",
-   "en": "Please (when asking)",
-   "th": "กรุณา / ขอ...ด้วย",
-   "example": "お水をお願いします。— Water, please."
+   "id": 6,
+   "cat": "greet",
+   "jp": "お元気ですか？",
+   "romaji": "o-genki desu ka?",
+   "en": "How are you?",
+   "th": "สบายดีไหม",
+   "note": "Used when you haven't seen someone in a while.",
+   "say": "お元気ですか？",
+   "audio": "audio/ja/6109def683.mp3"
   },
   {
-   "jp": "いただきます",
-   "romaji": "itadakimasu",
-   "en": "Said before eating",
-   "th": "คำพูดก่อนกินข้าว (ขอบคุณสำหรับอาหาร)",
-   "example": "じゃあ、いただきます！— Well then, let's eat!"
+   "id": 7,
+   "cat": "greet",
+   "jp": "元気です",
+   "romaji": "genki desu",
+   "en": "I'm fine",
+   "th": "สบายดี",
+   "note": "Reply to お元気ですか.",
+   "say": "元気です",
+   "audio": "audio/ja/83eb1b0b12.mp3"
   },
   {
-   "jp": "ごちそうさまでした",
-   "romaji": "gochisōsama deshita",
-   "en": "Thank you for the meal (after eating)",
-   "th": "ขอบคุณสำหรับอาหาร (หลังกินเสร็จ)",
-   "example": "おいしかったです。ごちそうさまでした。— That was delicious. Thank you for the meal."
+   "id": 8,
+   "cat": "greet",
+   "jp": "久しぶり！",
+   "romaji": "hisashiburi!",
+   "en": "Long time no see!",
+   "th": "ไม่ได้เจอกันนานเลย",
+   "note": "Casual. Polite: お久しぶりです.",
+   "say": "久しぶり！",
+   "audio": "audio/ja/3cabdd77d9.mp3"
   },
   {
-   "jp": "おいしい",
-   "romaji": "oishii",
-   "en": "Delicious",
-   "th": "อร่อย",
-   "example": "このラーメン、すごくおいしい！— This ramen is really delicious!"
+   "id": 9,
+   "cat": "greet",
+   "jp": "おやすみなさい",
+   "romaji": "oyasuminasai",
+   "en": "Good night",
+   "th": "ราตรีสวัสดิ์",
+   "note": "When going to bed or parting at night.",
+   "say": "おやすみなさい",
+   "audio": "audio/ja/a3c64ce830.mp3"
   },
   {
-   "jp": "いくらですか",
-   "romaji": "ikura desu ka",
-   "en": "How much is it?",
-   "th": "ราคาเท่าไหร่",
-   "example": "これはいくらですか？— How much is this?"
+   "id": 10,
+   "cat": "greet",
+   "jp": "さようなら",
+   "romaji": "sayōnara",
+   "en": "Goodbye",
+   "th": "ลาก่อน",
+   "note": "Sounds final; friends prefer じゃあね.",
+   "say": "さようなら",
+   "audio": "audio/ja/2149e88341.mp3"
   },
   {
-   "jp": "これをください",
-   "romaji": "kore o kudasai",
-   "en": "This one, please",
-   "th": "ขออันนี้",
-   "example": "これを二つください。— Two of these, please."
+   "id": 11,
+   "cat": "greet",
+   "jp": "じゃあね／またね",
+   "romaji": "jā ne / mata ne",
+   "en": "See you / Bye",
+   "th": "ไว้เจอกัน / บาย",
+   "note": "Casual goodbye with friends.",
+   "say": "じゃあね、またね",
+   "audio": "audio/ja/63fbce63f6.mp3"
   },
   {
-   "jp": "トイレはどこですか",
-   "romaji": "toire wa doko desu ka",
-   "en": "Where is the toilet?",
-   "th": "ห้องน้ำอยู่ที่ไหน",
-   "example": "すみません、トイレはどこですか？— Excuse me, where is the toilet?"
+   "id": 12,
+   "cat": "greet",
+   "jp": "また明日",
+   "romaji": "mata ashita",
+   "en": "See you tomorrow",
+   "th": "เจอกันพรุ่งนี้",
+   "note": "",
+   "say": "また明日",
+   "audio": "audio/ja/55d303e2cd.mp3"
   },
   {
-   "jp": "駅はどこですか",
-   "romaji": "eki wa doko desu ka",
-   "en": "Where is the station?",
-   "th": "สถานีรถไฟอยู่ที่ไหน",
-   "example": "新宿駅はどこですか？— Where is Shinjuku Station?"
+   "id": 13,
+   "cat": "greet",
+   "jp": "私は〇〇です",
+   "romaji": "watashi wa ___ desu",
+   "en": "I am ___",
+   "th": "ฉันชื่อ ___",
+   "note": "Self-introduction; put your name in the blank.",
+   "say": "私は、田中です",
+   "audio": "audio/ja/4f196096d6.mp3"
   },
   {
-   "jp": "英語のメニューはありますか",
-   "romaji": "eigo no menyū wa arimasu ka",
-   "en": "Do you have an English menu?",
-   "th": "มีเมนูภาษาอังกฤษไหม",
-   "example": "すみません、英語のメニューはありますか？— Excuse me, do you have an English menu?"
+   "id": 14,
+   "cat": "greet",
+   "jp": "タイから来ました",
+   "romaji": "Tai kara kimashita",
+   "en": "I'm from Thailand",
+   "th": "มาจากประเทศไทย",
+   "note": "Replace タイ with any country.",
+   "say": "タイから来ました",
+   "audio": "audio/ja/399d36d267.mp3"
   },
   {
-   "jp": "お会計お願いします",
-   "romaji": "okaikei onegaishimasu",
-   "en": "The bill, please",
-   "th": "เช็คบิลด้วย",
-   "example": "すみません、お会計お願いします。— Excuse me, the bill please."
+   "id": 15,
+   "cat": "greet",
+   "jp": "いってきます",
+   "romaji": "ittekimasu",
+   "en": "I'm off (and will be back)",
+   "th": "ไปก่อนนะ (แล้วจะกลับมา)",
+   "note": "Said when leaving home; reply is いってらっしゃい.",
+   "say": "いってきます",
+   "audio": "audio/ja/3acaae64cf.mp3"
   },
   {
-   "jp": "カードで払えますか",
-   "romaji": "kādo de haraemasu ka",
-   "en": "Can I pay by card?",
-   "th": "จ่ายด้วยบัตรได้ไหม",
-   "example": "カードで払えますか？— Can I pay by card?"
+   "id": 16,
+   "cat": "greet",
+   "jp": "ただいま",
+   "romaji": "tadaima",
+   "en": "I'm home",
+   "th": "กลับมาแล้ว",
+   "note": "Reply is おかえり(なさい).",
+   "say": "ただいま",
+   "audio": "audio/ja/693de0a338.mp3"
   },
   {
-   "jp": "大丈夫です",
-   "romaji": "daijōbu desu",
-   "en": "I'm fine / No thanks / It's OK",
-   "th": "ไม่เป็นไร / โอเค / ไม่ต้องครับ",
-   "example": "袋は大丈夫です。— I don't need a bag, thanks."
+   "id": 17,
+   "cat": "food",
+   "jp": "すみません！",
+   "romaji": "sumimasen!",
+   "en": "Excuse me! (calling staff)",
+   "th": "ขอโทษครับ/ค่ะ (เรียกพนักงาน)",
+   "note": "Raise your hand and call this in restaurants.",
+   "say": "すみません！",
+   "audio": "audio/ja/c24c44108e.mp3"
   },
   {
-   "jp": "わかりました",
-   "romaji": "wakarimashita",
-   "en": "I understand / Got it",
-   "th": "เข้าใจแล้ว / รับทราบ",
-   "example": "わかりました。すぐ行きます。— Got it. I'll go right away."
+   "id": 18,
+   "cat": "food",
+   "jp": "何名様ですか？",
+   "romaji": "nanmei-sama desu ka?",
+   "en": "How many people?",
+   "th": "กี่ท่านครับ/คะ",
+   "note": "Staff asks at the entrance. Answer 二人です etc.",
+   "say": "何名様ですか？",
+   "audio": "audio/ja/a82f1392e4.mp3"
   },
   {
-   "jp": "わかりません",
-   "romaji": "wakarimasen",
-   "en": "I don't understand",
-   "th": "ไม่เข้าใจ",
-   "example": "すみません、わかりません。— Sorry, I don't understand."
-  },
-  {
-   "jp": "もう一度お願いします",
-   "romaji": "mō ichido onegaishimasu",
-   "en": "One more time, please",
-   "th": "ช่วยพูดอีกครั้งได้ไหม",
-   "example": "すみません、もう一度お願いします。— Sorry, once more please."
-  },
-  {
-   "jp": "ゆっくり話してください",
-   "romaji": "yukkuri hanashite kudasai",
-   "en": "Please speak slowly",
-   "th": "ช่วยพูดช้าๆ หน่อย",
-   "example": "ゆっくり話してください。— Please speak slowly."
-  },
-  {
-   "jp": "日本語は少しだけです",
-   "romaji": "nihongo wa sukoshi dake desu",
-   "en": "I only speak a little Japanese",
-   "th": "พูดญี่ปุ่นได้นิดหน่อย",
-   "example": "日本語は少しだけです。— I only speak a little Japanese."
-  },
-  {
-   "jp": "英語を話せますか",
-   "romaji": "eigo o hanasemasu ka",
-   "en": "Can you speak English?",
-   "th": "พูดภาษาอังกฤษได้ไหม",
-   "example": "すみません、英語を話せますか？— Excuse me, can you speak English?"
-  },
-  {
-   "jp": "写真を撮ってもいいですか",
-   "romaji": "shashin o tottemo ii desu ka",
-   "en": "May I take a photo?",
-   "th": "ถ่ายรูปได้ไหม",
-   "example": "ここで写真を撮ってもいいですか？— May I take a photo here?"
-  },
-  {
-   "jp": "〜に行きたいです",
-   "romaji": "~ ni ikitai desu",
-   "en": "I want to go to ~",
-   "th": "อยากไป ~",
-   "example": "浅草に行きたいです。— I want to go to Asakusa."
-  },
-  {
-   "jp": "この電車は〜に行きますか",
-   "romaji": "kono densha wa ~ ni ikimasu ka",
-   "en": "Does this train go to ~?",
-   "th": "รถไฟขบวนนี้ไป ~ ไหม",
-   "example": "この電車は京都に行きますか？— Does this train go to Kyoto?"
-  },
-  {
-   "jp": "予約しています",
-   "romaji": "yoyaku shite imasu",
-   "en": "I have a reservation",
-   "th": "จองไว้แล้ว",
-   "example": "七時に二人で予約しています。— I have a reservation for two at seven."
-  },
-  {
+   "id": 19,
+   "cat": "food",
    "jp": "二人です",
    "romaji": "futari desu",
    "en": "Two people",
    "th": "สองคน",
-   "example": "二人です。— (Table for) two."
+   "note": "One person: 一人です (hitori desu).",
+   "say": "二人です",
+   "audio": "audio/ja/32d3d90cb1.mp3"
   },
   {
-   "jp": "おすすめは何ですか",
-   "romaji": "osusume wa nan desu ka",
+   "id": 20,
+   "cat": "food",
+   "jp": "メニューをお願いします",
+   "romaji": "menyū o onegaishimasu",
+   "en": "The menu, please",
+   "th": "ขอเมนูหน่อย",
+   "note": "",
+   "say": "メニューをお願いします",
+   "audio": "audio/ja/7577d2da25.mp3"
+  },
+  {
+   "id": 21,
+   "cat": "food",
+   "jp": "英語のメニューはありますか？",
+   "romaji": "eigo no menyū wa arimasu ka?",
+   "en": "Do you have an English menu?",
+   "th": "มีเมนูภาษาอังกฤษไหม",
+   "note": "",
+   "say": "英語のメニューはありますか？",
+   "audio": "audio/ja/e802b85bbb.mp3"
+  },
+  {
+   "id": 22,
+   "cat": "food",
+   "jp": "おすすめは何ですか？",
+   "romaji": "osusume wa nan desu ka?",
    "en": "What do you recommend?",
-   "th": "แนะนำอะไรดี",
-   "example": "今日のおすすめは何ですか？— What do you recommend today?"
+   "th": "มีอะไรแนะนำไหม",
+   "note": "",
+   "say": "おすすめは何ですか？",
+   "audio": "audio/ja/eee071205f.mp3"
   },
   {
+   "id": 23,
+   "cat": "food",
+   "jp": "これをください",
+   "romaji": "kore o kudasai",
+   "en": "This one, please",
+   "th": "ขออันนี้",
+   "note": "Point at the menu. Works everywhere.",
+   "say": "これをください",
+   "audio": "audio/ja/2edf1a1986.mp3"
+  },
+  {
+   "id": 24,
+   "cat": "food",
+   "jp": "これを二つください",
+   "romaji": "kore o futatsu kudasai",
+   "en": "Two of these, please",
+   "th": "ขออันนี้สองที่",
+   "note": "Counter: 一つ hitotsu, 二つ futatsu, 三つ mittsu.",
+   "say": "これを二つください",
+   "audio": "audio/ja/4a5e3aef54.mp3"
+  },
+  {
+   "id": 25,
+   "cat": "food",
+   "jp": "お水をください",
+   "romaji": "o-mizu o kudasai",
+   "en": "Water, please",
+   "th": "ขอน้ำเปล่า",
+   "note": "Water is usually free in Japan.",
+   "say": "お水をください",
+   "audio": "audio/ja/d417909e57.mp3"
+  },
+  {
+   "id": 26,
+   "cat": "food",
+   "jp": "生ビールをください",
+   "romaji": "nama bīru o kudasai",
+   "en": "A draft beer, please",
+   "th": "ขอเบียร์สด",
+   "note": "",
+   "say": "生ビールをください",
+   "audio": "audio/ja/b2b36550c0.mp3"
+  },
+  {
+   "id": 27,
+   "cat": "food",
+   "jp": "いただきます",
+   "romaji": "itadakimasu",
+   "en": "Let's eat (thanks for the food)",
+   "th": "ทานละนะ (ก่อนกิน)",
+   "note": "Say before eating.",
+   "say": "いただきます",
+   "audio": "audio/ja/32542eb70a.mp3"
+  },
+  {
+   "id": 28,
+   "cat": "food",
+   "jp": "ごちそうさまでした",
+   "romaji": "gochisōsama deshita",
+   "en": "Thank you for the meal",
+   "th": "ขอบคุณสำหรับอาหาร (หลังกิน)",
+   "note": "Say after eating, also to staff when leaving.",
+   "say": "ごちそうさまでした",
+   "audio": "audio/ja/c3a9c5a17b.mp3"
+  },
+  {
+   "id": 29,
+   "cat": "food",
+   "jp": "おいしい！",
+   "romaji": "oishii!",
+   "en": "Delicious!",
+   "th": "อร่อย!",
+   "note": "",
+   "say": "おいしい！",
+   "audio": "audio/ja/5d521fda3c.mp3"
+  },
+  {
+   "id": 30,
+   "cat": "food",
    "jp": "辛くしないでください",
    "romaji": "karaku shinaide kudasai",
-   "en": "Please don't make it spicy",
-   "th": "ไม่เอาเผ็ดนะ",
-   "example": "辛くしないでください。— Please don't make it spicy."
+   "en": "Not spicy, please",
+   "th": "ไม่เผ็ดนะ",
+   "note": "",
+   "say": "辛くしないでください",
+   "audio": "audio/ja/1337ca7e1d.mp3"
   },
   {
-   "jp": "〜は入っていますか",
-   "romaji": "~ wa haitte imasu ka",
-   "en": "Does it contain ~?",
-   "th": "มี ~ ผสมอยู่ไหม",
-   "example": "豚肉は入っていますか？— Does it contain pork?"
+   "id": 31,
+   "cat": "food",
+   "jp": "エビアレルギーがあります",
+   "romaji": "ebi arerugī ga arimasu",
+   "en": "I'm allergic to shrimp",
+   "th": "แพ้กุ้ง",
+   "note": "Replace エビ: 卵 tamago egg, 小麦 komugi wheat, ピーナッツ peanuts.",
+   "say": "エビアレルギーがあります",
+   "audio": "audio/ja/f4497ff635.mp3"
   },
   {
-   "jp": "持ち帰りでお願いします",
-   "romaji": "mochikaeri de onegaishimasu",
-   "en": "To go / Takeaway, please",
-   "th": "ขอใส่กลับบ้าน",
-   "example": "持ち帰りでお願いします。— To go, please."
+   "id": 32,
+   "cat": "food",
+   "jp": "豚肉は食べられません",
+   "romaji": "butaniku wa taberaremasen",
+   "en": "I can't eat pork",
+   "th": "กินหมูไม่ได้",
+   "note": "牛肉 gyūniku beef, 肉 niku meat.",
+   "say": "豚肉は食べられません",
+   "audio": "audio/ja/71ec057b69.mp3"
   },
   {
-   "jp": "温めてください",
-   "romaji": "atatamete kudasai",
-   "en": "Please heat it up",
-   "th": "ช่วยอุ่นให้หน่อย",
-   "example": "お弁当を温めてください。— Please heat up the bento."
+   "id": 33,
+   "cat": "food",
+   "jp": "お会計をお願いします",
+   "romaji": "o-kaikei o onegaishimasu",
+   "en": "The bill, please",
+   "th": "เช็คบิลด้วย",
+   "note": "Often you pay at the register by the door.",
+   "say": "お会計をお願いします",
+   "audio": "audio/ja/85dcf62ebb.mp3"
   },
   {
+   "id": 34,
+   "cat": "food",
+   "jp": "別々でお願いします",
+   "romaji": "betsubetsu de onegaishimasu",
+   "en": "Separate checks, please",
+   "th": "แยกจ่ายครับ/ค่ะ",
+   "note": "",
+   "say": "別々でお願いします",
+   "audio": "audio/ja/d0e2501524.mp3"
+  },
+  {
+   "id": 35,
+   "cat": "food",
+   "jp": "持ち帰りで",
+   "romaji": "mochikaeri de",
+   "en": "To go / takeaway",
+   "th": "กลับบ้าน (ใส่กล่อง)",
+   "note": "Eat-in is 店内で (tennai de).",
+   "say": "持ち帰りで",
+   "audio": "audio/ja/9ed9743e13.mp3"
+  },
+  {
+   "id": 36,
+   "cat": "food",
+   "jp": "おかわりください",
+   "romaji": "okawari kudasai",
+   "en": "A refill, please",
+   "th": "ขอเติม/ขอเพิ่มอีก",
+   "note": "Rice, drinks; sometimes free.",
+   "say": "おかわりください",
+   "audio": "audio/ja/f6ea3e2044.mp3"
+  },
+  {
+   "id": 37,
+   "cat": "shop",
+   "jp": "いくらですか？",
+   "romaji": "ikura desu ka?",
+   "en": "How much is it?",
+   "th": "ราคาเท่าไหร่",
+   "note": "",
+   "say": "いくらですか？",
+   "audio": "audio/ja/4466e416db.mp3"
+  },
+  {
+   "id": 38,
+   "cat": "shop",
+   "jp": "これは何ですか？",
+   "romaji": "kore wa nan desu ka?",
+   "en": "What is this?",
+   "th": "อันนี้คืออะไร",
+   "note": "",
+   "say": "これは何ですか？",
+   "audio": "audio/ja/ad91220663.mp3"
+  },
+  {
+   "id": 39,
+   "cat": "shop",
+   "jp": "見ているだけです",
+   "romaji": "mite iru dake desu",
+   "en": "I'm just looking",
+   "th": "แค่ดูเฉยๆ",
+   "note": "",
+   "say": "見ているだけです",
+   "audio": "audio/ja/6b9eadecfa.mp3"
+  },
+  {
+   "id": 40,
+   "cat": "shop",
+   "jp": "試着してもいいですか？",
+   "romaji": "shichaku shite mo ii desu ka?",
+   "en": "Can I try it on?",
+   "th": "ลองใส่ได้ไหม",
+   "note": "",
+   "say": "試着してもいいですか？",
+   "audio": "audio/ja/0ceed232f8.mp3"
+  },
+  {
+   "id": 41,
+   "cat": "shop",
+   "jp": "もっと大きいサイズはありますか？",
+   "romaji": "motto ōkii saizu wa arimasu ka?",
+   "en": "Do you have a bigger size?",
+   "th": "มีไซซ์ใหญ่กว่านี้ไหม",
+   "note": "Smaller: 小さい chiisai.",
+   "say": "もっと大きいサイズはありますか？",
+   "audio": "audio/ja/a6b5b02c83.mp3"
+  },
+  {
+   "id": 42,
+   "cat": "shop",
+   "jp": "他の色はありますか？",
+   "romaji": "hoka no iro wa arimasu ka?",
+   "en": "Do you have other colors?",
+   "th": "มีสีอื่นไหม",
+   "note": "",
+   "say": "他の色はありますか？",
+   "audio": "audio/ja/51b9670910.mp3"
+  },
+  {
+   "id": 43,
+   "cat": "shop",
+   "jp": "カードで払えますか？",
+   "romaji": "kādo de haraemasu ka?",
+   "en": "Can I pay by card?",
+   "th": "จ่ายด้วยบัตรได้ไหม",
+   "note": "",
+   "say": "カードで払えますか？",
+   "audio": "audio/ja/eb5d836b28.mp3"
+  },
+  {
+   "id": 44,
+   "cat": "shop",
+   "jp": "現金だけですか？",
+   "romaji": "genkin dake desu ka?",
+   "en": "Cash only?",
+   "th": "รับแต่เงินสดเหรอ",
+   "note": "",
+   "say": "現金だけですか？",
+   "audio": "audio/ja/f69a0fe07a.mp3"
+  },
+  {
+   "id": 45,
+   "cat": "shop",
+   "jp": "免税できますか？",
+   "romaji": "menzei dekimasu ka?",
+   "en": "Can I get tax-free?",
+   "th": "ทำปลอดภาษีได้ไหม",
+   "note": "Bring your passport.",
+   "say": "免税できますか？",
+   "audio": "audio/ja/191217fc3e.mp3"
+  },
+  {
+   "id": 46,
+   "cat": "shop",
    "jp": "袋はいりません",
    "romaji": "fukuro wa irimasen",
    "en": "I don't need a bag",
    "th": "ไม่รับถุง",
-   "example": "袋はいりません。— I don't need a bag."
+   "note": "Bags usually cost a few yen.",
+   "say": "袋はいりません",
+   "audio": "audio/ja/fe43662bde.mp3"
   },
   {
-   "jp": "試着してもいいですか",
-   "romaji": "shichaku shitemo ii desu ka",
-   "en": "May I try it on?",
-   "th": "ลองใส่ได้ไหม",
-   "example": "これ、試着してもいいですか？— May I try this on?"
+   "id": 47,
+   "cat": "shop",
+   "jp": "袋をください",
+   "romaji": "fukuro o kudasai",
+   "en": "A bag, please",
+   "th": "ขอถุงด้วย",
+   "note": "",
+   "say": "袋をください",
+   "audio": "audio/ja/dcf67c2172.mp3"
   },
   {
-   "jp": "免税できますか",
-   "romaji": "menzei dekimasu ka",
-   "en": "Can I get tax-free?",
-   "th": "ทำปลอดภาษีได้ไหม",
-   "example": "パスポートがあります。免税できますか？— I have my passport. Can I get tax-free?"
+   "id": 48,
+   "cat": "shop",
+   "jp": "温めますか？",
+   "romaji": "atatamemasu ka?",
+   "en": "Shall I heat it up?",
+   "th": "อุ่นไหมคะ",
+   "note": "Konbini staff asks. Reply はい or 大丈夫です.",
+   "say": "温めますか？",
+   "audio": "audio/ja/d30d71e252.mp3"
   },
   {
-   "jp": "助けてください",
-   "romaji": "tasukete kudasai",
-   "en": "Please help me",
-   "th": "ช่วยด้วย",
-   "example": "助けてください！— Please help me!"
+   "id": 49,
+   "cat": "shop",
+   "jp": "大丈夫です",
+   "romaji": "daijōbu desu",
+   "en": "I'm fine / No thanks",
+   "th": "ไม่เป็นไร / ไม่ต้อง",
+   "note": "Polite way to decline offers.",
+   "say": "大丈夫です",
+   "audio": "audio/ja/c08e9419ef.mp3"
   },
   {
+   "id": 50,
+   "cat": "shop",
+   "jp": "これにします",
+   "romaji": "kore ni shimasu",
+   "en": "I'll take this",
+   "th": "เอาอันนี้",
+   "note": "",
+   "say": "これにします",
+   "audio": "audio/ja/d718021ef3.mp3"
+  },
+  {
+   "id": 51,
+   "cat": "shop",
+   "jp": "レシートをください",
+   "romaji": "reshīto o kudasai",
+   "en": "Receipt, please",
+   "th": "ขอใบเสร็จ",
+   "note": "",
+   "say": "レシートをください",
+   "audio": "audio/ja/7015d10f57.mp3"
+  },
+  {
+   "id": 52,
+   "cat": "shop",
+   "jp": "少し安くなりますか？",
+   "romaji": "sukoshi yasuku narimasu ka?",
+   "en": "Could it be a bit cheaper?",
+   "th": "ลดได้นิดหน่อยไหม",
+   "note": "Haggling is rare in Japan; flea markets only.",
+   "say": "少し安くなりますか？",
+   "audio": "audio/ja/b3ffb566d0.mp3"
+  },
+  {
+   "id": 53,
+   "cat": "shop",
+   "jp": "ATMはどこですか？",
+   "romaji": "ēteiemu wa doko desu ka?",
+   "en": "Where is an ATM?",
+   "th": "ตู้ ATM อยู่ไหน",
+   "note": "Konbini ATMs accept foreign cards.",
+   "say": "エーティーエムはどこですか？",
+   "audio": "audio/ja/4da0214262.mp3"
+  },
+  {
+   "id": 54,
+   "cat": "transport",
+   "jp": "駅はどこですか？",
+   "romaji": "eki wa doko desu ka?",
+   "en": "Where is the station?",
+   "th": "สถานีอยู่ที่ไหน",
+   "note": "",
+   "say": "駅はどこですか？",
+   "audio": "audio/ja/b28d703bac.mp3"
+  },
+  {
+   "id": 55,
+   "cat": "transport",
+   "jp": "トイレはどこですか？",
+   "romaji": "toire wa doko desu ka?",
+   "en": "Where is the toilet?",
+   "th": "ห้องน้ำอยู่ที่ไหน",
+   "note": "Most useful phrase!",
+   "say": "トイレはどこですか？",
+   "audio": "audio/ja/ed9f95596a.mp3"
+  },
+  {
+   "id": 56,
+   "cat": "transport",
+   "jp": "ここに行きたいです",
+   "romaji": "koko ni ikitai desu",
+   "en": "I want to go here",
+   "th": "อยากไปที่นี่",
+   "note": "Show a map or address.",
+   "say": "ここに行きたいです",
+   "audio": "audio/ja/6827b74f67.mp3"
+  },
+  {
+   "id": 57,
+   "cat": "transport",
+   "jp": "まっすぐ行ってください",
+   "romaji": "massugu itte kudasai",
+   "en": "Go straight",
+   "th": "ตรงไปเลย",
+   "note": "",
+   "say": "まっすぐ行ってください",
+   "audio": "audio/ja/97f40e2088.mp3"
+  },
+  {
+   "id": 58,
+   "cat": "transport",
+   "jp": "右／左",
+   "romaji": "migi / hidari",
+   "en": "Right / Left",
+   "th": "ขวา / ซ้าย",
+   "note": "右に曲がる = turn right.",
+   "say": "右、左",
+   "audio": "audio/ja/0f1f285968.mp3"
+  },
+  {
+   "id": 59,
+   "cat": "transport",
+   "jp": "歩いて行けますか？",
+   "romaji": "aruite ikemasu ka?",
+   "en": "Can I walk there?",
+   "th": "เดินไปได้ไหม",
+   "note": "",
+   "say": "歩いて行けますか？",
+   "audio": "audio/ja/9ae9350e6f.mp3"
+  },
+  {
+   "id": 60,
+   "cat": "transport",
+   "jp": "どのくらいかかりますか？",
+   "romaji": "dono kurai kakarimasu ka?",
+   "en": "How long does it take?",
+   "th": "ใช้เวลานานเท่าไหร่",
+   "note": "",
+   "say": "どのくらいかかりますか？",
+   "audio": "audio/ja/e90b7e0fd2.mp3"
+  },
+  {
+   "id": 61,
+   "cat": "transport",
+   "jp": "この電車は新宿に行きますか？",
+   "romaji": "kono densha wa Shinjuku ni ikimasu ka?",
+   "en": "Does this train go to Shinjuku?",
+   "th": "รถไฟขบวนนี้ไปชินจูกุไหม",
+   "note": "Swap in any station.",
+   "say": "この電車は新宿に行きますか？",
+   "audio": "audio/ja/99e80fb802.mp3"
+  },
+  {
+   "id": 62,
+   "cat": "transport",
+   "jp": "何番線ですか？",
+   "romaji": "nanbansen desu ka?",
+   "en": "Which platform?",
+   "th": "ชานชาลาที่เท่าไหร่",
+   "note": "",
+   "say": "何番線ですか？",
+   "audio": "audio/ja/399f777260.mp3"
+  },
+  {
+   "id": 63,
+   "cat": "transport",
+   "jp": "次の駅は何ですか？",
+   "romaji": "tsugi no eki wa nan desu ka?",
+   "en": "What's the next station?",
+   "th": "สถานีต่อไปคืออะไร",
+   "note": "",
+   "say": "次の駅は何ですか？",
+   "audio": "audio/ja/b32c2b0742.mp3"
+  },
+  {
+   "id": 64,
+   "cat": "transport",
+   "jp": "乗り換えはどこですか？",
+   "romaji": "norikae wa doko desu ka?",
+   "en": "Where do I transfer?",
+   "th": "เปลี่ยนสายที่ไหน",
+   "note": "",
+   "say": "乗り換えはどこですか？",
+   "audio": "audio/ja/8b0f7d35da.mp3"
+  },
+  {
+   "id": 65,
+   "cat": "transport",
+   "jp": "切符はどこで買えますか？",
+   "romaji": "kippu wa doko de kaemasu ka?",
+   "en": "Where can I buy a ticket?",
+   "th": "ซื้อตั๋วได้ที่ไหน",
+   "note": "",
+   "say": "切符はどこで買えますか？",
+   "audio": "audio/ja/08985fb7d7.mp3"
+  },
+  {
+   "id": 66,
+   "cat": "transport",
+   "jp": "このバスは空港に行きますか？",
+   "romaji": "kono basu wa kūkō ni ikimasu ka?",
+   "en": "Does this bus go to the airport?",
+   "th": "รถบัสคันนี้ไปสนามบินไหม",
+   "note": "",
+   "say": "このバスは空港に行きますか？",
+   "audio": "audio/ja/fe2aeb53e3.mp3"
+  },
+  {
+   "id": 67,
+   "cat": "transport",
+   "jp": "ここまでお願いします",
+   "romaji": "koko made onegaishimasu",
+   "en": "To here, please (taxi)",
+   "th": "ไปที่นี่ครับ/ค่ะ (แท็กซี่)",
+   "note": "Show the address. Taxi doors open automatically.",
+   "say": "ここまでお願いします",
+   "audio": "audio/ja/6258d012bd.mp3"
+  },
+  {
+   "id": 68,
+   "cat": "transport",
+   "jp": "ここで止めてください",
+   "romaji": "koko de tomete kudasai",
+   "en": "Please stop here",
+   "th": "จอดตรงนี้",
+   "note": "",
+   "say": "ここで止めてください",
+   "audio": "audio/ja/6ca61088a5.mp3"
+  },
+  {
+   "id": 69,
+   "cat": "transport",
    "jp": "道に迷いました",
    "romaji": "michi ni mayoimashita",
    "en": "I'm lost",
    "th": "หลงทาง",
-   "example": "すみません、道に迷いました。— Excuse me, I'm lost."
+   "note": "",
+   "say": "道に迷いました",
+   "audio": "audio/ja/f95b56ef48.mp3"
   },
   {
+   "id": 70,
+   "cat": "transport",
+   "jp": "近くにコンビニはありますか？",
+   "romaji": "chikaku ni konbini wa arimasu ka?",
+   "en": "Is there a convenience store nearby?",
+   "th": "แถวนี้มีร้านสะดวกซื้อไหม",
+   "note": "",
+   "say": "近くにコンビニはありますか？",
+   "audio": "audio/ja/173057100e.mp3"
+  },
+  {
+   "id": 71,
+   "cat": "hotel",
+   "jp": "予約しています",
+   "romaji": "yoyaku shite imasu",
+   "en": "I have a reservation",
+   "th": "จองไว้แล้ว",
+   "note": "Then give your name: 〇〇です.",
+   "say": "予約しています",
+   "audio": "audio/ja/26dcee96ef.mp3"
+  },
+  {
+   "id": 72,
+   "cat": "hotel",
+   "jp": "チェックインをお願いします",
+   "romaji": "chekku-in o onegaishimasu",
+   "en": "Check-in, please",
+   "th": "ขอเช็คอิน",
+   "note": "",
+   "say": "チェックインをお願いします",
+   "audio": "audio/ja/63907d521d.mp3"
+  },
+  {
+   "id": 73,
+   "cat": "hotel",
+   "jp": "チェックアウトは何時ですか？",
+   "romaji": "chekku-auto wa nanji desu ka?",
+   "en": "What time is check-out?",
+   "th": "เช็คเอาท์กี่โมง",
+   "note": "",
+   "say": "チェックアウトは何時ですか？",
+   "audio": "audio/ja/cdbec29f58.mp3"
+  },
+  {
+   "id": 74,
+   "cat": "hotel",
+   "jp": "荷物を預かってもらえますか？",
+   "romaji": "nimotsu o azukatte moraemasu ka?",
+   "en": "Can you keep my luggage?",
+   "th": "ฝากกระเป๋าได้ไหม",
+   "note": "Before check-in or after check-out.",
+   "say": "荷物を預かってもらえますか？",
+   "audio": "audio/ja/7e4a9fca4e.mp3"
+  },
+  {
+   "id": 75,
+   "cat": "hotel",
+   "jp": "Wi-Fiのパスワードは何ですか？",
+   "romaji": "waifai no pasuwādo wa nan desu ka?",
+   "en": "What's the Wi-Fi password?",
+   "th": "รหัส Wi-Fi คืออะไร",
+   "note": "",
+   "say": "Wi-Fiのパスワードは何ですか？",
+   "audio": "audio/ja/ea26189ef2.mp3"
+  },
+  {
+   "id": 76,
+   "cat": "hotel",
+   "jp": "朝食は何時からですか？",
+   "romaji": "chōshoku wa nanji kara desu ka?",
+   "en": "What time does breakfast start?",
+   "th": "อาหารเช้าเริ่มกี่โมง",
+   "note": "",
+   "say": "朝食は何時からですか？",
+   "audio": "audio/ja/f821202e56.mp3"
+  },
+  {
+   "id": 77,
+   "cat": "hotel",
+   "jp": "タオルをもう一枚ください",
+   "romaji": "taoru o mō ichimai kudasai",
+   "en": "One more towel, please",
+   "th": "ขอผ้าเช็ดตัวอีกผืน",
+   "note": "",
+   "say": "タオルをもう一枚ください",
+   "audio": "audio/ja/9077221465.mp3"
+  },
+  {
+   "id": 78,
+   "cat": "hotel",
+   "jp": "エアコンが壊れています",
+   "romaji": "eakon ga kowarete imasu",
+   "en": "The air conditioner is broken",
+   "th": "แอร์เสีย",
+   "note": "",
+   "say": "エアコンが壊れています",
+   "audio": "audio/ja/56747cb784.mp3"
+  },
+  {
+   "id": 79,
+   "cat": "hotel",
+   "jp": "部屋の鍵をなくしました",
+   "romaji": "heya no kagi o nakushimashita",
+   "en": "I lost my room key",
+   "th": "ทำกุญแจห้องหาย",
+   "note": "",
+   "say": "部屋の鍵をなくしました",
+   "audio": "audio/ja/a89e50dec2.mp3"
+  },
+  {
+   "id": 80,
+   "cat": "hotel",
+   "jp": "お湯が出ません",
+   "romaji": "o-yu ga demasen",
+   "en": "There's no hot water",
+   "th": "น้ำร้อนไม่ไหล",
+   "note": "",
+   "say": "お湯が出ません",
+   "audio": "audio/ja/3e7b7aec57.mp3"
+  },
+  {
+   "id": 81,
+   "cat": "hotel",
+   "jp": "タクシーを呼んでもらえますか？",
+   "romaji": "takushī o yonde moraemasu ka?",
+   "en": "Could you call a taxi?",
+   "th": "ช่วยเรียกแท็กซี่ให้หน่อยได้ไหม",
+   "note": "",
+   "say": "タクシーを呼んでもらえますか？",
+   "audio": "audio/ja/0fe7aa5c76.mp3"
+  },
+  {
+   "id": 82,
+   "cat": "hotel",
+   "jp": "もう一泊できますか？",
+   "romaji": "mō ippaku dekimasu ka?",
+   "en": "Can I stay one more night?",
+   "th": "ขอพักเพิ่มอีกคืนได้ไหม",
+   "note": "",
+   "say": "もう一泊できますか？",
+   "audio": "audio/ja/948644c3b3.mp3"
+  },
+  {
+   "id": 83,
+   "cat": "hotel",
+   "jp": "大浴場は何時までですか？",
+   "romaji": "daiyokujō wa nanji made desu ka?",
+   "en": "Until what time is the public bath open?",
+   "th": "ห้องอาบน้ำรวมเปิดถึงกี่โมง",
+   "note": "Common in ryokan and business hotels.",
+   "say": "大浴場は何時までですか？",
+   "audio": "audio/ja/c737b9d6f3.mp3"
+  },
+  {
+   "id": 84,
+   "cat": "help",
+   "jp": "助けて！",
+   "romaji": "tasukete!",
+   "en": "Help!",
+   "th": "ช่วยด้วย!",
+   "note": "",
+   "say": "助けて！",
+   "audio": "audio/ja/f0396d5f3e.mp3"
+  },
+  {
+   "id": 85,
+   "cat": "help",
+   "jp": "救急車を呼んでください",
+   "romaji": "kyūkyūsha o yonde kudasai",
+   "en": "Please call an ambulance",
+   "th": "ช่วยเรียกรถพยาบาลด้วย",
+   "note": "Ambulance/fire 119, police 110.",
+   "say": "救急車を呼んでください",
+   "audio": "audio/ja/594253438b.mp3"
+  },
+  {
+   "id": 86,
+   "cat": "help",
+   "jp": "警察を呼んでください",
+   "romaji": "keisatsu o yonde kudasai",
+   "en": "Please call the police",
+   "th": "ช่วยเรียกตำรวจด้วย",
+   "note": "",
+   "say": "警察を呼んでください",
+   "audio": "audio/ja/d29ffc5290.mp3"
+  },
+  {
+   "id": 87,
+   "cat": "help",
+   "jp": "病院はどこですか？",
+   "romaji": "byōin wa doko desu ka?",
+   "en": "Where is the hospital?",
+   "th": "โรงพยาบาลอยู่ที่ไหน",
+   "note": "",
+   "say": "病院はどこですか？",
+   "audio": "audio/ja/82b18bef97.mp3"
+  },
+  {
+   "id": 88,
+   "cat": "help",
    "jp": "気分が悪いです",
    "romaji": "kibun ga warui desu",
    "en": "I feel sick",
    "th": "รู้สึกไม่สบาย",
-   "example": "ちょっと気分が悪いです。— I feel a bit sick."
+   "note": "",
+   "say": "気分が悪いです",
+   "audio": "audio/ja/487fcdf5fa.mp3"
   },
   {
-   "jp": "お疲れ様です",
-   "romaji": "otsukaresama desu",
-   "en": "Thanks for your hard work (greeting at work)",
-   "th": "ขอบคุณที่เหนื่อย (ทักทายในที่ทำงาน)",
-   "example": "お疲れ様です。会議は終わりましたか？— Good work. Is the meeting over?"
+   "id": 89,
+   "cat": "help",
+   "jp": "ここが痛いです",
+   "romaji": "koko ga itai desu",
+   "en": "It hurts here",
+   "th": "เจ็บตรงนี้",
+   "note": "Point at the spot.",
+   "say": "ここが痛いです",
+   "audio": "audio/ja/7f2f5ca814.mp3"
   },
   {
-   "jp": "いらっしゃいませ",
-   "romaji": "irasshaimase",
-   "en": "Welcome (said by shop staff)",
-   "th": "ยินดีต้อนรับ (พนักงานร้านพูด)",
-   "example": "いらっしゃいませ！何名様ですか？— Welcome! How many people?"
+   "id": 90,
+   "cat": "help",
+   "jp": "熱があります",
+   "romaji": "netsu ga arimasu",
+   "en": "I have a fever",
+   "th": "มีไข้",
+   "note": "",
+   "say": "熱があります",
+   "audio": "audio/ja/49fbdf6fd8.mp3"
   },
   {
-   "jp": "少々お待ちください",
-   "romaji": "shōshō omachi kudasai",
-   "en": "Please wait a moment (polite)",
-   "th": "กรุณารอสักครู่",
-   "example": "少々お待ちください。— Please wait a moment."
+   "id": 91,
+   "cat": "help",
+   "jp": "薬局はどこですか？",
+   "romaji": "yakkyoku wa doko desu ka?",
+   "en": "Where is a pharmacy?",
+   "th": "ร้านขายยาอยู่ที่ไหน",
+   "note": "Drugstore: ドラッグストア.",
+   "say": "薬局はどこですか？",
+   "audio": "audio/ja/5fe00e2bbc.mp3"
   },
   {
-   "jp": "ちょっと待ってください",
-   "romaji": "chotto matte kudasai",
-   "en": "Wait a moment, please",
-   "th": "รอแป๊บนึงนะ",
-   "example": "ちょっと待ってください、財布を探します。— Wait a moment, I'll find my wallet."
+   "id": 92,
+   "cat": "help",
+   "jp": "財布をなくしました",
+   "romaji": "saifu o nakushimashita",
+   "en": "I lost my wallet",
+   "th": "ทำกระเป๋าเงินหาย",
+   "note": "Phone: スマホ sumaho. Passport: パスポート.",
+   "say": "財布をなくしました",
+   "audio": "audio/ja/ac1a68fb9b.mp3"
   },
   {
-   "jp": "いいですね",
-   "romaji": "ii desu ne",
-   "en": "That sounds good / Nice",
-   "th": "ดีนะ / ฟังดูดี",
-   "example": "明日、花火に行きませんか？— いいですね！— Shall we go to the fireworks tomorrow? — Sounds good!"
+   "id": 93,
+   "cat": "help",
+   "jp": "交番はどこですか？",
+   "romaji": "kōban wa doko desu ka?",
+   "en": "Where is the police box?",
+   "th": "ป้อมตำรวจอยู่ที่ไหน",
+   "note": "Kōban are small local police stations.",
+   "say": "交番はどこですか？",
+   "audio": "audio/ja/72bd3775bb.mp3"
   },
   {
-   "jp": "本当ですか",
-   "romaji": "hontō desu ka",
+   "id": 94,
+   "cat": "help",
+   "jp": "英語を話せる人はいますか？",
+   "romaji": "eigo o hanaseru hito wa imasu ka?",
+   "en": "Is there anyone who speaks English?",
+   "th": "มีใครพูดภาษาอังกฤษได้ไหม",
+   "note": "",
+   "say": "英語を話せる人はいますか？",
+   "audio": "audio/ja/aadc1f887b.mp3"
+  },
+  {
+   "id": 95,
+   "cat": "help",
+   "jp": "日本語が分かりません",
+   "romaji": "nihongo ga wakarimasen",
+   "en": "I don't understand Japanese",
+   "th": "ไม่เข้าใจภาษาญี่ปุ่น",
+   "note": "",
+   "say": "日本語が分かりません",
+   "audio": "audio/ja/d54a07ed19.mp3"
+  },
+  {
+   "id": 96,
+   "cat": "help",
+   "jp": "もう一度お願いします",
+   "romaji": "mō ichido onegaishimasu",
+   "en": "Once more, please",
+   "th": "ช่วยพูดอีกครั้ง",
+   "note": "",
+   "say": "もう一度お願いします",
+   "audio": "audio/ja/066d6b5992.mp3"
+  },
+  {
+   "id": 97,
+   "cat": "help",
+   "jp": "ゆっくり話してください",
+   "romaji": "yukkuri hanashite kudasai",
+   "en": "Please speak slowly",
+   "th": "ช่วยพูดช้าๆ หน่อย",
+   "note": "",
+   "say": "ゆっくり話してください",
+   "audio": "audio/ja/2831f0d3cc.mp3"
+  },
+  {
+   "id": 98,
+   "cat": "help",
+   "jp": "書いてもらえますか？",
+   "romaji": "kaite moraemasu ka?",
+   "en": "Could you write it down?",
+   "th": "ช่วยเขียนให้หน่อยได้ไหม",
+   "note": "",
+   "say": "書いてもらえますか？",
+   "audio": "audio/ja/7b4c0b9f5f.mp3"
+  },
+  {
+   "id": 99,
+   "cat": "help",
+   "jp": "地震です！",
+   "romaji": "jishin desu!",
+   "en": "It's an earthquake!",
+   "th": "แผ่นดินไหว!",
+   "note": "Get under a table, away from windows.",
+   "say": "地震です！",
+   "audio": "audio/ja/74a3f9f97f.mp3"
+  },
+  {
+   "id": 100,
+   "cat": "talk",
+   "jp": "いい天気ですね",
+   "romaji": "ii tenki desu ne",
+   "en": "Nice weather, isn't it?",
+   "th": "อากาศดีนะ",
+   "note": "Classic conversation opener.",
+   "say": "いい天気ですね",
+   "audio": "audio/ja/61b2e5cd60.mp3"
+  },
+  {
+   "id": 101,
+   "cat": "talk",
+   "jp": "今日は暑いですね",
+   "romaji": "kyō wa atsui desu ne",
+   "en": "It's hot today, isn't it?",
+   "th": "วันนี้ร้อนนะ",
+   "note": "Cold: 寒い samui.",
+   "say": "今日は暑いですね",
+   "audio": "audio/ja/ec682c6c0d.mp3"
+  },
+  {
+   "id": 102,
+   "cat": "talk",
+   "jp": "お名前は何ですか？",
+   "romaji": "o-namae wa nan desu ka?",
+   "en": "What's your name?",
+   "th": "ชื่ออะไร",
+   "note": "",
+   "say": "お名前は何ですか？",
+   "audio": "audio/ja/c84eea66d4.mp3"
+  },
+  {
+   "id": 103,
+   "cat": "talk",
+   "jp": "どこから来ましたか？",
+   "romaji": "doko kara kimashita ka?",
+   "en": "Where are you from?",
+   "th": "มาจากไหน",
+   "note": "",
+   "say": "どこから来ましたか？",
+   "audio": "audio/ja/06ef1c0d0f.mp3"
+  },
+  {
+   "id": 104,
+   "cat": "talk",
+   "jp": "趣味は何ですか？",
+   "romaji": "shumi wa nan desu ka?",
+   "en": "What are your hobbies?",
+   "th": "งานอดิเรกคืออะไร",
+   "note": "",
+   "say": "趣味は何ですか？",
+   "audio": "audio/ja/eef3b17e42.mp3"
+  },
+  {
+   "id": 105,
+   "cat": "talk",
+   "jp": "日本は初めてです",
+   "romaji": "Nihon wa hajimete desu",
+   "en": "It's my first time in Japan",
+   "th": "มาญี่ปุ่นครั้งแรก",
+   "note": "Second time: 二回目です nikaime desu.",
+   "say": "日本は初めてです",
+   "audio": "audio/ja/a3dc905efa.mp3"
+  },
+  {
+   "id": 106,
+   "cat": "talk",
+   "jp": "日本が大好きです",
+   "romaji": "Nihon ga daisuki desu",
+   "en": "I love Japan",
+   "th": "ชอบญี่ปุ่นมาก",
+   "note": "",
+   "say": "日本が大好きです",
+   "audio": "audio/ja/722249ffbd.mp3"
+  },
+  {
+   "id": 107,
+   "cat": "talk",
+   "jp": "日本語を勉強しています",
+   "romaji": "nihongo o benkyō shite imasu",
+   "en": "I'm studying Japanese",
+   "th": "กำลังเรียนภาษาญี่ปุ่น",
+   "note": "",
+   "say": "日本語を勉強しています",
+   "audio": "audio/ja/93d2ac622a.mp3"
+  },
+  {
+   "id": 108,
+   "cat": "talk",
+   "jp": "少しだけ話せます",
+   "romaji": "sukoshi dake hanasemasu",
+   "en": "I can speak only a little",
+   "th": "พูดได้นิดหน่อย",
+   "note": "",
+   "say": "少しだけ話せます",
+   "audio": "audio/ja/fcace21687.mp3"
+  },
+  {
+   "id": 109,
+   "cat": "talk",
+   "jp": "本当？",
+   "romaji": "hontō?",
    "en": "Really?",
    "th": "จริงเหรอ",
-   "example": "本当ですか？すごい！— Really? Amazing!"
+   "note": "Polite: 本当ですか.",
+   "say": "本当？",
+   "audio": "audio/ja/50667459a6.mp3"
   },
   {
-   "jp": "すごい",
-   "romaji": "sugoi",
-   "en": "Amazing / Wow",
-   "th": "สุดยอด / ว้าว",
-   "example": "富士山が見える！すごい！— I can see Mt. Fuji! Wow!"
+   "id": 110,
+   "cat": "talk",
+   "jp": "すごい！",
+   "romaji": "sugoi!",
+   "en": "Amazing!",
+   "th": "สุดยอด!",
+   "note": "",
+   "say": "すごい！",
+   "audio": "audio/ja/277e28f02e.mp3"
   },
   {
-   "jp": "かわいい",
-   "romaji": "kawaii",
-   "en": "Cute",
-   "th": "น่ารัก",
-   "example": "この猫、かわいい！— This cat is cute!"
+   "id": 111,
+   "cat": "talk",
+   "jp": "なるほど",
+   "romaji": "naruhodo",
+   "en": "I see / That makes sense",
+   "th": "อ๋อ เข้าใจแล้ว",
+   "note": "",
+   "say": "なるほど",
+   "audio": "audio/ja/2e1550a3f1.mp3"
   },
   {
-   "jp": "また今度",
-   "romaji": "mata kondo",
-   "en": "Maybe next time",
-   "th": "ไว้คราวหน้านะ",
-   "example": "今日は忙しいので、また今度。— I'm busy today, so maybe next time."
+   "id": 112,
+   "cat": "talk",
+   "jp": "そうですね",
+   "romaji": "sō desu ne",
+   "en": "That's right / Let me see",
+   "th": "นั่นสินะ / ใช่เลย",
+   "note": "Agreeing, or a filler while thinking.",
+   "say": "そうですね",
+   "audio": "audio/ja/fbc761d670.mp3"
   },
   {
-   "jp": "じゃあね",
-   "romaji": "jā ne",
-   "en": "See you / Bye (casual)",
-   "th": "ไปละนะ / บาย (กันเอง)",
-   "example": "じゃあね、また明日！— Bye, see you tomorrow!"
+   "id": 113,
+   "cat": "talk",
+   "jp": "写真を撮ってもいいですか？",
+   "romaji": "shashin o totte mo ii desu ka?",
+   "en": "May I take a photo?",
+   "th": "ถ่ายรูปได้ไหม",
+   "note": "",
+   "say": "写真を撮ってもいいですか？",
+   "audio": "audio/ja/782201eab1.mp3"
   },
   {
-   "jp": "おやすみなさい",
-   "romaji": "oyasumi nasai",
-   "en": "Good night",
-   "th": "ราตรีสวัสดิ์",
-   "example": "今日はありがとう。おやすみなさい。— Thanks for today. Good night."
+   "id": 114,
+   "cat": "talk",
+   "jp": "一緒に写真を撮りませんか？",
+   "romaji": "issho ni shashin o torimasen ka?",
+   "en": "Shall we take a photo together?",
+   "th": "ถ่ายรูปด้วยกันไหม",
+   "note": "",
+   "say": "一緒に写真を撮りませんか？",
+   "audio": "audio/ja/6e6d0f8ba6.mp3"
   },
   {
-   "jp": "お元気ですか",
-   "romaji": "o-genki desu ka",
-   "en": "How are you?",
-   "th": "สบายดีไหม",
-   "example": "久しぶりですね。お元気ですか？— Long time no see. How are you?"
+   "id": 115,
+   "cat": "talk",
+   "jp": "LINEやってますか？",
+   "romaji": "rain yattemasu ka?",
+   "en": "Do you use LINE?",
+   "th": "เล่นไลน์ไหม",
+   "note": "LINE is the main chat app in Japan too.",
+   "say": "ラインやってますか？",
+   "audio": "audio/ja/1045abaa24.mp3"
   },
   {
-   "jp": "久しぶり",
-   "romaji": "hisashiburi",
-   "en": "Long time no see",
-   "th": "ไม่ได้เจอกันนาน",
-   "example": "わあ、久しぶり！— Wow, long time no see!"
+   "id": 116,
+   "cat": "polite",
+   "jp": "ありがとうございます",
+   "romaji": "arigatō gozaimasu",
+   "en": "Thank you very much",
+   "th": "ขอบคุณมาก",
+   "note": "Casual: ありがとう.",
+   "say": "ありがとうございます",
+   "audio": "audio/ja/94f49c978d.mp3"
   },
   {
+   "id": 117,
+   "cat": "polite",
    "jp": "どういたしまして",
    "romaji": "dō itashimashite",
    "en": "You're welcome",
-   "th": "ไม่เป็นไร (ตอบคำขอบคุณ)",
-   "example": "ありがとう！— どういたしまして。— Thanks! — You're welcome."
+   "th": "ด้วยความยินดี",
+   "note": "In daily life people often say いえいえ.",
+   "say": "どういたしまして",
+   "audio": "audio/ja/c0d50b2506.mp3"
   },
   {
-   "jp": "〜はありますか",
-   "romaji": "~ wa arimasu ka",
-   "en": "Do you have ~?",
-   "th": "มี ~ ไหม",
-   "example": "Wi-Fiはありますか？— Do you have Wi-Fi?"
+   "id": 118,
+   "cat": "polite",
+   "jp": "すみません",
+   "romaji": "sumimasen",
+   "en": "Excuse me / Sorry",
+   "th": "ขอโทษ / ขอโทษนะ",
+   "note": "Also a light 'thank you' for small favors.",
+   "say": "すみません",
+   "audio": "audio/ja/27eeedab97.mp3"
   },
   {
-   "jp": "Wi-Fiのパスワードは何ですか",
-   "romaji": "waifai no pasuwādo wa nan desu ka",
-   "en": "What's the Wi-Fi password?",
-   "th": "รหัส Wi-Fi คืออะไร",
-   "example": "すみません、Wi-Fiのパスワードは何ですか？— Excuse me, what's the Wi-Fi password?"
+   "id": 119,
+   "cat": "polite",
+   "jp": "ごめんなさい",
+   "romaji": "gomen nasai",
+   "en": "I'm sorry",
+   "th": "ขอโทษ",
+   "note": "For personal apologies; casual: ごめん.",
+   "say": "ごめんなさい",
+   "audio": "audio/ja/03942332d1.mp3"
   },
   {
-   "jp": "荷物を預けられますか",
-   "romaji": "nimotsu o azukeraremasu ka",
-   "en": "Can I leave my luggage?",
-   "th": "ฝากกระเป๋าได้ไหม",
-   "example": "チェックインの前に荷物を預けられますか？— Can I leave my luggage before check-in?"
+   "id": 120,
+   "cat": "polite",
+   "jp": "申し訳ありません",
+   "romaji": "mōshiwake arimasen",
+   "en": "I'm terribly sorry",
+   "th": "ต้องขออภัยเป็นอย่างสูง",
+   "note": "Very formal; staff often use it.",
+   "say": "申し訳ありません",
+   "audio": "audio/ja/b4d5ebbab7.mp3"
   },
   {
-   "jp": "乾杯",
-   "romaji": "kanpai",
-   "en": "Cheers!",
-   "th": "ชนแก้ว!",
-   "example": "じゃあ、乾杯！— Well then, cheers!"
+   "id": 121,
+   "cat": "polite",
+   "jp": "お願いします",
+   "romaji": "onegaishimasu",
+   "en": "Please",
+   "th": "กรุณา / ขอด้วย",
+   "note": "Add after any request.",
+   "say": "お願いします",
+   "audio": "audio/ja/df829f0c42.mp3"
+  },
+  {
+   "id": 122,
+   "cat": "polite",
+   "jp": "はい／いいえ",
+   "romaji": "hai / iie",
+   "en": "Yes / No",
+   "th": "ใช่ / ไม่",
+   "note": "Japanese often avoid a hard いいえ; ちょっと… is softer.",
+   "say": "はい、いいえ",
+   "audio": "audio/ja/9efb5fd67d.mp3"
+  },
+  {
+   "id": 123,
+   "cat": "polite",
+   "jp": "ちょっと待ってください",
+   "romaji": "chotto matte kudasai",
+   "en": "Please wait a moment",
+   "th": "รอสักครู่",
+   "note": "Casual: ちょっと待って.",
+   "say": "ちょっと待ってください",
+   "audio": "audio/ja/6f6e1455dd.mp3"
+  },
+  {
+   "id": 124,
+   "cat": "polite",
+   "jp": "失礼します",
+   "romaji": "shitsurei shimasu",
+   "en": "Excuse me (entering/leaving)",
+   "th": "ขออนุญาต",
+   "note": "When entering a room or hanging up.",
+   "say": "失礼します",
+   "audio": "audio/ja/3a841e1db5.mp3"
+  },
+  {
+   "id": 125,
+   "cat": "polite",
+   "jp": "お疲れ様です",
+   "romaji": "otsukaresama desu",
+   "en": "Thanks for your hard work",
+   "th": "เหนื่อยหน่อยนะ / ขอบคุณที่ทำงานหนัก",
+   "note": "Common greeting among coworkers.",
+   "say": "お疲れ様です",
+   "audio": "audio/ja/1bf56def3f.mp3"
+  },
+  {
+   "id": 126,
+   "cat": "polite",
+   "jp": "おめでとうございます",
+   "romaji": "omedetō gozaimasu",
+   "en": "Congratulations",
+   "th": "ยินดีด้วย",
+   "note": "Birthday: 誕生日おめでとう.",
+   "say": "おめでとうございます",
+   "audio": "audio/ja/f74ead1d50.mp3"
+  },
+  {
+   "id": 127,
+   "cat": "polite",
+   "jp": "大丈夫ですか？",
+   "romaji": "daijōbu desu ka?",
+   "en": "Are you OK?",
+   "th": "เป็นอะไรไหม / โอเคไหม",
+   "note": "",
+   "say": "大丈夫ですか？",
+   "audio": "audio/ja/059425589f.mp3"
+  },
+  {
+   "id": 128,
+   "cat": "polite",
+   "jp": "分かりました",
+   "romaji": "wakarimashita",
+   "en": "Understood / OK",
+   "th": "เข้าใจแล้ว",
+   "note": "",
+   "say": "分かりました",
+   "audio": "audio/ja/177ba1a19f.mp3"
+  },
+  {
+   "id": 129,
+   "cat": "polite",
+   "jp": "いいですよ",
+   "romaji": "ii desu yo",
+   "en": "Sure, that's fine",
+   "th": "ได้สิ",
+   "note": "Agreeing to a request.",
+   "say": "いいですよ",
+   "audio": "audio/ja/9014540164.mp3"
+  },
+  {
+   "id": 130,
+   "cat": "polite",
+   "jp": "お先に失礼します",
+   "romaji": "osaki ni shitsurei shimasu",
+   "en": "Excuse me for leaving first",
+   "th": "ขอตัวกลับก่อนนะ",
+   "note": "When leaving work before others.",
+   "say": "お先に失礼します",
+   "audio": "audio/ja/aa917b34f1.mp3"
+  },
+  {
+   "id": 131,
+   "cat": "polite",
+   "jp": "どうぞ",
+   "romaji": "dōzo",
+   "en": "Go ahead / Here you are",
+   "th": "เชิญ / นี่ครับ/ค่ะ",
+   "note": "When offering or letting someone pass.",
+   "say": "どうぞ",
+   "audio": "audio/ja/cf30ffebe8.mp3"
+  },
+  {
+   "id": 132,
+   "cat": "num",
+   "jp": "一、二、三",
+   "romaji": "ichi, ni, san",
+   "en": "One, two, three",
+   "th": "หนึ่ง สอง สาม",
+   "note": "4 yon, 5 go, 6 roku, 7 nana, 8 hachi, 9 kyū, 10 jū.",
+   "say": "一、二、三",
+   "audio": "audio/ja/3fdadee42c.mp3"
+  },
+  {
+   "id": 133,
+   "cat": "num",
+   "jp": "百／千／一万",
+   "romaji": "hyaku / sen / ichiman",
+   "en": "100 / 1,000 / 10,000",
+   "th": "ร้อย / พัน / หมื่น",
+   "note": "Prices: 千円 = ¥1,000, 一万円 = ¥10,000.",
+   "say": "百、千、一万",
+   "audio": "audio/ja/9bdb68865a.mp3"
+  },
+  {
+   "id": 134,
+   "cat": "num",
+   "jp": "今何時ですか？",
+   "romaji": "ima nanji desu ka?",
+   "en": "What time is it now?",
+   "th": "ตอนนี้กี่โมง",
+   "note": "",
+   "say": "今何時ですか？",
+   "audio": "audio/ja/113a83848b.mp3"
+  },
+  {
+   "id": 135,
+   "cat": "num",
+   "jp": "三時半です",
+   "romaji": "sanji han desu",
+   "en": "It's 3:30",
+   "th": "สามโมงครึ่ง",
+   "note": "半 han = half past.",
+   "say": "三時半です",
+   "audio": "audio/ja/48a5a3976a.mp3"
+  },
+  {
+   "id": 136,
+   "cat": "num",
+   "jp": "何時に開きますか？",
+   "romaji": "nanji ni akimasu ka?",
+   "en": "What time do you open?",
+   "th": "เปิดกี่โมง",
+   "note": "",
+   "say": "何時に開きますか？",
+   "audio": "audio/ja/38b0c75efb.mp3"
+  },
+  {
+   "id": 137,
+   "cat": "num",
+   "jp": "何時に閉まりますか？",
+   "romaji": "nanji ni shimarimasu ka?",
+   "en": "What time do you close?",
+   "th": "ปิดกี่โมง",
+   "note": "",
+   "say": "何時に閉まりますか？",
+   "audio": "audio/ja/ff00a150d4.mp3"
+  },
+  {
+   "id": 138,
+   "cat": "num",
+   "jp": "今日／明日／昨日",
+   "romaji": "kyō / ashita / kinō",
+   "en": "Today / Tomorrow / Yesterday",
+   "th": "วันนี้ / พรุ่งนี้ / เมื่อวาน",
+   "note": "",
+   "say": "今日、明日、昨日",
+   "audio": "audio/ja/ad3b3a833b.mp3"
+  },
+  {
+   "id": 139,
+   "cat": "num",
+   "jp": "今週末",
+   "romaji": "konshūmatsu",
+   "en": "This weekend",
+   "th": "สุดสัปดาห์นี้",
+   "note": "",
+   "say": "今週末",
+   "audio": "audio/ja/c449532d74.mp3"
+  },
+  {
+   "id": 140,
+   "cat": "num",
+   "jp": "午前／午後",
+   "romaji": "gozen / gogo",
+   "en": "AM / PM",
+   "th": "ช่วงเช้า / ช่วงบ่าย",
+   "note": "午後二時 = 2 PM.",
+   "say": "午前、午後",
+   "audio": "audio/ja/664b3ffc3b.mp3"
+  },
+  {
+   "id": 141,
+   "cat": "num",
+   "jp": "五分後",
+   "romaji": "go-fun go",
+   "en": "In five minutes",
+   "th": "อีกห้านาที",
+   "note": "分 is read fun or pun: 一分 ippun, 十分 juppun.",
+   "say": "五分後",
+   "audio": "audio/ja/af7732799c.mp3"
+  },
+  {
+   "id": 142,
+   "cat": "num",
+   "jp": "何日ですか？",
+   "romaji": "nannichi desu ka?",
+   "en": "What's the date?",
+   "th": "วันที่เท่าไหร่",
+   "note": "",
+   "say": "何日ですか？",
+   "audio": "audio/ja/d0c5c18145.mp3"
+  },
+  {
+   "id": 143,
+   "cat": "num",
+   "jp": "何曜日ですか？",
+   "romaji": "nan'yōbi desu ka?",
+   "en": "What day of the week is it?",
+   "th": "วันอะไร",
+   "note": "月曜日 Monday, 金曜日 Friday.",
+   "say": "何曜日ですか？",
+   "audio": "audio/ja/90752acc5f.mp3"
+  },
+  {
+   "id": 144,
+   "cat": "num",
+   "jp": "千五百円です",
+   "romaji": "sen gohyaku en desu",
+   "en": "It's 1,500 yen",
+   "th": "1,500 เยน",
+   "note": "",
+   "say": "千五百円です",
+   "audio": "audio/ja/ac441add28.mp3"
+  },
+  {
+   "id": 145,
+   "cat": "num",
+   "jp": "一つ、二つ、三つ",
+   "romaji": "hitotsu, futatsu, mittsu",
+   "en": "One, two, three (things)",
+   "th": "หนึ่งอัน สองอัน สามอัน",
+   "note": "General counter for items when ordering.",
+   "say": "一つ、二つ、三つ",
+   "audio": "audio/ja/40b321fc22.mp3"
+  },
+  {
+   "id": 146,
+   "cat": "game",
+   "jp": "一緒にやろう！",
+   "romaji": "issho ni yarō!",
+   "en": "Let's play together!",
+   "th": "มาเล่นด้วยกัน!",
+   "note": "",
+   "say": "一緒にやろう！",
+   "audio": "audio/ja/6bceb7f8b3.mp3"
+  },
+  {
+   "id": 147,
+   "cat": "game",
+   "jp": "よろしくお願いします！",
+   "romaji": "yoroshiku onegaishimasu!",
+   "en": "Good luck, have fun (start of match)",
+   "th": "ฝากด้วยนะ (เริ่มเกม)",
+   "note": "Shortened in chat to よろ or よろしく.",
+   "say": "よろしくお願いします！",
+   "audio": "audio/ja/1f40b4be3c.mp3"
+  },
+  {
+   "id": 148,
+   "cat": "game",
+   "jp": "お疲れ様でした！",
+   "romaji": "otsukaresama deshita!",
+   "en": "GG / Good game",
+   "th": "เหนื่อยหน่อยนะ / GG",
+   "note": "Polite end-of-match thanks; chat: おつ.",
+   "say": "お疲れ様でした！",
+   "audio": "audio/ja/96d018df4c.mp3"
+  },
+  {
+   "id": 149,
+   "cat": "game",
+   "jp": "ナイス！",
+   "romaji": "naisu!",
+   "en": "Nice!",
+   "th": "เยี่ยม!",
+   "note": "",
+   "say": "ナイス！",
+   "audio": "audio/ja/244383077c.mp3"
+  },
+  {
+   "id": 150,
+   "cat": "game",
+   "jp": "ドンマイ",
+   "romaji": "donmai",
+   "en": "Don't mind / Unlucky",
+   "th": "ไม่เป็นไรนะ",
+   "note": "From 'don't mind'; comforting a teammate.",
+   "say": "ドンマイ",
+   "audio": "audio/ja/9541f20730.mp3"
+  },
+  {
+   "id": 151,
+   "cat": "game",
+   "jp": "助けて！",
+   "romaji": "tasukete!",
+   "en": "Help me!",
+   "th": "ช่วยด้วย!",
+   "note": "",
+   "say": "助けて！",
+   "audio": "audio/ja/f0396d5f3e.mp3"
+  },
+  {
+   "id": 152,
+   "cat": "game",
+   "jp": "敵がいる！",
+   "romaji": "teki ga iru!",
+   "en": "Enemy here!",
+   "th": "มีศัตรู!",
+   "note": "",
+   "say": "敵がいる！",
+   "audio": "audio/ja/3aaed2eabc.mp3"
+  },
+  {
+   "id": 153,
+   "cat": "game",
+   "jp": "回復お願い！",
+   "romaji": "kaifuku onegai!",
+   "en": "Heal please!",
+   "th": "ขอฮีลหน่อย!",
+   "note": "",
+   "say": "回復お願い！",
+   "audio": "audio/ja/6500a51be3.mp3"
+  },
+  {
+   "id": 154,
+   "cat": "game",
+   "jp": "もう一回！",
+   "romaji": "mō ikkai!",
+   "en": "One more round!",
+   "th": "อีกรอบ!",
+   "note": "",
+   "say": "もう一回！",
+   "audio": "audio/ja/c09e424f2d.mp3"
+  },
+  {
+   "id": 155,
+   "cat": "game",
+   "jp": "推しは誰？",
+   "romaji": "oshi wa dare?",
+   "en": "Who's your favorite (character)?",
+   "th": "เมนของเธอคือใคร",
+   "note": "推し oshi = your favorite idol/character.",
+   "say": "推しは誰？",
+   "audio": "audio/ja/cb16e1f661.mp3"
+  },
+  {
+   "id": 156,
+   "cat": "game",
+   "jp": "このアニメ見た？",
+   "romaji": "kono anime mita?",
+   "en": "Did you watch this anime?",
+   "th": "ดูอนิเมะเรื่องนี้หรือยัง",
+   "note": "",
+   "say": "このアニメ見た？",
+   "audio": "audio/ja/4317c4bb85.mp3"
+  },
+  {
+   "id": 157,
+   "cat": "game",
+   "jp": "ネタバレしないで！",
+   "romaji": "netabare shinaide!",
+   "en": "No spoilers!",
+   "th": "อย่าสปอยล์นะ!",
+   "note": "",
+   "say": "ネタバレしないで！",
+   "audio": "audio/ja/6584a32d9a.mp3"
+  },
+  {
+   "id": 158,
+   "cat": "game",
+   "jp": "めっちゃ面白い！",
+   "romaji": "meccha omoshiroi!",
+   "en": "Super fun / So good!",
+   "th": "สนุกมาก!",
+   "note": "めっちゃ is casual Kansai-origin 'very'.",
+   "say": "めっちゃ面白い！",
+   "audio": "audio/ja/e8a02ff753.mp3"
+  },
+  {
+   "id": 159,
+   "cat": "game",
+   "jp": "草",
+   "romaji": "kusa",
+   "en": "LOL",
+   "th": "555",
+   "note": "Internet slang; looks like grass ｗｗｗ.",
+   "say": "くさ",
+   "audio": "audio/ja/e00508cb66.mp3"
+  },
+  {
+   "id": 160,
+   "cat": "game",
+   "jp": "ガチャ爆死した…",
+   "romaji": "gacha bakushi shita…",
+   "en": "My gacha pulls were a total loss…",
+   "th": "สุ่มกาชาเกลือหมดเลย…",
+   "note": "Gacha slang: spent a lot, got nothing.",
+   "say": "ガチャ爆死した…",
+   "audio": "audio/ja/6a10a3b866.mp3"
   }
  ]
 }

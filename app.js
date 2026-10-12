@@ -29,6 +29,7 @@ function render(sec){
  const rows=$('#rows');rows.innerHTML='';const add=(el,key)=>{if(!el)return;rows.appendChild(el);const w=key&&weekly(key);if(w)el.appendChild(w)};
  let links=[];
  if(sec==='memes'){memes(add,links);}
+ else if(sec==='japan'){japan(add,links);}
  else if(sec==='books'){
   const q=Q.quotes[dayIdx(Q.quotes.length)];
   hero({tag:'Book quote of the day · คำคมประจำวัน',title:'“'+q.q+'”',meta:`— ${q.author}, ${q.book}`,text:1,bg:'linear-gradient(135deg,#2a0a0a,#141414)'});
@@ -93,4 +94,31 @@ function memes(add,links){
   MCATS.forEach(c=>R.push(mrow('m-'+c.key,c.name,c.th,MM.filter(m=>m.category===c.key).slice(0,40))));
   R.forEach(r=>{if(!r)return;const k=r.id.slice(2),c=MCATS.find(x=>x.key===k);if(c){const n=MM.filter(m=>m.category===k).length;if(n>40){const b=document.createElement('button');b.className='seeall';b.textContent=`See all ${n} · ดูทั้งหมด`;b.onclick=()=>{memeOcc=k;document.querySelectorAll('.chips button').forEach(x=>x.classList.toggle('on',x.dataset.o===k));draw();window.scrollTo(0,0)};r.querySelector('h2').append(b)}}box.appendChild(r)})}
  draw();links.push(['m-top','Top'],['m-reply','Reply'],['m-fav','Favorites']);
+}
+
+// ---- Japan: everyday phrases with audio ----
+const AU=new Audio();AU.preload='none';
+function speak(p,slow){
+ const tts=()=>{if(!window.speechSynthesis)return;speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(p.say||p.jp);u.lang='ja-JP';u.rate=slow?.6:.95;const v=speechSynthesis.getVoices().find(v=>/^ja/i.test(v.lang));if(v)u.voice=v;speechSynthesis.speak(u)};
+ try{AU.pause();AU.src=p.audio;AU.defaultPlaybackRate=AU.playbackRate=slow?.7:1;if('preservesPitch' in AU)AU.preservesPitch=true;AU.onerror=tts;const pr=AU.play();if(pr&&pr.catch)pr.then(()=>{AU.playbackRate=slow?.7:1}).catch(tts)}catch(e){tts()}
+}
+function pcard(p){const c=document.createElement('div');c.className='pcard';
+ c.innerHTML=`<div class="pjp">${esc(p.jp)}</div><div class="pro">${esc(p.romaji)}</div><div class="pen">${esc(p.en)}</div><div class="pth">🇹🇭 ${esc(p.th)}</div>${p.note?`<div class="pnote">${esc(p.note)}</div>`:''}<div class="pbtn"><button class="say" aria-label="Play">🔊 Play</button><button class="slow" aria-label="Slow">🐢 Slow</button></div>`;
+ c.querySelector('.say').onclick=()=>speak(p,0);c.querySelector('.slow').onclick=()=>speak(p,1);return c}
+function japan(add,links){
+ const PH=P.phrases,p=PH[dayIdx(PH.length)];
+ hero({tag:'🇯🇵 Phrase of the day · วลีประจำวัน',title:p.jp,meta:`${p.romaji} · ${p.en}`,text:1,bg:'linear-gradient(135deg,#3a0610,#141414 70%)',
+  extra:`<div class="phrase">🇹🇭 ${esc(p.th)}${p.note?`<br><span class="ex">${esc(p.note)}</span>`:''}<div class="pbtn"><button class="say" id="hSay">🔊 Play</button><button class="slow" id="hSlow">🐢 Slow</button></div></div>`});
+ $('#hSay').onclick=()=>speak(p,0);$('#hSlow').onclick=()=>speak(p,1);
+ const bar=document.createElement('div');bar.className='pbar';
+ bar.innerHTML=`<input id="pq" type="search" placeholder="Search phrases · ค้นหา (JP / romaji / EN / ไทย)"><div class="chips">${['all',...P.categories.map(c=>c.key)].map(k=>{const c=P.categories.find(x=>x.key===k);return `<button data-k="${k}" class="${k==='all'?'on':''}">${c?esc(c.name):'All · ทั้งหมด'}</button>`}).join('')}</div>`;
+ add(bar);const box=document.createElement('div');add(box);let cat='all';
+ const draw=()=>{const q=bar.querySelector('#pq').value.trim().toLowerCase();box.innerHTML='';
+  P.categories.filter(c=>cat==='all'||c.key===cat).forEach(c=>{const L=PH.filter(x=>x.cat===c.key&&(!q||[x.jp,x.romaji,x.en,x.th,x.note].join(' ').toLowerCase().includes(q)));if(!L.length)return;
+   const s=document.createElement('section');s.className='row';s.id='ph-'+c.key;s.innerHTML=`<h2>${esc(c.name)}<small>${esc(c.th)} · ${L.length}</small></h2><div class="pgrid"></div>`;
+   const g=s.querySelector('.pgrid');L.forEach(x=>g.appendChild(pcard(x)));box.appendChild(s)});
+  if(!box.children.length)box.innerHTML='<p class="empty">No phrases found · ไม่พบวลี</p>'};
+ bar.querySelector('#pq').oninput=draw;
+ bar.querySelectorAll('.chips button').forEach(b=>b.onclick=()=>{cat=b.dataset.k;bar.querySelectorAll('.chips button').forEach(x=>x.classList.toggle('on',x===b));draw()});
+ draw();P.categories.forEach(c=>links.push(['ph-'+c.key,c.name]));
 }

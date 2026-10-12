@@ -42,3 +42,10 @@ footer{color:#777;font-size:12px;padding:30px 4%}
 #toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:#e50914;color:#fff;padding:8px 14px;border-radius:20px;display:none;z-index:20}
 .seeall{margin-left:12px;background:none;border:1px solid #e50914;color:#e50914;border-radius:12px;padding:2px 10px;font-size:12px;cursor:pointer}
 .phrase{background:#000a;border-left:3px solid #e50914;padding:10px 14px;margin:10px 0;max-width:560px;font-size:14px;line-height:1.5}.phrase b{font-size:22px}.phrase .pt{display:block;color:#e50914;font-size:12px;font-weight:700}.phrase i{color:#ccc}
+
+.pgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:10px;padding:0 4%}
+.pcard{background:#1f1f1f;border-radius:8px;padding:12px 14px;line-height:1.4}
+.pjp{font-size:20px;font-weight:700}.pro{color:#e5b3b6;font-style:italic;font-size:14px}.pen{font-size:14px;margin-top:4px}.pth{font-size:14px;color:#ccc}.pnote{font-size:12px;color:#999;margin-top:4px}
+.pbtn{display:flex;gap:8px;margin-top:8px}.pbtn button{background:#e50914;color:#fff;border:0;border-radius:6px;padding:8px 12px;font-size:14px;cursor:pointer;min-height:36px}.pbtn .slow{background:#444}
+.empty{padding:20px 4%;color:#aaa}
+.pbar{padding:12px 4%;display:flex;flex-direction:column;gap:8px}.pbar input{width:100%;max-width:560px;padding:10px 12px;border-radius:6px;border:1px solid #444;background:#111;color:#fff;font-size:16px}
