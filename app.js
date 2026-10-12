@@ -4,7 +4,7 @@ const fmt=n=>n>=1e6?(n/1e6).toFixed(1).replace(/\.0$/,'')+'M':n>=1e3?Math.round(
 function play(v){$('#player').src=`https://www.youtube-nocookie.com/embed/${v.id}?autoplay=1&rel=0`;$('#mTitle').textContent=v.title;$('#mYt').href=yt(v.id);$('#modal').hidden=false}
 function close(){$('#modal').hidden=true;$('#player').src=''}
 $('#close').onclick=close;$('#modal').onclick=e=>{if(e.target.id==='modal')close()};document.onkeydown=e=>{if(e.key==='Escape')close()};
-const get=u=>fetch(u+'?'+Date.now()).then(r=>r.json()).catch(()=>null);
+const VER='202610130543';const get=u=>fetch(u+'?v='+VER+'-'+Date.now(),{cache:'no-store'}).then(r=>r.json()).catch(()=>null);
 let D,W={rows:{}},B,P,Q,J,MM=[],MCATS=[];
 const dayIdx=n=>{const d=new Date();const k=Math.floor(Date.UTC(d.getFullYear(),d.getMonth(),d.getDate())/864e5);return k%n};
 function weekly(key){const w=W.rows[key];if(!w)return null;const b=document.createElement('div');b.className='wk';
@@ -29,7 +29,7 @@ function render(sec){
  const rows=$('#rows');rows.innerHTML='';const add=(el,key)=>{if(!el)return;rows.appendChild(el);const w=key&&weekly(key);if(w)el.appendChild(w)};
  let links=[];
  if(sec==='memes'){memes(add,links);}
- else if(sec==='japan'){japan(add,links);}
+ else if(sec==='japan'){if(P&&P.phrases)japan(add,links);else rows.innerHTML='<p class="empty">Phrases failed to load — pull to refresh · โหลดไม่สำเร็จ</p>';}
  else if(sec==='books'){
   const q=Q.quotes[dayIdx(Q.quotes.length)];
   hero({tag:'Book quote of the day · คำคมประจำวัน',title:'“'+q.q+'”',meta:`— ${q.author}, ${q.book}`,text:1,bg:'linear-gradient(135deg,#2a0a0a,#141414)'});
@@ -100,7 +100,7 @@ function memes(add,links){
 const AU=new Audio();AU.preload='none';
 function speak(p,slow){
  const tts=()=>{if(!window.speechSynthesis)return;speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(p.say||p.jp);u.lang='ja-JP';u.rate=slow?.6:.95;const v=speechSynthesis.getVoices().find(v=>/^ja/i.test(v.lang));if(v)u.voice=v;speechSynthesis.speak(u)};
- try{AU.pause();AU.src=p.audio;AU.defaultPlaybackRate=AU.playbackRate=slow?.7:1;if('preservesPitch' in AU)AU.preservesPitch=true;AU.onerror=tts;const pr=AU.play();if(pr&&pr.catch)pr.then(()=>{AU.playbackRate=slow?.7:1}).catch(tts)}catch(e){tts()}
+ try{AU.pause();AU.src=p.audio+'?v='+VER;AU.defaultPlaybackRate=AU.playbackRate=slow?.7:1;if('preservesPitch' in AU)AU.preservesPitch=true;AU.onerror=tts;const pr=AU.play();if(pr&&pr.catch)pr.then(()=>{AU.playbackRate=slow?.7:1}).catch(tts)}catch(e){tts()}
 }
 function pcard(p){const c=document.createElement('div');c.className='pcard';
  c.innerHTML=`<div class="pjp">${esc(p.jp)}</div><div class="pro">${esc(p.romaji)}</div><div class="pen">${esc(p.en)}</div><div class="pth">🇹🇭 ${esc(p.th)}</div>${p.note?`<div class="pnote">${esc(p.note)}</div>`:''}<div class="pbtn"><button class="say" aria-label="Play">🔊 Play</button><button class="slow" aria-label="Slow">🐢 Slow</button></div>`;
