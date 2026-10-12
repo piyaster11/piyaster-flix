@@ -62,3 +62,4 @@ footer{color:#777;font-size:12px;padding:30px 4%}
 .dwhy{font-size:13px;color:#ccc;margin:8px 0}.dsrc{font-size:13px;color:#ff6b81;font-weight:600}
 .dlang{display:inline-flex;margin-top:8px;border:1px solid #fff6;border-radius:999px;padding:2px}.dlang button{border:0;background:none;color:#fff;font-weight:700;padding:5px 12px;border-radius:999px;cursor:pointer}.dlang button.on{background:#fff;color:#4c1d95}
 .dtally{font-size:12px;background:#fff2;border-radius:999px;padding:2px 8px}.dtally:empty{display:none}
+@media(max-width:700px){.nav{position:sticky;background:#141414f2;padding:10px 4%}.hero{height:auto;min-height:340px}}
