@@ -1,0 +1,1495 @@
+{
+ "categories": [
+  {
+   "key": "must",
+   "name": "Must-Know",
+   "th": "ต้องรู้",
+   "sos": "☎️ Emergency in Japan: Police 110 · Ambulance/Fire 119"
+  },
+  {
+   "key": "greet",
+   "name": "Greetings",
+   "th": "ทักทาย"
+  },
+  {
+   "key": "food",
+   "name": "Restaurant & Ordering",
+   "th": "ร้านอาหาร/สั่งอาหาร"
+  },
+  {
+   "key": "shop",
+   "name": "Shopping",
+   "th": "ช้อปปิ้ง"
+  },
+  {
+   "key": "transport",
+   "name": "Directions & Transport",
+   "th": "ถามทาง/การเดินทาง"
+  },
+  {
+   "key": "hotel",
+   "name": "Hotel",
+   "th": "โรงแรม"
+  },
+  {
+   "key": "help",
+   "name": "Emergencies & Help",
+   "th": "ฉุกเฉิน/ขอความช่วยเหลือ"
+  },
+  {
+   "key": "talk",
+   "name": "Small Talk",
+   "th": "คุยเล่น"
+  },
+  {
+   "key": "polite",
+   "name": "Polite Expressions",
+   "th": "สำนวนสุภาพ"
+  },
+  {
+   "key": "num",
+   "name": "Numbers & Time",
+   "th": "ตัวเลข/เวลา"
+  },
+  {
+   "key": "game",
+   "name": "Gaming & Anime Chat",
+   "th": "คุยเรื่องเกม/อนิเมะ"
+  }
+ ],
+ "phrases": [
+  {
+   "cat": "must",
+   "jp": "トイレはどこですか？",
+   "romaji": "toire wa doko desu ka?",
+   "en": "Where is the toilet?",
+   "th": "ห้องน้ำอยู่ที่ไหน",
+   "note": ""
+  },
+  {
+   "cat": "must",
+   "jp": "タクシー乗り場はどこですか？",
+   "romaji": "takushī noriba wa doko desu ka?",
+   "en": "Where is the taxi stand?",
+   "th": "จุดขึ้นแท็กซี่อยู่ที่ไหน",
+   "note": ""
+  },
+  {
+   "cat": "must",
+   "jp": "病院はどこですか？",
+   "romaji": "byōin wa doko desu ka?",
+   "en": "Where is the hospital?",
+   "th": "โรงพยาบาลอยู่ที่ไหน",
+   "note": ""
+  },
+  {
+   "cat": "must",
+   "jp": "一番近い薬局はどこですか？",
+   "romaji": "ichiban chikai yakkyoku wa doko desu ka?",
+   "en": "Where is the nearest pharmacy?",
+   "th": "ร้านขายยาที่ใกล้ที่สุดอยู่ที่ไหน",
+   "note": "Drugstores (ドラッグストア) sell basic medicine."
+  },
+  {
+   "cat": "must",
+   "jp": "交番はどこですか？",
+   "romaji": "kōban wa doko desu ka?",
+   "en": "Where is the police box?",
+   "th": "ป้อมตำรวจอยู่ที่ไหน",
+   "note": "Police station: 警察署 keisatsusho; kōban are everywhere."
+  },
+  {
+   "cat": "must",
+   "jp": "駅はどこですか？",
+   "romaji": "eki wa doko desu ka?",
+   "en": "Where is the train station?",
+   "th": "สถานีรถไฟอยู่ที่ไหน",
+   "note": "Subway: 地下鉄 chikatetsu."
+  },
+  {
+   "cat": "must",
+   "jp": "助けが必要です",
+   "romaji": "tasuke ga hitsuyō desu",
+   "en": "I need help",
+   "th": "ฉันต้องการความช่วยเหลือ",
+   "note": ""
+  },
+  {
+   "cat": "must",
+   "jp": "助けてください",
+   "romaji": "tasukete kudasai",
+   "en": "Please help me",
+   "th": "ช่วยฉันด้วย",
+   "note": "Urgent shout: 助けて！"
+  },
+  {
+   "cat": "must",
+   "jp": "救急車を呼んでください",
+   "romaji": "kyūkyūsha o yonde kudasai",
+   "en": "Please call an ambulance",
+   "th": "ช่วยเรียกรถพยาบาลด้วย",
+   "note": "☎️ Japan: Police 110 · Ambulance/Fire 119."
+  },
+  {
+   "cat": "must",
+   "jp": "警察を呼んでください",
+   "romaji": "keisatsu o yonde kudasai",
+   "en": "Please call the police",
+   "th": "ช่วยเรียกตำรวจด้วย",
+   "note": "☎️ Japan: Police 110 · Ambulance/Fire 119."
+  },
+  {
+   "cat": "must",
+   "jp": "英語を話せますか？",
+   "romaji": "eigo o hanasemasu ka?",
+   "en": "Do you speak English?",
+   "th": "พูดภาษาอังกฤษได้ไหม",
+   "note": ""
+  },
+  {
+   "cat": "must",
+   "jp": "分かりません",
+   "romaji": "wakarimasen",
+   "en": "I don't understand",
+   "th": "ไม่เข้าใจ",
+   "note": ""
+  },
+  {
+   "cat": "must",
+   "jp": "ゆっくり話してください",
+   "romaji": "yukkuri hanashite kudasai",
+   "en": "Please speak slowly",
+   "th": "ช่วยพูดช้าๆ หน่อย",
+   "note": ""
+  },
+  {
+   "cat": "must",
+   "jp": "書いてもらえますか？",
+   "romaji": "kaite moraemasu ka?",
+   "en": "Can you write it down?",
+   "th": "ช่วยเขียนให้หน่อยได้ไหม",
+   "note": ""
+  },
+  {
+   "cat": "must",
+   "jp": "これはいくらですか？",
+   "romaji": "kore wa ikura desu ka?",
+   "en": "How much is this?",
+   "th": "อันนี้ราคาเท่าไหร่",
+   "note": ""
+  },
+  {
+   "cat": "must",
+   "jp": "道に迷いました",
+   "romaji": "michi ni mayoimashita",
+   "en": "I'm lost",
+   "th": "ฉันหลงทาง",
+   "note": ""
+  },
+  {
+   "cat": "must",
+   "jp": "〇〇アレルギーがあります",
+   "romaji": "___ arerugī ga arimasu",
+   "en": "I'm allergic to ___",
+   "th": "ฉันแพ้ ___",
+   "note": "Fill in: エビ shrimp, 卵 egg, 小麦 wheat, ピーナッツ peanuts, 乳 milk.",
+   "say": "エビアレルギーがあります"
+  },
+  {
+   "cat": "must",
+   "jp": "ありがとうございます",
+   "romaji": "arigatō gozaimasu",
+   "en": "Thank you",
+   "th": "ขอบคุณ",
+   "note": ""
+  },
+  {
+   "cat": "must",
+   "jp": "すみません",
+   "romaji": "sumimasen",
+   "en": "Sorry / Excuse me",
+   "th": "ขอโทษ / ขอโทษนะ",
+   "note": "Works for both apologizing and getting attention."
+  },
+  {
+   "cat": "greet",
+   "jp": "おはようございます",
+   "romaji": "ohayō gozaimasu",
+   "en": "Good morning",
+   "th": "สวัสดีตอนเช้า",
+   "note": "Polite. Friends just say おはよう."
+  },
+  {
+   "cat": "greet",
+   "jp": "こんにちは",
+   "romaji": "konnichiwa",
+   "en": "Hello / Good afternoon",
+   "th": "สวัสดี (ตอนกลางวัน)",
+   "note": "Standard daytime greeting."
+  },
+  {
+   "cat": "greet",
+   "jp": "こんばんは",
+   "romaji": "konbanwa",
+   "en": "Good evening",
+   "th": "สวัสดีตอนเย็น",
+   "note": "Use after dark."
+  },
+  {
+   "cat": "greet",
+   "jp": "はじめまして",
+   "romaji": "hajimemashite",
+   "en": "Nice to meet you (first time)",
+   "th": "ยินดีที่ได้รู้จัก",
+   "note": "Only when meeting someone for the first time."
+  },
+  {
+   "cat": "greet",
+   "jp": "よろしくお願いします",
+   "romaji": "yoroshiku onegaishimasu",
+   "en": "Pleased to meet you / I'm in your care",
+   "th": "ฝากเนื้อฝากตัวด้วย",
+   "note": "Used after introductions and when asking a favor."
+  },
+  {
+   "cat": "greet",
+   "jp": "お元気ですか？",
+   "romaji": "o-genki desu ka?",
+   "en": "How are you?",
+   "th": "สบายดีไหม",
+   "note": "Used when you haven't seen someone in a while."
+  },
+  {
+   "cat": "greet",
+   "jp": "元気です",
+   "romaji": "genki desu",
+   "en": "I'm fine",
+   "th": "สบายดี",
+   "note": "Reply to お元気ですか."
+  },
+  {
+   "cat": "greet",
+   "jp": "久しぶり！",
+   "romaji": "hisashiburi!",
+   "en": "Long time no see!",
+   "th": "ไม่ได้เจอกันนานเลย",
+   "note": "Casual. Polite: お久しぶりです."
+  },
+  {
+   "cat": "greet",
+   "jp": "おやすみなさい",
+   "romaji": "oyasuminasai",
+   "en": "Good night",
+   "th": "ราตรีสวัสดิ์",
+   "note": "When going to bed or parting at night."
+  },
+  {
+   "cat": "greet",
+   "jp": "さようなら",
+   "romaji": "sayōnara",
+   "en": "Goodbye",
+   "th": "ลาก่อน",
+   "note": "Sounds final; friends prefer じゃあね."
+  },
+  {
+   "cat": "greet",
+   "jp": "じゃあね／またね",
+   "romaji": "jā ne / mata ne",
+   "en": "See you / Bye",
+   "th": "ไว้เจอกัน / บาย",
+   "note": "Casual goodbye with friends."
+  },
+  {
+   "cat": "greet",
+   "jp": "また明日",
+   "romaji": "mata ashita",
+   "en": "See you tomorrow",
+   "th": "เจอกันพรุ่งนี้",
+   "note": ""
+  },
+  {
+   "cat": "greet",
+   "jp": "私は〇〇です",
+   "romaji": "watashi wa ___ desu",
+   "en": "I am ___",
+   "th": "ฉันชื่อ ___",
+   "note": "Self-introduction; put your name in the blank."
+  },
+  {
+   "cat": "greet",
+   "jp": "タイから来ました",
+   "romaji": "Tai kara kimashita",
+   "en": "I'm from Thailand",
+   "th": "มาจากประเทศไทย",
+   "note": "Replace タイ with any country."
+  },
+  {
+   "cat": "greet",
+   "jp": "いってきます",
+   "romaji": "ittekimasu",
+   "en": "I'm off (and will be back)",
+   "th": "ไปก่อนนะ (แล้วจะกลับมา)",
+   "note": "Said when leaving home; reply is いってらっしゃい."
+  },
+  {
+   "cat": "greet",
+   "jp": "ただいま",
+   "romaji": "tadaima",
+   "en": "I'm home",
+   "th": "กลับมาแล้ว",
+   "note": "Reply is おかえり(なさい)."
+  },
+  {
+   "cat": "food",
+   "jp": "すみません！",
+   "romaji": "sumimasen!",
+   "en": "Excuse me! (calling staff)",
+   "th": "ขอโทษครับ/ค่ะ (เรียกพนักงาน)",
+   "note": "Raise your hand and call this in restaurants."
+  },
+  {
+   "cat": "food",
+   "jp": "何名様ですか？",
+   "romaji": "nanmei-sama desu ka?",
+   "en": "How many people?",
+   "th": "กี่ท่านครับ/คะ",
+   "note": "Staff asks at the entrance. Answer 二人です etc."
+  },
+  {
+   "cat": "food",
+   "jp": "二人です",
+   "romaji": "futari desu",
+   "en": "Two people",
+   "th": "สองคน",
+   "note": "One person: 一人です (hitori desu)."
+  },
+  {
+   "cat": "food",
+   "jp": "メニューをお願いします",
+   "romaji": "menyū o onegaishimasu",
+   "en": "The menu, please",
+   "th": "ขอเมนูหน่อย",
+   "note": ""
+  },
+  {
+   "cat": "food",
+   "jp": "英語のメニューはありますか？",
+   "romaji": "eigo no menyū wa arimasu ka?",
+   "en": "Do you have an English menu?",
+   "th": "มีเมนูภาษาอังกฤษไหม",
+   "note": ""
+  },
+  {
+   "cat": "food",
+   "jp": "おすすめは何ですか？",
+   "romaji": "osusume wa nan desu ka?",
+   "en": "What do you recommend?",
+   "th": "มีอะไรแนะนำไหม",
+   "note": ""
+  },
+  {
+   "cat": "food",
+   "jp": "これをください",
+   "romaji": "kore o kudasai",
+   "en": "This one, please",
+   "th": "ขออันนี้",
+   "note": "Point at the menu. Works everywhere."
+  },
+  {
+   "cat": "food",
+   "jp": "これを二つください",
+   "romaji": "kore o futatsu kudasai",
+   "en": "Two of these, please",
+   "th": "ขออันนี้สองที่",
+   "note": "Counter: 一つ hitotsu, 二つ futatsu, 三つ mittsu."
+  },
+  {
+   "cat": "food",
+   "jp": "お水をください",
+   "romaji": "o-mizu o kudasai",
+   "en": "Water, please",
+   "th": "ขอน้ำเปล่า",
+   "note": "Water is usually free in Japan."
+  },
+  {
+   "cat": "food",
+   "jp": "生ビールをください",
+   "romaji": "nama bīru o kudasai",
+   "en": "A draft beer, please",
+   "th": "ขอเบียร์สด",
+   "note": ""
+  },
+  {
+   "cat": "food",
+   "jp": "いただきます",
+   "romaji": "itadakimasu",
+   "en": "Let's eat (thanks for the food)",
+   "th": "ทานละนะ (ก่อนกิน)",
+   "note": "Say before eating."
+  },
+  {
+   "cat": "food",
+   "jp": "ごちそうさまでした",
+   "romaji": "gochisōsama deshita",
+   "en": "Thank you for the meal",
+   "th": "ขอบคุณสำหรับอาหาร (หลังกิน)",
+   "note": "Say after eating, also to staff when leaving."
+  },
+  {
+   "cat": "food",
+   "jp": "おいしい！",
+   "romaji": "oishii!",
+   "en": "Delicious!",
+   "th": "อร่อย!",
+   "note": ""
+  },
+  {
+   "cat": "food",
+   "jp": "辛くしないでください",
+   "romaji": "karaku shinaide kudasai",
+   "en": "Not spicy, please",
+   "th": "ไม่เผ็ดนะ",
+   "note": ""
+  },
+  {
+   "cat": "food",
+   "jp": "エビアレルギーがあります",
+   "romaji": "ebi arerugī ga arimasu",
+   "en": "I'm allergic to shrimp",
+   "th": "แพ้กุ้ง",
+   "note": "Replace エビ: 卵 tamago egg, 小麦 komugi wheat, ピーナッツ peanuts."
+  },
+  {
+   "cat": "food",
+   "jp": "豚肉は食べられません",
+   "romaji": "butaniku wa taberaremasen",
+   "en": "I can't eat pork",
+   "th": "กินหมูไม่ได้",
+   "note": "牛肉 gyūniku beef, 肉 niku meat."
+  },
+  {
+   "cat": "food",
+   "jp": "お会計をお願いします",
+   "romaji": "o-kaikei o onegaishimasu",
+   "en": "The bill, please",
+   "th": "เช็คบิลด้วย",
+   "note": "Often you pay at the register by the door."
+  },
+  {
+   "cat": "food",
+   "jp": "別々でお願いします",
+   "romaji": "betsubetsu de onegaishimasu",
+   "en": "Separate checks, please",
+   "th": "แยกจ่ายครับ/ค่ะ",
+   "note": ""
+  },
+  {
+   "cat": "food",
+   "jp": "持ち帰りで",
+   "romaji": "mochikaeri de",
+   "en": "To go / takeaway",
+   "th": "กลับบ้าน (ใส่กล่อง)",
+   "note": "Eat-in is 店内で (tennai de)."
+  },
+  {
+   "cat": "food",
+   "jp": "おかわりください",
+   "romaji": "okawari kudasai",
+   "en": "A refill, please",
+   "th": "ขอเติม/ขอเพิ่มอีก",
+   "note": "Rice, drinks; sometimes free."
+  },
+  {
+   "cat": "shop",
+   "jp": "いくらですか？",
+   "romaji": "ikura desu ka?",
+   "en": "How much is it?",
+   "th": "ราคาเท่าไหร่",
+   "note": ""
+  },
+  {
+   "cat": "shop",
+   "jp": "これは何ですか？",
+   "romaji": "kore wa nan desu ka?",
+   "en": "What is this?",
+   "th": "อันนี้คืออะไร",
+   "note": ""
+  },
+  {
+   "cat": "shop",
+   "jp": "見ているだけです",
+   "romaji": "mite iru dake desu",
+   "en": "I'm just looking",
+   "th": "แค่ดูเฉยๆ",
+   "note": ""
+  },
+  {
+   "cat": "shop",
+   "jp": "試着してもいいですか？",
+   "romaji": "shichaku shite mo ii desu ka?",
+   "en": "Can I try it on?",
+   "th": "ลองใส่ได้ไหม",
+   "note": ""
+  },
+  {
+   "cat": "shop",
+   "jp": "もっと大きいサイズはありますか？",
+   "romaji": "motto ōkii saizu wa arimasu ka?",
+   "en": "Do you have a bigger size?",
+   "th": "มีไซซ์ใหญ่กว่านี้ไหม",
+   "note": "Smaller: 小さい chiisai."
+  },
+  {
+   "cat": "shop",
+   "jp": "他の色はありますか？",
+   "romaji": "hoka no iro wa arimasu ka?",
+   "en": "Do you have other colors?",
+   "th": "มีสีอื่นไหม",
+   "note": ""
+  },
+  {
+   "cat": "shop",
+   "jp": "カードで払えますか？",
+   "romaji": "kādo de haraemasu ka?",
+   "en": "Can I pay by card?",
+   "th": "จ่ายด้วยบัตรได้ไหม",
+   "note": ""
+  },
+  {
+   "cat": "shop",
+   "jp": "現金だけですか？",
+   "romaji": "genkin dake desu ka?",
+   "en": "Cash only?",
+   "th": "รับแต่เงินสดเหรอ",
+   "note": ""
+  },
+  {
+   "cat": "shop",
+   "jp": "免税できますか？",
+   "romaji": "menzei dekimasu ka?",
+   "en": "Can I get tax-free?",
+   "th": "ทำปลอดภาษีได้ไหม",
+   "note": "Bring your passport."
+  },
+  {
+   "cat": "shop",
+   "jp": "袋はいりません",
+   "romaji": "fukuro wa irimasen",
+   "en": "I don't need a bag",
+   "th": "ไม่รับถุง",
+   "note": "Bags usually cost a few yen."
+  },
+  {
+   "cat": "shop",
+   "jp": "袋をください",
+   "romaji": "fukuro o kudasai",
+   "en": "A bag, please",
+   "th": "ขอถุงด้วย",
+   "note": ""
+  },
+  {
+   "cat": "shop",
+   "jp": "温めますか？",
+   "romaji": "atatamemasu ka?",
+   "en": "Shall I heat it up?",
+   "th": "อุ่นไหมคะ",
+   "note": "Konbini staff asks. Reply はい or 大丈夫です."
+  },
+  {
+   "cat": "shop",
+   "jp": "大丈夫です",
+   "romaji": "daijōbu desu",
+   "en": "I'm fine / No thanks",
+   "th": "ไม่เป็นไร / ไม่ต้อง",
+   "note": "Polite way to decline offers."
+  },
+  {
+   "cat": "shop",
+   "jp": "これにします",
+   "romaji": "kore ni shimasu",
+   "en": "I'll take this",
+   "th": "เอาอันนี้",
+   "note": ""
+  },
+  {
+   "cat": "shop",
+   "jp": "レシートをください",
+   "romaji": "reshīto o kudasai",
+   "en": "Receipt, please",
+   "th": "ขอใบเสร็จ",
+   "note": ""
+  },
+  {
+   "cat": "shop",
+   "jp": "少し安くなりますか？",
+   "romaji": "sukoshi yasuku narimasu ka?",
+   "en": "Could it be a bit cheaper?",
+   "th": "ลดได้นิดหน่อยไหม",
+   "note": "Haggling is rare in Japan; flea markets only."
+  },
+  {
+   "cat": "shop",
+   "jp": "ATMはどこですか？",
+   "romaji": "ēteiemu wa doko desu ka?",
+   "en": "Where is an ATM?",
+   "th": "ตู้ ATM อยู่ไหน",
+   "note": "Konbini ATMs accept foreign cards."
+  },
+  {
+   "cat": "transport",
+   "jp": "駅はどこですか？",
+   "romaji": "eki wa doko desu ka?",
+   "en": "Where is the station?",
+   "th": "สถานีอยู่ที่ไหน",
+   "note": ""
+  },
+  {
+   "cat": "transport",
+   "jp": "トイレはどこですか？",
+   "romaji": "toire wa doko desu ka?",
+   "en": "Where is the toilet?",
+   "th": "ห้องน้ำอยู่ที่ไหน",
+   "note": "Most useful phrase!"
+  },
+  {
+   "cat": "transport",
+   "jp": "ここに行きたいです",
+   "romaji": "koko ni ikitai desu",
+   "en": "I want to go here",
+   "th": "อยากไปที่นี่",
+   "note": "Show a map or address."
+  },
+  {
+   "cat": "transport",
+   "jp": "まっすぐ行ってください",
+   "romaji": "massugu itte kudasai",
+   "en": "Go straight",
+   "th": "ตรงไปเลย",
+   "note": ""
+  },
+  {
+   "cat": "transport",
+   "jp": "右／左",
+   "romaji": "migi / hidari",
+   "en": "Right / Left",
+   "th": "ขวา / ซ้าย",
+   "note": "右に曲がる = turn right."
+  },
+  {
+   "cat": "transport",
+   "jp": "歩いて行けますか？",
+   "romaji": "aruite ikemasu ka?",
+   "en": "Can I walk there?",
+   "th": "เดินไปได้ไหม",
+   "note": ""
+  },
+  {
+   "cat": "transport",
+   "jp": "どのくらいかかりますか？",
+   "romaji": "dono kurai kakarimasu ka?",
+   "en": "How long does it take?",
+   "th": "ใช้เวลานานเท่าไหร่",
+   "note": ""
+  },
+  {
+   "cat": "transport",
+   "jp": "この電車は新宿に行きますか？",
+   "romaji": "kono densha wa Shinjuku ni ikimasu ka?",
+   "en": "Does this train go to Shinjuku?",
+   "th": "รถไฟขบวนนี้ไปชินจูกุไหม",
+   "note": "Swap in any station."
+  },
+  {
+   "cat": "transport",
+   "jp": "何番線ですか？",
+   "romaji": "nanbansen desu ka?",
+   "en": "Which platform?",
+   "th": "ชานชาลาที่เท่าไหร่",
+   "note": ""
+  },
+  {
+   "cat": "transport",
+   "jp": "次の駅は何ですか？",
+   "romaji": "tsugi no eki wa nan desu ka?",
+   "en": "What's the next station?",
+   "th": "สถานีต่อไปคืออะไร",
+   "note": ""
+  },
+  {
+   "cat": "transport",
+   "jp": "乗り換えはどこですか？",
+   "romaji": "norikae wa doko desu ka?",
+   "en": "Where do I transfer?",
+   "th": "เปลี่ยนสายที่ไหน",
+   "note": ""
+  },
+  {
+   "cat": "transport",
+   "jp": "切符はどこで買えますか？",
+   "romaji": "kippu wa doko de kaemasu ka?",
+   "en": "Where can I buy a ticket?",
+   "th": "ซื้อตั๋วได้ที่ไหน",
+   "note": ""
+  },
+  {
+   "cat": "transport",
+   "jp": "このバスは空港に行きますか？",
+   "romaji": "kono basu wa kūkō ni ikimasu ka?",
+   "en": "Does this bus go to the airport?",
+   "th": "รถบัสคันนี้ไปสนามบินไหม",
+   "note": ""
+  },
+  {
+   "cat": "transport",
+   "jp": "ここまでお願いします",
+   "romaji": "koko made onegaishimasu",
+   "en": "To here, please (taxi)",
+   "th": "ไปที่นี่ครับ/ค่ะ (แท็กซี่)",
+   "note": "Show the address. Taxi doors open automatically."
+  },
+  {
+   "cat": "transport",
+   "jp": "ここで止めてください",
+   "romaji": "koko de tomete kudasai",
+   "en": "Please stop here",
+   "th": "จอดตรงนี้",
+   "note": ""
+  },
+  {
+   "cat": "transport",
+   "jp": "道に迷いました",
+   "romaji": "michi ni mayoimashita",
+   "en": "I'm lost",
+   "th": "หลงทาง",
+   "note": ""
+  },
+  {
+   "cat": "transport",
+   "jp": "近くにコンビニはありますか？",
+   "romaji": "chikaku ni konbini wa arimasu ka?",
+   "en": "Is there a convenience store nearby?",
+   "th": "แถวนี้มีร้านสะดวกซื้อไหม",
+   "note": ""
+  },
+  {
+   "cat": "hotel",
+   "jp": "予約しています",
+   "romaji": "yoyaku shite imasu",
+   "en": "I have a reservation",
+   "th": "จองไว้แล้ว",
+   "note": "Then give your name: 〇〇です."
+  },
+  {
+   "cat": "hotel",
+   "jp": "チェックインをお願いします",
+   "romaji": "chekku-in o onegaishimasu",
+   "en": "Check-in, please",
+   "th": "ขอเช็คอิน",
+   "note": ""
+  },
+  {
+   "cat": "hotel",
+   "jp": "チェックアウトは何時ですか？",
+   "romaji": "chekku-auto wa nanji desu ka?",
+   "en": "What time is check-out?",
+   "th": "เช็คเอาท์กี่โมง",
+   "note": ""
+  },
+  {
+   "cat": "hotel",
+   "jp": "荷物を預かってもらえますか？",
+   "romaji": "nimotsu o azukatte moraemasu ka?",
+   "en": "Can you keep my luggage?",
+   "th": "ฝากกระเป๋าได้ไหม",
+   "note": "Before check-in or after check-out."
+  },
+  {
+   "cat": "hotel",
+   "jp": "Wi-Fiのパスワードは何ですか？",
+   "romaji": "waifai no pasuwādo wa nan desu ka?",
+   "en": "What's the Wi-Fi password?",
+   "th": "รหัส Wi-Fi คืออะไร",
+   "note": ""
+  },
+  {
+   "cat": "hotel",
+   "jp": "朝食は何時からですか？",
+   "romaji": "chōshoku wa nanji kara desu ka?",
+   "en": "What time does breakfast start?",
+   "th": "อาหารเช้าเริ่มกี่โมง",
+   "note": ""
+  },
+  {
+   "cat": "hotel",
+   "jp": "タオルをもう一枚ください",
+   "romaji": "taoru o mō ichimai kudasai",
+   "en": "One more towel, please",
+   "th": "ขอผ้าเช็ดตัวอีกผืน",
+   "note": ""
+  },
+  {
+   "cat": "hotel",
+   "jp": "エアコンが壊れています",
+   "romaji": "eakon ga kowarete imasu",
+   "en": "The air conditioner is broken",
+   "th": "แอร์เสีย",
+   "note": ""
+  },
+  {
+   "cat": "hotel",
+   "jp": "部屋の鍵をなくしました",
+   "romaji": "heya no kagi o nakushimashita",
+   "en": "I lost my room key",
+   "th": "ทำกุญแจห้องหาย",
+   "note": ""
+  },
+  {
+   "cat": "hotel",
+   "jp": "お湯が出ません",
+   "romaji": "o-yu ga demasen",
+   "en": "There's no hot water",
+   "th": "น้ำร้อนไม่ไหล",
+   "note": ""
+  },
+  {
+   "cat": "hotel",
+   "jp": "タクシーを呼んでもらえますか？",
+   "romaji": "takushī o yonde moraemasu ka?",
+   "en": "Could you call a taxi?",
+   "th": "ช่วยเรียกแท็กซี่ให้หน่อยได้ไหม",
+   "note": ""
+  },
+  {
+   "cat": "hotel",
+   "jp": "もう一泊できますか？",
+   "romaji": "mō ippaku dekimasu ka?",
+   "en": "Can I stay one more night?",
+   "th": "ขอพักเพิ่มอีกคืนได้ไหม",
+   "note": ""
+  },
+  {
+   "cat": "hotel",
+   "jp": "大浴場は何時までですか？",
+   "romaji": "daiyokujō wa nanji made desu ka?",
+   "en": "Until what time is the public bath open?",
+   "th": "ห้องอาบน้ำรวมเปิดถึงกี่โมง",
+   "note": "Common in ryokan and business hotels."
+  },
+  {
+   "cat": "help",
+   "jp": "助けて！",
+   "romaji": "tasukete!",
+   "en": "Help!",
+   "th": "ช่วยด้วย!",
+   "note": ""
+  },
+  {
+   "cat": "help",
+   "jp": "救急車を呼んでください",
+   "romaji": "kyūkyūsha o yonde kudasai",
+   "en": "Please call an ambulance",
+   "th": "ช่วยเรียกรถพยาบาลด้วย",
+   "note": "Ambulance/fire 119, police 110."
+  },
+  {
+   "cat": "help",
+   "jp": "警察を呼んでください",
+   "romaji": "keisatsu o yonde kudasai",
+   "en": "Please call the police",
+   "th": "ช่วยเรียกตำรวจด้วย",
+   "note": ""
+  },
+  {
+   "cat": "help",
+   "jp": "病院はどこですか？",
+   "romaji": "byōin wa doko desu ka?",
+   "en": "Where is the hospital?",
+   "th": "โรงพยาบาลอยู่ที่ไหน",
+   "note": ""
+  },
+  {
+   "cat": "help",
+   "jp": "気分が悪いです",
+   "romaji": "kibun ga warui desu",
+   "en": "I feel sick",
+   "th": "รู้สึกไม่สบาย",
+   "note": ""
+  },
+  {
+   "cat": "help",
+   "jp": "ここが痛いです",
+   "romaji": "koko ga itai desu",
+   "en": "It hurts here",
+   "th": "เจ็บตรงนี้",
+   "note": "Point at the spot."
+  },
+  {
+   "cat": "help",
+   "jp": "熱があります",
+   "romaji": "netsu ga arimasu",
+   "en": "I have a fever",
+   "th": "มีไข้",
+   "note": ""
+  },
+  {
+   "cat": "help",
+   "jp": "薬局はどこですか？",
+   "romaji": "yakkyoku wa doko desu ka?",
+   "en": "Where is a pharmacy?",
+   "th": "ร้านขายยาอยู่ที่ไหน",
+   "note": "Drugstore: ドラッグストア."
+  },
+  {
+   "cat": "help",
+   "jp": "財布をなくしました",
+   "romaji": "saifu o nakushimashita",
+   "en": "I lost my wallet",
+   "th": "ทำกระเป๋าเงินหาย",
+   "note": "Phone: スマホ sumaho. Passport: パスポート."
+  },
+  {
+   "cat": "help",
+   "jp": "交番はどこですか？",
+   "romaji": "kōban wa doko desu ka?",
+   "en": "Where is the police box?",
+   "th": "ป้อมตำรวจอยู่ที่ไหน",
+   "note": "Kōban are small local police stations."
+  },
+  {
+   "cat": "help",
+   "jp": "英語を話せる人はいますか？",
+   "romaji": "eigo o hanaseru hito wa imasu ka?",
+   "en": "Is there anyone who speaks English?",
+   "th": "มีใครพูดภาษาอังกฤษได้ไหม",
+   "note": ""
+  },
+  {
+   "cat": "help",
+   "jp": "日本語が分かりません",
+   "romaji": "nihongo ga wakarimasen",
+   "en": "I don't understand Japanese",
+   "th": "ไม่เข้าใจภาษาญี่ปุ่น",
+   "note": ""
+  },
+  {
+   "cat": "help",
+   "jp": "もう一度お願いします",
+   "romaji": "mō ichido onegaishimasu",
+   "en": "Once more, please",
+   "th": "ช่วยพูดอีกครั้ง",
+   "note": ""
+  },
+  {
+   "cat": "help",
+   "jp": "ゆっくり話してください",
+   "romaji": "yukkuri hanashite kudasai",
+   "en": "Please speak slowly",
+   "th": "ช่วยพูดช้าๆ หน่อย",
+   "note": ""
+  },
+  {
+   "cat": "help",
+   "jp": "書いてもらえますか？",
+   "romaji": "kaite moraemasu ka?",
+   "en": "Could you write it down?",
+   "th": "ช่วยเขียนให้หน่อยได้ไหม",
+   "note": ""
+  },
+  {
+   "cat": "help",
+   "jp": "地震です！",
+   "romaji": "jishin desu!",
+   "en": "It's an earthquake!",
+   "th": "แผ่นดินไหว!",
+   "note": "Get under a table, away from windows."
+  },
+  {
+   "cat": "talk",
+   "jp": "いい天気ですね",
+   "romaji": "ii tenki desu ne",
+   "en": "Nice weather, isn't it?",
+   "th": "อากาศดีนะ",
+   "note": "Classic conversation opener."
+  },
+  {
+   "cat": "talk",
+   "jp": "今日は暑いですね",
+   "romaji": "kyō wa atsui desu ne",
+   "en": "It's hot today, isn't it?",
+   "th": "วันนี้ร้อนนะ",
+   "note": "Cold: 寒い samui."
+  },
+  {
+   "cat": "talk",
+   "jp": "お名前は何ですか？",
+   "romaji": "o-namae wa nan desu ka?",
+   "en": "What's your name?",
+   "th": "ชื่ออะไร",
+   "note": ""
+  },
+  {
+   "cat": "talk",
+   "jp": "どこから来ましたか？",
+   "romaji": "doko kara kimashita ka?",
+   "en": "Where are you from?",
+   "th": "มาจากไหน",
+   "note": ""
+  },
+  {
+   "cat": "talk",
+   "jp": "趣味は何ですか？",
+   "romaji": "shumi wa nan desu ka?",
+   "en": "What are your hobbies?",
+   "th": "งานอดิเรกคืออะไร",
+   "note": ""
+  },
+  {
+   "cat": "talk",
+   "jp": "日本は初めてです",
+   "romaji": "Nihon wa hajimete desu",
+   "en": "It's my first time in Japan",
+   "th": "มาญี่ปุ่นครั้งแรก",
+   "note": "Second time: 二回目です nikaime desu."
+  },
+  {
+   "cat": "talk",
+   "jp": "日本が大好きです",
+   "romaji": "Nihon ga daisuki desu",
+   "en": "I love Japan",
+   "th": "ชอบญี่ปุ่นมาก",
+   "note": ""
+  },
+  {
+   "cat": "talk",
+   "jp": "日本語を勉強しています",
+   "romaji": "nihongo o benkyō shite imasu",
+   "en": "I'm studying Japanese",
+   "th": "กำลังเรียนภาษาญี่ปุ่น",
+   "note": ""
+  },
+  {
+   "cat": "talk",
+   "jp": "少しだけ話せます",
+   "romaji": "sukoshi dake hanasemasu",
+   "en": "I can speak only a little",
+   "th": "พูดได้นิดหน่อย",
+   "note": ""
+  },
+  {
+   "cat": "talk",
+   "jp": "本当？",
+   "romaji": "hontō?",
+   "en": "Really?",
+   "th": "จริงเหรอ",
+   "note": "Polite: 本当ですか."
+  },
+  {
+   "cat": "talk",
+   "jp": "すごい！",
+   "romaji": "sugoi!",
+   "en": "Amazing!",
+   "th": "สุดยอด!",
+   "note": ""
+  },
+  {
+   "cat": "talk",
+   "jp": "なるほど",
+   "romaji": "naruhodo",
+   "en": "I see / That makes sense",
+   "th": "อ๋อ เข้าใจแล้ว",
+   "note": ""
+  },
+  {
+   "cat": "talk",
+   "jp": "そうですね",
+   "romaji": "sō desu ne",
+   "en": "That's right / Let me see",
+   "th": "นั่นสินะ / ใช่เลย",
+   "note": "Agreeing, or a filler while thinking."
+  },
+  {
+   "cat": "talk",
+   "jp": "写真を撮ってもいいですか？",
+   "romaji": "shashin o totte mo ii desu ka?",
+   "en": "May I take a photo?",
+   "th": "ถ่ายรูปได้ไหม",
+   "note": ""
+  },
+  {
+   "cat": "talk",
+   "jp": "一緒に写真を撮りませんか？",
+   "romaji": "issho ni shashin o torimasen ka?",
+   "en": "Shall we take a photo together?",
+   "th": "ถ่ายรูปด้วยกันไหม",
+   "note": ""
+  },
+  {
+   "cat": "talk",
+   "jp": "LINEやってますか？",
+   "romaji": "rain yattemasu ka?",
+   "en": "Do you use LINE?",
+   "th": "เล่นไลน์ไหม",
+   "note": "LINE is the main chat app in Japan too."
+  },
+  {
+   "cat": "polite",
+   "jp": "ありがとうございます",
+   "romaji": "arigatō gozaimasu",
+   "en": "Thank you very much",
+   "th": "ขอบคุณมาก",
+   "note": "Casual: ありがとう."
+  },
+  {
+   "cat": "polite",
+   "jp": "どういたしまして",
+   "romaji": "dō itashimashite",
+   "en": "You're welcome",
+   "th": "ด้วยความยินดี",
+   "note": "In daily life people often say いえいえ."
+  },
+  {
+   "cat": "polite",
+   "jp": "すみません",
+   "romaji": "sumimasen",
+   "en": "Excuse me / Sorry",
+   "th": "ขอโทษ / ขอโทษนะ",
+   "note": "Also a light 'thank you' for small favors."
+  },
+  {
+   "cat": "polite",
+   "jp": "ごめんなさい",
+   "romaji": "gomen nasai",
+   "en": "I'm sorry",
+   "th": "ขอโทษ",
+   "note": "For personal apologies; casual: ごめん."
+  },
+  {
+   "cat": "polite",
+   "jp": "申し訳ありません",
+   "romaji": "mōshiwake arimasen",
+   "en": "I'm terribly sorry",
+   "th": "ต้องขออภัยเป็นอย่างสูง",
+   "note": "Very formal; staff often use it."
+  },
+  {
+   "cat": "polite",
+   "jp": "お願いします",
+   "romaji": "onegaishimasu",
+   "en": "Please",
+   "th": "กรุณา / ขอด้วย",
+   "note": "Add after any request."
+  },
+  {
+   "cat": "polite",
+   "jp": "はい／いいえ",
+   "romaji": "hai / iie",
+   "en": "Yes / No",
+   "th": "ใช่ / ไม่",
+   "note": "Japanese often avoid a hard いいえ; ちょっと… is softer."
+  },
+  {
+   "cat": "polite",
+   "jp": "ちょっと待ってください",
+   "romaji": "chotto matte kudasai",
+   "en": "Please wait a moment",
+   "th": "รอสักครู่",
+   "note": "Casual: ちょっと待って."
+  },
+  {
+   "cat": "polite",
+   "jp": "失礼します",
+   "romaji": "shitsurei shimasu",
+   "en": "Excuse me (entering/leaving)",
+   "th": "ขออนุญาต",
+   "note": "When entering a room or hanging up."
+  },
+  {
+   "cat": "polite",
+   "jp": "お疲れ様です",
+   "romaji": "otsukaresama desu",
+   "en": "Thanks for your hard work",
+   "th": "เหนื่อยหน่อยนะ / ขอบคุณที่ทำงานหนัก",
+   "note": "Common greeting among coworkers."
+  },
+  {
+   "cat": "polite",
+   "jp": "おめでとうございます",
+   "romaji": "omedetō gozaimasu",
+   "en": "Congratulations",
+   "th": "ยินดีด้วย",
+   "note": "Birthday: 誕生日おめでとう."
+  },
+  {
+   "cat": "polite",
+   "jp": "大丈夫ですか？",
+   "romaji": "daijōbu desu ka?",
+   "en": "Are you OK?",
+   "th": "เป็นอะไรไหม / โอเคไหม",
+   "note": ""
+  },
+  {
+   "cat": "polite",
+   "jp": "分かりました",
+   "romaji": "wakarimashita",
+   "en": "Understood / OK",
+   "th": "เข้าใจแล้ว",
+   "note": ""
+  },
+  {
+   "cat": "polite",
+   "jp": "いいですよ",
+   "romaji": "ii desu yo",
+   "en": "Sure, that's fine",
+   "th": "ได้สิ",
+   "note": "Agreeing to a request."
+  },
+  {
+   "cat": "polite",
+   "jp": "お先に失礼します",
+   "romaji": "osaki ni shitsurei shimasu",
+   "en": "Excuse me for leaving first",
+   "th": "ขอตัวกลับก่อนนะ",
+   "note": "When leaving work before others."
+  },
+  {
+   "cat": "polite",
+   "jp": "どうぞ",
+   "romaji": "dōzo",
+   "en": "Go ahead / Here you are",
+   "th": "เชิญ / นี่ครับ/ค่ะ",
+   "note": "When offering or letting someone pass."
+  },
+  {
+   "cat": "num",
+   "jp": "一、二、三",
+   "romaji": "ichi, ni, san",
+   "en": "One, two, three",
+   "th": "หนึ่ง สอง สาม",
+   "note": "4 yon, 5 go, 6 roku, 7 nana, 8 hachi, 9 kyū, 10 jū."
+  },
+  {
+   "cat": "num",
+   "jp": "百／千／一万",
+   "romaji": "hyaku / sen / ichiman",
+   "en": "100 / 1,000 / 10,000",
+   "th": "ร้อย / พัน / หมื่น",
+   "note": "Prices: 千円 = ¥1,000, 一万円 = ¥10,000."
+  },
+  {
+   "cat": "num",
+   "jp": "今何時ですか？",
+   "romaji": "ima nanji desu ka?",
+   "en": "What time is it now?",
+   "th": "ตอนนี้กี่โมง",
+   "note": ""
+  },
+  {
+   "cat": "num",
+   "jp": "三時半です",
+   "romaji": "sanji han desu",
+   "en": "It's 3:30",
+   "th": "สามโมงครึ่ง",
+   "note": "半 han = half past."
+  },
+  {
+   "cat": "num",
+   "jp": "何時に開きますか？",
+   "romaji": "nanji ni akimasu ka?",
+   "en": "What time do you open?",
+   "th": "เปิดกี่โมง",
+   "note": ""
+  },
+  {
+   "cat": "num",
+   "jp": "何時に閉まりますか？",
+   "romaji": "nanji ni shimarimasu ka?",
+   "en": "What time do you close?",
+   "th": "ปิดกี่โมง",
+   "note": ""
+  },
+  {
+   "cat": "num",
+   "jp": "今日／明日／昨日",
+   "romaji": "kyō / ashita / kinō",
+   "en": "Today / Tomorrow / Yesterday",
+   "th": "วันนี้ / พรุ่งนี้ / เมื่อวาน",
+   "note": ""
+  },
+  {
+   "cat": "num",
+   "jp": "今週末",
+   "romaji": "konshūmatsu",
+   "en": "This weekend",
+   "th": "สุดสัปดาห์นี้",
+   "note": ""
+  },
+  {
+   "cat": "num",
+   "jp": "午前／午後",
+   "romaji": "gozen / gogo",
+   "en": "AM / PM",
+   "th": "ช่วงเช้า / ช่วงบ่าย",
+   "note": "午後二時 = 2 PM."
+  },
+  {
+   "cat": "num",
+   "jp": "五分後",
+   "romaji": "go-fun go",
+   "en": "In five minutes",
+   "th": "อีกห้านาที",
+   "note": "分 is read fun or pun: 一分 ippun, 十分 juppun."
+  },
+  {
+   "cat": "num",
+   "jp": "何日ですか？",
+   "romaji": "nannichi desu ka?",
+   "en": "What's the date?",
+   "th": "วันที่เท่าไหร่",
+   "note": ""
+  },
+  {
+   "cat": "num",
+   "jp": "何曜日ですか？",
+   "romaji": "nan'yōbi desu ka?",
+   "en": "What day of the week is it?",
+   "th": "วันอะไร",
+   "note": "月曜日 Monday, 金曜日 Friday."
+  },
+  {
+   "cat": "num",
+   "jp": "千五百円です",
+   "romaji": "sen gohyaku en desu",
+   "en": "It's 1,500 yen",
+   "th": "1,500 เยน",
+   "note": ""
+  },
+  {
+   "cat": "num",
+   "jp": "一つ、二つ、三つ",
+   "romaji": "hitotsu, futatsu, mittsu",
+   "en": "One, two, three (things)",
+   "th": "หนึ่งอัน สองอัน สามอัน",
+   "note": "General counter for items when ordering."
+  },
+  {
+   "cat": "game",
+   "jp": "一緒にやろう！",
+   "romaji": "issho ni yarō!",
+   "en": "Let's play together!",
+   "th": "มาเล่นด้วยกัน!",
+   "note": ""
+  },
+  {
+   "cat": "game",
+   "jp": "よろしくお願いします！",
+   "romaji": "yoroshiku onegaishimasu!",
+   "en": "Good luck, have fun (start of match)",
+   "th": "ฝากด้วยนะ (เริ่มเกม)",
+   "note": "Shortened in chat to よろ or よろしく."
+  },
+  {
+   "cat": "game",
+   "jp": "お疲れ様でした！",
+   "romaji": "otsukaresama deshita!",
+   "en": "GG / Good game",
+   "th": "เหนื่อยหน่อยนะ / GG",
+   "note": "Polite end-of-match thanks; chat: おつ."
+  },
+  {
+   "cat": "game",
+   "jp": "ナイス！",
+   "romaji": "naisu!",
+   "en": "Nice!",
+   "th": "เยี่ยม!",
+   "note": ""
+  },
+  {
+   "cat": "game",
+   "jp": "ドンマイ",
+   "romaji": "donmai",
+   "en": "Don't mind / Unlucky",
+   "th": "ไม่เป็นไรนะ",
+   "note": "From 'don't mind'; comforting a teammate."
+  },
+  {
+   "cat": "game",
+   "jp": "助けて！",
+   "romaji": "tasukete!",
+   "en": "Help me!",
+   "th": "ช่วยด้วย!",
+   "note": ""
+  },
+  {
+   "cat": "game",
+   "jp": "敵がいる！",
+   "romaji": "teki ga iru!",
+   "en": "Enemy here!",
+   "th": "มีศัตรู!",
+   "note": ""
+  },
+  {
+   "cat": "game",
+   "jp": "回復お願い！",
+   "romaji": "kaifuku onegai!",
+   "en": "Heal please!",
+   "th": "ขอฮีลหน่อย!",
+   "note": ""
+  },
+  {
+   "cat": "game",
+   "jp": "もう一回！",
+   "romaji": "mō ikkai!",
+   "en": "One more round!",
+   "th": "อีกรอบ!",
+   "note": ""
+  },
+  {
+   "cat": "game",
+   "jp": "推しは誰？",
+   "romaji": "oshi wa dare?",
+   "en": "Who's your favorite (character)?",
+   "th": "เมนของเธอคือใคร",
+   "note": "推し oshi = your favorite idol/character."
+  },
+  {
+   "cat": "game",
+   "jp": "このアニメ見た？",
+   "romaji": "kono anime mita?",
+   "en": "Did you watch this anime?",
+   "th": "ดูอนิเมะเรื่องนี้หรือยัง",
+   "note": ""
+  },
+  {
+   "cat": "game",
+   "jp": "ネタバレしないで！",
+   "romaji": "netabare shinaide!",
+   "en": "No spoilers!",
+   "th": "อย่าสปอยล์นะ!",
+   "note": ""
+  },
+  {
+   "cat": "game",
+   "jp": "めっちゃ面白い！",
+   "romaji": "meccha omoshiroi!",
+   "en": "Super fun / So good!",
+   "th": "สนุกมาก!",
+   "note": "めっちゃ is casual Kansai-origin 'very'."
+  },
+  {
+   "cat": "game",
+   "jp": "草",
+   "romaji": "kusa",
+   "en": "LOL",
+   "th": "555",
+   "note": "Internet slang; looks like grass ｗｗｗ."
+  },
+  {
+   "cat": "game",
+   "jp": "ガチャ爆死した…",
+   "romaji": "gacha bakushi shita…",
+   "en": "My gacha pulls were a total loss…",
+   "th": "สุ่มกาชาเกลือหมดเลย…",
+   "note": "Gacha slang: spent a lot, got nothing."
+  }
+ ]
+}

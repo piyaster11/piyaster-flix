@@ -4,7 +4,7 @@ const fmt=n=>n>=1e6?(n/1e6).toFixed(1).replace(/\.0$/,'')+'M':n>=1e3?Math.round(
 function play(v){$('#player').src=`https://www.youtube-nocookie.com/embed/${v.id}?autoplay=1&rel=0`;$('#mTitle').textContent=v.title;$('#mYt').href=yt(v.id);$('#modal').hidden=false}
 function close(){$('#modal').hidden=true;$('#player').src=''}
 $('#close').onclick=close;$('#modal').onclick=e=>{if(e.target.id==='modal')close()};document.onkeydown=e=>{if(e.key==='Escape')close()};
-const VER='202610130603';const get=u=>fetch(u+'?v='+VER+'-'+Date.now(),{cache:'no-store'}).then(r=>r.json()).catch(()=>null);
+const VER='202610131045';const get=u=>fetch(u+'?v='+VER+'-'+Date.now(),{cache:'no-store'}).then(r=>r.json()).catch(()=>null);
 let D,W={rows:{}},B,P,Q,J,MM=[],MCATS=[];
 const dayIdx=n=>{const d=new Date();const k=Math.floor(Date.UTC(d.getFullYear(),d.getMonth(),d.getDate())/864e5);return k%n};
 function weekly(key){const w=W.rows[key];if(!w)return null;const b=document.createElement('div');b.className='wk';
@@ -112,11 +112,11 @@ function japan(add,links){
   extra:`<div class="phrase">🇹🇭 ${esc(p.th)}${p.note?`<br><span class="ex">${esc(p.note)}</span>`:''}<div class="pbtn"><button class="say" id="hSay">🔊 Play</button><button class="slow" id="hSlow">🐢 Slow</button></div></div>`});
  $('#hSay').onclick=()=>speak(p,0);$('#hSlow').onclick=()=>speak(p,1);
  const bar=document.createElement('div');bar.className='pbar';
- bar.innerHTML=`<input id="pq" type="search" placeholder="Search phrases · ค้นหา (JP / romaji / EN / ไทย)"><div class="chips">${['all',...P.categories.map(c=>c.key)].map(k=>{const c=P.categories.find(x=>x.key===k);return `<button data-k="${k}" class="${k==='all'?'on':''}">${c?esc(c.name):'All · ทั้งหมด'}</button>`}).join('')}</div>`;
+ bar.innerHTML=`<input id="pq" type="search" placeholder="Search phrases · ค้นหา (JP / romaji / EN / ไทย)"><div class="chips">${['must','all',...P.categories.filter(c=>c.key!=='must').map(c=>c.key)].map(k=>{const c=P.categories.find(x=>x.key===k);return `<button data-k="${k}" class="${k==='all'?'on':''}${k==='must'?' mk':''}">${c?(k==='must'?'📌 '+esc(c.name)+' · '+esc(c.th):esc(c.name)):'All · ทั้งหมด'}</button>`}).join('')}</div>`;
  add(bar);const box=document.createElement('div');add(box);let cat='all';
  const draw=()=>{const q=bar.querySelector('#pq').value.trim().toLowerCase();box.innerHTML='';
   P.categories.filter(c=>cat==='all'||c.key===cat).forEach(c=>{const L=PH.filter(x=>x.cat===c.key&&(!q||[x.jp,x.romaji,x.en,x.th,x.note].join(' ').toLowerCase().includes(q)));if(!L.length)return;
-   const s=document.createElement('section');s.className='row';s.id='ph-'+c.key;s.innerHTML=`<h2>${esc(c.name)}<small>${esc(c.th)} · ${L.length}</small></h2><div class="pgrid"></div>`;
+   const s=document.createElement('section');s.className='row'+(c.key==='must'?' must':'');s.id='ph-'+c.key;s.innerHTML=`<h2>${c.key==='must'?'📌 ':''}${esc(c.name)}<small>${esc(c.th)} · ${L.length}</small></h2>${c.sos?`<p class="sos">${esc(c.sos)}</p>`:''}<div class="pgrid"></div>`;
    const g=s.querySelector('.pgrid');L.forEach(x=>g.appendChild(pcard(x)));box.appendChild(s)});
   if(!box.children.length)box.innerHTML='<p class="empty">No phrases found · ไม่พบวลี</p>'};
  bar.querySelector('#pq').oninput=draw;

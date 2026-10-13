@@ -2,6 +2,12 @@
  "note": "Everyday Japanese phrases by situation. Audio: Google Translate TTS via gTTS (lang=ja), Web Speech fallback.",
  "categories": [
   {
+   "key": "must",
+   "name": "Must-Know",
+   "th": "ต้องรู้",
+   "sos": "☎️ Emergency in Japan: Police 110 · Ambulance/Fire 119"
+  },
+  {
    "key": "greet",
    "name": "Greetings",
    "th": "ทักทาย"
@@ -55,6 +61,215 @@
  "phrases": [
   {
    "id": 1,
+   "cat": "must",
+   "jp": "トイレはどこですか？",
+   "romaji": "toire wa doko desu ka?",
+   "en": "Where is the toilet?",
+   "th": "ห้องน้ำอยู่ที่ไหน",
+   "note": "",
+   "say": "トイレはどこですか？",
+   "audio": "audio/ja/ed9f95596a.mp3"
+  },
+  {
+   "id": 2,
+   "cat": "must",
+   "jp": "タクシー乗り場はどこですか？",
+   "romaji": "takushī noriba wa doko desu ka?",
+   "en": "Where is the taxi stand?",
+   "th": "จุดขึ้นแท็กซี่อยู่ที่ไหน",
+   "note": "",
+   "say": "タクシー乗り場はどこですか？",
+   "audio": "audio/ja/8173698c5a.mp3"
+  },
+  {
+   "id": 3,
+   "cat": "must",
+   "jp": "病院はどこですか？",
+   "romaji": "byōin wa doko desu ka?",
+   "en": "Where is the hospital?",
+   "th": "โรงพยาบาลอยู่ที่ไหน",
+   "note": "",
+   "say": "病院はどこですか？",
+   "audio": "audio/ja/82b18bef97.mp3"
+  },
+  {
+   "id": 4,
+   "cat": "must",
+   "jp": "一番近い薬局はどこですか？",
+   "romaji": "ichiban chikai yakkyoku wa doko desu ka?",
+   "en": "Where is the nearest pharmacy?",
+   "th": "ร้านขายยาที่ใกล้ที่สุดอยู่ที่ไหน",
+   "note": "Drugstores (ドラッグストア) sell basic medicine.",
+   "say": "一番近い薬局はどこですか？",
+   "audio": "audio/ja/c0be208d2f.mp3"
+  },
+  {
+   "id": 5,
+   "cat": "must",
+   "jp": "交番はどこですか？",
+   "romaji": "kōban wa doko desu ka?",
+   "en": "Where is the police box?",
+   "th": "ป้อมตำรวจอยู่ที่ไหน",
+   "note": "Police station: 警察署 keisatsusho; kōban are everywhere.",
+   "say": "交番はどこですか？",
+   "audio": "audio/ja/72bd3775bb.mp3"
+  },
+  {
+   "id": 6,
+   "cat": "must",
+   "jp": "駅はどこですか？",
+   "romaji": "eki wa doko desu ka?",
+   "en": "Where is the train station?",
+   "th": "สถานีรถไฟอยู่ที่ไหน",
+   "note": "Subway: 地下鉄 chikatetsu.",
+   "say": "駅はどこですか？",
+   "audio": "audio/ja/b28d703bac.mp3"
+  },
+  {
+   "id": 7,
+   "cat": "must",
+   "jp": "助けが必要です",
+   "romaji": "tasuke ga hitsuyō desu",
+   "en": "I need help",
+   "th": "ฉันต้องการความช่วยเหลือ",
+   "note": "",
+   "say": "助けが必要です",
+   "audio": "audio/ja/9064692374.mp3"
+  },
+  {
+   "id": 8,
+   "cat": "must",
+   "jp": "助けてください",
+   "romaji": "tasukete kudasai",
+   "en": "Please help me",
+   "th": "ช่วยฉันด้วย",
+   "note": "Urgent shout: 助けて！",
+   "say": "助けてください",
+   "audio": "audio/ja/41c6484f3a.mp3"
+  },
+  {
+   "id": 9,
+   "cat": "must",
+   "jp": "救急車を呼んでください",
+   "romaji": "kyūkyūsha o yonde kudasai",
+   "en": "Please call an ambulance",
+   "th": "ช่วยเรียกรถพยาบาลด้วย",
+   "note": "☎️ Japan: Police 110 · Ambulance/Fire 119.",
+   "say": "救急車を呼んでください",
+   "audio": "audio/ja/594253438b.mp3"
+  },
+  {
+   "id": 10,
+   "cat": "must",
+   "jp": "警察を呼んでください",
+   "romaji": "keisatsu o yonde kudasai",
+   "en": "Please call the police",
+   "th": "ช่วยเรียกตำรวจด้วย",
+   "note": "☎️ Japan: Police 110 · Ambulance/Fire 119.",
+   "say": "警察を呼んでください",
+   "audio": "audio/ja/d29ffc5290.mp3"
+  },
+  {
+   "id": 11,
+   "cat": "must",
+   "jp": "英語を話せますか？",
+   "romaji": "eigo o hanasemasu ka?",
+   "en": "Do you speak English?",
+   "th": "พูดภาษาอังกฤษได้ไหม",
+   "note": "",
+   "say": "英語を話せますか？",
+   "audio": "audio/ja/a14de2ad28.mp3"
+  },
+  {
+   "id": 12,
+   "cat": "must",
+   "jp": "分かりません",
+   "romaji": "wakarimasen",
+   "en": "I don't understand",
+   "th": "ไม่เข้าใจ",
+   "note": "",
+   "say": "分かりません",
+   "audio": "audio/ja/c114122993.mp3"
+  },
+  {
+   "id": 13,
+   "cat": "must",
+   "jp": "ゆっくり話してください",
+   "romaji": "yukkuri hanashite kudasai",
+   "en": "Please speak slowly",
+   "th": "ช่วยพูดช้าๆ หน่อย",
+   "note": "",
+   "say": "ゆっくり話してください",
+   "audio": "audio/ja/2831f0d3cc.mp3"
+  },
+  {
+   "id": 14,
+   "cat": "must",
+   "jp": "書いてもらえますか？",
+   "romaji": "kaite moraemasu ka?",
+   "en": "Can you write it down?",
+   "th": "ช่วยเขียนให้หน่อยได้ไหม",
+   "note": "",
+   "say": "書いてもらえますか？",
+   "audio": "audio/ja/7b4c0b9f5f.mp3"
+  },
+  {
+   "id": 15,
+   "cat": "must",
+   "jp": "これはいくらですか？",
+   "romaji": "kore wa ikura desu ka?",
+   "en": "How much is this?",
+   "th": "อันนี้ราคาเท่าไหร่",
+   "note": "",
+   "say": "これはいくらですか？",
+   "audio": "audio/ja/990e1b4e55.mp3"
+  },
+  {
+   "id": 16,
+   "cat": "must",
+   "jp": "道に迷いました",
+   "romaji": "michi ni mayoimashita",
+   "en": "I'm lost",
+   "th": "ฉันหลงทาง",
+   "note": "",
+   "say": "道に迷いました",
+   "audio": "audio/ja/f95b56ef48.mp3"
+  },
+  {
+   "id": 17,
+   "cat": "must",
+   "jp": "〇〇アレルギーがあります",
+   "romaji": "___ arerugī ga arimasu",
+   "en": "I'm allergic to ___",
+   "th": "ฉันแพ้ ___",
+   "note": "Fill in: エビ shrimp, 卵 egg, 小麦 wheat, ピーナッツ peanuts, 乳 milk.",
+   "say": "エビアレルギーがあります",
+   "audio": "audio/ja/f4497ff635.mp3"
+  },
+  {
+   "id": 18,
+   "cat": "must",
+   "jp": "ありがとうございます",
+   "romaji": "arigatō gozaimasu",
+   "en": "Thank you",
+   "th": "ขอบคุณ",
+   "note": "",
+   "say": "ありがとうございます",
+   "audio": "audio/ja/94f49c978d.mp3"
+  },
+  {
+   "id": 19,
+   "cat": "must",
+   "jp": "すみません",
+   "romaji": "sumimasen",
+   "en": "Sorry / Excuse me",
+   "th": "ขอโทษ / ขอโทษนะ",
+   "note": "Works for both apologizing and getting attention.",
+   "say": "すみません",
+   "audio": "audio/ja/27eeedab97.mp3"
+  },
+  {
+   "id": 20,
    "cat": "greet",
    "jp": "おはようございます",
    "romaji": "ohayō gozaimasu",
@@ -65,7 +280,7 @@
    "audio": "audio/ja/e12eb2fcd5.mp3"
   },
   {
-   "id": 2,
+   "id": 21,
    "cat": "greet",
    "jp": "こんにちは",
    "romaji": "konnichiwa",
@@ -76,7 +291,7 @@
    "audio": "audio/ja/c0e89a293b.mp3"
   },
   {
-   "id": 3,
+   "id": 22,
    "cat": "greet",
    "jp": "こんばんは",
    "romaji": "konbanwa",
@@ -87,7 +302,7 @@
    "audio": "audio/ja/73c9cdc2c8.mp3"
   },
   {
-   "id": 4,
+   "id": 23,
    "cat": "greet",
    "jp": "はじめまして",
    "romaji": "hajimemashite",
@@ -98,7 +313,7 @@
    "audio": "audio/ja/9527cdc3ed.mp3"
   },
   {
-   "id": 5,
+   "id": 24,
    "cat": "greet",
    "jp": "よろしくお願いします",
    "romaji": "yoroshiku onegaishimasu",
@@ -109,7 +324,7 @@
    "audio": "audio/ja/6770510c18.mp3"
   },
   {
-   "id": 6,
+   "id": 25,
    "cat": "greet",
    "jp": "お元気ですか？",
    "romaji": "o-genki desu ka?",
@@ -120,7 +335,7 @@
    "audio": "audio/ja/6109def683.mp3"
   },
   {
-   "id": 7,
+   "id": 26,
    "cat": "greet",
    "jp": "元気です",
    "romaji": "genki desu",
@@ -131,7 +346,7 @@
    "audio": "audio/ja/83eb1b0b12.mp3"
   },
   {
-   "id": 8,
+   "id": 27,
    "cat": "greet",
    "jp": "久しぶり！",
    "romaji": "hisashiburi!",
@@ -142,7 +357,7 @@
    "audio": "audio/ja/3cabdd77d9.mp3"
   },
   {
-   "id": 9,
+   "id": 28,
    "cat": "greet",
    "jp": "おやすみなさい",
    "romaji": "oyasuminasai",
@@ -153,7 +368,7 @@
    "audio": "audio/ja/a3c64ce830.mp3"
   },
   {
-   "id": 10,
+   "id": 29,
    "cat": "greet",
    "jp": "さようなら",
    "romaji": "sayōnara",
@@ -164,7 +379,7 @@
    "audio": "audio/ja/2149e88341.mp3"
   },
   {
-   "id": 11,
+   "id": 30,
    "cat": "greet",
    "jp": "じゃあね／またね",
    "romaji": "jā ne / mata ne",
@@ -175,7 +390,7 @@
    "audio": "audio/ja/63fbce63f6.mp3"
   },
   {
-   "id": 12,
+   "id": 31,
    "cat": "greet",
    "jp": "また明日",
    "romaji": "mata ashita",
@@ -186,7 +401,7 @@
    "audio": "audio/ja/55d303e2cd.mp3"
   },
   {
-   "id": 13,
+   "id": 32,
    "cat": "greet",
    "jp": "私は〇〇です",
    "romaji": "watashi wa ___ desu",
@@ -197,7 +412,7 @@
    "audio": "audio/ja/4f196096d6.mp3"
   },
   {
-   "id": 14,
+   "id": 33,
    "cat": "greet",
    "jp": "タイから来ました",
    "romaji": "Tai kara kimashita",
@@ -208,7 +423,7 @@
    "audio": "audio/ja/399d36d267.mp3"
   },
   {
-   "id": 15,
+   "id": 34,
    "cat": "greet",
    "jp": "いってきます",
    "romaji": "ittekimasu",
@@ -219,7 +434,7 @@
    "audio": "audio/ja/3acaae64cf.mp3"
   },
   {
-   "id": 16,
+   "id": 35,
    "cat": "greet",
    "jp": "ただいま",
    "romaji": "tadaima",
@@ -230,7 +445,7 @@
    "audio": "audio/ja/693de0a338.mp3"
   },
   {
-   "id": 17,
+   "id": 36,
    "cat": "food",
    "jp": "すみません！",
    "romaji": "sumimasen!",
@@ -241,7 +456,7 @@
    "audio": "audio/ja/c24c44108e.mp3"
   },
   {
-   "id": 18,
+   "id": 37,
    "cat": "food",
    "jp": "何名様ですか？",
    "romaji": "nanmei-sama desu ka?",
@@ -252,7 +467,7 @@
    "audio": "audio/ja/a82f1392e4.mp3"
   },
   {
-   "id": 19,
+   "id": 38,
    "cat": "food",
    "jp": "二人です",
    "romaji": "futari desu",
@@ -263,7 +478,7 @@
    "audio": "audio/ja/32d3d90cb1.mp3"
   },
   {
-   "id": 20,
+   "id": 39,
    "cat": "food",
    "jp": "メニューをお願いします",
    "romaji": "menyū o onegaishimasu",
@@ -274,7 +489,7 @@
    "audio": "audio/ja/7577d2da25.mp3"
   },
   {
-   "id": 21,
+   "id": 40,
    "cat": "food",
    "jp": "英語のメニューはありますか？",
    "romaji": "eigo no menyū wa arimasu ka?",
@@ -285,7 +500,7 @@
    "audio": "audio/ja/e802b85bbb.mp3"
   },
   {
-   "id": 22,
+   "id": 41,
    "cat": "food",
    "jp": "おすすめは何ですか？",
    "romaji": "osusume wa nan desu ka?",
@@ -296,7 +511,7 @@
    "audio": "audio/ja/eee071205f.mp3"
   },
   {
-   "id": 23,
+   "id": 42,
    "cat": "food",
    "jp": "これをください",
    "romaji": "kore o kudasai",
@@ -307,7 +522,7 @@
    "audio": "audio/ja/2edf1a1986.mp3"
   },
   {
-   "id": 24,
+   "id": 43,
    "cat": "food",
    "jp": "これを二つください",
    "romaji": "kore o futatsu kudasai",
@@ -318,7 +533,7 @@
    "audio": "audio/ja/4a5e3aef54.mp3"
   },
   {
-   "id": 25,
+   "id": 44,
    "cat": "food",
    "jp": "お水をください",
    "romaji": "o-mizu o kudasai",
@@ -329,7 +544,7 @@
    "audio": "audio/ja/d417909e57.mp3"
   },
   {
-   "id": 26,
+   "id": 45,
    "cat": "food",
    "jp": "生ビールをください",
    "romaji": "nama bīru o kudasai",
@@ -340,7 +555,7 @@
    "audio": "audio/ja/b2b36550c0.mp3"
   },
   {
-   "id": 27,
+   "id": 46,
    "cat": "food",
    "jp": "いただきます",
    "romaji": "itadakimasu",
@@ -351,7 +566,7 @@
    "audio": "audio/ja/32542eb70a.mp3"
   },
   {
-   "id": 28,
+   "id": 47,
    "cat": "food",
    "jp": "ごちそうさまでした",
    "romaji": "gochisōsama deshita",
@@ -362,7 +577,7 @@
    "audio": "audio/ja/c3a9c5a17b.mp3"
   },
   {
-   "id": 29,
+   "id": 48,
    "cat": "food",
    "jp": "おいしい！",
    "romaji": "oishii!",
@@ -373,7 +588,7 @@
    "audio": "audio/ja/5d521fda3c.mp3"
   },
   {
-   "id": 30,
+   "id": 49,
    "cat": "food",
    "jp": "辛くしないでください",
    "romaji": "karaku shinaide kudasai",
@@ -384,7 +599,7 @@
    "audio": "audio/ja/1337ca7e1d.mp3"
   },
   {
-   "id": 31,
+   "id": 50,
    "cat": "food",
    "jp": "エビアレルギーがあります",
    "romaji": "ebi arerugī ga arimasu",
@@ -395,7 +610,7 @@
    "audio": "audio/ja/f4497ff635.mp3"
   },
   {
-   "id": 32,
+   "id": 51,
    "cat": "food",
    "jp": "豚肉は食べられません",
    "romaji": "butaniku wa taberaremasen",
@@ -406,7 +621,7 @@
    "audio": "audio/ja/71ec057b69.mp3"
   },
   {
-   "id": 33,
+   "id": 52,
    "cat": "food",
    "jp": "お会計をお願いします",
    "romaji": "o-kaikei o onegaishimasu",
@@ -417,7 +632,7 @@
    "audio": "audio/ja/85dcf62ebb.mp3"
   },
   {
-   "id": 34,
+   "id": 53,
    "cat": "food",
    "jp": "別々でお願いします",
    "romaji": "betsubetsu de onegaishimasu",
@@ -428,7 +643,7 @@
    "audio": "audio/ja/d0e2501524.mp3"
   },
   {
-   "id": 35,
+   "id": 54,
    "cat": "food",
    "jp": "持ち帰りで",
    "romaji": "mochikaeri de",
@@ -439,7 +654,7 @@
    "audio": "audio/ja/9ed9743e13.mp3"
   },
   {
-   "id": 36,
+   "id": 55,
    "cat": "food",
    "jp": "おかわりください",
    "romaji": "okawari kudasai",
@@ -450,7 +665,7 @@
    "audio": "audio/ja/f6ea3e2044.mp3"
   },
   {
-   "id": 37,
+   "id": 56,
    "cat": "shop",
    "jp": "いくらですか？",
    "romaji": "ikura desu ka?",
@@ -461,7 +676,7 @@
    "audio": "audio/ja/4466e416db.mp3"
   },
   {
-   "id": 38,
+   "id": 57,
    "cat": "shop",
    "jp": "これは何ですか？",
    "romaji": "kore wa nan desu ka?",
@@ -472,7 +687,7 @@
    "audio": "audio/ja/ad91220663.mp3"
   },
   {
-   "id": 39,
+   "id": 58,
    "cat": "shop",
    "jp": "見ているだけです",
    "romaji": "mite iru dake desu",
@@ -483,7 +698,7 @@
    "audio": "audio/ja/6b9eadecfa.mp3"
   },
   {
-   "id": 40,
+   "id": 59,
    "cat": "shop",
    "jp": "試着してもいいですか？",
    "romaji": "shichaku shite mo ii desu ka?",
@@ -494,7 +709,7 @@
    "audio": "audio/ja/0ceed232f8.mp3"
   },
   {
-   "id": 41,
+   "id": 60,
    "cat": "shop",
    "jp": "もっと大きいサイズはありますか？",
    "romaji": "motto ōkii saizu wa arimasu ka?",
@@ -505,7 +720,7 @@
    "audio": "audio/ja/a6b5b02c83.mp3"
   },
   {
-   "id": 42,
+   "id": 61,
    "cat": "shop",
    "jp": "他の色はありますか？",
    "romaji": "hoka no iro wa arimasu ka?",
@@ -516,7 +731,7 @@
    "audio": "audio/ja/51b9670910.mp3"
   },
   {
-   "id": 43,
+   "id": 62,
    "cat": "shop",
    "jp": "カードで払えますか？",
    "romaji": "kādo de haraemasu ka?",
@@ -527,7 +742,7 @@
    "audio": "audio/ja/eb5d836b28.mp3"
   },
   {
-   "id": 44,
+   "id": 63,
    "cat": "shop",
    "jp": "現金だけですか？",
    "romaji": "genkin dake desu ka?",
@@ -538,7 +753,7 @@
    "audio": "audio/ja/f69a0fe07a.mp3"
   },
   {
-   "id": 45,
+   "id": 64,
    "cat": "shop",
    "jp": "免税できますか？",
    "romaji": "menzei dekimasu ka?",
@@ -549,7 +764,7 @@
    "audio": "audio/ja/191217fc3e.mp3"
   },
   {
-   "id": 46,
+   "id": 65,
    "cat": "shop",
    "jp": "袋はいりません",
    "romaji": "fukuro wa irimasen",
@@ -560,7 +775,7 @@
    "audio": "audio/ja/fe43662bde.mp3"
   },
   {
-   "id": 47,
+   "id": 66,
    "cat": "shop",
    "jp": "袋をください",
    "romaji": "fukuro o kudasai",
@@ -571,7 +786,7 @@
    "audio": "audio/ja/dcf67c2172.mp3"
   },
   {
-   "id": 48,
+   "id": 67,
    "cat": "shop",
    "jp": "温めますか？",
    "romaji": "atatamemasu ka?",
@@ -582,7 +797,7 @@
    "audio": "audio/ja/d30d71e252.mp3"
   },
   {
-   "id": 49,
+   "id": 68,
    "cat": "shop",
    "jp": "大丈夫です",
    "romaji": "daijōbu desu",
@@ -593,7 +808,7 @@
    "audio": "audio/ja/c08e9419ef.mp3"
   },
   {
-   "id": 50,
+   "id": 69,
    "cat": "shop",
    "jp": "これにします",
    "romaji": "kore ni shimasu",
@@ -604,7 +819,7 @@
    "audio": "audio/ja/d718021ef3.mp3"
   },
   {
-   "id": 51,
+   "id": 70,
    "cat": "shop",
    "jp": "レシートをください",
    "romaji": "reshīto o kudasai",
@@ -615,7 +830,7 @@
    "audio": "audio/ja/7015d10f57.mp3"
   },
   {
-   "id": 52,
+   "id": 71,
    "cat": "shop",
    "jp": "少し安くなりますか？",
    "romaji": "sukoshi yasuku narimasu ka?",
@@ -626,7 +841,7 @@
    "audio": "audio/ja/b3ffb566d0.mp3"
   },
   {
-   "id": 53,
+   "id": 72,
    "cat": "shop",
    "jp": "ATMはどこですか？",
    "romaji": "ēteiemu wa doko desu ka?",
@@ -637,7 +852,7 @@
    "audio": "audio/ja/4da0214262.mp3"
   },
   {
-   "id": 54,
+   "id": 73,
    "cat": "transport",
    "jp": "駅はどこですか？",
    "romaji": "eki wa doko desu ka?",
@@ -648,7 +863,7 @@
    "audio": "audio/ja/b28d703bac.mp3"
   },
   {
-   "id": 55,
+   "id": 74,
    "cat": "transport",
    "jp": "トイレはどこですか？",
    "romaji": "toire wa doko desu ka?",
@@ -659,7 +874,7 @@
    "audio": "audio/ja/ed9f95596a.mp3"
   },
   {
-   "id": 56,
+   "id": 75,
    "cat": "transport",
    "jp": "ここに行きたいです",
    "romaji": "koko ni ikitai desu",
@@ -670,7 +885,7 @@
    "audio": "audio/ja/6827b74f67.mp3"
   },
   {
-   "id": 57,
+   "id": 76,
    "cat": "transport",
    "jp": "まっすぐ行ってください",
    "romaji": "massugu itte kudasai",
@@ -681,7 +896,7 @@
    "audio": "audio/ja/97f40e2088.mp3"
   },
   {
-   "id": 58,
+   "id": 77,
    "cat": "transport",
    "jp": "右／左",
    "romaji": "migi / hidari",
@@ -692,7 +907,7 @@
    "audio": "audio/ja/0f1f285968.mp3"
   },
   {
-   "id": 59,
+   "id": 78,
    "cat": "transport",
    "jp": "歩いて行けますか？",
    "romaji": "aruite ikemasu ka?",
@@ -703,7 +918,7 @@
    "audio": "audio/ja/9ae9350e6f.mp3"
   },
   {
-   "id": 60,
+   "id": 79,
    "cat": "transport",
    "jp": "どのくらいかかりますか？",
    "romaji": "dono kurai kakarimasu ka?",
@@ -714,7 +929,7 @@
    "audio": "audio/ja/e90b7e0fd2.mp3"
   },
   {
-   "id": 61,
+   "id": 80,
    "cat": "transport",
    "jp": "この電車は新宿に行きますか？",
    "romaji": "kono densha wa Shinjuku ni ikimasu ka?",
@@ -725,7 +940,7 @@
    "audio": "audio/ja/99e80fb802.mp3"
   },
   {
-   "id": 62,
+   "id": 81,
    "cat": "transport",
    "jp": "何番線ですか？",
    "romaji": "nanbansen desu ka?",
@@ -736,7 +951,7 @@
    "audio": "audio/ja/399f777260.mp3"
   },
   {
-   "id": 63,
+   "id": 82,
    "cat": "transport",
    "jp": "次の駅は何ですか？",
    "romaji": "tsugi no eki wa nan desu ka?",
@@ -747,7 +962,7 @@
    "audio": "audio/ja/b32c2b0742.mp3"
   },
   {
-   "id": 64,
+   "id": 83,
    "cat": "transport",
    "jp": "乗り換えはどこですか？",
    "romaji": "norikae wa doko desu ka?",
@@ -758,7 +973,7 @@
    "audio": "audio/ja/8b0f7d35da.mp3"
   },
   {
-   "id": 65,
+   "id": 84,
    "cat": "transport",
    "jp": "切符はどこで買えますか？",
    "romaji": "kippu wa doko de kaemasu ka?",
@@ -769,7 +984,7 @@
    "audio": "audio/ja/08985fb7d7.mp3"
   },
   {
-   "id": 66,
+   "id": 85,
    "cat": "transport",
    "jp": "このバスは空港に行きますか？",
    "romaji": "kono basu wa kūkō ni ikimasu ka?",
@@ -780,7 +995,7 @@
    "audio": "audio/ja/fe2aeb53e3.mp3"
   },
   {
-   "id": 67,
+   "id": 86,
    "cat": "transport",
    "jp": "ここまでお願いします",
    "romaji": "koko made onegaishimasu",
@@ -791,7 +1006,7 @@
    "audio": "audio/ja/6258d012bd.mp3"
   },
   {
-   "id": 68,
+   "id": 87,
    "cat": "transport",
    "jp": "ここで止めてください",
    "romaji": "koko de tomete kudasai",
@@ -802,7 +1017,7 @@
    "audio": "audio/ja/6ca61088a5.mp3"
   },
   {
-   "id": 69,
+   "id": 88,
    "cat": "transport",
    "jp": "道に迷いました",
    "romaji": "michi ni mayoimashita",
@@ -813,7 +1028,7 @@
    "audio": "audio/ja/f95b56ef48.mp3"
   },
   {
-   "id": 70,
+   "id": 89,
    "cat": "transport",
    "jp": "近くにコンビニはありますか？",
    "romaji": "chikaku ni konbini wa arimasu ka?",
@@ -824,7 +1039,7 @@
    "audio": "audio/ja/173057100e.mp3"
   },
   {
-   "id": 71,
+   "id": 90,
    "cat": "hotel",
    "jp": "予約しています",
    "romaji": "yoyaku shite imasu",
@@ -835,7 +1050,7 @@
    "audio": "audio/ja/26dcee96ef.mp3"
   },
   {
-   "id": 72,
+   "id": 91,
    "cat": "hotel",
    "jp": "チェックインをお願いします",
    "romaji": "chekku-in o onegaishimasu",
@@ -846,7 +1061,7 @@
    "audio": "audio/ja/63907d521d.mp3"
   },
   {
-   "id": 73,
+   "id": 92,
    "cat": "hotel",
    "jp": "チェックアウトは何時ですか？",
    "romaji": "chekku-auto wa nanji desu ka?",
@@ -857,7 +1072,7 @@
    "audio": "audio/ja/cdbec29f58.mp3"
   },
   {
-   "id": 74,
+   "id": 93,
    "cat": "hotel",
    "jp": "荷物を預かってもらえますか？",
    "romaji": "nimotsu o azukatte moraemasu ka?",
@@ -868,7 +1083,7 @@
    "audio": "audio/ja/7e4a9fca4e.mp3"
   },
   {
-   "id": 75,
+   "id": 94,
    "cat": "hotel",
    "jp": "Wi-Fiのパスワードは何ですか？",
    "romaji": "waifai no pasuwādo wa nan desu ka?",
@@ -879,7 +1094,7 @@
    "audio": "audio/ja/ea26189ef2.mp3"
   },
   {
-   "id": 76,
+   "id": 95,
    "cat": "hotel",
    "jp": "朝食は何時からですか？",
    "romaji": "chōshoku wa nanji kara desu ka?",
@@ -890,7 +1105,7 @@
    "audio": "audio/ja/f821202e56.mp3"
   },
   {
-   "id": 77,
+   "id": 96,
    "cat": "hotel",
    "jp": "タオルをもう一枚ください",
    "romaji": "taoru o mō ichimai kudasai",
@@ -901,7 +1116,7 @@
    "audio": "audio/ja/9077221465.mp3"
   },
   {
-   "id": 78,
+   "id": 97,
    "cat": "hotel",
    "jp": "エアコンが壊れています",
    "romaji": "eakon ga kowarete imasu",
@@ -912,7 +1127,7 @@
    "audio": "audio/ja/56747cb784.mp3"
   },
   {
-   "id": 79,
+   "id": 98,
    "cat": "hotel",
    "jp": "部屋の鍵をなくしました",
    "romaji": "heya no kagi o nakushimashita",
@@ -923,7 +1138,7 @@
    "audio": "audio/ja/a89e50dec2.mp3"
   },
   {
-   "id": 80,
+   "id": 99,
    "cat": "hotel",
    "jp": "お湯が出ません",
    "romaji": "o-yu ga demasen",
@@ -934,7 +1149,7 @@
    "audio": "audio/ja/3e7b7aec57.mp3"
   },
   {
-   "id": 81,
+   "id": 100,
    "cat": "hotel",
    "jp": "タクシーを呼んでもらえますか？",
    "romaji": "takushī o yonde moraemasu ka?",
@@ -945,7 +1160,7 @@
    "audio": "audio/ja/0fe7aa5c76.mp3"
   },
   {
-   "id": 82,
+   "id": 101,
    "cat": "hotel",
    "jp": "もう一泊できますか？",
    "romaji": "mō ippaku dekimasu ka?",
@@ -956,7 +1171,7 @@
    "audio": "audio/ja/948644c3b3.mp3"
   },
   {
-   "id": 83,
+   "id": 102,
    "cat": "hotel",
    "jp": "大浴場は何時までですか？",
    "romaji": "daiyokujō wa nanji made desu ka?",
@@ -967,7 +1182,7 @@
    "audio": "audio/ja/c737b9d6f3.mp3"
   },
   {
-   "id": 84,
+   "id": 103,
    "cat": "help",
    "jp": "助けて！",
    "romaji": "tasukete!",
@@ -978,7 +1193,7 @@
    "audio": "audio/ja/f0396d5f3e.mp3"
   },
   {
-   "id": 85,
+   "id": 104,
    "cat": "help",
    "jp": "救急車を呼んでください",
    "romaji": "kyūkyūsha o yonde kudasai",
@@ -989,7 +1204,7 @@
    "audio": "audio/ja/594253438b.mp3"
   },
   {
-   "id": 86,
+   "id": 105,
    "cat": "help",
    "jp": "警察を呼んでください",
    "romaji": "keisatsu o yonde kudasai",
@@ -1000,7 +1215,7 @@
    "audio": "audio/ja/d29ffc5290.mp3"
   },
   {
-   "id": 87,
+   "id": 106,
    "cat": "help",
    "jp": "病院はどこですか？",
    "romaji": "byōin wa doko desu ka?",
@@ -1011,7 +1226,7 @@
    "audio": "audio/ja/82b18bef97.mp3"
   },
   {
-   "id": 88,
+   "id": 107,
    "cat": "help",
    "jp": "気分が悪いです",
    "romaji": "kibun ga warui desu",
@@ -1022,7 +1237,7 @@
    "audio": "audio/ja/487fcdf5fa.mp3"
   },
   {
-   "id": 89,
+   "id": 108,
    "cat": "help",
    "jp": "ここが痛いです",
    "romaji": "koko ga itai desu",
@@ -1033,7 +1248,7 @@
    "audio": "audio/ja/7f2f5ca814.mp3"
   },
   {
-   "id": 90,
+   "id": 109,
    "cat": "help",
    "jp": "熱があります",
    "romaji": "netsu ga arimasu",
@@ -1044,7 +1259,7 @@
    "audio": "audio/ja/49fbdf6fd8.mp3"
   },
   {
-   "id": 91,
+   "id": 110,
    "cat": "help",
    "jp": "薬局はどこですか？",
    "romaji": "yakkyoku wa doko desu ka?",
@@ -1055,7 +1270,7 @@
    "audio": "audio/ja/5fe00e2bbc.mp3"
   },
   {
-   "id": 92,
+   "id": 111,
    "cat": "help",
    "jp": "財布をなくしました",
    "romaji": "saifu o nakushimashita",
@@ -1066,7 +1281,7 @@
    "audio": "audio/ja/ac1a68fb9b.mp3"
   },
   {
-   "id": 93,
+   "id": 112,
    "cat": "help",
    "jp": "交番はどこですか？",
    "romaji": "kōban wa doko desu ka?",
@@ -1077,7 +1292,7 @@
    "audio": "audio/ja/72bd3775bb.mp3"
   },
   {
-   "id": 94,
+   "id": 113,
    "cat": "help",
    "jp": "英語を話せる人はいますか？",
    "romaji": "eigo o hanaseru hito wa imasu ka?",
@@ -1088,7 +1303,7 @@
    "audio": "audio/ja/aadc1f887b.mp3"
   },
   {
-   "id": 95,
+   "id": 114,
    "cat": "help",
    "jp": "日本語が分かりません",
    "romaji": "nihongo ga wakarimasen",
@@ -1099,7 +1314,7 @@
    "audio": "audio/ja/d54a07ed19.mp3"
   },
   {
-   "id": 96,
+   "id": 115,
    "cat": "help",
    "jp": "もう一度お願いします",
    "romaji": "mō ichido onegaishimasu",
@@ -1110,7 +1325,7 @@
    "audio": "audio/ja/066d6b5992.mp3"
   },
   {
-   "id": 97,
+   "id": 116,
    "cat": "help",
    "jp": "ゆっくり話してください",
    "romaji": "yukkuri hanashite kudasai",
@@ -1121,7 +1336,7 @@
    "audio": "audio/ja/2831f0d3cc.mp3"
   },
   {
-   "id": 98,
+   "id": 117,
    "cat": "help",
    "jp": "書いてもらえますか？",
    "romaji": "kaite moraemasu ka?",
@@ -1132,7 +1347,7 @@
    "audio": "audio/ja/7b4c0b9f5f.mp3"
   },
   {
-   "id": 99,
+   "id": 118,
    "cat": "help",
    "jp": "地震です！",
    "romaji": "jishin desu!",
@@ -1143,7 +1358,7 @@
    "audio": "audio/ja/74a3f9f97f.mp3"
   },
   {
-   "id": 100,
+   "id": 119,
    "cat": "talk",
    "jp": "いい天気ですね",
    "romaji": "ii tenki desu ne",
@@ -1154,7 +1369,7 @@
    "audio": "audio/ja/61b2e5cd60.mp3"
   },
   {
-   "id": 101,
+   "id": 120,
    "cat": "talk",
    "jp": "今日は暑いですね",
    "romaji": "kyō wa atsui desu ne",
@@ -1165,7 +1380,7 @@
    "audio": "audio/ja/ec682c6c0d.mp3"
   },
   {
-   "id": 102,
+   "id": 121,
    "cat": "talk",
    "jp": "お名前は何ですか？",
    "romaji": "o-namae wa nan desu ka?",
@@ -1176,7 +1391,7 @@
    "audio": "audio/ja/c84eea66d4.mp3"
   },
   {
-   "id": 103,
+   "id": 122,
    "cat": "talk",
    "jp": "どこから来ましたか？",
    "romaji": "doko kara kimashita ka?",
@@ -1187,7 +1402,7 @@
    "audio": "audio/ja/06ef1c0d0f.mp3"
   },
   {
-   "id": 104,
+   "id": 123,
    "cat": "talk",
    "jp": "趣味は何ですか？",
    "romaji": "shumi wa nan desu ka?",
@@ -1198,7 +1413,7 @@
    "audio": "audio/ja/eef3b17e42.mp3"
   },
   {
-   "id": 105,
+   "id": 124,
    "cat": "talk",
    "jp": "日本は初めてです",
    "romaji": "Nihon wa hajimete desu",
@@ -1209,7 +1424,7 @@
    "audio": "audio/ja/a3dc905efa.mp3"
   },
   {
-   "id": 106,
+   "id": 125,
    "cat": "talk",
    "jp": "日本が大好きです",
    "romaji": "Nihon ga daisuki desu",
@@ -1220,7 +1435,7 @@
    "audio": "audio/ja/722249ffbd.mp3"
   },
   {
-   "id": 107,
+   "id": 126,
    "cat": "talk",
    "jp": "日本語を勉強しています",
    "romaji": "nihongo o benkyō shite imasu",
@@ -1231,7 +1446,7 @@
    "audio": "audio/ja/93d2ac622a.mp3"
   },
   {
-   "id": 108,
+   "id": 127,
    "cat": "talk",
    "jp": "少しだけ話せます",
    "romaji": "sukoshi dake hanasemasu",
@@ -1242,7 +1457,7 @@
    "audio": "audio/ja/fcace21687.mp3"
   },
   {
-   "id": 109,
+   "id": 128,
    "cat": "talk",
    "jp": "本当？",
    "romaji": "hontō?",
@@ -1253,7 +1468,7 @@
    "audio": "audio/ja/50667459a6.mp3"
   },
   {
-   "id": 110,
+   "id": 129,
    "cat": "talk",
    "jp": "すごい！",
    "romaji": "sugoi!",
@@ -1264,7 +1479,7 @@
    "audio": "audio/ja/277e28f02e.mp3"
   },
   {
-   "id": 111,
+   "id": 130,
    "cat": "talk",
    "jp": "なるほど",
    "romaji": "naruhodo",
@@ -1275,7 +1490,7 @@
    "audio": "audio/ja/2e1550a3f1.mp3"
   },
   {
-   "id": 112,
+   "id": 131,
    "cat": "talk",
    "jp": "そうですね",
    "romaji": "sō desu ne",
@@ -1286,7 +1501,7 @@
    "audio": "audio/ja/fbc761d670.mp3"
   },
   {
-   "id": 113,
+   "id": 132,
    "cat": "talk",
    "jp": "写真を撮ってもいいですか？",
    "romaji": "shashin o totte mo ii desu ka?",
@@ -1297,7 +1512,7 @@
    "audio": "audio/ja/782201eab1.mp3"
   },
   {
-   "id": 114,
+   "id": 133,
    "cat": "talk",
    "jp": "一緒に写真を撮りませんか？",
    "romaji": "issho ni shashin o torimasen ka?",
@@ -1308,7 +1523,7 @@
    "audio": "audio/ja/6e6d0f8ba6.mp3"
   },
   {
-   "id": 115,
+   "id": 134,
    "cat": "talk",
    "jp": "LINEやってますか？",
    "romaji": "rain yattemasu ka?",
@@ -1319,7 +1534,7 @@
    "audio": "audio/ja/1045abaa24.mp3"
   },
   {
-   "id": 116,
+   "id": 135,
    "cat": "polite",
    "jp": "ありがとうございます",
    "romaji": "arigatō gozaimasu",
@@ -1330,7 +1545,7 @@
    "audio": "audio/ja/94f49c978d.mp3"
   },
   {
-   "id": 117,
+   "id": 136,
    "cat": "polite",
    "jp": "どういたしまして",
    "romaji": "dō itashimashite",
@@ -1341,7 +1556,7 @@
    "audio": "audio/ja/c0d50b2506.mp3"
   },
   {
-   "id": 118,
+   "id": 137,
    "cat": "polite",
    "jp": "すみません",
    "romaji": "sumimasen",
@@ -1352,7 +1567,7 @@
    "audio": "audio/ja/27eeedab97.mp3"
   },
   {
-   "id": 119,
+   "id": 138,
    "cat": "polite",
    "jp": "ごめんなさい",
    "romaji": "gomen nasai",
@@ -1363,7 +1578,7 @@
    "audio": "audio/ja/03942332d1.mp3"
   },
   {
-   "id": 120,
+   "id": 139,
    "cat": "polite",
    "jp": "申し訳ありません",
    "romaji": "mōshiwake arimasen",
@@ -1374,7 +1589,7 @@
    "audio": "audio/ja/b4d5ebbab7.mp3"
   },
   {
-   "id": 121,
+   "id": 140,
    "cat": "polite",
    "jp": "お願いします",
    "romaji": "onegaishimasu",
@@ -1385,7 +1600,7 @@
    "audio": "audio/ja/df829f0c42.mp3"
   },
   {
-   "id": 122,
+   "id": 141,
    "cat": "polite",
    "jp": "はい／いいえ",
    "romaji": "hai / iie",
@@ -1396,7 +1611,7 @@
    "audio": "audio/ja/9efb5fd67d.mp3"
   },
   {
-   "id": 123,
+   "id": 142,
    "cat": "polite",
    "jp": "ちょっと待ってください",
    "romaji": "chotto matte kudasai",
@@ -1407,7 +1622,7 @@
    "audio": "audio/ja/6f6e1455dd.mp3"
   },
   {
-   "id": 124,
+   "id": 143,
    "cat": "polite",
    "jp": "失礼します",
    "romaji": "shitsurei shimasu",
@@ -1418,7 +1633,7 @@
    "audio": "audio/ja/3a841e1db5.mp3"
   },
   {
-   "id": 125,
+   "id": 144,
    "cat": "polite",
    "jp": "お疲れ様です",
    "romaji": "otsukaresama desu",
@@ -1429,7 +1644,7 @@
    "audio": "audio/ja/1bf56def3f.mp3"
   },
   {
-   "id": 126,
+   "id": 145,
    "cat": "polite",
    "jp": "おめでとうございます",
    "romaji": "omedetō gozaimasu",
@@ -1440,7 +1655,7 @@
    "audio": "audio/ja/f74ead1d50.mp3"
   },
   {
-   "id": 127,
+   "id": 146,
    "cat": "polite",
    "jp": "大丈夫ですか？",
    "romaji": "daijōbu desu ka?",
@@ -1451,7 +1666,7 @@
    "audio": "audio/ja/059425589f.mp3"
   },
   {
-   "id": 128,
+   "id": 147,
    "cat": "polite",
    "jp": "分かりました",
    "romaji": "wakarimashita",
@@ -1462,7 +1677,7 @@
    "audio": "audio/ja/177ba1a19f.mp3"
   },
   {
-   "id": 129,
+   "id": 148,
    "cat": "polite",
    "jp": "いいですよ",
    "romaji": "ii desu yo",
@@ -1473,7 +1688,7 @@
    "audio": "audio/ja/9014540164.mp3"
   },
   {
-   "id": 130,
+   "id": 149,
    "cat": "polite",
    "jp": "お先に失礼します",
    "romaji": "osaki ni shitsurei shimasu",
@@ -1484,7 +1699,7 @@
    "audio": "audio/ja/aa917b34f1.mp3"
   },
   {
-   "id": 131,
+   "id": 150,
    "cat": "polite",
    "jp": "どうぞ",
    "romaji": "dōzo",
@@ -1495,7 +1710,7 @@
    "audio": "audio/ja/cf30ffebe8.mp3"
   },
   {
-   "id": 132,
+   "id": 151,
    "cat": "num",
    "jp": "一、二、三",
    "romaji": "ichi, ni, san",
@@ -1506,7 +1721,7 @@
    "audio": "audio/ja/3fdadee42c.mp3"
   },
   {
-   "id": 133,
+   "id": 152,
    "cat": "num",
    "jp": "百／千／一万",
    "romaji": "hyaku / sen / ichiman",
@@ -1517,7 +1732,7 @@
    "audio": "audio/ja/9bdb68865a.mp3"
   },
   {
-   "id": 134,
+   "id": 153,
    "cat": "num",
    "jp": "今何時ですか？",
    "romaji": "ima nanji desu ka?",
@@ -1528,7 +1743,7 @@
    "audio": "audio/ja/113a83848b.mp3"
   },
   {
-   "id": 135,
+   "id": 154,
    "cat": "num",
    "jp": "三時半です",
    "romaji": "sanji han desu",
@@ -1539,7 +1754,7 @@
    "audio": "audio/ja/48a5a3976a.mp3"
   },
   {
-   "id": 136,
+   "id": 155,
    "cat": "num",
    "jp": "何時に開きますか？",
    "romaji": "nanji ni akimasu ka?",
@@ -1550,7 +1765,7 @@
    "audio": "audio/ja/38b0c75efb.mp3"
   },
   {
-   "id": 137,
+   "id": 156,
    "cat": "num",
    "jp": "何時に閉まりますか？",
    "romaji": "nanji ni shimarimasu ka?",
@@ -1561,7 +1776,7 @@
    "audio": "audio/ja/ff00a150d4.mp3"
   },
   {
-   "id": 138,
+   "id": 157,
    "cat": "num",
    "jp": "今日／明日／昨日",
    "romaji": "kyō / ashita / kinō",
@@ -1572,7 +1787,7 @@
    "audio": "audio/ja/ad3b3a833b.mp3"
   },
   {
-   "id": 139,
+   "id": 158,
    "cat": "num",
    "jp": "今週末",
    "romaji": "konshūmatsu",
@@ -1583,7 +1798,7 @@
    "audio": "audio/ja/c449532d74.mp3"
   },
   {
-   "id": 140,
+   "id": 159,
    "cat": "num",
    "jp": "午前／午後",
    "romaji": "gozen / gogo",
@@ -1594,7 +1809,7 @@
    "audio": "audio/ja/664b3ffc3b.mp3"
   },
   {
-   "id": 141,
+   "id": 160,
    "cat": "num",
    "jp": "五分後",
    "romaji": "go-fun go",
@@ -1605,7 +1820,7 @@
    "audio": "audio/ja/af7732799c.mp3"
   },
   {
-   "id": 142,
+   "id": 161,
    "cat": "num",
    "jp": "何日ですか？",
    "romaji": "nannichi desu ka?",
@@ -1616,7 +1831,7 @@
    "audio": "audio/ja/d0c5c18145.mp3"
   },
   {
-   "id": 143,
+   "id": 162,
    "cat": "num",
    "jp": "何曜日ですか？",
    "romaji": "nan'yōbi desu ka?",
@@ -1627,7 +1842,7 @@
    "audio": "audio/ja/90752acc5f.mp3"
   },
   {
-   "id": 144,
+   "id": 163,
    "cat": "num",
    "jp": "千五百円です",
    "romaji": "sen gohyaku en desu",
@@ -1638,7 +1853,7 @@
    "audio": "audio/ja/ac441add28.mp3"
   },
   {
-   "id": 145,
+   "id": 164,
    "cat": "num",
    "jp": "一つ、二つ、三つ",
    "romaji": "hitotsu, futatsu, mittsu",
@@ -1649,7 +1864,7 @@
    "audio": "audio/ja/40b321fc22.mp3"
   },
   {
-   "id": 146,
+   "id": 165,
    "cat": "game",
    "jp": "一緒にやろう！",
    "romaji": "issho ni yarō!",
@@ -1660,7 +1875,7 @@
    "audio": "audio/ja/6bceb7f8b3.mp3"
   },
   {
-   "id": 147,
+   "id": 166,
    "cat": "game",
    "jp": "よろしくお願いします！",
    "romaji": "yoroshiku onegaishimasu!",
@@ -1671,7 +1886,7 @@
    "audio": "audio/ja/1f40b4be3c.mp3"
   },
   {
-   "id": 148,
+   "id": 167,
    "cat": "game",
    "jp": "お疲れ様でした！",
    "romaji": "otsukaresama deshita!",
@@ -1682,7 +1897,7 @@
    "audio": "audio/ja/96d018df4c.mp3"
   },
   {
-   "id": 149,
+   "id": 168,
    "cat": "game",
    "jp": "ナイス！",
    "romaji": "naisu!",
@@ -1693,7 +1908,7 @@
    "audio": "audio/ja/244383077c.mp3"
   },
   {
-   "id": 150,
+   "id": 169,
    "cat": "game",
    "jp": "ドンマイ",
    "romaji": "donmai",
@@ -1704,7 +1919,7 @@
    "audio": "audio/ja/9541f20730.mp3"
   },
   {
-   "id": 151,
+   "id": 170,
    "cat": "game",
    "jp": "助けて！",
    "romaji": "tasukete!",
@@ -1715,7 +1930,7 @@
    "audio": "audio/ja/f0396d5f3e.mp3"
   },
   {
-   "id": 152,
+   "id": 171,
    "cat": "game",
    "jp": "敵がいる！",
    "romaji": "teki ga iru!",
@@ -1726,7 +1941,7 @@
    "audio": "audio/ja/3aaed2eabc.mp3"
   },
   {
-   "id": 153,
+   "id": 172,
    "cat": "game",
    "jp": "回復お願い！",
    "romaji": "kaifuku onegai!",
@@ -1737,7 +1952,7 @@
    "audio": "audio/ja/6500a51be3.mp3"
   },
   {
-   "id": 154,
+   "id": 173,
    "cat": "game",
    "jp": "もう一回！",
    "romaji": "mō ikkai!",
@@ -1748,7 +1963,7 @@
    "audio": "audio/ja/c09e424f2d.mp3"
   },
   {
-   "id": 155,
+   "id": 174,
    "cat": "game",
    "jp": "推しは誰？",
    "romaji": "oshi wa dare?",
@@ -1759,7 +1974,7 @@
    "audio": "audio/ja/cb16e1f661.mp3"
   },
   {
-   "id": 156,
+   "id": 175,
    "cat": "game",
    "jp": "このアニメ見た？",
    "romaji": "kono anime mita?",
@@ -1770,7 +1985,7 @@
    "audio": "audio/ja/4317c4bb85.mp3"
   },
   {
-   "id": 157,
+   "id": 176,
    "cat": "game",
    "jp": "ネタバレしないで！",
    "romaji": "netabare shinaide!",
@@ -1781,7 +1996,7 @@
    "audio": "audio/ja/6584a32d9a.mp3"
   },
   {
-   "id": 158,
+   "id": 177,
    "cat": "game",
    "jp": "めっちゃ面白い！",
    "romaji": "meccha omoshiroi!",
@@ -1792,7 +2007,7 @@
    "audio": "audio/ja/e8a02ff753.mp3"
   },
   {
-   "id": 159,
+   "id": 178,
    "cat": "game",
    "jp": "草",
    "romaji": "kusa",
@@ -1803,7 +2018,7 @@
    "audio": "audio/ja/e00508cb66.mp3"
   },
   {
-   "id": 160,
+   "id": 179,
    "cat": "game",
    "jp": "ガチャ爆死した…",
    "romaji": "gacha bakushi shita…",

@@ -64,3 +64,5 @@ footer{color:#777;font-size:12px;padding:30px 4%}
 .dtally{font-size:12px;background:#fff2;border-radius:999px;padding:2px 8px}.dtally:empty{display:none}
 @media(max-width:700px){.nav{position:sticky;background:#141414f2;padding:10px 4%}.hero{height:auto;min-height:340px}}
 @media(max-width:700px){.hero.textonly{padding-top:24px}}
+.row.must .pgrid{grid-template-columns:repeat(auto-fill,minmax(280px,1fr))}.row.must .pcard{border:2px solid #e50914;padding:16px}.row.must .pjp{font-size:26px}.row.must .pen{font-size:16px;font-weight:600}
+.sos{margin:0 4% 10px;background:#3a0610;border-left:4px solid #e50914;padding:10px 12px;font-weight:700;border-radius:4px}.chips button.mk{background:#5a0a14;color:#fff;font-weight:700}.chips button.mk.on{background:#e50914}
