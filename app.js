@@ -30,6 +30,7 @@ function render(sec){
  let links=[];
  if(sec==='memes'){memes(add,links);}
  else if(sec==='deals'){deals(add,links);}
+ else if(sec==='events'){events(add,links);}
  else if(sec==='japan'){if(P&&P.phrases)japan(add,links);else rows.innerHTML='<p class="empty">Phrases failed to load — pull to refresh · โหลดไม่สำเร็จ</p>';}
  else if(sec==='books'){
   const q=Q.quotes[dayIdx(Q.quotes.length)];
@@ -58,7 +59,7 @@ function render(sec){
  $('#links').querySelectorAll('a').forEach(a=>a.onclick=e=>{e.preventDefault();document.getElementById(a.dataset.k).scrollIntoView({behavior:'smooth'})});
  window.scrollTo(0,0);
 }
-const TABS=['sports','gaming','music','japan','books','deals','memes'];
+const TABS=['sports','gaming','music','japan','books','deals','events','memes'];
 const sec=()=>{const h=location.hash.slice(1);return TABS.includes(h)?h:'sports'};
 window.onhashchange=()=>D&&render(sec());
 Promise.all([get('data.json'),get('weekly.json'),get('books.json'),get('phrases.json'),get('quotes.json'),get('japan.json'),get('memes.json')]).then(([d,w,b,p,q,j,mm])=>{D=d;W=w||{rows:{}};B=b;P=p;Q=q;J=j;MCATS=(mm&&mm.categories)||[];MM=((mm&&mm.memes)||mm||[]).sort((x,y)=>x.rank-y.rank);$('#upd').textContent='Videos updated '+new Date(d.updated).toLocaleString();render(sec())});
