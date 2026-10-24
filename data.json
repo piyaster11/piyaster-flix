@@ -1,4491 +1,673 @@
 {
- "updated": "2026-10-23T21:26:36+00:00",
- "rows": [
+ "updated": "2026-10-24T04:39:37+00:00",
+ "rows": [],
+ "skipped": [
   {
    "key": "premier-league",
    "name": "Premier League",
    "th": "พรีเมียร์ลีก",
-   "channels": [
-    "Premier League"
-   ],
+   "channels": [],
    "minViews": 50000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "SoMgXvgXuIk",
-     "title": "Who Is The Best Player You've Ever Faced? 👀",
-     "published": "2026-10-21T16:00:21+00:00",
-     "channel": "Premier League",
-     "views": 326262,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/SoMgXvgXuIk/hqdefault.jpg"
-    },
-    {
-     "id": "ZbrLNXVo8V4",
-     "title": "Carlos Baleba Showing OFF 🤤",
-     "published": "2026-10-22T16:00:06+00:00",
-     "channel": "Premier League",
-     "views": 164390,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/ZbrLNXVo8V4/hqdefault.jpg"
-    },
-    {
-     "id": "mkIjGCXn7Cc",
-     "title": "MAX DOWMAN 🤯 The Youngest Goalscorer In Premier League History!",
-     "published": "2026-10-23T13:00:31+00:00",
-     "channel": "Premier League",
-     "views": 141356,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/mkIjGCXn7Cc/hqdefault.jpg"
-    },
-    {
-     "id": "GP6zbyv7Q84",
-     "title": "RefCam: James Maddison Screamer 🤯",
-     "published": "2026-10-22T08:00:10+00:00",
-     "channel": "Premier League",
-     "views": 126009,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/GP6zbyv7Q84/hqdefault.jpg"
-    },
-    {
-     "id": "c3CfuQ4yD1Y",
-     "title": "Cole Palmer, Neto, Caicedo, Estevao 😮‍💨",
-     "published": "2026-10-21T12:01:26+00:00",
-     "channel": "Premier League",
-     "views": 94960,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/c3CfuQ4yD1Y/hqdefault.jpg"
-    },
-    {
-     "id": "QjwILYLFISc",
-     "title": "Chelsea's Attack Is UNSTOPPABLE 🥶",
-     "published": "2026-10-22T12:45:10+00:00",
-     "channel": "Premier League",
-     "views": 70360,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/QjwILYLFISc/hqdefault.jpg"
-    },
-    {
-     "id": "ZDTNUk-lK6M",
-     "title": "35 Years Old But His Quality Is UNREAL 🤯",
-     "published": "2026-10-23T08:30:07+00:00",
-     "channel": "Premier League",
-     "views": 64014,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/ZDTNUk-lK6M/hqdefault.jpg"
-    },
-    {
-     "id": "DugwxIpam60",
-     "title": "How One of the OLDEST Players in the League Outsmarts Everyone",
-     "published": "2026-10-22T10:08:26+00:00",
-     "channel": "Premier League",
-     "views": 52691,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/DugwxIpam60/hqdefault.jpg"
-    },
-    {
-     "id": "lIlUdLy28EA",
-     "title": "Madueke Knew He'd Make It At 14 Years Old 😮‍💨",
-     "published": "2026-10-22T17:00:23+00:00",
-     "channel": "Premier League",
-     "views": 48971,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/lIlUdLy28EA/hqdefault.jpg"
-    },
-    {
-     "id": "FB93YO-ahuI",
-     "title": "PURE CINEMA 🍿 | Chelsea v Spurs 2015/16 | Classic Match",
-     "published": "2026-10-23T09:31:06+00:00",
-     "channel": "Premier League",
-     "views": 48722,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/FB93YO-ahuI/hqdefault.jpg"
+     "channelId": "UCG5qGWdu8nIRZqJ_GgDwQ-w",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "sports"
   },
   {
    "key": "laliga",
    "name": "LaLiga",
    "th": "ลาลีกา",
-   "channels": [
-    "LALIGA EA SPORTS"
-   ],
+   "channels": [],
    "minViews": 10000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "JUysfm3VT-A",
-     "title": "FC BARCELONA 4-3 REAL MADRID 2024/25 | Resumen ampliado",
-     "published": "2026-10-22T16:00:11+00:00",
-     "channel": "LALIGA EA SPORTS",
-     "views": 169483,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/JUysfm3VT-A/hqdefault.jpg"
-    },
-    {
-     "id": "u7OfVvjPqBY",
-     "title": "¿LAMINE o MBAPPÉ? Elige tu CAPITÁN para ELCLÁSICO | LALIGA FANTASY SHOW #9",
-     "published": "2026-10-23T16:44:20+00:00",
-     "channel": "LALIGA EA SPORTS",
-     "views": 27863,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/u7OfVvjPqBY/hqdefault.jpg"
-    },
-    {
-     "id": "cY_44XhRHWA",
-     "title": "Exhibiciones INOLVIDABLES en ELCLÁSICO 🌟 | LALIGA EA SPORTS",
-     "published": "2026-10-22T22:00:23+00:00",
-     "channel": "LALIGA EA SPORTS",
-     "views": 25300,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/cY_44XhRHWA/hqdefault.jpg"
-    },
-    {
-     "id": "Q-XmSSvsO-Q",
-     "title": "¿Con qué gol te quedas: LAMINE YAMAL o KYLIAN MBAPPÉ?",
-     "published": "2026-10-23T14:00:16+00:00",
-     "channel": "LALIGA EA SPORTS",
-     "views": 15793,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/Q-XmSSvsO-Q/hqdefault.jpg"
-    },
-    {
-     "id": "iF7KpdI8Dvo",
-     "title": "ADEYEMI se queda solo ante VALLES y…",
-     "published": "2026-10-23T08:00:37+00:00",
-     "channel": "LALIGA EA SPORTS",
-     "views": 14969,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/iF7KpdI8Dvo/hqdefault.jpg"
-    },
-    {
-     "id": "AUQMNT0GLoo",
-     "title": "🔴 DEPORTIVO ALAVÉS vs MÁLAGA CF - PREVIA DEL PARTIDO",
-     "published": "2026-10-23T19:01:13+00:00",
-     "channel": "LALIGA EA SPORTS",
-     "views": 14081,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/AUQMNT0GLoo/hqdefault.jpg"
-    },
-    {
-     "id": "4tffRP_r7Go",
-     "title": "Real Madrid 0 - 1 FC Barcelona 2018/19 PARTIDO COMPLETO",
-     "published": "2026-10-23T15:00:21+00:00",
-     "channel": "LALIGA EA SPORTS",
-     "views": 13844,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/4tffRP_r7Go/hqdefault.jpg"
-    },
-    {
-     "id": "cZfGfGiax6w",
-     "title": "DITURO, guía por un día en ELCHE",
-     "published": "2026-10-22T13:00:03+00:00",
-     "channel": "LALIGA EA SPORTS",
-     "views": 13276,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/cZfGfGiax6w/hqdefault.jpg"
-    },
-    {
-     "id": "dKbcG2_qOqg",
-     "title": "Conocemos Elche junto a MATÍAS DITURO",
-     "published": "2026-10-22T20:00:36+00:00",
-     "channel": "LALIGA EA SPORTS",
-     "views": 7811,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/dKbcG2_qOqg/hqdefault.jpg"
-    },
-    {
-     "id": "FI7o3VCACDk",
-     "title": "DEPORTIVO ALAVÉS 1 - 1 MÁLAGA CF | RESUMEN LALIGA EA SPORTS",
-     "published": "2026-10-23T21:08:27+00:00",
-     "channel": "LALIGA EA SPORTS",
-     "views": 2804,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/FI7o3VCACDk/hqdefault.jpg"
+     "channelId": "UCTv-XvfzLX3i4IGWAm4sbmA",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "sports"
   },
   {
    "key": "ucl",
    "name": "UEFA / Champions League",
    "th": "ยูฟ่า แชมเปียนส์ลีก",
-   "channels": [
-    "UEFA"
-   ],
+   "channels": [],
    "minViews": 20000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "Z8EWtT_jBnY",
-     "title": "Harry Kane takes goal-kicks too apparently 🤷‍♂️",
-     "published": "2026-10-22T11:14:24+00:00",
-     "channel": "UEFA",
-     "views": 1487495,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/Z8EWtT_jBnY/hqdefault.jpg"
-    },
-    {
-     "id": "AQdsoWYLRwI",
-     "title": "EVERY Champions League Goal From Matchday 3 | Highlights",
-     "published": "2026-10-22T13:57:02+00:00",
-     "channel": "UEFA",
-     "views": 1341044,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/AQdsoWYLRwI/hqdefault.jpg"
-    },
-    {
-     "id": "OFTxIWNutQ4",
-     "title": "👀 👀 👀",
-     "published": "2026-10-22T16:00:16+00:00",
-     "channel": "UEFA",
-     "views": 1136845,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/OFTxIWNutQ4/hqdefault.jpg"
-    },
-    {
-     "id": "1uXd3HOX_SE",
-     "title": "What a save from Sommer! 👏",
-     "published": "2026-10-20T16:00:37+00:00",
-     "channel": "UEFA",
-     "views": 970623,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/1uXd3HOX_SE/hqdefault.jpg"
-    },
-    {
-     "id": "-TED9ZxEZ6o",
-     "title": "Luis Suárez’s two nutmegs in the same game 🥶",
-     "published": "2026-10-20T11:00:19+00:00",
-     "channel": "UEFA",
-     "views": 620610,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/-TED9ZxEZ6o/hqdefault.jpg"
-    },
-    {
-     "id": "PI7gGFIWipI",
-     "title": "Lewandowski ➡️ Thiago",
-     "published": "2026-10-21T14:00:23+00:00",
-     "channel": "UEFA",
-     "views": 542211,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/PI7gGFIWipI/hqdefault.jpg"
-    },
-    {
-     "id": "49t05yZrY48",
-     "title": "Pedri getting out of trouble",
-     "published": "2026-10-22T14:18:44+00:00",
-     "channel": "UEFA",
-     "views": 239424,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/49t05yZrY48/hqdefault.jpg"
-    },
-    {
-     "id": "Z73ycrmiRn4",
-     "title": "🤣🤣🤣",
-     "published": "2026-10-20T14:00:14+00:00",
-     "channel": "UEFA",
-     "views": 190698,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/Z73ycrmiRn4/hqdefault.jpg"
-    },
-    {
-     "id": "ZLGRVuq6BH4",
-     "title": "Haaland v Pacho!",
-     "published": "2026-10-21T11:00:26+00:00",
-     "channel": "UEFA",
-     "views": 171083,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/ZLGRVuq6BH4/hqdefault.jpg"
-    },
-    {
-     "id": "a-3c6jnjWpM",
-     "title": "Paris vs Barcelona! | Classic Champions League Goals",
-     "published": "2026-10-20T14:00:34+00:00",
-     "channel": "UEFA",
-     "views": 149700,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/a-3c6jnjWpM/hqdefault.jpg"
-    },
-    {
-     "id": "9E7DmuhBt4M",
-     "title": "Bayern München v Arsenal! | Classic Champions League Goals",
-     "published": "2026-10-21T17:25:05+00:00",
-     "channel": "UEFA",
-     "views": 74053,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/9E7DmuhBt4M/hqdefault.jpg"
-    },
-    {
-     "id": "KI8iR7q4-PQ",
-     "title": "The BEST Goals From Matchweek 3 (UCL, UEL, UECL)",
-     "published": "2026-10-23T13:12:39+00:00",
-     "channel": "UEFA",
-     "views": 52921,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/KI8iR7q4-PQ/hqdefault.jpg"
+     "channelId": "UCyGa1YEx9ST66rYrJTGIKOw",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "sports"
   },
   {
    "key": "nba",
    "name": "NBA",
    "th": "บาสเกตบอล NBA",
-   "channels": [
-    "NBA"
-   ],
+   "channels": [],
    "minViews": 10000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "aEAJfS_6J0g",
-     "title": "NUGGETS at THUNDER | FULL GAME HIGHLIGHTS | October 22, 2026",
-     "published": "2026-10-23T04:37:06+00:00",
-     "channel": "NBA",
-     "views": 859322,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/aEAJfS_6J0g/hqdefault.jpg"
-    },
-    {
-     "id": "y7WRP7JmPmM",
-     "title": "Chet Holmgren BLOCKS the Shot and J-Dub THROWS IT DOWN 🔥",
-     "published": "2026-10-23T03:32:05+00:00",
-     "channel": "NBA",
-     "views": 102013,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/y7WRP7JmPmM/hqdefault.jpg"
-    },
-    {
-     "id": "J5gMeeHDIHY",
-     "title": "Jalen Williams’ Dramatic Fall Has the Announcers COUNTING😂",
-     "published": "2026-10-23T03:37:50+00:00",
-     "channel": "NBA",
-     "views": 90232,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/J5gMeeHDIHY/hqdefault.jpg"
-    },
-    {
-     "id": "tIsw4QK1Ung",
-     "title": "NBA's Nightly Recap | October 22, 2026",
-     "published": "2026-10-23T06:12:40+00:00",
-     "channel": "NBA",
-     "views": 76291,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/tIsw4QK1Ung/hqdefault.jpg"
-    },
-    {
-     "id": "1TgjpN4TyWU",
-     "title": "NBA's Top 5 Plays of the Night | October 22, 2026",
-     "published": "2026-10-23T05:53:50+00:00",
-     "channel": "NBA",
-     "views": 60655,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/1TgjpN4TyWU/hqdefault.jpg"
-    },
-    {
-     "id": "AjjTAbyhK7U",
-     "title": "SGA Drains the Three, Heads to the Bench with 17 Points",
-     "published": "2026-10-23T04:32:43+00:00",
-     "channel": "NBA",
-     "views": 39954,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/AjjTAbyhK7U/hqdefault.jpg"
-    },
-    {
-     "id": "Gfj1J5lH4Xo",
-     "title": "Chet Holmgren Goes From BLOCK To BUCKET In Seconds 😤",
-     "published": "2026-10-23T03:00:00+00:00",
-     "channel": "NBA",
-     "views": 32930,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/Gfj1J5lH4Xo/hqdefault.jpg"
-    },
-    {
-     "id": "JxKj1ILqoNw",
-     "title": "The @sixers Comeback Win Are What Dreams Are Made Of For LeBron Jay",
-     "published": "2026-10-23T04:40:20+00:00",
-     "channel": "NBA",
-     "views": 23935,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/JxKj1ILqoNw/hqdefault.jpg"
-    },
-    {
-     "id": "Qdfm71zneQ8",
-     "title": "See How Cade Cunningham Prepares For The NBA Season 👀",
-     "published": "2026-10-23T15:00:20+00:00",
-     "channel": "NBA",
-     "views": 18083,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/Qdfm71zneQ8/hqdefault.jpg"
-    },
-    {
-     "id": "wzfmiyqOQcc",
-     "title": "Jalen Williams on SGA’s 141-Game 20+ Point Streak Ending 💯",
-     "published": "2026-10-23T05:25:03+00:00",
-     "channel": "NBA",
-     "views": 15866,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/wzfmiyqOQcc/hqdefault.jpg"
-    },
-    {
-     "id": "_x5tj-E5vr4",
-     "title": "Joel Embiid on the 76ers 29-point comeback being a Top 5 night for him in Philly 😂 (via: sixers/YT)",
-     "published": "2026-10-23T18:58:41+00:00",
-     "channel": "NBA",
-     "views": 11663,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/_x5tj-E5vr4/hqdefault.jpg"
+     "channelId": "UCWJ2lWNubArHWmf3FIHbfcQ",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "sports"
   },
   {
    "key": "f1",
    "name": "Formula 1",
    "th": "ฟอร์มูลาวัน",
-   "channels": [
-    "FORMULA 1"
-   ],
+   "channels": [],
    "minViews": 50000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "7ZM-RjoehbA",
-     "title": "The Craziest View of McLaren Collision at COTA 🤯",
-     "published": "2026-10-20T19:00:23+00:00",
-     "channel": "FORMULA 1",
-     "views": 1497602,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/7ZM-RjoehbA/hqdefault.jpg"
-    },
-    {
-     "id": "_FKLWvQbr7I",
-     "title": "That's Solid Advice, Lewis 🤣",
-     "published": "2026-10-23T00:20:03+00:00",
-     "channel": "FORMULA 1",
-     "views": 445982,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/_FKLWvQbr7I/hqdefault.jpg"
-    },
-    {
-     "id": "SgVzjPnRgeY",
-     "title": "Weekend Warm-Up | 2026 United States Grand Prix",
-     "published": "2026-10-23T00:15:10+00:00",
-     "channel": "FORMULA 1",
-     "views": 424485,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/SgVzjPnRgeY/hqdefault.jpg"
-    },
-    {
-     "id": "xz7lnnnfo6c",
-     "title": "Drivers Look Ahead To Race Weekend | 2026 United States Grand Prix",
-     "published": "2026-10-23T01:00:23+00:00",
-     "channel": "FORMULA 1",
-     "views": 374367,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/xz7lnnnfo6c/hqdefault.jpg"
-    },
-    {
-     "id": "zHDeqLGv-jY",
-     "title": "Can The Drivers Name These US Sports Teams? 🇺🇸🤔",
-     "published": "2026-10-22T20:57:57+00:00",
-     "channel": "FORMULA 1",
-     "views": 341360,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/zHDeqLGv-jY/hqdefault.jpg"
-    },
-    {
-     "id": "wOxOwnRkI0I",
-     "title": "FP1 Highlights | 2026 United States Grand Prix",
-     "published": "2026-10-23T20:04:33+00:00",
-     "channel": "FORMULA 1",
-     "views": 199154,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/wOxOwnRkI0I/hqdefault.jpg"
-    },
-    {
-     "id": "LIOSyY1gFHY",
-     "title": "Yeehaw, Charles! 🤠",
-     "published": "2026-10-21T17:02:57+00:00",
-     "channel": "FORMULA 1",
-     "views": 189423,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/LIOSyY1gFHY/hqdefault.jpg"
-    },
-    {
-     "id": "xcDc7wD8L1I",
-     "title": "Alex's Not So Quick-Fire Questions 🤣",
-     "published": "2026-10-21T18:15:22+00:00",
-     "channel": "FORMULA 1",
-     "views": 135557,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/xcDc7wD8L1I/hqdefault.jpg"
-    },
-    {
-     "id": "cybiqrpbFrc",
-     "title": "Fred Vesti: 'Making Champions' As Mercedes Third Driver | F1 Beyond The Grid Presented By Salesforce",
-     "published": "2026-10-21T15:00:05+00:00",
-     "channel": "FORMULA 1",
-     "views": 120907,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/cybiqrpbFrc/hqdefault.jpg"
-    },
-    {
-     "id": "Xyj9SfC6mWA",
-     "title": "Lewis is proud of his Mercedes successor, Antonelli 🤗",
-     "published": "2026-10-23T13:00:12+00:00",
-     "channel": "FORMULA 1",
-     "views": 107860,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/Xyj9SfC6mWA/hqdefault.jpg"
-    },
-    {
-     "id": "d1LRohDkdLM",
-     "title": "Who's sliding into whose DMs the most? 👀 📲",
-     "published": "2026-10-23T16:00:37+00:00",
-     "channel": "FORMULA 1",
-     "views": 103331,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/d1LRohDkdLM/hqdefault.jpg"
-    },
-    {
-     "id": "B8NVBxvDZAs",
-     "title": "History awaits Kimi Antonelli 📖",
-     "published": "2026-10-23T11:15:01+00:00",
-     "channel": "FORMULA 1",
-     "views": 85047,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/B8NVBxvDZAs/hqdefault.jpg"
+     "channelId": "UCB_qr75-ydFVKSF9Dmo6izg",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "sports"
   },
   {
    "key": "boxing",
    "name": "Boxing",
    "th": "มวยสากล",
-   "channels": [
-    "Top Rank Boxing",
-    "Matchroom Boxing",
-    "DAZN Boxing",
-    "Frank Warren's Queensberry Promotions"
-   ],
+   "channels": [],
    "minViews": 20000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "f0SR2tHGnoQ",
-     "title": "A 𝒑𝒖𝒏𝒄𝒉-𝒑𝒆𝒓𝒇𝒆𝒄𝒕 performance from Bakhodir Jalolov 👏",
-     "published": "2026-10-17T22:36:46+00:00",
-     "channel": "Frank Warren's Queensberry Promotions",
-     "views": 582413,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/f0SR2tHGnoQ/hqdefault.jpg"
+     "channelId": "UCbzRzJNHx7ZLlJML9BjZQVQ",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "UCOUUvHdPII",
-     "title": "TWO WORLD CHAMPS FACE OFF 🌟",
-     "published": "2026-10-17T22:20:36+00:00",
-     "channel": "Frank Warren's Queensberry Promotions",
-     "views": 225349,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/UCOUUvHdPII/hqdefault.jpg"
+     "channelId": "UC7LReVje9aPB4B6XAsXX8WQ",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "rab8drrTgZ4",
-     "title": "“I Thought It Would Be Over In 2!“ - Eddie Hearn On Dubois Vs Wardley 2, Smith Vs Puello & More!",
-     "published": "2026-10-19T17:00:07+00:00",
-     "channel": "Matchroom Boxing",
-     "views": 84983,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/rab8drrTgZ4/hqdefault.jpg"
+     "channelId": "UCurvRE5fGcdUgCYWgh-BDsg",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "-LWxig73tuM",
-     "title": "LIVE Prelims | Daniel Dubois vs Fabio Wardley 2 | WBO World Heavyweight Championship! 🥊",
-     "published": "2026-10-17T19:33:49+00:00",
-     "channel": "Frank Warren's Queensberry Promotions",
-     "views": 77062,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/-LWxig73tuM/hqdefault.jpg"
-    },
-    {
-     "id": "Pe2Z0g7LIMI",
-     "title": "\"We Have Won The War With Dana White & TKO!\" - Eddie Hearn Updates On AJ Vs Fury, Whittaker & More",
-     "published": "2026-10-06T17:43:03+00:00",
-     "channel": "Matchroom Boxing",
-     "views": 70350,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/Pe2Z0g7LIMI/hqdefault.jpg"
-    },
-    {
-     "id": "htXj4OXA0Lg",
-     "title": "DUBOIS STOPS WARDLEY IN THE SECOND ROUND 🔥",
-     "published": "2026-10-17T22:57:18+00:00",
-     "channel": "Frank Warren's Queensberry Promotions",
-     "views": 51264,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/htXj4OXA0Lg/hqdefault.jpg"
-    },
-    {
-     "id": "78_Lthl9nco",
-     "title": "Dubois wasn't having it this time around 😅",
-     "published": "2026-10-21T09:30:19+00:00",
-     "channel": "Frank Warren's Queensberry Promotions",
-     "views": 49540,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/78_Lthl9nco/hqdefault.jpg"
-    },
-    {
-     "id": "YXf8XMnIK_c",
-     "title": "Filip Hrgovic REVEALS ALL on Moses Itauma win & GUNS for Dubois 🤯",
-     "published": "2026-10-17T21:07:15+00:00",
-     "channel": "Frank Warren's Queensberry Promotions",
-     "views": 37129,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/YXf8XMnIK_c/hqdefault.jpg"
-    },
-    {
-     "id": "BvKFJ3jD6OQ",
-     "title": "Shock Tells Navarrete to Remove Glasses During Intense Faceoff | 3 Belt Fight Oct 24",
-     "published": "2026-10-22T20:07:08+00:00",
-     "channel": "Top Rank Boxing",
-     "views": 31931,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/BvKFJ3jD6OQ/hqdefault.jpg"
-    },
-    {
-     "id": "xuec1m0oO4Q",
-     "title": "EMANUEL NAVARRETE VS. O'SHAQUIE FOSTER PRESS CONFERENCE LIVESTREAM",
-     "published": "2026-10-22T19:55:58+00:00",
-     "channel": "DAZN Boxing",
-     "views": 30414,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/xuec1m0oO4Q/hqdefault.jpg"
-    },
-    {
-     "id": "XbeXNqAENgI",
-     "title": "Emanuel Navarrete vs O'Shaquie Foster | FINAL PRESS CONFERENCE",
-     "published": "2026-10-22T19:56:14+00:00",
-     "channel": "Top Rank Boxing",
-     "views": 29823,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/XbeXNqAENgI/hqdefault.jpg"
-    },
-    {
-     "id": "K5kZUuUpAeQ",
-     "title": "World Heavyweight Boxing Marathon | Matchroom Boxing",
-     "published": "2026-10-17T23:23:43+00:00",
-     "channel": "Matchroom Boxing",
-     "views": 27408,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/K5kZUuUpAeQ/hqdefault.jpg"
-    },
-    {
-     "id": "cmnEMGKmqdk",
-     "title": "Only one way to kick-off fight week in San Antonio 👑 #NavarreteFoster |",
-     "published": "2026-10-20T18:45:34+00:00",
-     "channel": "Top Rank Boxing",
-     "views": 25212,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/cmnEMGKmqdk/hqdefault.jpg"
-    },
-    {
-     "id": "D9CFWJJ6h6M",
-     "title": "🗣️ \"Daniel Dubois Has Turned His Career Around!\" - Eddie Hearn",
-     "published": "2026-10-20T09:00:10+00:00",
-     "channel": "Matchroom Boxing",
-     "views": 24482,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/D9CFWJJ6h6M/hqdefault.jpg"
-    },
-    {
-     "id": "5pHCHRR8reo",
-     "title": "EMANUEL NAVARRETE VS. O'SHAQUIE FOSTER WEIGH IN LIVESTREAM",
-     "published": "2026-10-23T18:37:35+00:00",
-     "channel": "DAZN Boxing",
-     "views": 24445,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/5pHCHRR8reo/hqdefault.jpg"
-    },
-    {
-     "id": "KHwNVBM17TQ",
-     "title": "'I Want A Spiteful Stoppage' - Giorgio Visioli & Maxi Hughes Day In The Life | Matchroom Boxing",
-     "published": "2026-10-19T11:00:11+00:00",
-     "channel": "Matchroom Boxing",
-     "views": 23848,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/KHwNVBM17TQ/hqdefault.jpg"
-    },
-    {
-     "id": "phuJLVVpkQI",
-     "title": "Have you ever seen this happen before? 😅",
-     "published": "2026-10-19T11:02:02+00:00",
-     "channel": "Frank Warren's Queensberry Promotions",
-     "views": 23253,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/phuJLVVpkQI/hqdefault.jpg"
-    },
-    {
-     "id": "xL_0lb2la74",
-     "title": "The Face Off: Cacace vs Ball",
-     "published": "2026-10-22T13:32:35+00:00",
-     "channel": "Frank Warren's Queensberry Promotions",
-     "views": 23185,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/xL_0lb2la74/hqdefault.jpg"
-    },
-    {
-     "id": "KY7hJypkT2w",
-     "title": "Advice: Don't stick your tongue out to Mbilli 😛",
-     "published": "2026-10-22T18:00:18+00:00",
-     "channel": "DAZN Boxing",
-     "views": 23001,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/KY7hJypkT2w/hqdefault.jpg"
-    },
-    {
-     "id": "Qh9Q1xKFGLc",
-     "title": "Who Will Rule 130? Navarrete Or Foster? | Inside The Ring | Ep. 54",
-     "published": "2026-10-22T18:55:53+00:00",
-     "channel": "DAZN Boxing",
-     "views": 21454,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/Qh9Q1xKFGLc/hqdefault.jpg"
+     "channelId": "UCP3MOjimNiqqkhBcuXzO0RA",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "sports"
   },
   {
    "key": "golf",
    "name": "Golf",
    "th": "กอล์ฟ",
-   "channels": [
-    "PGA Tour",
-    "DP World Tour",
-    "LPGA",
-    "The Masters"
-   ],
+   "channels": [],
    "minViews": 50000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "sGh0Cjio85E",
-     "title": "Rory McIlroy’s Final Round | Every Single Shot | The 2026 Masters",
-     "published": "2026-04-13T01:52:05+00:00",
-     "channel": "The Masters",
-     "views": 973915,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/sGh0Cjio85E/hqdefault.jpg"
+     "channelId": "UCKwGZZMrhNYKzucCtTPY2Nw",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "XLdAHnyXQrs",
-     "title": "Michael McIntyre's HILARIOUS recovery! ✨",
-     "published": "2026-10-19T13:00:21+00:00",
-     "channel": "DP World Tour",
-     "views": 737510,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/XLdAHnyXQrs/hqdefault.jpg"
+     "channelId": "UCvZwbZt6YZQ4wj_7qyjPDZw",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "BGUTdWKX4Qo",
-     "title": "Scottie's reaction to this break 😭",
-     "published": "2026-10-19T18:14:40+00:00",
-     "channel": "PGA Tour",
-     "views": 409715,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/BGUTdWKX4Qo/hqdefault.jpg"
+     "channelId": "UCWZbPo5_riXyCFDyaMl2yRA",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "yUP0B6D9Jjo",
-     "title": "Never a doubt.",
-     "published": "2026-10-17T14:00:20+00:00",
-     "channel": "PGA Tour",
-     "views": 359581,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/yUP0B6D9Jjo/hqdefault.jpg"
-    },
-    {
-     "id": "gXgyDDAnw4o",
-     "title": "Amateur hits DRIVER on a par 3 👀",
-     "published": "2026-10-20T13:00:01+00:00",
-     "channel": "DP World Tour",
-     "views": 344357,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/gXgyDDAnw4o/hqdefault.jpg"
-    },
-    {
-     "id": "Lbt4z_f7sxw",
-     "title": "Golf is hard, even for the pros.",
-     "published": "2026-10-20T20:00:20+00:00",
-     "channel": "PGA Tour",
-     "views": 304011,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/Lbt4z_f7sxw/hqdefault.jpg"
-    },
-    {
-     "id": "7x0jkWpcHr0",
-     "title": "1986 | Celebrating the 40th Anniversary of Jack Nicklaus’ Incredible Victory at the 1986 Masters",
-     "published": "2026-04-27T18:10:26+00:00",
-     "channel": "The Masters",
-     "views": 287569,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/7x0jkWpcHr0/hqdefault.jpg"
-    },
-    {
-     "id": "4294sDLyS4I",
-     "title": "Final Round Highlights | 2026 DP World India Championship",
-     "published": "2026-10-18T13:50:54+00:00",
-     "channel": "DP World Tour",
-     "views": 272069,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/4294sDLyS4I/hqdefault.jpg"
-    },
-    {
-     "id": "9uymhlYGSAU",
-     "title": "What It's Really Like Carrying the Expectations of 1 Billion People | Sachin Tendulkar",
-     "published": "2026-10-19T14:42:29+00:00",
-     "channel": "DP World Tour",
-     "views": 188477,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/9uymhlYGSAU/hqdefault.jpg"
-    },
-    {
-     "id": "XC33tM9Qzmc",
-     "title": "UNLUCKIEST shots from the 2026 PGA Tour season",
-     "published": "2026-10-18T21:00:02+00:00",
-     "channel": "PGA Tour",
-     "views": 178503,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/XC33tM9Qzmc/hqdefault.jpg"
-    },
-    {
-     "id": "REyin4mw8LY",
-     "title": "Rory McIlroy's Incredible Second Round | Six Birdies in Seven Holes at the 2026 Masters",
-     "published": "2026-07-24T16:30:29+00:00",
-     "channel": "The Masters",
-     "views": 175975,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/REyin4mw8LY/hqdefault.jpg"
-    },
-    {
-     "id": "XT3xOkpyEVI",
-     "title": "Even in paradise... Golf is hard 😬",
-     "published": "2026-10-22T20:00:32+00:00",
-     "channel": "PGA Tour",
-     "views": 171590,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/XT3xOkpyEVI/hqdefault.jpg"
-    },
-    {
-     "id": "SWzgtxAFU1Q",
-     "title": "One of us! One of us!",
-     "published": "2026-10-21T18:15:03+00:00",
-     "channel": "PGA Tour",
-     "views": 136574,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/SWzgtxAFU1Q/hqdefault.jpg"
-    },
-    {
-     "id": "5laWAX6cvyc",
-     "title": "Condensed Round 1 presented by SHI | 2026 BMW Ladies Championship",
-     "published": "2026-10-22T07:34:01+00:00",
-     "channel": "LPGA",
-     "views": 112046,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/5laWAX6cvyc/hqdefault.jpg"
-    },
-    {
-     "id": "dSKqntfjzQA",
-     "title": "He was walking it in... 😩",
-     "published": "2026-10-19T22:00:38+00:00",
-     "channel": "PGA Tour",
-     "views": 106525,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/dSKqntfjzQA/hqdefault.jpg"
-    },
-    {
-     "id": "8Y6EvVilE0g",
-     "title": "Round 1 Highlights | 2026 Genesis Championship",
-     "published": "2026-10-22T09:58:51+00:00",
-     "channel": "DP World Tour",
-     "views": 105631,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/8Y6EvVilE0g/hqdefault.jpg"
-    },
-    {
-     "id": "KOMi_q9XjxY",
-     "title": "Sometimes the golf gods just aren't on your side 😔",
-     "published": "2026-10-18T20:00:20+00:00",
-     "channel": "PGA Tour",
-     "views": 105106,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/KOMi_q9XjxY/hqdefault.jpg"
-    },
-    {
-     "id": "h-mIY-NCCYs",
-     "title": "McIlroy's Masterpiece | Jim Nantz Remembers Augusta: The 2025 Masters",
-     "published": "2026-04-27T18:10:56+00:00",
-     "channel": "The Masters",
-     "views": 99056,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/h-mIY-NCCYs/hqdefault.jpg"
-    },
-    {
-     "id": "ABLneYgXmGM",
-     "title": "A lesson on draining eagles,,, and politely asking people to move. 😂",
-     "published": "2026-10-20T22:00:11+00:00",
-     "channel": "PGA Tour",
-     "views": 92520,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/ABLneYgXmGM/hqdefault.jpg"
-    },
-    {
-     "id": "sEgHDgWmNZk",
-     "title": "An Encore Performance | The 2026 Masters",
-     "published": "2026-04-13T04:11:58+00:00",
-     "channel": "The Masters",
-     "views": 91716,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/sEgHDgWmNZk/hqdefault.jpg"
+     "channelId": "UCSZxaHGo1OEs06vQumIooug",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "sports"
   },
   {
    "key": "ufc",
    "name": "UFC",
    "th": "ยูเอฟซี",
-   "channels": [
-    "UFC"
-   ],
+   "channels": [],
    "minViews": 5000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "ClFLFay4OBE",
-     "title": "UFC 333: Ceremonial Weigh-In",
-     "published": "2026-10-23T15:01:59+00:00",
-     "channel": "UFC",
-     "views": 474296,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/ClFLFay4OBE/hqdefault.jpg"
-    },
-    {
-     "id": "uwDrH74iGFA",
-     "title": "Merab Dvalishvili #ufc333",
-     "published": "2026-10-23T05:23:21+00:00",
-     "channel": "UFC",
-     "views": 214180,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/uwDrH74iGFA/hqdefault.jpg"
-    },
-    {
-     "id": "qB5HPlKv_vw",
-     "title": "135 for Petr Yan! #ufc333",
-     "published": "2026-10-23T05:31:17+00:00",
-     "channel": "UFC",
-     "views": 151394,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/qB5HPlKv_vw/hqdefault.jpg"
-    },
-    {
-     "id": "j11Bt5SQ4Io",
-     "title": "UFC 333 Embedded: Vlog Series - Episode 5",
-     "published": "2026-10-23T15:05:43+00:00",
-     "channel": "UFC",
-     "views": 141412,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/j11Bt5SQ4Io/hqdefault.jpg"
-    },
-    {
-     "id": "oAiglpaghJI",
-     "title": "UFC 333: Fighter Face-offs",
-     "published": "2026-10-23T15:09:15+00:00",
-     "channel": "UFC",
-     "views": 120099,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/oAiglpaghJI/hqdefault.jpg"
-    },
-    {
-     "id": "J-ZiVhKT7x4",
-     "title": "YAN vs MERAB 3! #ufc333",
-     "published": "2026-10-23T14:40:08+00:00",
-     "channel": "UFC",
-     "views": 90353,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/J-ZiVhKT7x4/hqdefault.jpg"
-    },
-    {
-     "id": "MBinrdUj1Qk",
-     "title": "ONE MORE SLEEP #ufc333",
-     "published": "2026-10-23T14:39:06+00:00",
-     "channel": "UFC",
-     "views": 80255,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/MBinrdUj1Qk/hqdefault.jpg"
-    },
-    {
-     "id": "EJT0oMJY4vI",
-     "title": "Ramazan Temirov's Career So Far #ufc333",
-     "published": "2026-10-23T14:15:34+00:00",
-     "channel": "UFC",
-     "views": 32809,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/EJT0oMJY4vI/hqdefault.jpg"
-    },
-    {
-     "id": "P6iJWwiotAg",
-     "title": "UFC 333: Free Fight Marathon",
-     "published": "2026-10-19T15:40:52+00:00",
-     "channel": "UFC",
-     "views": 3212,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/P6iJWwiotAg/hqdefault.jpg"
-    },
-    {
-     "id": "saqqY9fLh34",
-     "title": "Volkanovski is not retiring! #ufc333",
-     "published": "2026-10-23T21:01:31+00:00",
-     "channel": "UFC",
-     "views": 1524,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/saqqY9fLh34/hqdefault.jpg"
+     "channelId": "UCvgfXK4nTYKudb0rFR6noLA",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "sports"
   },
   {
    "key": "atp",
    "name": "Tennis – ATP Tour",
    "th": "เทนนิสชาย",
-   "channels": [
-    "ATP Tour"
-   ],
+   "channels": [],
    "minViews": 3000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "JDWK0mjCno0",
-     "title": "Stefanos Tsitsipas vs James Duckworth Highlights | Almaty 2026 Quarter-Final",
-     "published": "2026-10-23T10:04:55+00:00",
-     "channel": "ATP Tour",
-     "views": 54061,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/JDWK0mjCno0/hqdefault.jpg"
-    },
-    {
-     "id": "XCcfLBk89xs",
-     "title": "Daniil Medvedev vs Terence Atmane Highlights | Almaty 2026 Quarter-Final",
-     "published": "2026-10-23T11:26:43+00:00",
-     "channel": "ATP Tour",
-     "views": 45336,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/XCcfLBk89xs/hqdefault.jpg"
-    },
-    {
-     "id": "5XnLBAJyjUU",
-     "title": "Medvedev LOVES a target 🎯",
-     "published": "2026-10-23T10:39:01+00:00",
-     "channel": "ATP Tour",
-     "views": 24817,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/5XnLBAJyjUU/hqdefault.jpg"
-    },
-    {
-     "id": "TXyOa4A6HCg",
-     "title": "Pierre-Hugues Herbert vs Taylor Fritz Highlights | Lyon 2026 Round 2",
-     "published": "2026-10-22T16:28:50+00:00",
-     "channel": "ATP Tour",
-     "views": 21625,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/TXyOa4A6HCg/hqdefault.jpg"
-    },
-    {
-     "id": "r1mrkv5lD00",
-     "title": "Corentin Moutet vs Tommy Paul Highlights | Lyon 2026 Quarter-Final",
-     "published": "2026-10-23T15:23:23+00:00",
-     "channel": "ATP Tour",
-     "views": 19449,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/r1mrkv5lD00/hqdefault.jpg"
-    },
-    {
-     "id": "9qANnNOgKtI",
-     "title": "David Goffin vs Alex Michelsen Highlights | Brussels Round 2",
-     "published": "2026-10-22T15:06:16+00:00",
-     "channel": "ATP Tour",
-     "views": 13542,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/9qANnNOgKtI/hqdefault.jpg"
-    },
-    {
-     "id": "tXkCc4nUTaE",
-     "title": "Damir Dzumhur vs Zizou Bergs Highlights | Brussels Round 2",
-     "published": "2026-10-22T17:08:52+00:00",
-     "channel": "ATP Tour",
-     "views": 10066,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/tXkCc4nUTaE/hqdefault.jpg"
-    },
-    {
-     "id": "80sFGlRM_Lo",
-     "title": "David Goffin's Singles Career Comes To An End 🥹",
-     "published": "2026-10-22T15:17:58+00:00",
-     "channel": "ATP Tour",
-     "views": 10047,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/80sFGlRM_Lo/hqdefault.jpg"
-    },
-    {
-     "id": "nSFgezXMa3g",
-     "title": "Clement Chidekh vs Francisco Cerundolo Highlights | Brussels 2026 Quarter-Final",
-     "published": "2026-10-23T13:53:19+00:00",
-     "channel": "ATP Tour",
-     "views": 9658,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/nSFgezXMa3g/hqdefault.jpg"
-    },
-    {
-     "id": "3K1d8BQk3WA",
-     "title": "Tallon Griekspoor vs Jiri Lehecka Highlights | Brussels 2026 Quarter-Final",
-     "published": "2026-10-23T16:52:45+00:00",
-     "channel": "ATP Tour",
-     "views": 8732,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/3K1d8BQk3WA/hqdefault.jpg"
-    },
-    {
-     "id": "QT6EeyYVlY8",
-     "title": "Prepared for all the conditions ⚠️❄️",
-     "published": "2026-10-22T15:17:16+00:00",
-     "channel": "ATP Tour",
-     "views": 5970,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/QT6EeyYVlY8/hqdefault.jpg"
-    },
-    {
-     "id": "SK7GGhgUoAg",
-     "title": "David Goffin Retires From Tennis 🥹 | Career Tribute & Highlights",
-     "published": "2026-10-22T14:54:28+00:00",
-     "channel": "ATP Tour",
-     "views": 5757,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/SK7GGhgUoAg/hqdefault.jpg"
+     "channelId": "UCY_5h5zaSwN7Or4kIJDYNXA",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "sports"
   },
   {
    "key": "wta",
    "name": "Tennis – WTA",
    "th": "เทนนิสหญิง",
-   "channels": [
-    "WTA"
-   ],
+   "channels": [],
    "minViews": 3000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "8gEmb_JZNU0",
-     "title": "Alexandra Eala vs. Diana Shnaider | 2026 Ningbo Round of 16 | WTA Match Highlights",
-     "published": "2026-10-22T11:03:53+00:00",
-     "channel": "WTA",
-     "views": 311615,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/8gEmb_JZNU0/hqdefault.jpg"
-    },
-    {
-     "id": "HAPT1Df39No",
-     "title": "Leylah Fernandez vs. Ekaterina Alexandrova | 2026 Ningbo Quarterfinals | WTA Match Highlights",
-     "published": "2026-10-23T09:41:10+00:00",
-     "channel": "WTA",
-     "views": 102265,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/HAPT1Df39No/hqdefault.jpg"
-    },
-    {
-     "id": "oLH65bF8l6g",
-     "title": "Elena Rybakina vs. Katarzyna Kawa | 2026 Ningbo Quarterfinal | WTA Match Highlights",
-     "published": "2026-10-23T14:20:34+00:00",
-     "channel": "WTA",
-     "views": 93734,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/oLH65bF8l6g/hqdefault.jpg"
-    },
-    {
-     "id": "b9Az1uBDlZM",
-     "title": "Ann Li vs. Lilli Tagger | 2026 Osaka Quarterfinals | WTA Match Highlights",
-     "published": "2026-10-23T05:28:07+00:00",
-     "channel": "WTA",
-     "views": 50551,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/b9Az1uBDlZM/hqdefault.jpg"
-    },
-    {
-     "id": "ANTkQHZqE9w",
-     "title": "Day 4 in Ningbo featuring Jovic, Shanider, and more | WTA Match Highlights",
-     "published": "2026-10-22T13:04:29+00:00",
-     "channel": "WTA",
-     "views": 46928,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/ANTkQHZqE9w/hqdefault.jpg"
-    },
-    {
-     "id": "ZPAh8QV2NbI",
-     "title": "Iva Jovic vs. Diana Shnaider | 2026 Ningbo Quarterfinal | WTA Match Highlights",
-     "published": "2026-10-23T14:19:03+00:00",
-     "channel": "WTA",
-     "views": 39201,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/ZPAh8QV2NbI/hqdefault.jpg"
-    },
-    {
-     "id": "r3g8y9OIgEA",
-     "title": "Sara Bejlek vs. Marie Bouzkova | 2026 Ningbo Quarterfinals | WTA Match Highlights",
-     "published": "2026-10-23T12:03:55+00:00",
-     "channel": "WTA",
-     "views": 33582,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/r3g8y9OIgEA/hqdefault.jpg"
-    },
-    {
-     "id": "r1hQvG2K3Wg",
-     "title": "Quarterfinals in Ningbo featuring Rybakina, Shanider, and more | WTA Match Highlights",
-     "published": "2026-10-23T14:26:12+00:00",
-     "channel": "WTA",
-     "views": 18348,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/r1hQvG2K3Wg/hqdefault.jpg"
-    },
-    {
-     "id": "Q-VIBkfxVaU",
-     "title": "Talia Gibson vs. Ashlyn Krueger | 2026 Osaka Quarterfinals | WTA Match Highlights",
-     "published": "2026-10-23T07:35:05+00:00",
-     "channel": "WTA",
-     "views": 17297,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/Q-VIBkfxVaU/hqdefault.jpg"
-    },
-    {
-     "id": "3PSfQmDLWhA",
-     "title": "Throwback Thursday: 2022 WTA Finals 🤠We are two-steppin’ into the weekend! #tennis #dance",
-     "published": "2026-10-22T16:39:29+00:00",
-     "channel": "WTA",
-     "views": 11421,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/3PSfQmDLWhA/hqdefault.jpg"
-    },
-    {
-     "id": "ksA37BLbaWg",
-     "title": "Quarterfinals in Osaka featuring Li, Boulter, and more | WTA Match Highlights",
-     "published": "2026-10-23T14:28:42+00:00",
-     "channel": "WTA",
-     "views": 11093,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/ksA37BLbaWg/hqdefault.jpg"
-    },
-    {
-     "id": "r_3nL4mQs3I",
-     "title": "Motherhood is No Longer an Obstacle | PIF x WTA",
-     "published": "2026-10-23T15:01:11+00:00",
-     "channel": "WTA",
-     "views": 5115,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/r_3nL4mQs3I/hqdefault.jpg"
-    },
-    {
-     "id": "hUdswQoWwzw",
-     "title": "The 2026 FAGE WTA Finals Indian Wells is calling ☎️ Mirra Andreeva will be in attendance #WTAFinals",
-     "published": "2026-10-23T11:59:50+00:00",
-     "channel": "WTA",
-     "views": 3915,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/hUdswQoWwzw/hqdefault.jpg"
-    },
-    {
-     "id": "TwW8T6TfXyw",
-     "title": "A Diamond On & Off the Court, Donna Vekic! | WTA Style Unpacked",
-     "published": "2026-10-23T13:00:02+00:00",
-     "channel": "WTA",
-     "views": 3193,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/TwW8T6TfXyw/hqdefault.jpg"
+     "channelId": "UCaBIVVpHjq6j3tSyxwTE-8Q",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "sports"
   },
   {
    "key": "apex",
    "name": "Apex Legends",
    "th": "เอเพ็กซ์ เลเจนด์ส",
-   "channels": [
-    "Apex Legends"
-   ],
+   "channels": [],
    "minViews": 30000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "33220_0t0H8",
-     "title": "Apex Legends VS Street Fighter 6 Event",
-     "published": "2026-09-15T15:00:03+00:00",
-     "channel": "Apex Legends",
-     "views": 631839,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/33220_0t0H8/hqdefault.jpg"
-    },
-    {
-     "id": "jJObfZSbzAw",
-     "title": "Apex Legends: Marked Gameplay Trailer",
-     "published": "2026-07-28T15:00:06+00:00",
-     "channel": "Apex Legends",
-     "views": 606448,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/jJObfZSbzAw/hqdefault.jpg"
-    },
-    {
-     "id": "XoCCpg-qBtw",
-     "title": "Define \"1 shot\"",
-     "published": "2026-09-03T17:00:23+00:00",
-     "channel": "Apex Legends",
-     "views": 273740,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/XoCCpg-qBtw/hqdefault.jpg"
-    },
-    {
-     "id": "KR1MCtCsuNY",
-     "title": "Apex Legends: Blood Pact Event Trailer",
-     "published": "2026-10-08T15:00:05+00:00",
-     "channel": "Apex Legends",
-     "views": 191698,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/KR1MCtCsuNY/hqdefault.jpg"
-    },
-    {
-     "id": "bj2vNoaIQXc",
-     "title": "MAJOR RANKED IMPROVEMENTS - Apex Legends  #apexlegends",
-     "published": "2026-10-20T17:00:13+00:00",
-     "channel": "Apex Legends",
-     "views": 191660,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/bj2vNoaIQXc/hqdefault.jpg"
-    },
-    {
-     "id": "aIij9Ygafec",
-     "title": "Blink and you'll miss it. Good luck keeping up",
-     "published": "2026-07-18T21:00:34+00:00",
-     "channel": "Apex Legends",
-     "views": 186053,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/aIij9Ygafec/hqdefault.jpg"
-    },
-    {
-     "id": "91beDJjQBqg",
-     "title": "CHUN-LI 🆚 ALTER",
-     "published": "2026-09-19T16:00:18+00:00",
-     "channel": "Apex Legends",
-     "views": 121473,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/91beDJjQBqg/hqdefault.jpg"
-    },
-    {
-     "id": "iBjIo29zmKw",
-     "title": "Apex Legends: Ascended Hunt Event Trailer #apexlegends",
-     "published": "2026-08-13T15:00:15+00:00",
-     "channel": "Apex Legends",
-     "views": 119236,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/iBjIo29zmKw/hqdefault.jpg"
-    },
-    {
-     "id": "lBBAyHQcFTA",
-     "title": "Apex Legends Loot and Attachments Explainer #apexlegends",
-     "published": "2026-08-04T18:39:02+00:00",
-     "channel": "Apex Legends",
-     "views": 81742,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/lBBAyHQcFTA/hqdefault.jpg"
-    },
-    {
-     "id": "pRnyjt_eIHQ",
-     "title": "⬇️ ↘️ ➡️ + 👊",
-     "published": "2026-09-14T17:59:47+00:00",
-     "channel": "Apex Legends",
-     "views": 75837,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/pRnyjt_eIHQ/hqdefault.jpg"
-    },
-    {
-     "id": "XCj-MHvOPO4",
-     "title": "Looking nova 🌟",
-     "published": "2026-07-17T21:00:21+00:00",
-     "channel": "Apex Legends",
-     "views": 75663,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/XCj-MHvOPO4/hqdefault.jpg"
-    },
-    {
-     "id": "xFSax7Cpqa8",
-     "title": "By the time you see them, it’s already over. 🎬: @fr0sty_t7 #apexlegends",
-     "published": "2026-08-05T20:00:14+00:00",
-     "channel": "Apex Legends",
-     "views": 65097,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/xFSax7Cpqa8/hqdefault.jpg"
-    },
-    {
-     "id": "uF-JQowDlmY",
-     "title": "Gibby's going god mode",
-     "published": "2026-09-01T17:00:31+00:00",
-     "channel": "Apex Legends",
-     "views": 59415,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/uF-JQowDlmY/hqdefault.jpg"
-    },
-    {
-     "id": "oL-elLVLk3E",
-     "title": "EVO Enhanced Wildcards",
-     "published": "2026-08-31T17:38:40+00:00",
-     "channel": "Apex Legends",
-     "views": 37859,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/oL-elLVLk3E/hqdefault.jpg"
+     "channelId": "UC0ZV6M2THA81QT9hrVWJG3A",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "gaming"
   },
   {
    "key": "diablo",
    "name": "Diablo",
    "th": "ดิอาโบล",
-   "channels": [
-    "Diablo"
-   ],
+   "channels": [],
    "minViews": 10000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "f1sQE0UbbU4",
-     "title": "Diablo IV: Season of Hell’s Legacy | Earnable Reliquary",
-     "published": "2026-09-14T21:30:57+00:00",
-     "channel": "Diablo",
-     "views": 127022,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/f1sQE0UbbU4/hqdefault.jpg"
-    },
-    {
-     "id": "3t4z9XhtvrI",
-     "title": "Diablo IV | Escape Room Walkthrough | BlizzCon 2026",
-     "published": "2026-09-18T19:01:01+00:00",
-     "channel": "Diablo",
-     "views": 123308,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/3t4z9XhtvrI/hqdefault.jpg"
-    },
-    {
-     "id": "oVAmHeXMj4c",
-     "title": "Diablo | Through the Years",
-     "published": "2026-09-24T17:27:33+00:00",
-     "channel": "Diablo",
-     "views": 53337,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/oVAmHeXMj4c/hqdefault.jpg"
-    },
-    {
-     "id": "1dOFnQPkQfg",
-     "title": "Diablo IV: Season of Hell's Legacy | Live Now",
-     "published": "2026-09-15T22:14:51+00:00",
-     "channel": "Diablo",
-     "views": 52991,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/1dOFnQPkQfg/hqdefault.jpg"
-    },
-    {
-     "id": "EnSQWldoyLc",
-     "title": "Diablo IV | Season of Hell’s Legacy | Diablo’s Back",
-     "published": "2026-09-17T18:00:36+00:00",
-     "channel": "Diablo",
-     "views": 45700,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/EnSQWldoyLc/hqdefault.jpg"
-    },
-    {
-     "id": "0LVLM4p77IM",
-     "title": "Diablo | BlizzCon 2026 | The Voices of Sanctuary",
-     "published": "2026-09-14T17:31:01+00:00",
-     "channel": "Diablo",
-     "views": 44241,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/0LVLM4p77IM/hqdefault.jpg"
-    },
-    {
-     "id": "ZewePNZQvOA",
-     "title": "Diablo IV | Season of Hell’s Legacy | Your Prime Evil - Baal",
-     "published": "2026-10-09T17:00:37+00:00",
-     "channel": "Diablo",
-     "views": 39530,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/ZewePNZQvOA/hqdefault.jpg"
-    },
-    {
-     "id": "W64QNl4VlLs",
-     "title": "Diablo IV | Lord of Hatred Collection | Nintendo Switch™ 2",
-     "published": "2026-09-16T21:58:01+00:00",
-     "channel": "Diablo",
-     "views": 30184,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/W64QNl4VlLs/hqdefault.jpg"
-    },
-    {
-     "id": "9vf0z9IRPrU",
-     "title": "Diablo IV | Season of Hell’s Legacy | Your Prime Evil - Diablo",
-     "published": "2026-10-08T17:01:02+00:00",
-     "channel": "Diablo",
-     "views": 21629,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/9vf0z9IRPrU/hqdefault.jpg"
-    },
-    {
-     "id": "r30BZudKNwU",
-     "title": "Diablo IV | Season of Hell’s Legacy | Daily Affirmations",
-     "published": "2026-10-19T18:06:18+00:00",
-     "channel": "Diablo",
-     "views": 21269,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/r30BZudKNwU/hqdefault.jpg"
-    },
-    {
-     "id": "2TxgVuwYeno",
-     "title": "Diablo | BlizzCon 2026 | ICYMI",
-     "published": "2026-09-18T17:00:37+00:00",
-     "channel": "Diablo",
-     "views": 19152,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/2TxgVuwYeno/hqdefault.jpg"
-    },
-    {
-     "id": "SOKeYrAiOJE",
-     "title": "Diablo IV | Season of Hell’s Legacy | Your Prime Evil - Mephisto",
-     "published": "2026-10-07T17:08:26+00:00",
-     "channel": "Diablo",
-     "views": 14180,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/SOKeYrAiOJE/hqdefault.jpg"
-    },
-    {
-     "id": "joxf_qEZqFc",
-     "title": "Diablo IV: Age of Hatred Collection | Nintendo Switch™ 2",
-     "published": "2026-09-16T21:59:51+00:00",
-     "channel": "Diablo",
-     "views": 13848,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/joxf_qEZqFc/hqdefault.jpg"
+     "channelId": "UCxn8csYeZg6awRnZS-aqg0g",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "gaming"
   },
   {
    "key": "dota2",
    "name": "Dota 2",
    "th": "โดต้า 2",
-   "channels": [
-    "dota2",
-    "The International"
-   ],
+   "channels": [],
    "minViews": 10000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "GMbjTK8UVks",
-     "title": "[EN] The International 2026 - Grand Finals Day",
-     "published": "2026-08-23T15:36:16+00:00",
-     "channel": "dota2",
-     "views": 3896879,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/GMbjTK8UVks/hqdefault.jpg"
+     "channelId": "UCTQKT5QqO3h7y32G8VzuySQ",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "JHCLQvjnm3E",
-     "title": "[RU] The International 2026 - День гранд-финала",
-     "published": "2026-08-23T14:36:24+00:00",
-     "channel": "dota2",
-     "views": 868637,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/JHCLQvjnm3E/hqdefault.jpg"
-    },
-    {
-     "id": "aHQX_XwTpUo",
-     "title": "[ES] The International 2026 - Gran Final Día",
-     "published": "2026-08-23T14:38:22+00:00",
-     "channel": "dota2",
-     "views": 663478,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/aHQX_XwTpUo/hqdefault.jpg"
-    },
-    {
-     "id": "EG_nO53F7o8",
-     "title": "[ES] TEAM VISION vs Team Spirit - Game 5 - The International 2026 - Gran Final",
-     "published": "2026-08-23T15:50:01+00:00",
-     "channel": "dota2",
-     "views": 436718,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/EG_nO53F7o8/hqdefault.jpg"
-    },
-    {
-     "id": "pxTsgR-EXTI",
-     "title": "Невероятная история Месси",
-     "published": "2011-12-06T22:22:17+00:00",
-     "channel": "The International",
-     "views": 333308,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/pxTsgR-EXTI/hqdefault.jpg"
-    },
-    {
-     "id": "5wHWntVPXhg",
-     "title": "[RU] TEAM VISION vs Team Spirit - Игра 5 - The International 2026 - Гранд-финал",
-     "published": "2026-08-23T14:53:44+00:00",
-     "channel": "dota2",
-     "views": 270240,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/5wHWntVPXhg/hqdefault.jpg"
-    },
-    {
-     "id": "o3W28o7jLYo",
-     "title": "[EN] TEAM VISION vs Team Spirit - Game 5 - The International 2026 - Grand Final",
-     "published": "2026-08-23T14:43:44+00:00",
-     "channel": "dota2",
-     "views": 207456,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/o3W28o7jLYo/hqdefault.jpg"
-    },
-    {
-     "id": "wwisvdIu3Nc",
-     "title": "Dota Short Film Contest: \"Ten Years\" - The International 2026",
-     "published": "2026-08-23T15:06:21+00:00",
-     "channel": "dota2",
-     "views": 190402,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/wwisvdIu3Nc/hqdefault.jpg"
-    },
-    {
-     "id": "kEVMZGSBGx4",
-     "title": "Месси набивает бутсу",
-     "published": "2013-01-02T11:33:54+00:00",
-     "channel": "The International",
-     "views": 106919,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/kEVMZGSBGx4/hqdefault.jpg"
-    },
-    {
-     "id": "R_CNaxVUMKo",
-     "title": "[CN] 决赛日 - 2026国际邀请赛",
-     "published": "2026-08-23T14:32:09+00:00",
-     "channel": "dota2",
-     "views": 89166,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/R_CNaxVUMKo/hqdefault.jpg"
-    },
-    {
-     "id": "MVcwatlFzS8",
-     "title": "Dove's Ascension",
-     "published": "2026-08-23T14:14:26+00:00",
-     "channel": "dota2",
-     "views": 63802,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/MVcwatlFzS8/hqdefault.jpg"
-    },
-    {
-     "id": "1m1bQLxePNY",
-     "title": "[EN] TEAM VISION vs Team Spirit - Game 4 - The International 2026 - Grand Final",
-     "published": "2026-08-23T12:59:14+00:00",
-     "channel": "dota2",
-     "views": 55102,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/1m1bQLxePNY/hqdefault.jpg"
-    },
-    {
-     "id": "IKR73dnTFWs",
-     "title": "[RU] TEAM VISION vs Team Spirit - Игра 4 - The International 2026 - Гранд-финал",
-     "published": "2026-08-23T12:33:16+00:00",
-     "channel": "dota2",
-     "views": 50102,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/IKR73dnTFWs/hqdefault.jpg"
-    },
-    {
-     "id": "YJdSFcJSjL4",
-     "title": "Suzhou Embroidery - The International 2026",
-     "published": "2026-08-23T14:18:08+00:00",
-     "channel": "dota2",
-     "views": 13905,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/YJdSFcJSjL4/hqdefault.jpg"
-    },
-    {
-     "id": "rj3GtDZqXGg",
-     "title": "Легенда Лондонского Арсенала Тьерри Анри",
-     "published": "2012-09-11T15:45:57+00:00",
-     "channel": "The International",
-     "views": 13039,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/rj3GtDZqXGg/hqdefault.jpg"
+     "channelId": "UCfx0faaQeyIgPFz6axudwGQ",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "gaming"
   },
   {
    "key": "final-fantasy",
    "name": "Final Fantasy",
    "th": "ไฟนอลแฟนตาซี",
-   "channels": [
-    "FINAL FANTASY"
-   ],
+   "channels": [],
    "minViews": 10000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "Af6f-KvBwLU",
-     "title": "CRISIS CORE –FINAL FANTASY VII– REUNION | Now available on Nintendo Switch 2",
-     "published": "2026-09-09T15:14:15+00:00",
-     "channel": "FINAL FANTASY",
-     "views": 1146848,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/Af6f-KvBwLU/hqdefault.jpg"
-    },
-    {
-     "id": "mkmhfUQPQss",
-     "title": "FINAL FANTASY RESONANCE | Tokyo Game Show Trailer",
-     "published": "2026-09-17T01:00:06+00:00",
-     "channel": "FINAL FANTASY",
-     "views": 332176,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/mkmhfUQPQss/hqdefault.jpg"
-    },
-    {
-     "id": "My-oWOBZLfw",
-     "title": "FINAL FANTASY RESONANCE | Vision – Clive",
-     "published": "2026-09-10T14:58:04+00:00",
-     "channel": "FINAL FANTASY",
-     "views": 281734,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/My-oWOBZLfw/hqdefault.jpg"
-    },
-    {
-     "id": "KU4Zm-UdE7w",
-     "title": "FINAL FANTASY RESONANCE | Vision – Squall",
-     "published": "2026-09-08T14:58:35+00:00",
-     "channel": "FINAL FANTASY",
-     "views": 162809,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/KU4Zm-UdE7w/hqdefault.jpg"
-    },
-    {
-     "id": "r9fbugErjp0",
-     "title": "FINAL FANTASY RESONANCE | Vision – Cecil",
-     "published": "2026-09-25T14:58:31+00:00",
-     "channel": "FINAL FANTASY",
-     "views": 133593,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/r9fbugErjp0/hqdefault.jpg"
-    },
-    {
-     "id": "sAxUJ1gNLU0",
-     "title": "Are you ready for Final Fantasy VII Revelation?",
-     "published": "2026-09-18T17:00:26+00:00",
-     "channel": "FINAL FANTASY",
-     "views": 108429,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/sAxUJ1gNLU0/hqdefault.jpg"
-    },
-    {
-     "id": "D8Uvlla9mEE",
-     "title": "FINAL FANTASY RESONANCE | Vision – Zidane",
-     "published": "2026-09-23T14:58:34+00:00",
-     "channel": "FINAL FANTASY",
-     "views": 90397,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/D8Uvlla9mEE/hqdefault.jpg"
-    },
-    {
-     "id": "FWtNgBjPkCY",
-     "title": "FINAL FANTASY RESONANCE | Vision – Terra",
-     "published": "2026-09-21T14:58:01+00:00",
-     "channel": "FINAL FANTASY",
-     "views": 72061,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/FWtNgBjPkCY/hqdefault.jpg"
-    },
-    {
-     "id": "xpxi0MEVsus",
-     "title": "FINAL FANTASY RESONANCE - Launch Trailer",
-     "published": "2026-10-22T13:00:12+00:00",
-     "channel": "FINAL FANTASY",
-     "views": 58006,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/xpxi0MEVsus/hqdefault.jpg"
-    },
-    {
-     "id": "12Q_WmBFubg",
-     "title": "FINAL FANTASY RESONANCE - Gilgamesh Video",
-     "published": "2026-09-15T15:00:24+00:00",
-     "channel": "FINAL FANTASY",
-     "views": 56480,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/12Q_WmBFubg/hqdefault.jpg"
-    },
-    {
-     "id": "0q9IVcbnEjQ",
-     "title": "FINAL FANTASY VII EVER CRISIS | Final Trailer",
-     "published": "2026-10-07T06:00:00+00:00",
-     "channel": "FINAL FANTASY",
-     "views": 46499,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/0q9IVcbnEjQ/hqdefault.jpg"
-    },
-    {
-     "id": "-zlyX-qLpoc",
-     "title": "Gameplay Tips - Keisuke Nakashima | FINAL FANTASY RESONANCE",
-     "published": "2026-09-07T16:00:27+00:00",
-     "channel": "FINAL FANTASY",
-     "views": 41542,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/-zlyX-qLpoc/hqdefault.jpg"
-    },
-    {
-     "id": "_3DfcF6ZewA",
-     "title": "Special message from Keisuke Nakashima | FINAL FANTASY RESONANCE",
-     "published": "2026-10-22T16:00:06+00:00",
-     "channel": "FINAL FANTASY",
-     "views": 26562,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/_3DfcF6ZewA/hqdefault.jpg"
-    },
-    {
-     "id": "Cf5q1yNRxyc",
-     "title": "Special message from Keisuke Nakashima | FINAL FANTASY RESONANCE",
-     "published": "2026-10-22T16:00:28+00:00",
-     "channel": "FINAL FANTASY",
-     "views": 18488,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/Cf5q1yNRxyc/hqdefault.jpg"
-    },
-    {
-     "id": "Kdq6YIQgri4",
-     "title": "Are you ready for Final Fantasy VII Revelation?",
-     "published": "2026-09-18T17:00:22+00:00",
-     "channel": "FINAL FANTASY",
-     "views": 10057,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/Kdq6YIQgri4/hqdefault.jpg"
+     "channelId": "UCH3sMKVJ2P7hm7ROBy5FHJg",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "gaming"
   },
   {
    "key": "pokemon-go",
    "name": "Pokémon GO",
    "th": "โปเกมอน โก",
-   "channels": [
-    "Pokémon GO"
-   ],
+   "channels": [],
    "minViews": 30000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "KVICV-S6J34",
-     "title": "What could that be? 👀",
-     "published": "2026-09-15T00:00:21+00:00",
-     "channel": "Pokémon GO",
-     "views": 169444,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/KVICV-S6J34/hqdefault.jpg"
-    },
-    {
-     "id": "9gZFB87SGEo",
-     "title": "Pokémon GO Wild Area returns!",
-     "published": "2026-09-09T23:00:06+00:00",
-     "channel": "Pokémon GO",
-     "views": 145268,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/9gZFB87SGEo/hqdefault.jpg"
-    },
-    {
-     "id": "jdHeBYop0E4",
-     "title": "Gigantamax Duraludon makes its Pokémon GO debut at Pokémon GO Wild Area!",
-     "published": "2026-10-07T17:00:18+00:00",
-     "channel": "Pokémon GO",
-     "views": 140590,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/jdHeBYop0E4/hqdefault.jpg"
-    },
-    {
-     "id": "C2H71Y5tiqw",
-     "title": "👀🪽 #PokemonGO",
-     "published": "2026-09-19T21:00:20+00:00",
-     "channel": "Pokémon GO",
-     "views": 128431,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/C2H71Y5tiqw/hqdefault.jpg"
-    },
-    {
-     "id": "QuosxrwxUm4",
-     "title": "Armored Mewtwo isn’t done yet.",
-     "published": "2026-09-07T01:00:40+00:00",
-     "channel": "Pokémon GO",
-     "views": 97734,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/QuosxrwxUm4/hqdefault.jpg"
-    },
-    {
-     "id": "8GvcTycfJhg",
-     "title": "Shadow Zekrom makes its Pokémon GO debut!",
-     "published": "2026-10-04T00:00:11+00:00",
-     "channel": "Pokémon GO",
-     "views": 79358,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/8GvcTycfJhg/hqdefault.jpg"
-    },
-    {
-     "id": "r1wTjp-GZrM",
-     "title": "What could that be? 👀",
-     "published": "2026-09-15T00:00:15+00:00",
-     "channel": "Pokémon GO",
-     "views": 73907,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/r1wTjp-GZrM/hqdefault.jpg"
-    },
-    {
-     "id": "-avHX6Acp1A",
-     "title": "Maschiff, the Rascal Pokémon, and Mabosstiff, the Boss Pokémon, will make their Pokémon GO debuts!",
-     "published": "2026-09-10T17:00:37+00:00",
-     "channel": "Pokémon GO",
-     "views": 73015,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/-avHX6Acp1A/hqdefault.jpg"
-    },
-    {
-     "id": "lrWLKhcQ9e8",
-     "title": "Maschiff, the Rascal Pokémon, and Mabosstiff, the Boss Pokémon, will make their Pokémon GO debuts!",
-     "published": "2026-09-10T17:00:19+00:00",
-     "channel": "Pokémon GO",
-     "views": 67351,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/lrWLKhcQ9e8/hqdefault.jpg"
-    },
-    {
-     "id": "sEAnBVu_3zE",
-     "title": "Pokémon GO Wild Area returns!",
-     "published": "2026-09-09T23:00:28+00:00",
-     "channel": "Pokémon GO",
-     "views": 55230,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/sEAnBVu_3zE/hqdefault.jpg"
-    },
-    {
-     "id": "-3zEIFu7IZ0",
-     "title": "The World Space Week event in Pokémon GO is live! 🚀",
-     "published": "2026-10-04T13:00:35+00:00",
-     "channel": "Pokémon GO",
-     "views": 47480,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/-3zEIFu7IZ0/hqdefault.jpg"
-    },
-    {
-     "id": "-8TCo6UM5Hk",
-     "title": "Minior, the Meteor Pokémon, makes its Pokémon GO debut!",
-     "published": "2026-10-20T00:00:09+00:00",
-     "channel": "Pokémon GO",
-     "views": 43383,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/-8TCo6UM5Hk/hqdefault.jpg"
-    },
-    {
-     "id": "fkceYyvrKSE",
-     "title": "Minior, the Meteor Pokémon, makes its Pokémon GO debut!",
-     "published": "2026-10-20T00:00:40+00:00",
-     "channel": "Pokémon GO",
-     "views": 43244,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/fkceYyvrKSE/hqdefault.jpg"
-    },
-    {
-     "id": "-E44m6wON1E",
-     "title": "👀🪽 #PokemonGO",
-     "published": "2026-09-19T21:00:05+00:00",
-     "channel": "Pokémon GO",
-     "views": 34779,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/-E44m6wON1E/hqdefault.jpg"
+     "channelId": "UCA698bls2pjQyiqP9N-iaeg",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "gaming"
   },
   {
    "key": "pokemon",
    "name": "Pokémon TCG & Pokémon News",
    "th": "การ์ดโปเกมอน & ข่าวโปเกมอน",
-   "channels": [
-    "The Official Pokémon YouTube channel"
-   ],
+   "channels": [],
    "minViews": 20000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "fGszU4YxLBI",
-     "title": "Pokémon TCG Pocket: Dual Fusion 🧬 | Official Trailer",
-     "published": "2026-10-20T13:01:26+00:00",
-     "channel": "The Official Pokémon YouTube channel",
-     "views": 478567,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/fGszU4YxLBI/hqdefault.jpg"
-    },
-    {
-     "id": "87ruoF7dg-E",
-     "title": "VGC Day 1 | 2027 Pokémon Nice Regional Championships",
-     "published": "2026-10-17T16:38:56+00:00",
-     "channel": "The Official Pokémon YouTube channel",
-     "views": 209865,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/87ruoF7dg-E/hqdefault.jpg"
-    },
-    {
-     "id": "FyLnjowBk6A",
-     "title": "VGC Day 2 | 2027 Pokémon Nice Regional Championships",
-     "published": "2026-10-18T17:02:36+00:00",
-     "channel": "The Official Pokémon YouTube channel",
-     "views": 206434,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/FyLnjowBk6A/hqdefault.jpg"
-    },
-    {
-     "id": "ioLhEOjR-G0",
-     "title": "TCG Day 1 | 2027 Pokémon Nice Regional Championships",
-     "published": "2026-10-17T19:31:50+00:00",
-     "channel": "The Official Pokémon YouTube channel",
-     "views": 180646,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/ioLhEOjR-G0/hqdefault.jpg"
-    },
-    {
-     "id": "vTJyWfTQsWQ",
-     "title": "TCG Day 2 | 2027 Pokémon Nice Regional Championships",
-     "published": "2026-10-18T19:26:30+00:00",
-     "channel": "The Official Pokémon YouTube channel",
-     "views": 167609,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/vTJyWfTQsWQ/hqdefault.jpg"
-    },
-    {
-     "id": "BVi7G7NDcA0",
-     "title": "Pumpkaboo Evolves! | Pokémon the Series: XY Kalos Quest | Official Clip",
-     "published": "2026-10-19T10:26:59+00:00",
-     "channel": "The Official Pokémon YouTube channel",
-     "views": 72083,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/BVi7G7NDcA0/hqdefault.jpg"
-    },
-    {
-     "id": "mMJzv4wmJvU",
-     "title": "[UK] Pokémon TCG Pocket: Dual Fusion 🧬 | Official Trailer",
-     "published": "2026-10-20T21:12:16+00:00",
-     "channel": "The Official Pokémon YouTube channel",
-     "views": 68509,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/mMJzv4wmJvU/hqdefault.jpg"
-    },
-    {
-     "id": "MEkTieARYRM",
-     "title": "GO Day 2 | 2027 Pokémon Nice Regional Championships",
-     "published": "2026-10-18T15:18:52+00:00",
-     "channel": "The Official Pokémon YouTube channel",
-     "views": 62500,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/MEkTieARYRM/hqdefault.jpg"
-    },
-    {
-     "id": "m9Rb_hATHrU",
-     "title": "GO Day 1 | 2027 Pokémon Nice Regional Championships",
-     "published": "2026-10-17T16:53:52+00:00",
-     "channel": "The Official Pokémon YouTube channel",
-     "views": 60600,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/m9Rb_hATHrU/hqdefault.jpg"
-    },
-    {
-     "id": "K1rOXp7kYE8",
-     "title": "Corviknight—the Valiant Defender! | Pokémon Ultimate Journeys: The Series | Official Clip",
-     "published": "2026-10-23T10:16:52+00:00",
-     "channel": "The Official Pokémon YouTube channel",
-     "views": 29407,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/K1rOXp7kYE8/hqdefault.jpg"
-    },
-    {
-     "id": "jWMnRxbM8kU",
-     "title": "Ult isn't afraid of ANYTHING ... except this 😰",
-     "published": "2026-10-18T16:00:25+00:00",
-     "channel": "The Official Pokémon YouTube channel",
-     "views": 20847,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/jWMnRxbM8kU/hqdefault.jpg"
+     "channelId": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "gaming"
   },
   {
    "key": "hype",
    "name": "Upcoming Hype Games",
    "th": "เกมที่รอคอย",
-   "channels": [
-    "Rockstar Games",
-    "Square Enix"
-   ],
+   "channels": [],
    "minViews": 100000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "rz1B4B2yBZY",
-     "title": "Grand Theft Auto VI Launch Trailer",
-     "published": "2026-10-15T13:00:26+00:00",
-     "channel": "Rockstar Games",
-     "views": 62388226,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/rz1B4B2yBZY/hqdefault.jpg"
+     "channelId": "UC6VcWc1rAoWdBCM0JxrRQ3A",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "tJbzMqJGH4k",
-     "title": "Grand Theft Auto VI: An Extended Look",
-     "published": "2026-08-28T01:00:48+00:00",
-     "channel": "Rockstar Games",
-     "views": 32631090,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/tJbzMqJGH4k/hqdefault.jpg"
-    },
-    {
-     "id": "EiQEBYDox_k",
-     "title": "Grand Theft Auto VI: Official Cover Art Reveal",
-     "published": "2026-06-18T13:03:29+00:00",
-     "channel": "Rockstar Games",
-     "views": 15803731,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/EiQEBYDox_k/hqdefault.jpg"
-    },
-    {
-     "id": "qq76pQsI1iw",
-     "title": "Grand Theft Auto VI: An Extended Look Coming August 27",
-     "published": "2026-08-06T12:00:25+00:00",
-     "channel": "Rockstar Games",
-     "views": 10194035,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/qq76pQsI1iw/hqdefault.jpg"
-    },
-    {
-     "id": "MJOrsRRa9GM",
-     "title": "Grand Theft Auto VI: An Extended Look — Now Playing",
-     "published": "2026-08-28T01:01:30+00:00",
-     "channel": "Rockstar Games",
-     "views": 10137708,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/MJOrsRRa9GM/hqdefault.jpg"
-    },
-    {
-     "id": "9CCRgtEcLHU",
-     "title": "GTA Online: The Kortz Center Heist Now Available",
-     "published": "2026-07-14T13:52:02+00:00",
-     "channel": "Rockstar Games",
-     "views": 4674655,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/9CCRgtEcLHU/hqdefault.jpg"
-    },
-    {
-     "id": "INjHGpMRjRA",
-     "title": "Grand Theft Auto VI: Official Cover Art Reveal",
-     "published": "2026-06-18T13:04:25+00:00",
-     "channel": "Rockstar Games",
-     "views": 4445452,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/INjHGpMRjRA/hqdefault.jpg"
-    },
-    {
-     "id": "YmzCydc4qOk",
-     "title": "Grand Theft Auto VI: An Extended Look Coming August 27",
-     "published": "2026-08-06T12:09:13+00:00",
-     "channel": "Rockstar Games",
-     "views": 4109134,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/YmzCydc4qOk/hqdefault.jpg"
-    },
-    {
-     "id": "53C6gUqRpK4",
-     "title": "Grand Theft Auto VI: An Extended Look — Now Playing",
-     "published": "2026-08-28T01:01:28+00:00",
-     "channel": "Rockstar Games",
-     "views": 3246697,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/53C6gUqRpK4/hqdefault.jpg"
-    },
-    {
-     "id": "mAfR_ybf5WM",
-     "title": "Grand Theft Auto VI: An Extended Look — Now Playing",
-     "published": "2026-08-28T01:01:24+00:00",
-     "channel": "Rockstar Games",
-     "views": 2126205,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/mAfR_ybf5WM/hqdefault.jpg"
-    },
-    {
-     "id": "GVTE_MuInQg",
-     "title": "Grand Theft Auto VI: An Extended Look — Now Playing",
-     "published": "2026-08-28T01:01:18+00:00",
-     "channel": "Rockstar Games",
-     "views": 1860488,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/GVTE_MuInQg/hqdefault.jpg"
-    },
-    {
-     "id": "icy-lhqJhMQ",
-     "title": "Grand Theft Auto VI Launch Trailer",
-     "published": "2026-10-15T13:00:04+00:00",
-     "channel": "Rockstar Games",
-     "views": 1287853,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/icy-lhqJhMQ/hqdefault.jpg"
-    },
-    {
-     "id": "L-9NI3mHZVo",
-     "title": "Grand Theft Auto VI: An Extended Look — Now Playing",
-     "published": "2026-08-28T01:01:21+00:00",
-     "channel": "Rockstar Games",
-     "views": 1099536,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/L-9NI3mHZVo/hqdefault.jpg"
-    },
-    {
-     "id": "vK_IL6V17Js",
-     "title": "GTA Online: The Kortz Center Heist Now Available",
-     "published": "2026-07-14T13:51:40+00:00",
-     "channel": "Rockstar Games",
-     "views": 1042569,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/vK_IL6V17Js/hqdefault.jpg"
-    },
-    {
-     "id": "Xzxv75FjMJk",
-     "title": "Grand Theft Auto VI: An Extended Look — Now Playing",
-     "published": "2026-08-28T01:01:15+00:00",
-     "channel": "Rockstar Games",
-     "views": 552547,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/Xzxv75FjMJk/hqdefault.jpg"
-    },
-    {
-     "id": "DaBVsTL8TNE",
-     "title": "FINAL FANTASY RESONANCE - Launch Trailer",
-     "published": "2026-10-22T13:00:40+00:00",
-     "channel": "Square Enix",
-     "views": 307165,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/DaBVsTL8TNE/hqdefault.jpg"
-    },
-    {
-     "id": "uA1rHCKIkI8",
-     "title": "FINAL FANTASY VII EVER CRISIS | Final Trailer",
-     "published": "2026-10-07T06:00:38+00:00",
-     "channel": "Square Enix",
-     "views": 144818,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/uA1rHCKIkI8/hqdefault.jpg"
+     "channelId": "UCA5SLTAVA6unn1M-6lbo1NA",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "gaming"
   },
   {
    "key": "new-releases",
    "name": "New Releases & Trailers",
    "th": "เกมใหม่ & ตัวอย่าง",
-   "channels": [
-    "PlayStation",
-    "XBOX",
-    "Nintendo of America",
-    "IGN",
-    "GameSpot"
-   ],
+   "channels": [],
    "minViews": 100000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "8v8eDMh1o3g",
-     "title": "The Legend of Zelda: Ocarina of Time – Overview Trailer – Nintendo Switch 2",
-     "published": "2026-10-14T13:01:13+00:00",
-     "channel": "Nintendo of America",
-     "views": 6587269,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/8v8eDMh1o3g/hqdefault.jpg"
+     "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "9tDRjYdGrGs",
-     "title": "Fire Emblem: Fortune’s Weave Expansion Pass — Announcement Trailer — Nintendo Switch 2",
-     "published": "2026-10-15T01:01:24+00:00",
-     "channel": "Nintendo of America",
-     "views": 913161,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/9tDRjYdGrGs/hqdefault.jpg"
+     "channelId": "UCjBp_7RuDBUYbd1LegWEJ8g",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "ErNF1wYKxaI",
-     "title": "Cyberpunk 2077 | Edgerunners 2 Update Features Overview Trailer",
-     "published": "2026-10-21T16:36:38+00:00",
-     "channel": "GameSpot",
-     "views": 387115,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/ErNF1wYKxaI/hqdefault.jpg"
+     "channelId": "UCGIY_O-8vW4rfX98KlMkvRg",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "fcfp7L87KPQ",
-     "title": "Nintendo Switch Sports Resort – Launch Trailer – Nintendo Switch 2",
-     "published": "2026-10-20T13:00:16+00:00",
-     "channel": "Nintendo of America",
-     "views": 319528,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/fcfp7L87KPQ/hqdefault.jpg"
+     "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "fAMpQdDHO5g",
-     "title": "Crimson Desert: Charting the Unknown - DLC Features Overview Trailer",
-     "published": "2026-10-21T13:42:53+00:00",
-     "channel": "GameSpot",
-     "views": 274958,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/fAMpQdDHO5g/hqdefault.jpg"
-    },
-    {
-     "id": "6tXiQ8-WznY",
-     "title": "It Takes Two – Launch Trailer – Nintendo Switch 2",
-     "published": "2026-10-16T00:00:37+00:00",
-     "channel": "Nintendo of America",
-     "views": 213911,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/6tXiQ8-WznY/hqdefault.jpg"
-    },
-    {
-     "id": "BaCwCoEFzbk",
-     "title": "Game Boy Classics – October 2026 – Games Update",
-     "published": "2026-10-23T01:00:04+00:00",
-     "channel": "Nintendo of America",
-     "views": 168504,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/BaCwCoEFzbk/hqdefault.jpg"
-    },
-    {
-     "id": "mg3FBdfb_g8",
-     "title": "Resident Evil 2/3/4 – Launch Trailer – Nintendo Switch 2",
-     "published": "2026-10-19T16:00:10+00:00",
-     "channel": "Nintendo of America",
-     "views": 150831,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/mg3FBdfb_g8/hqdefault.jpg"
-    },
-    {
-     "id": "xho3W_xTt2c",
-     "title": "The Jackbox Party Pack 12 – Launch Trailer – Nintendo Switch",
-     "published": "2026-10-16T15:00:05+00:00",
-     "channel": "Nintendo of America",
-     "views": 142782,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/xho3W_xTt2c/hqdefault.jpg"
-    },
-    {
-     "id": "Fc9aw5Fsw5s",
-     "title": "Metaphor: ReFantazio – Prologue Demo Trailer – Nintendo Switch 2",
-     "published": "2026-10-20T19:00:10+00:00",
-     "channel": "Nintendo of America",
-     "views": 137024,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/Fc9aw5Fsw5s/hqdefault.jpg"
-    },
-    {
-     "id": "tTNosQAZszY",
-     "title": "The Legend of Zelda: Ocarina of Time – The Battle for Hyrule Begins – Nintendo Switch 2",
-     "published": "2026-10-23T19:00:16+00:00",
-     "channel": "Nintendo of America",
-     "views": 129675,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/tTNosQAZszY/hqdefault.jpg"
-    },
-    {
-     "id": "CTYFJAi6e2A",
-     "title": "Cyberpunk 2077 - Broken Dreams: Edgerunners 2 Update Launch Trailer | PS5 Games",
-     "published": "2026-10-22T19:00:31+00:00",
-     "channel": "PlayStation",
-     "views": 125298,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/CTYFJAi6e2A/hqdefault.jpg"
-    },
-    {
-     "id": "3R0Wtb0LvA4",
-     "title": "Acornia: Mirror Worlds – Gameplay Trailer – Nintendo Switch 2",
-     "published": "2026-10-14T22:22:49+00:00",
-     "channel": "Nintendo of America",
-     "views": 116262,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/3R0Wtb0LvA4/hqdefault.jpg"
-    },
-    {
-     "id": "P2XSitVVtgo",
-     "title": "House Flipper 2 – Launch Trailer – Nintendo Switch 2",
-     "published": "2026-10-19T17:30:16+00:00",
-     "channel": "Nintendo of America",
-     "views": 114977,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/P2XSitVVtgo/hqdefault.jpg"
+     "channelId": "UCbu2SsF-Or3Rsn3NxqODImw",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "gaming"
   },
   {
    "key": "global",
    "name": "Global Trending",
    "th": "มาแรงทั่วโลก",
-   "channels": [
-    "Taylor Swift",
-    "Sabrina Carpenter",
-    "The Weeknd",
-    "Kendrick Lamar",
-    "SZA",
-    "Bruno Mars",
-    "BLACKPINK",
-    "Billie Eilish",
-    "Ariana Grande",
-    "Stray Kids",
-    "Mrs. GREEN APPLE"
-   ],
+   "channels": [],
    "minViews": 2000000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "HfWLgELllZs",
-     "title": "Kendrick Lamar - luther (Official Audio)",
-     "published": "2024-11-22T17:08:32+00:00",
-     "channel": "Kendrick Lamar",
-     "views": 184104558,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/HfWLgELllZs/hqdefault.jpg"
+     "channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "U8F5G5wR1mk",
-     "title": "Kendrick Lamar - tv off (Official Audio)",
-     "published": "2024-11-22T17:08:31+00:00",
-     "channel": "Kendrick Lamar",
-     "views": 161061305,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/U8F5G5wR1mk/hqdefault.jpg"
+     "channelId": "UCPKWE1H6xhxwPlqUlKgHb_w",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "fuV4yQWdn_4",
-     "title": "squabble up",
-     "published": "2024-11-25T18:07:36+00:00",
-     "channel": "Kendrick Lamar",
-     "views": 77412220,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/fuV4yQWdn_4/hqdefault.jpg"
+     "channelId": "UC0WP5P-ufpRfjbNrmOWwLBQ",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "sNY_2TEmzho",
-     "title": "Kendrick Lamar, SZA - luther",
-     "published": "2025-04-11T16:01:32+00:00",
-     "channel": "Kendrick Lamar",
-     "views": 68986450,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/sNY_2TEmzho/hqdefault.jpg"
+     "channelId": "UC3lBXcrKFnFAFkfVk5WuKcQ",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "cbHkzwa0QmM",
-     "title": "Kendrick Lamar - peekaboo (Official Audio)",
-     "published": "2024-11-22T17:08:31+00:00",
-     "channel": "Kendrick Lamar",
-     "views": 59429465,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/cbHkzwa0QmM/hqdefault.jpg"
+     "channelId": "UCO5IQ70V7l-XpHW40HwaGsw",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "KWoTyfPsqbE",
-     "title": "Sabrina Carpenter - House Tour (Official Video)",
-     "published": "2026-04-06T15:00:06+00:00",
-     "channel": "Sabrina Carpenter",
-     "views": 40834656,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/KWoTyfPsqbE/hqdefault.jpg"
+     "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "YwUQ_5iV9pY",
-     "title": "Kendrick Lamar - wacced out murals (Official Audio)",
-     "published": "2024-11-22T17:08:31+00:00",
-     "channel": "Kendrick Lamar",
-     "views": 35078291,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/YwUQ_5iV9pY/hqdefault.jpg"
+     "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "hDU4GB1PTxc",
-     "title": "Taylor Swift - I Knew It, I Knew You (from Toy Story 5)",
-     "published": "2026-06-07T19:00:36+00:00",
-     "channel": "Taylor Swift",
-     "views": 32416623,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/hDU4GB1PTxc/hqdefault.jpg"
+     "channelId": "UCiGm_E4ZwYSHV3bcW1pnSeQ",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "c0Y4PqvDvqc",
-     "title": "Taylor Swift - The Life of a Showgirl: The Encore STATION",
-     "published": "2026-09-24T23:35:13+00:00",
-     "channel": "Taylor Swift",
-     "views": 31555426,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/c0Y4PqvDvqc/hqdefault.jpg"
+     "channelId": "UC9CoOnJkIBMdeijd9qYoT_g",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "xuZDP6uSD-Q",
-     "title": "SZA - Crybaby (Official Audio)",
-     "published": "2024-12-20T20:00:34+00:00",
-     "channel": "SZA",
-     "views": 30167642,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/xuZDP6uSD-Q/hqdefault.jpg"
+     "channelId": "UC9rMiEjNaCSsebs31MRDCRA",
+     "error": "HTTP Error 500: Internal Server Error"
     },
     {
-     "id": "mw3kSNIxjqo",
-     "title": "Taylor Swift - Patient Zero (Official Music Video)",
-     "published": "2026-09-29T22:00:19+00:00",
-     "channel": "Taylor Swift",
-     "views": 23519731,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/mw3kSNIxjqo/hqdefault.jpg"
-    },
-    {
-     "id": "hWjwNgiLMgA",
-     "title": "SZA - BMF (Official Audio)",
-     "published": "2024-12-20T20:00:20+00:00",
-     "channel": "SZA",
-     "views": 22226178,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/hWjwNgiLMgA/hqdefault.jpg"
-    },
-    {
-     "id": "Ek7UvQPCQnE",
-     "title": "Kendrick Lamar - reincarnated (Official Audio)",
-     "published": "2024-11-22T17:08:31+00:00",
-     "channel": "Kendrick Lamar",
-     "views": 21791793,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/Ek7UvQPCQnE/hqdefault.jpg"
-    },
-    {
-     "id": "9PumlOWjXMM",
-     "title": "Kendrick Lamar - hey now (Official Audio)",
-     "published": "2024-11-22T17:08:31+00:00",
-     "channel": "Kendrick Lamar",
-     "views": 21506903,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/9PumlOWjXMM/hqdefault.jpg"
-    },
-    {
-     "id": "zq9B35oai2w",
-     "title": "Mrs. GREEN APPLE「共犯」Official Music Video",
-     "published": "2026-10-03T11:00:06+00:00",
-     "channel": "Mrs. GREEN APPLE",
-     "views": 21039706,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/zq9B35oai2w/hqdefault.jpg"
-    },
-    {
-     "id": "1l7wbZmdtys",
-     "title": "Bruno Mars - Dance With Me [Official Music Video]",
-     "published": "2026-10-01T16:00:04+00:00",
-     "channel": "Bruno Mars",
-     "views": 19755950,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/1l7wbZmdtys/hqdefault.jpg"
-    },
-    {
-     "id": "4J41KdZ3JR8",
-     "title": "The Romantic Station by Bruno Mars",
-     "published": "2026-03-09T16:10:04+00:00",
-     "channel": "Bruno Mars",
-     "views": 17934320,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/4J41KdZ3JR8/hqdefault.jpg"
-    },
-    {
-     "id": "m-PO1_fzxVM",
-     "title": "Kendrick Lamar - heart pt. 6 (Official Audio)",
-     "published": "2024-11-22T17:08:32+00:00",
-     "channel": "Kendrick Lamar",
-     "views": 16908302,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/m-PO1_fzxVM/hqdefault.jpg"
-    },
-    {
-     "id": "JkDHARbprq8",
-     "title": "The Weeknd - Closing Night",
-     "published": "2025-09-03T20:24:31+00:00",
-     "channel": "The Weeknd",
-     "views": 16714954,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/JkDHARbprq8/hqdefault.jpg"
-    },
-    {
-     "id": "8zHWTsdnC7A",
-     "title": "The Weeknd - Baptized In Fear (Official Music Video)",
-     "published": "2025-06-06T14:00:07+00:00",
-     "channel": "The Weeknd",
-     "views": 15873743,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/8zHWTsdnC7A/hqdefault.jpg"
+     "channelId": "UCpFgmZm65yOU5X-hmWkWjuw",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "music"
   },
   {
    "key": "pop",
    "name": "Pop",
    "th": "ป๊อป",
-   "channels": [
-    "Taylor Swift",
-    "Sabrina Carpenter",
-    "Billie Eilish",
-    "Ariana Grande",
-    "Bruno Mars"
-   ],
+   "channels": [],
    "minViews": 300000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "KWoTyfPsqbE",
-     "title": "Sabrina Carpenter - House Tour (Official Video)",
-     "published": "2026-04-06T15:00:06+00:00",
-     "channel": "Sabrina Carpenter",
-     "views": 40834656,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/KWoTyfPsqbE/hqdefault.jpg"
+     "channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "hDU4GB1PTxc",
-     "title": "Taylor Swift - I Knew It, I Knew You (from Toy Story 5)",
-     "published": "2026-06-07T19:00:36+00:00",
-     "channel": "Taylor Swift",
-     "views": 32416623,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/hDU4GB1PTxc/hqdefault.jpg"
+     "channelId": "UCPKWE1H6xhxwPlqUlKgHb_w",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "c0Y4PqvDvqc",
-     "title": "Taylor Swift - The Life of a Showgirl: The Encore STATION",
-     "published": "2026-09-24T23:35:13+00:00",
-     "channel": "Taylor Swift",
-     "views": 31555426,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/c0Y4PqvDvqc/hqdefault.jpg"
+     "channelId": "UCiGm_E4ZwYSHV3bcW1pnSeQ",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "mw3kSNIxjqo",
-     "title": "Taylor Swift - Patient Zero (Official Music Video)",
-     "published": "2026-09-29T22:00:19+00:00",
-     "channel": "Taylor Swift",
-     "views": 23519731,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/mw3kSNIxjqo/hqdefault.jpg"
+     "channelId": "UC9CoOnJkIBMdeijd9qYoT_g",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "1l7wbZmdtys",
-     "title": "Bruno Mars - Dance With Me [Official Music Video]",
-     "published": "2026-10-01T16:00:04+00:00",
-     "channel": "Bruno Mars",
-     "views": 19755950,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/1l7wbZmdtys/hqdefault.jpg"
-    },
-    {
-     "id": "4J41KdZ3JR8",
-     "title": "The Romantic Station by Bruno Mars",
-     "published": "2026-03-09T16:10:04+00:00",
-     "channel": "Bruno Mars",
-     "views": 17934320,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/4J41KdZ3JR8/hqdefault.jpg"
-    },
-    {
-     "id": "aFbueod4reQ",
-     "title": "Bruno Mars - Risk It All [Live From The Romantic Tour]",
-     "published": "2026-05-26T16:04:23+00:00",
-     "channel": "Bruno Mars",
-     "views": 15186376,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/aFbueod4reQ/hqdefault.jpg"
-    },
-    {
-     "id": "7uEp74EuZSk",
-     "title": "Sabrina Carpenter - Manchild (Live From The 68th Annual GRAMMY Awards / 2026)",
-     "published": "2026-02-18T17:00:15+00:00",
-     "channel": "Sabrina Carpenter",
-     "views": 14775757,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/7uEp74EuZSk/hqdefault.jpg"
-    },
-    {
-     "id": "bwuUarZDeyA",
-     "title": "Bruno Mars - Lo Arriesgo Todo [Official Lyric Video]",
-     "published": "2026-05-08T04:00:41+00:00",
-     "channel": "Bruno Mars",
-     "views": 14601066,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/bwuUarZDeyA/hqdefault.jpg"
-    },
-    {
-     "id": "BpR280fXISA",
-     "title": "Taylor Swift - Patient Zero (Official Lyric Video)",
-     "published": "2026-09-26T00:01:38+00:00",
-     "channel": "Taylor Swift",
-     "views": 12621333,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/BpR280fXISA/hqdefault.jpg"
-    },
-    {
-     "id": "WqbJT_vC0rs",
-     "title": "Taylor Swift - Elizabeth Taylor (Official Music Video)",
-     "published": "2026-04-02T12:00:54+00:00",
-     "channel": "Taylor Swift",
-     "views": 10549263,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/WqbJT_vC0rs/hqdefault.jpg"
-    },
-    {
-     "id": "62rgRxlM4-E",
-     "title": "Bruno Mars - Dance With Me [Official Audio]",
-     "published": "2026-02-27T05:00:47+00:00",
-     "channel": "Bruno Mars",
-     "views": 9804867,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/62rgRxlM4-E/hqdefault.jpg"
-    },
-    {
-     "id": "7f1g9pqGo6Q",
-     "title": "Bruno Mars - Dance With Me [Live from the 2026 VMAs]",
-     "published": "2026-09-30T20:30:30+00:00",
-     "channel": "Bruno Mars",
-     "views": 9801547,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/7f1g9pqGo6Q/hqdefault.jpg"
-    },
-    {
-     "id": "oaJKUCgSSkc",
-     "title": "Sabrina Carpenter - Such A Funny Way (Lyric Video)",
-     "published": "2025-12-24T17:01:25+00:00",
-     "channel": "Sabrina Carpenter",
-     "views": 6442315,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/oaJKUCgSSkc/hqdefault.jpg"
-    },
-    {
-     "id": "_9jaJtmraXA",
-     "title": "Taylor Swift Performance - The Icon Sessions at the Grammy Museum",
-     "published": "2026-08-24T23:02:12+00:00",
-     "channel": "Taylor Swift",
-     "views": 6355790,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/_9jaJtmraXA/hqdefault.jpg"
-    },
-    {
-     "id": "jfVVXYTZykw",
-     "title": "Taylor Swift - Cleveland! (Official Lyric Video)",
-     "published": "2026-09-26T00:01:38+00:00",
-     "channel": "Taylor Swift",
-     "views": 5905499,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/jfVVXYTZykw/hqdefault.jpg"
-    },
-    {
-     "id": "tZnNLoPKriU",
-     "title": "Taylor Swift - Babylon (Official Lyric Video)",
-     "published": "2026-09-26T00:01:38+00:00",
-     "channel": "Taylor Swift",
-     "views": 5013412,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/tZnNLoPKriU/hqdefault.jpg"
-    },
-    {
-     "id": "j8pR1tyoRFc",
-     "title": "Taylor Swift - Patient Zero (Expanded Video)",
-     "published": "2026-10-05T04:00:36+00:00",
-     "channel": "Taylor Swift",
-     "views": 4809634,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/j8pR1tyoRFc/hqdefault.jpg"
-    },
-    {
-     "id": "kXOKQCtttbw",
-     "title": "Taylor Swift - Pink Clouding (Official Lyric Video)",
-     "published": "2026-09-26T00:01:38+00:00",
-     "channel": "Taylor Swift",
-     "views": 4577898,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/kXOKQCtttbw/hqdefault.jpg"
-    },
-    {
-     "id": "iwKFz9wsl5Q",
-     "title": "Short n’ Sweet tour forever 💋",
-     "published": "2025-12-03T18:59:59+00:00",
-     "channel": "Sabrina Carpenter",
-     "views": 4178477,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/iwKFz9wsl5Q/hqdefault.jpg"
+     "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "music"
   },
   {
    "key": "hiphop",
    "name": "Hip-Hop / Rap",
    "th": "ฮิปฮอป / แร็ป",
-   "channels": [
-    "Kendrick Lamar",
-    "Travis Scott",
-    "EminemMusic",
-    "21 Savage",
-    "Doja Cat",
-    "Post Malone"
-   ],
+   "channels": [],
    "minViews": 200000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "HfWLgELllZs",
-     "title": "Kendrick Lamar - luther (Official Audio)",
-     "published": "2024-11-22T17:08:32+00:00",
-     "channel": "Kendrick Lamar",
-     "views": 184104558,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/HfWLgELllZs/hqdefault.jpg"
+     "channelId": "UC3lBXcrKFnFAFkfVk5WuKcQ",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "U8F5G5wR1mk",
-     "title": "Kendrick Lamar - tv off (Official Audio)",
-     "published": "2024-11-22T17:08:31+00:00",
-     "channel": "Kendrick Lamar",
-     "views": 161061305,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/U8F5G5wR1mk/hqdefault.jpg"
+     "channelId": "UCWY9g9jNYh6AS-E8-SKfBmA",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "fuV4yQWdn_4",
-     "title": "squabble up",
-     "published": "2024-11-25T18:07:36+00:00",
-     "channel": "Kendrick Lamar",
-     "views": 77412220,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/fuV4yQWdn_4/hqdefault.jpg"
+     "channelId": "UCfM3zsQsOnfWNUppiycmBuw",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "sNY_2TEmzho",
-     "title": "Kendrick Lamar, SZA - luther",
-     "published": "2025-04-11T16:01:32+00:00",
-     "channel": "Kendrick Lamar",
-     "views": 68986450,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/sNY_2TEmzho/hqdefault.jpg"
+     "channelId": "UCOjEHmBKwdS7joWpW0VrXkg",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "cbHkzwa0QmM",
-     "title": "Kendrick Lamar - peekaboo (Official Audio)",
-     "published": "2024-11-22T17:08:31+00:00",
-     "channel": "Kendrick Lamar",
-     "views": 59429465,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/cbHkzwa0QmM/hqdefault.jpg"
+     "channelId": "UCzpl23pGTHVYqvKsgY0A-_w",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "M0v4QtWJewg",
-     "title": "Feeling Gorgeous? Try this effect #Vie",
-     "published": "2025-10-09T15:33:13+00:00",
-     "channel": "Doja Cat",
-     "views": 53946259,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/M0v4QtWJewg/hqdefault.jpg"
-    },
-    {
-     "id": "YwUQ_5iV9pY",
-     "title": "Kendrick Lamar - wacced out murals (Official Audio)",
-     "published": "2024-11-22T17:08:31+00:00",
-     "channel": "Kendrick Lamar",
-     "views": 35078291,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/YwUQ_5iV9pY/hqdefault.jpg"
-    },
-    {
-     "id": "Ek7UvQPCQnE",
-     "title": "Kendrick Lamar - reincarnated (Official Audio)",
-     "published": "2024-11-22T17:08:31+00:00",
-     "channel": "Kendrick Lamar",
-     "views": 21791793,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/Ek7UvQPCQnE/hqdefault.jpg"
-    },
-    {
-     "id": "9PumlOWjXMM",
-     "title": "Kendrick Lamar - hey now (Official Audio)",
-     "published": "2024-11-22T17:08:31+00:00",
-     "channel": "Kendrick Lamar",
-     "views": 21506903,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/9PumlOWjXMM/hqdefault.jpg"
-    },
-    {
-     "id": "m-PO1_fzxVM",
-     "title": "Kendrick Lamar - heart pt. 6 (Official Audio)",
-     "published": "2024-11-22T17:08:32+00:00",
-     "channel": "Kendrick Lamar",
-     "views": 16908302,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/m-PO1_fzxVM/hqdefault.jpg"
-    },
-    {
-     "id": "t5H_CewqpKA",
-     "title": "Eminem - Fuel (feat. JID) [Official Lyric Video]",
-     "published": "2024-11-18T17:00:59+00:00",
-     "channel": "EminemMusic",
-     "views": 16901055,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/t5H_CewqpKA/hqdefault.jpg"
-    },
-    {
-     "id": "wiALRpD0Ztg",
-     "title": "Kendrick Lamar - man at the garden (Official Audio)",
-     "published": "2024-11-22T17:08:34+00:00",
-     "channel": "Kendrick Lamar",
-     "views": 14899181,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/wiALRpD0Ztg/hqdefault.jpg"
-    },
-    {
-     "id": "NYH6Oa4PXlY",
-     "title": "Kendrick Lamar - squabble up (Official Audio)",
-     "published": "2024-11-22T17:09:15+00:00",
-     "channel": "Kendrick Lamar",
-     "views": 14693170,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/NYH6Oa4PXlY/hqdefault.jpg"
-    },
-    {
-     "id": "nBJRaflBDBg",
-     "title": "Doja Cat - Gorgeous (Official Video)",
-     "published": "2025-09-26T04:02:07+00:00",
-     "channel": "Doja Cat",
-     "views": 14252821,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/nBJRaflBDBg/hqdefault.jpg"
-    },
-    {
-     "id": "c7y2ziOBA1s",
-     "title": "Kendrick Lamar - dodger blue (Official Audio)",
-     "published": "2024-11-22T17:08:32+00:00",
-     "channel": "Kendrick Lamar",
-     "views": 14175119,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/c7y2ziOBA1s/hqdefault.jpg"
-    },
-    {
-     "id": "D7liwdjvhWc",
-     "title": "GNX",
-     "published": "2024-11-22T16:30:18+00:00",
-     "channel": "Kendrick Lamar",
-     "views": 11484827,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/D7liwdjvhWc/hqdefault.jpg"
-    },
-    {
-     "id": "G5YwhjCywvw",
-     "title": "Kendrick Lamar - gloria (Official Audio)",
-     "published": "2024-11-22T17:08:31+00:00",
-     "channel": "Kendrick Lamar",
-     "views": 11274529,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/G5YwhjCywvw/hqdefault.jpg"
-    },
-    {
-     "id": "IKU-yswi8HU",
-     "title": "Eminem - Everybody’s Looking At Me [Official Audio]",
-     "published": "2025-08-26T04:03:34+00:00",
-     "channel": "EminemMusic",
-     "views": 10517082,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/IKU-yswi8HU/hqdefault.jpg"
-    },
-    {
-     "id": "pNjLMFrQAvw",
-     "title": "GOOSEBUMPS WORLD RECORD",
-     "published": "2017-05-17T03:13:05+00:00",
-     "channel": "Travis Scott",
-     "views": 8687596,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/pNjLMFrQAvw/hqdefault.jpg"
-    },
-    {
-     "id": "8sfLudpdZPU",
-     "title": "Kendrick Lamar - gnx (Official Audio)",
-     "published": "2024-11-22T17:08:31+00:00",
-     "channel": "Kendrick Lamar",
-     "views": 8570047,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/8sfLudpdZPU/hqdefault.jpg"
+     "channelId": "UCeLHszkByNZtPKcaVXOCOQQ",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "music"
   },
   {
    "key": "kpop",
    "name": "K-Pop",
    "th": "เคป๊อป",
-   "channels": [
-    "HYBE LABELS",
-    "SMTOWN",
-    "JYP Entertainment",
-    "BLACKPINK",
-    "BANGTANTV",
-    "Stray Kids",
-    "NewJeans",
-    "aespa",
-    "ILLIT",
-    "TWICE"
-   ],
+   "channels": [],
    "minViews": 300000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "xIlFjHHUfI0",
-     "title": "NCT WISH 엔시티 위시 'I SPY' MV",
-     "published": "2026-10-12T09:00:13+00:00",
-     "channel": "SMTOWN",
-     "views": 24275562,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/xIlFjHHUfI0/hqdefault.jpg"
+     "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "roHWN9fL2SM",
-     "title": "NMIXX(엔믹스) “긴 소원 (Birthday Wish)” M/V",
-     "published": "2026-10-19T09:00:04+00:00",
-     "channel": "JYP Entertainment",
-     "views": 20256195,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/roHWN9fL2SM/hqdefault.jpg"
+     "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "PgOGYHPoPsE",
-     "title": "BLACKPINK - ‘Champion’ (Official Audio)",
-     "published": "2026-03-01T05:01:07+00:00",
-     "channel": "BLACKPINK",
-     "views": 11645599,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/PgOGYHPoPsE/hqdefault.jpg"
+     "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "qmp3RB7qbN4",
-     "title": "동심?소풍? 생각해 볼게 l BTS in Toronto EP.1",
-     "published": "2026-10-06T11:00:02+00:00",
-     "channel": "BANGTANTV",
-     "views": 9460242,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/qmp3RB7qbN4/hqdefault.jpg"
+     "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "10_1vuZAeP0",
-     "title": "Xdinary Heroes(엑스디너리 히어로즈) \"Obsessed with Youth\" M/V",
-     "published": "2026-10-12T09:00:01+00:00",
-     "channel": "JYP Entertainment",
-     "views": 9241294,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/10_1vuZAeP0/hqdefault.jpg"
+     "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "AJ2QxtR0dJc",
-     "title": "BLACKPINK - ‘Me and my’ (Official Audio)",
-     "published": "2026-03-01T05:02:00+00:00",
-     "channel": "BLACKPINK",
-     "views": 6421532,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/AJ2QxtR0dJc/hqdefault.jpg"
+     "channelId": "UC9rMiEjNaCSsebs31MRDCRA",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "1qOJvWakMz0",
-     "title": "3 DAYS IN LA l V’s VLOG",
-     "published": "2026-10-15T10:00:07+00:00",
-     "channel": "BANGTANTV",
-     "views": 5870254,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/1qOJvWakMz0/hqdefault.jpg"
+     "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "pfUnfbaNarg",
-     "title": "저희 진지합니다. 제1회 피클볼 대회 l BTS in Toronto EP.2",
-     "published": "2026-10-11T11:00:00+00:00",
-     "channel": "BANGTANTV",
-     "views": 5478881,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/pfUnfbaNarg/hqdefault.jpg"
+     "channelId": "UC9GtSLeksfK4yuJ_g1lgQbg",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "qhB30FChG18",
-     "title": "BTS WORLD TOUR ‘ARIRANG’ IN EUROPE Sketch",
-     "published": "2026-10-01T11:00:04+00:00",
-     "channel": "BANGTANTV",
-     "views": 5127535,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/qhB30FChG18/hqdefault.jpg"
+     "channelId": "UCEpFoWeCMCo5z3EvWaz6hQQ",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "FqXhR2res8U",
-     "title": "🐺🕺 #StrayKids #스트레이키즈 #방찬 #BangChan #YouMakeStrayKidsStay",
-     "published": "2026-10-05T09:00:02+00:00",
-     "channel": "Stray Kids",
-     "views": 5118332,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/FqXhR2res8U/hqdefault.jpg"
-    },
-    {
-     "id": "v33fDKrzbhg",
-     "title": "‘GO’ with JISOO",
-     "published": "2026-03-05T08:01:02+00:00",
-     "channel": "BLACKPINK",
-     "views": 5093907,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/v33fDKrzbhg/hqdefault.jpg"
-    },
-    {
-     "id": "xEDzDYmVXlg",
-     "title": "BTS in Toronto 예고",
-     "published": "2026-09-30T12:00:01+00:00",
-     "channel": "BANGTANTV",
-     "views": 4543487,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/xEDzDYmVXlg/hqdefault.jpg"
-    },
-    {
-     "id": "k--lCrP69hg",
-     "title": "BLACKPINK 10TH ANNIVERSARY",
-     "published": "2026-08-08T02:59:56+00:00",
-     "channel": "BLACKPINK",
-     "views": 4512728,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/k--lCrP69hg/hqdefault.jpg"
-    },
-    {
-     "id": "ZQ5L2ZilX7k",
-     "title": "#체포하겠어 Challenge 🖤#BREAK_EVEN #You_re_Under_Arrest #ILLIT #아일릿",
-     "published": "2026-10-18T13:18:39+00:00",
-     "channel": "ILLIT",
-     "views": 4496152,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/ZQ5L2ZilX7k/hqdefault.jpg"
-    },
-    {
-     "id": "1EmQk31ImH0",
-     "title": "‘GO’ with LISA",
-     "published": "2026-03-09T08:30:01+00:00",
-     "channel": "BLACKPINK",
-     "views": 4330443,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/1EmQk31ImH0/hqdefault.jpg"
-    },
-    {
-     "id": "_lK8YkoOYUI",
-     "title": "‘GO’ with JENNIE",
-     "published": "2026-03-05T08:30:01+00:00",
-     "channel": "BLACKPINK",
-     "views": 4085514,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/_lK8YkoOYUI/hqdefault.jpg"
-    },
-    {
-     "id": "bgKZC7BgG-M",
-     "title": "BLACKPINK - ‘Fxxxboy’ (Official Audio)",
-     "published": "2026-03-01T05:00:48+00:00",
-     "channel": "BLACKPINK",
-     "views": 3947666,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/bgKZC7BgG-M/hqdefault.jpg"
-    },
-    {
-     "id": "PWBgiqpOQqo",
-     "title": "BLACKPINK - ‘GO’ M/V HIGHLIGHT CLIP",
-     "published": "2026-02-28T03:00:29+00:00",
-     "channel": "BLACKPINK",
-     "views": 3915428,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/PWBgiqpOQqo/hqdefault.jpg"
-    },
-    {
-     "id": "LQWdOSaofQ4",
-     "title": "MOKA #체포하겠어 🕶️ #BREAK_EVEN #You_re_Under_Arrest #ILLIT #아일릿",
-     "published": "2026-10-18T04:30:06+00:00",
-     "channel": "ILLIT",
-     "views": 3698727,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/LQWdOSaofQ4/hqdefault.jpg"
-    },
-    {
-     "id": "RI6n1V-eoOA",
-     "title": "NMIXX(엔믹스) “Strange Muse” A Cappella Highlight Medley (Choir Ver.)",
-     "published": "2026-10-11T13:00:11+00:00",
-     "channel": "JYP Entertainment",
-     "views": 3389808,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/RI6n1V-eoOA/hqdefault.jpg"
+     "channelId": "UCzgxx_DM2Dcb9Y1spb9mUJA",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "music"
   },
   {
    "key": "jpop",
    "name": "J-Pop",
    "th": "เจป๊อป",
-   "channels": [
-    "YOASOBI",
-    "Mrs. GREEN APPLE",
-    "Official髭男dism",
-    "Kenshi Yonezu  米津玄師",
-    "Ado"
-   ],
+   "channels": [],
    "minViews": 100000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "zq9B35oai2w",
-     "title": "Mrs. GREEN APPLE「共犯」Official Music Video",
-     "published": "2026-10-03T11:00:06+00:00",
-     "channel": "Mrs. GREEN APPLE",
-     "views": 21039706,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/zq9B35oai2w/hqdefault.jpg"
+     "channelId": "UCvpredjG93ifbCP1Y77JyFA",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "l2jvIuTp534",
-     "title": "米津玄師「夜鷹」Kenshi Yonezu - Yodaka",
-     "published": "2026-07-15T11:00:06+00:00",
-     "channel": "Kenshi Yonezu  米津玄師",
-     "views": 9987939,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/l2jvIuTp534/hqdefault.jpg"
+     "channelId": "UCpFgmZm65yOU5X-hmWkWjuw",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "C1HJsWZ6vA0",
-     "title": "YOASOBI「咲き誇れ」MV / NHK連続テレビ小説『ブラッサム』主題歌",
-     "published": "2026-10-16T12:00:34+00:00",
-     "channel": "YOASOBI",
-     "views": 9099563,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/C1HJsWZ6vA0/hqdefault.jpg"
+     "channelId": "UC3vg17IZ1IV73xx069jG44w",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "-ZGOlGR_y1Y",
-     "title": "⚡︎⚡︎⚡︎Mrs. GREEN APPLE ア・ポステリオリ⚡︎⚡︎⚡︎  本映像には、激しい光の点滅・明滅を伴うシーンがあります。⁡#ミセスPOPS #アポステリオリ",
-     "published": "2026-10-02T12:00:18+00:00",
-     "channel": "Mrs. GREEN APPLE",
-     "views": 7484147,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/-ZGOlGR_y1Y/hqdefault.jpg"
+     "channelId": "UCUCeZaZeJbEYAAzvMgrKOPQ",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "ym7NAqioBgU",
-     "title": "🌼👀🌼🌼🌼🌼🌼共犯 MV⁡🌼🌼🌼🌼👀🌼🌼⁡Mrs. GREEN APPLE 6thオリジナルフルアルバム『POPS』収録曲 ⁡#ミセス共犯 #ミセスPOPS",
-     "published": "2026-10-04T12:00:35+00:00",
-     "channel": "Mrs. GREEN APPLE",
-     "views": 7127809,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/ym7NAqioBgU/hqdefault.jpg"
-    },
-    {
-     "id": "XBtW-waMmvw",
-     "title": "🌼👀🌼🌼🌼🌼🌼共犯 MV⁡🌼🌼🌼🌼👀🌼🌼⁡Mrs. GREEN APPLE 6thオリジナルフルアルバム『POPS』収録曲 ⁡#ミセス共犯 #ミセスPOPS",
-     "published": "2026-10-03T11:30:28+00:00",
-     "channel": "Mrs. GREEN APPLE",
-     "views": 6102229,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/XBtW-waMmvw/hqdefault.jpg"
-    },
-    {
-     "id": "ej5cAXbJw-I",
-     "title": "YOASOBIのBBQ！【ドームツアー2026超惑星】【あと一週間】",
-     "published": "2026-10-17T11:39:01+00:00",
-     "channel": "YOASOBI",
-     "views": 5937219,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/ej5cAXbJw-I/hqdefault.jpg"
-    },
-    {
-     "id": "uBBCst0it14",
-     "title": "オフィシャルファンクラブ『YOA'S』内コーナー“MOVIE”にて、「YOASOBIカレー第三弾！味決め試食会」公開中！",
-     "published": "2026-10-19T12:12:06+00:00",
-     "channel": "YOASOBI",
-     "views": 3339597,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/uBBCst0it14/hqdefault.jpg"
-    },
-    {
-     "id": "7DBSMzbPQzc",
-     "title": "【Ado】Raven Sky",
-     "published": "2026-10-16T11:00:07+00:00",
-     "channel": "Ado",
-     "views": 3312289,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/7DBSMzbPQzc/hqdefault.jpg"
-    },
-    {
-     "id": "iTNwVheLpj8",
-     "title": "【Ado】好きでいて",
-     "published": "2026-09-07T11:00:07+00:00",
-     "channel": "Ado",
-     "views": 2987649,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/iTNwVheLpj8/hqdefault.jpg"
-    },
-    {
-     "id": "qdawWNhgzRo",
-     "title": "米津玄師「夜鷹」×『キングダム 魂の決戦』公開記念PV",
-     "published": "2026-07-31T10:59:41+00:00",
-     "channel": "Kenshi Yonezu  米津玄師",
-     "views": 2982287,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/qdawWNhgzRo/hqdefault.jpg"
-    },
-    {
-     "id": "wcizoIzkBws",
-     "title": "🌼👀🌼🌼🌼🌼🌼共犯 MV⁡🌼🌼🌼🌼👀🌼🌼⁡Mrs. GREEN APPLE 6thオリジナルフルアルバム『POPS』収録曲 ⁡#ミセス共犯 #ミセスPOPS",
-     "published": "2026-10-08T12:00:11+00:00",
-     "channel": "Mrs. GREEN APPLE",
-     "views": 2905608,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/wcizoIzkBws/hqdefault.jpg"
-    },
-    {
-     "id": "U_KZYgA3WrI",
-     "title": "YOASOBI「咲き誇れ」MV / NHK連続テレビ小説『ブラッサム』主題歌",
-     "published": "2026-10-17T11:30:24+00:00",
-     "channel": "YOASOBI",
-     "views": 2602087,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/U_KZYgA3WrI/hqdefault.jpg"
-    },
-    {
-     "id": "jICEGo-_lYQ",
-     "title": "YOASOBI「咲き誇れ」MV / NHK連続テレビ小説『ブラッサム』主題歌",
-     "published": "2026-10-18T11:00:00+00:00",
-     "channel": "YOASOBI",
-     "views": 2193814,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/jICEGo-_lYQ/hqdefault.jpg"
-    },
-    {
-     "id": "Db2H2RYmOq4",
-     "title": "オフィシャルファンクラブ『YOA'S』内コーナー“MOVIE”にて、「咲き誇れ」レコーディング - Behind The Scenes -公開中！",
-     "published": "2026-10-20T11:22:06+00:00",
-     "channel": "YOASOBI",
-     "views": 2049542,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/Db2H2RYmOq4/hqdefault.jpg"
-    },
-    {
-     "id": "__qvPGatwus",
-     "title": "【Ado】DND feat. KUROMI",
-     "published": "2026-10-07T11:00:08+00:00",
-     "channel": "Ado",
-     "views": 1753811,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/__qvPGatwus/hqdefault.jpg"
-    },
-    {
-     "id": "IHnkmkQJIAY",
-     "title": "サイレントヒルfの続きです",
-     "published": "2026-09-21T14:41:24+00:00",
-     "channel": "Ado",
-     "views": 1713239,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/IHnkmkQJIAY/hqdefault.jpg"
-    },
-    {
-     "id": "SWwB2b9oyGI",
-     "title": "Minecraftであそぼう",
-     "published": "2026-09-21T08:28:31+00:00",
-     "channel": "Ado",
-     "views": 1556959,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/SWwB2b9oyGI/hqdefault.jpg"
-    },
-    {
-     "id": "8_fvXRL9VEY",
-     "title": "Official髭男dism - スターダスト [Official Live Video]",
-     "published": "2026-09-07T13:00:05+00:00",
-     "channel": "Official髭男dism",
-     "views": 1301069,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/8_fvXRL9VEY/hqdefault.jpg"
-    },
-    {
-     "id": "oGKm9-kFSTY",
-     "title": "夜鷹のMV公開されました。よろしく！",
-     "published": "2026-07-15T11:11:18+00:00",
-     "channel": "Kenshi Yonezu  米津玄師",
-     "views": 1156677,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/oGKm9-kFSTY/hqdefault.jpg"
+     "channelId": "UCln9P4Qm3-EAY4aiEPmRwEA",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "music"
   },
   {
    "key": "thaipop",
    "name": "Thai Pop",
    "th": "เพลงไทย",
-   "channels": [
-    "GMM GRAMMY OFFICIAL",
-    "GMMTV RECORDS",
-    "LOVEiS",
-    "SMALLROOM",
-    "Genierock",
-    "Spicydisc"
-   ],
+   "channels": [],
    "minViews": 10000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "V58V1a-qiiw",
-     "title": "Red Flag Ost.You Maniac เดี๋ยวจะรักซะให้บ้า - William Jakrapatr, Est Supha",
-     "published": "2026-08-28T10:00:39+00:00",
-     "channel": "GMMTV RECORDS",
-     "views": 3188552,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/V58V1a-qiiw/hqdefault.jpg"
+     "channelId": "UCG9gfnA5UDoLvz-tC9B-HKw",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "kUWvsCBEPBE",
-     "title": "This Is Your Boy - PERMPOON",
-     "published": "2026-08-20T12:00:27+00:00",
-     "channel": "GMMTV RECORDS",
-     "views": 3041434,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/kUWvsCBEPBE/hqdefault.jpg"
+     "channelId": "UC_mceLIVkQun_Xcu1KBmfdw",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "uZF2bxBXSMM",
-     "title": "Happy Family - POLCASAN, KING MAN, BABII, AVOCEAN, LOOK KHUNNOO, PERMPOON, MUVMUV, LUNAR, ANY",
-     "published": "2026-08-03T11:00:22+00:00",
-     "channel": "GMMTV RECORDS",
-     "views": 2909219,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/uZF2bxBXSMM/hqdefault.jpg"
+     "channelId": "UCrNFXmtWRFgbMHYJpjS3_0g",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "NnB1JE20Dhw",
-     "title": "ใช้ใจ (By Heart) Ost.You Maniac เดี๋ยวจะรักซะให้บ้า - Est Supha",
-     "published": "2026-09-19T14:45:11+00:00",
-     "channel": "GMMTV RECORDS",
-     "views": 799495,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/NnB1JE20Dhw/hqdefault.jpg"
+     "channelId": "UC1T-ZwcYVQB6EpqOQD10tmw",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "-v8gIpqpLXA",
-     "title": "อาการจะรัก (Love Symptoms) Ost.You Maniac เดี๋ยวจะรักซะให้บ้า - William Jakrapatr, Est Supha",
-     "published": "2026-09-26T14:45:04+00:00",
-     "channel": "GMMTV RECORDS",
-     "views": 786597,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/-v8gIpqpLXA/hqdefault.jpg"
+     "channelId": "UCs2t9DlvAuyTBkvk2djGZKw",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "dp9R6IoOsQA",
-     "title": "Our name (เสียงของเงา) Ost.Mr.Kill มังงะสั่งตาย - Tee Teeradech",
-     "published": "2026-09-01T14:45:34+00:00",
-     "channel": "GMMTV RECORDS",
-     "views": 489900,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/dp9R6IoOsQA/hqdefault.jpg"
-    },
-    {
-     "id": "NYQlEk3Bg0A",
-     "title": "โน้ม (Gravity) Ost.WEIRDO-101 แรงโน้มถ่วงระหว่างเรา - Sea Dechchart, Keen Suvijak",
-     "published": "2026-08-07T09:00:33+00:00",
-     "channel": "GMMTV RECORDS",
-     "views": 400320,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/NYQlEk3Bg0A/hqdefault.jpg"
-    },
-    {
-     "id": "aqC_VNC_wWg",
-     "title": "Mr.K (ถ้าสบตา) Ost.Mr.Kill มังงะสั่งตาย - Dew Jirawat",
-     "published": "2026-08-04T14:45:09+00:00",
-     "channel": "GMMTV RECORDS",
-     "views": 345929,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/aqC_VNC_wWg/hqdefault.jpg"
-    },
-    {
-     "id": "Aer5_suxuFU",
-     "title": "โปรดรับสาย (More Kiss) - GOODMOOD「Official MV」",
-     "published": "2026-10-21T11:00:25+00:00",
-     "channel": "Genierock",
-     "views": 240953,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/Aer5_suxuFU/hqdefault.jpg"
-    },
-    {
-     "id": "SiQyjuxYyv4",
-     "title": "ได้เวลารัก (Love Time) Ost.Match Point รักนี้ต้องเสิร์ฟ - Teshow, Ping",
-     "published": "2026-08-30T14:45:35+00:00",
-     "channel": "GMMTV RECORDS",
-     "views": 198384,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/SiQyjuxYyv4/hqdefault.jpg"
-    },
-    {
-     "id": "vRH6Po4jAiQ",
-     "title": "วอนขอดาว (Beside you) Ost.WEIRDO-101 แรงโน้มถ่วงระหว่างเรา - Sea Dechchart, Keen Suvijak",
-     "published": "2026-09-18T14:45:01+00:00",
-     "channel": "GMMTV RECORDS",
-     "views": 185880,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/vRH6Po4jAiQ/hqdefault.jpg"
-    },
-    {
-     "id": "k0Y7MiTPqz0",
-     "title": "Story and Feel. - อยากฟัง (Listen) [ Official MV ]",
-     "published": "2026-09-17T05:00:14+00:00",
-     "channel": "Spicydisc",
-     "views": 180193,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/k0Y7MiTPqz0/hqdefault.jpg"
-    },
-    {
-     "id": "sydbIDviOnI",
-     "title": "SHERRY - ปลายเส้นขอบฟ้า (Oath to Romance) [ Official MV ]",
-     "published": "2026-09-24T05:00:36+00:00",
-     "channel": "Spicydisc",
-     "views": 180010,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/sydbIDviOnI/hqdefault.jpg"
-    },
-    {
-     "id": "Xzf5Bt1P6Ow",
-     "title": "WAV - ตัดเล็บ | TUD LEB feat. Rattana [Music Video]",
-     "published": "2026-10-15T11:59:48+00:00",
-     "channel": "SMALLROOM",
-     "views": 179858,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/Xzf5Bt1P6Ow/hqdefault.jpg"
-    },
-    {
-     "id": "uXqAib3HDj4",
-     "title": "MVL - เพลงของเรา (Or Not) feat. Singto Numchok [ Official MV ]",
-     "published": "2026-10-15T05:00:06+00:00",
-     "channel": "Spicydisc",
-     "views": 175916,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/uXqAib3HDj4/hqdefault.jpg"
-    },
-    {
-     "id": "a7N8LBdk2g0",
-     "title": "WAV - คนนี้ใคร | WHO IS SHE? [Music Video]",
-     "published": "2026-10-15T11:59:42+00:00",
-     "channel": "SMALLROOM",
-     "views": 158755,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/a7N8LBdk2g0/hqdefault.jpg"
-    },
-    {
-     "id": "MULd4grrOag",
-     "title": "TATTOO COLOUR - เติมหน่อย [Music Video]",
-     "published": "2026-09-24T11:59:55+00:00",
-     "channel": "SMALLROOM",
-     "views": 156105,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/MULd4grrOag/hqdefault.jpg"
-    },
-    {
-     "id": "Q3ZNGBnpWVY",
-     "title": "GENE KASIDIT - ลืมตา | Reality Bites [Music Video]",
-     "published": "2026-10-08T11:59:46+00:00",
-     "channel": "SMALLROOM",
-     "views": 152794,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/Q3ZNGBnpWVY/hqdefault.jpg"
-    },
-    {
-     "id": "t39pP8gU5-M",
-     "title": "WAV - เก็บอาการ | NO! NO! NO! [Music Video]",
-     "published": "2026-10-15T11:59:55+00:00",
-     "channel": "SMALLROOM",
-     "views": 146435,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/t39pP8gU5-M/hqdefault.jpg"
-    },
-    {
-     "id": "YPJqRuiEwzc",
-     "title": "รักกันได้ยัง (Approved?) Ost.You Maniac เดี๋ยวจะรักซะให้บ้า - Barcode Tinnasit, Kin Thanachai",
-     "published": "2026-10-03T14:45:16+00:00",
-     "channel": "GMMTV RECORDS",
-     "views": 121584,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/YPJqRuiEwzc/hqdefault.jpg"
+     "channelId": "UCEziz_UlMBt0e_pT-nWiRPw",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "music"
   },
   {
    "key": "edm",
    "name": "EDM / Dance",
    "th": "อีดีเอ็ม / แดนซ์",
-   "channels": [
-    "David Guetta",
-    "Calvin Harris",
-    "Martin Garrix"
-   ],
+   "channels": [],
    "minViews": 50000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "67auoS0oMzU",
-     "title": "Martin Garrix & U2 - Fireflies (Official Video)",
-     "published": "2026-08-21T15:00:30+00:00",
-     "channel": "Martin Garrix",
-     "views": 2999549,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/67auoS0oMzU/hqdefault.jpg"
+     "channelId": "UC1l7wYrva1qCH-wgqcHaaRg",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "8NCvtqKmKHI",
-     "title": "Calvin Harris, Kasabian - Release The Pressure (Official Visualiser)",
-     "published": "2026-02-06T18:00:43+00:00",
-     "channel": "Calvin Harris",
-     "views": 2880166,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/8NCvtqKmKHI/hqdefault.jpg"
+     "channelId": "UCIjYyZxkFucP_W-tmXg_9Ow",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "GEqcQnf05cw",
-     "title": "Calvin Harris, Jazzy - Satisfy (Official Visualiser)",
-     "published": "2026-06-11T16:00:06+00:00",
-     "channel": "Calvin Harris",
-     "views": 2558774,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/GEqcQnf05cw/hqdefault.jpg"
-    },
-    {
-     "id": "sqxFW3RXGdo",
-     "title": "MARTIN GARRIX LIVE @ TOMORROWLAND 2026 (W2)",
-     "published": "2026-07-28T15:00:36+00:00",
-     "channel": "Martin Garrix",
-     "views": 2176593,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/sqxFW3RXGdo/hqdefault.jpg"
-    },
-    {
-     "id": "yrt9GwugK7g",
-     "title": "Martin Garrix & Ed Sheeran - Repeat It (Acoustic Version) [Official Video]",
-     "published": "2026-06-19T15:00:05+00:00",
-     "channel": "Martin Garrix",
-     "views": 1439751,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/yrt9GwugK7g/hqdefault.jpg"
-    },
-    {
-     "id": "ZBB5gESCsZI",
-     "title": "MARTIN GARRIX LIVE @ ULTRA EUROPE 2026",
-     "published": "2026-07-13T07:18:09+00:00",
-     "channel": "Martin Garrix",
-     "views": 1195715,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/ZBB5gESCsZI/hqdefault.jpg"
-    },
-    {
-     "id": "VCUSH0pWnTc",
-     "title": "Calvin Harris, Jazzy - Satisfy (Official Audio)",
-     "published": "2026-05-08T04:00:29+00:00",
-     "channel": "Calvin Harris",
-     "views": 1086326,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/VCUSH0pWnTc/hqdefault.jpg"
-    },
-    {
-     "id": "GdMOmi27vSM",
-     "title": "Martin Garrix & U2 - Fireflies (Official Audio)",
-     "published": "2026-07-24T15:00:23+00:00",
-     "channel": "Martin Garrix",
-     "views": 690781,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/GdMOmi27vSM/hqdefault.jpg"
-    },
-    {
-     "id": "QJXse_NH9Ho",
-     "title": "Calvin Harris - The Station",
-     "published": "2026-09-09T16:24:58+00:00",
-     "channel": "Calvin Harris",
-     "views": 550181,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/QJXse_NH9Ho/hqdefault.jpg"
-    },
-    {
-     "id": "R2ZeYn8x2fg",
-     "title": "ARTBAT, David Guetta, Gotye - Somebody That I Used To Know (Live @ Stade de France 2026)",
-     "published": "2026-09-14T10:20:07+00:00",
-     "channel": "David Guetta",
-     "views": 371706,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/R2ZeYn8x2fg/hqdefault.jpg"
-    },
-    {
-     "id": "4WL-z6cfTGU",
-     "title": "THANK YOU CREAMFIELDS 🇬🇧❤️",
-     "published": "2026-08-29T23:39:37+00:00",
-     "channel": "Martin Garrix",
-     "views": 358095,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/4WL-z6cfTGU/hqdefault.jpg"
-    },
-    {
-     "id": "MdgspmhiTwc",
-     "title": "‘Mariô’ with @jastprod is out!!🔥🔥🔥",
-     "published": "2026-10-02T18:30:28+00:00",
-     "channel": "David Guetta",
-     "views": 304412,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/MdgspmhiTwc/hqdefault.jpg"
-    },
-    {
-     "id": "JhWIGurLiT4",
-     "title": "Calvin Harris, Kasabian - Release The Pressure (Official Audio)",
-     "published": "2026-02-06T05:00:31+00:00",
-     "channel": "Calvin Harris",
-     "views": 271337,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/JhWIGurLiT4/hqdefault.jpg"
-    },
-    {
-     "id": "vAGGKO9gHdM",
-     "title": "The Jast & David Guetta Recipe 🤌🧑‍🍳",
-     "published": "2026-09-29T16:56:28+00:00",
-     "channel": "David Guetta",
-     "views": 225578,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/vAGGKO9gHdM/hqdefault.jpg"
-    },
-    {
-     "id": "37bcDhfHXf4",
-     "title": "Calvin Harris, Jazzy - Satisfy (Extended Mix - Official Audio)",
-     "published": "2026-05-22T04:00:02+00:00",
-     "channel": "Calvin Harris",
-     "views": 133697,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/37bcDhfHXf4/hqdefault.jpg"
-    },
-    {
-     "id": "XS9qhu0FrfU",
-     "title": "Calvin Harris, Jazzy - Satisfy (James Poole Remix - Official Audio)",
-     "published": "2026-07-10T04:00:22+00:00",
-     "channel": "Calvin Harris",
-     "views": 128796,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/XS9qhu0FrfU/hqdefault.jpg"
-    },
-    {
-     "id": "pO5Ca1m2nbc",
-     "title": "Bizarre with Madonna 🩷💙",
-     "published": "2026-06-15T06:33:17+00:00",
-     "channel": "Martin Garrix",
-     "views": 126910,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/pO5Ca1m2nbc/hqdefault.jpg"
-    },
-    {
-     "id": "bW7J93uf8J4",
-     "title": "Calvin Harris, Kasabian - Release The Pressure (VIP Mix - Official Audio)",
-     "published": "2026-02-27T05:00:41+00:00",
-     "channel": "Calvin Harris",
-     "views": 120155,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/bW7J93uf8J4/hqdefault.jpg"
-    },
-    {
-     "id": "rhH1wEH52hA",
-     "title": "First time playing our new song together @hypaton76  💥 And WOW!!!",
-     "published": "2026-10-05T17:01:33+00:00",
-     "channel": "David Guetta",
-     "views": 112723,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/rhH1wEH52hA/hqdefault.jpg"
-    },
-    {
-     "id": "VxgW4KO7Ep8",
-     "title": "🇬🇧 LONDON, I’M COMING 💥",
-     "published": "2026-09-26T17:49:58+00:00",
-     "channel": "David Guetta",
-     "views": 112557,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/VxgW4KO7Ep8/hqdefault.jpg"
+     "channelId": "UC5H_KXkPbEsGs0tFt8R35mA",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "music"
   },
   {
    "key": "rock",
    "name": "Rock",
    "th": "ร็อก",
-   "channels": [
-    "ImagineDragons",
-    "Linkin Park",
-    "Foo Fighters"
-   ],
+   "channels": [],
    "minViews": 50000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "w3xqsMv6T_k",
-     "title": "In The End [Live in São Paulo] (Official Video) - Linkin Park",
-     "published": "2026-09-30T16:00:08+00:00",
-     "channel": "Linkin Park",
-     "views": 2076489,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/w3xqsMv6T_k/hqdefault.jpg"
+     "channelId": "UCT9zcQNlyht7fRlcjmflRSA",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "eeeIX-jPCfU",
-     "title": "Unshatter (Live in Munich) - Linkin Park",
-     "published": "2026-09-29T16:00:36+00:00",
-     "channel": "Linkin Park",
-     "views": 677669,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/eeeIX-jPCfU/hqdefault.jpg"
+     "channelId": "UCZU9T1ceaOgwfLRq7OKFU4Q",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "t9DAU-dHGtE",
-     "title": "the capture the flag game Dan and Mac have been working on, Last Flag, has a free demo live now.",
-     "published": "2026-02-23T16:01:14+00:00",
-     "channel": "ImagineDragons",
-     "views": 533381,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/t9DAU-dHGtE/hqdefault.jpg"
-    },
-    {
-     "id": "sx0pL-IG9ZY",
-     "title": "UNSHATTER | Now In Theaters",
-     "published": "2026-09-30T18:00:18+00:00",
-     "channel": "Linkin Park",
-     "views": 464751,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/sx0pL-IG9ZY/hqdefault.jpg"
-    },
-    {
-     "id": "Rd5-TILAobA",
-     "title": "Foo Fighters - Unconditional | Vevo Extended Play",
-     "published": "2026-09-18T16:00:07+00:00",
-     "channel": "Foo Fighters",
-     "views": 352614,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/Rd5-TILAobA/hqdefault.jpg"
-    },
-    {
-     "id": "aWD6obJpCeg",
-     "title": "It's Time in Shanghai",
-     "published": "2026-03-27T20:50:55+00:00",
-     "channel": "ImagineDragons",
-     "views": 330773,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/aWD6obJpCeg/hqdefault.jpg"
-    },
-    {
-     "id": "Ms6usybFxnw",
-     "title": "warming up in Shanghai",
-     "published": "2026-03-20T23:54:26+00:00",
-     "channel": "ImagineDragons",
-     "views": 304370,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/Ms6usybFxnw/hqdefault.jpg"
-    },
-    {
-     "id": "8w5PJ6XO-M0",
-     "title": "Drumming in Brasila #LOOMTour #Radioactive",
-     "published": "2025-11-15T20:00:15+00:00",
-     "channel": "ImagineDragons",
-     "views": 289934,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/8w5PJ6XO-M0/hqdefault.jpg"
-    },
-    {
-     "id": "IGa9h61sx94",
-     "title": "Bones in Shanghai",
-     "published": "2026-03-24T22:44:17+00:00",
-     "channel": "ImagineDragons",
-     "views": 252678,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/IGa9h61sx94/hqdefault.jpg"
-    },
-    {
-     "id": "WLn08mA7v7I",
-     "title": "It’s Time #LOOMtour #Bogota",
-     "published": "2025-11-14T23:00:52+00:00",
-     "channel": "ImagineDragons",
-     "views": 222836,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/WLn08mA7v7I/hqdefault.jpg"
-    },
-    {
-     "id": "7WhbRl74OwM",
-     "title": "“Take Me Home Country Road” from the road",
-     "published": "2026-04-23T22:00:09+00:00",
-     "channel": "ImagineDragons",
-     "views": 220852,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/7WhbRl74OwM/hqdefault.jpg"
-    },
-    {
-     "id": "vph4968EMfY",
-     "title": "a beautiful day at #shanghaidisneyresort",
-     "published": "2026-03-21T16:01:20+00:00",
-     "channel": "ImagineDragons",
-     "views": 203904,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/vph4968EMfY/hqdefault.jpg"
-    },
-    {
-     "id": "w2mzctWgtew",
-     "title": "an ode to the sharks of #LOOMTour 🦈",
-     "published": "2025-11-15T16:01:31+00:00",
-     "channel": "ImagineDragons",
-     "views": 190720,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/w2mzctWgtew/hqdefault.jpg"
-    },
-    {
-     "id": "miwpba28XAg",
-     "title": "Birds in Shanghai",
-     "published": "2026-04-25T16:01:09+00:00",
-     "channel": "ImagineDragons",
-     "views": 189216,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/miwpba28XAg/hqdefault.jpg"
-    },
-    {
-     "id": "4uyzzOryMuw",
-     "title": "Believer in Chengdu",
-     "published": "2026-04-23T16:00:13+00:00",
-     "channel": "ImagineDragons",
-     "views": 171375,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/4uyzzOryMuw/hqdefault.jpg"
-    },
-    {
-     "id": "lrcIciU7aQA",
-     "title": "Foo Fighters - Child Actor | Vevo Extended Play",
-     "published": "2026-09-09T16:00:32+00:00",
-     "channel": "Foo Fighters",
-     "views": 171293,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/lrcIciU7aQA/hqdefault.jpg"
-    },
-    {
-     "id": "g-7rrD6dhWM",
-     "title": "some unforgettable nights in Shanghai 🧡",
-     "published": "2026-03-25T02:00:35+00:00",
-     "channel": "ImagineDragons",
-     "views": 162682,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/g-7rrD6dhWM/hqdefault.jpg"
-    },
-    {
-     "id": "fVhw3TOqTwI",
-     "title": "Enemy in Chengdu",
-     "published": "2026-04-24T17:00:53+00:00",
-     "channel": "ImagineDragons",
-     "views": 155559,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/fVhw3TOqTwI/hqdefault.jpg"
-    },
-    {
-     "id": "UJLnAxofL4w",
-     "title": "All of the \"What Ifs\" | UNSHATTER",
-     "published": "2026-09-29T19:00:40+00:00",
-     "channel": "Linkin Park",
-     "views": 144910,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/UJLnAxofL4w/hqdefault.jpg"
-    },
-    {
-     "id": "_A_b-zZXjPk",
-     "title": "Foo Fighters - Caught in the Echo | Vevo Extended Play",
-     "published": "2026-09-16T16:00:18+00:00",
-     "channel": "Foo Fighters",
-     "views": 138100,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/_A_b-zZXjPk/hqdefault.jpg"
+     "channelId": "UCi2KNss4Yx73NG0JARSFe0A",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "music"
   },
   {
    "key": "rnb",
    "name": "R&B",
    "th": "อาร์แอนด์บี",
-   "channels": [
-    "SZA",
-    "The Weeknd",
-    "Kehlani",
-    "Bruno Mars"
-   ],
+   "channels": [],
    "minViews": 200000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "xuZDP6uSD-Q",
-     "title": "SZA - Crybaby (Official Audio)",
-     "published": "2024-12-20T20:00:34+00:00",
-     "channel": "SZA",
-     "views": 30167642,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/xuZDP6uSD-Q/hqdefault.jpg"
+     "channelId": "UCO5IQ70V7l-XpHW40HwaGsw",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "hWjwNgiLMgA",
-     "title": "SZA - BMF (Official Audio)",
-     "published": "2024-12-20T20:00:20+00:00",
-     "channel": "SZA",
-     "views": 22226178,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/hWjwNgiLMgA/hqdefault.jpg"
+     "channelId": "UC0WP5P-ufpRfjbNrmOWwLBQ",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "1l7wbZmdtys",
-     "title": "Bruno Mars - Dance With Me [Official Music Video]",
-     "published": "2026-10-01T16:00:04+00:00",
-     "channel": "Bruno Mars",
-     "views": 19755950,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/1l7wbZmdtys/hqdefault.jpg"
+     "channelId": "UCuE1A4MDBt8YkgUkRAKMtjw",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "4J41KdZ3JR8",
-     "title": "The Romantic Station by Bruno Mars",
-     "published": "2026-03-09T16:10:04+00:00",
-     "channel": "Bruno Mars",
-     "views": 17934320,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/4J41KdZ3JR8/hqdefault.jpg"
-    },
-    {
-     "id": "JkDHARbprq8",
-     "title": "The Weeknd - Closing Night",
-     "published": "2025-09-03T20:24:31+00:00",
-     "channel": "The Weeknd",
-     "views": 16714954,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/JkDHARbprq8/hqdefault.jpg"
-    },
-    {
-     "id": "8zHWTsdnC7A",
-     "title": "The Weeknd - Baptized In Fear (Official Music Video)",
-     "published": "2025-06-06T14:00:07+00:00",
-     "channel": "The Weeknd",
-     "views": 15873743,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/8zHWTsdnC7A/hqdefault.jpg"
-    },
-    {
-     "id": "aFbueod4reQ",
-     "title": "Bruno Mars - Risk It All [Live From The Romantic Tour]",
-     "published": "2026-05-26T16:04:23+00:00",
-     "channel": "Bruno Mars",
-     "views": 15186376,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/aFbueod4reQ/hqdefault.jpg"
-    },
-    {
-     "id": "gqZ5zQU0Cs0",
-     "title": "Hurry Up Tomorrow (2025) Official Trailer #2 – Abel Tesfaye, Jenna Ortega, Barry Keoghan",
-     "published": "2025-04-01T19:23:51+00:00",
-     "channel": "The Weeknd",
-     "views": 15090230,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/gqZ5zQU0Cs0/hqdefault.jpg"
-    },
-    {
-     "id": "bwuUarZDeyA",
-     "title": "Bruno Mars - Lo Arriesgo Todo [Official Lyric Video]",
-     "published": "2026-05-08T04:00:41+00:00",
-     "channel": "Bruno Mars",
-     "views": 14601066,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/bwuUarZDeyA/hqdefault.jpg"
-    },
-    {
-     "id": "NEnephbahLA",
-     "title": "SZA - 30 For 30 feat. Kendrick Lamar (Official Audio)",
-     "published": "2024-12-20T20:00:16+00:00",
-     "channel": "SZA",
-     "views": 12404907,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/NEnephbahLA/hqdefault.jpg"
-    },
-    {
-     "id": "Fv2Y1odMjvE",
-     "title": "The Weeknd - Drive (Official Music Video)",
-     "published": "2025-04-18T14:00:21+00:00",
-     "channel": "The Weeknd",
-     "views": 12186823,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/Fv2Y1odMjvE/hqdefault.jpg"
-    },
-    {
-     "id": "62rgRxlM4-E",
-     "title": "Bruno Mars - Dance With Me [Official Audio]",
-     "published": "2026-02-27T05:00:47+00:00",
-     "channel": "Bruno Mars",
-     "views": 9804867,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/62rgRxlM4-E/hqdefault.jpg"
-    },
-    {
-     "id": "7f1g9pqGo6Q",
-     "title": "Bruno Mars - Dance With Me [Live from the 2026 VMAs]",
-     "published": "2026-09-30T20:30:30+00:00",
-     "channel": "Bruno Mars",
-     "views": 9801547,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/7f1g9pqGo6Q/hqdefault.jpg"
-    },
-    {
-     "id": "Mh68QRg9MH8",
-     "title": "The Weeknd - Society",
-     "published": "2025-09-11T22:05:21+00:00",
-     "channel": "The Weeknd",
-     "views": 8815670,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/Mh68QRg9MH8/hqdefault.jpg"
-    },
-    {
-     "id": "EH-lks6C590",
-     "title": "SZA - Another Life (Official Audio)",
-     "published": "2024-12-20T20:00:06+00:00",
-     "channel": "SZA",
-     "views": 8122643,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/EH-lks6C590/hqdefault.jpg"
-    },
-    {
-     "id": "mGO1x4POQuw",
-     "title": "SZA - Diamond Boy (DTM) [Official Audio]",
-     "published": "2024-12-20T20:00:26+00:00",
-     "channel": "SZA",
-     "views": 7768626,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/mGO1x4POQuw/hqdefault.jpg"
-    },
-    {
-     "id": "GT8ornYrDEs",
-     "title": "The Weeknd - Hurry Up Tomorrow",
-     "published": "2025-05-17T16:33:27+00:00",
-     "channel": "The Weeknd",
-     "views": 7347474,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/GT8ornYrDEs/hqdefault.jpg"
-    },
-    {
-     "id": "s1BkQ6ZnCfQ",
-     "title": "Directed by Takashi Miike",
-     "published": "2026-05-03T19:09:21+00:00",
-     "channel": "The Weeknd",
-     "views": 6963459,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/s1BkQ6ZnCfQ/hqdefault.jpg"
-    },
-    {
-     "id": "w3HGHyBaLpo",
-     "title": "SZA - Open Arms (just SZA) (Lyric Video)",
-     "published": "2025-02-10T00:00:38+00:00",
-     "channel": "SZA",
-     "views": 6005055,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/w3HGHyBaLpo/hqdefault.jpg"
-    },
-    {
-     "id": "kt4sOtVLK08",
-     "title": "A Foreshadowing Of The Final Leg",
-     "published": "2026-05-03T18:55:35+00:00",
-     "channel": "The Weeknd",
-     "views": 5638403,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/kt4sOtVLK08/hqdefault.jpg"
+     "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "music"
   },
   {
    "key": "anime-music",
    "name": "Anime Music",
    "th": "เพลงอนิเมะ",
-   "channels": [
-    "Crunchyroll",
-    "Aniplex USA",
-    "アニプレックス チャンネル"
-   ],
+   "channels": [],
    "minViews": 20000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "gTchAzEdmjQ",
-     "title": "Sylphie Catches Rudeus Cheating | Mushoku Tensei: Jobless Reincarnation Season 3",
-     "published": "2026-10-22T17:00:38+00:00",
-     "channel": "Crunchyroll",
-     "views": 260124,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/gTchAzEdmjQ/hqdefault.jpg"
+     "channelId": "UC6pGDc4bFGD1_36IKv3FnYg",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "t5rzce-3_OQ",
-     "title": "BLESS | Official Teaser | Crunchyroll",
-     "published": "2026-10-22T16:45:38+00:00",
-     "channel": "Crunchyroll",
-     "views": 137472,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/t5rzce-3_OQ/hqdefault.jpg"
+     "channelId": "UCDb0peSmF5rLX7BvuTcJfCw",
+     "error": "HTTP Error 404: Not Found"
     },
     {
-     "id": "XjVpSB0i_z4",
-     "title": "Bro Must Be Using Aimbot | Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
-     "published": "2026-10-22T19:00:23+00:00",
-     "channel": "Crunchyroll",
-     "views": 91716,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/XjVpSB0i_z4/hqdefault.jpg"
-    },
-    {
-     "id": "MhiRgbBpKRw",
-     "title": "Ruche Starts TWEAKING Over This Item Drop | The Exiled Heavy Knight Knows How to Game the System",
-     "published": "2026-10-22T21:00:14+00:00",
-     "channel": "Crunchyroll",
-     "views": 81200,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/MhiRgbBpKRw/hqdefault.jpg"
-    },
-    {
-     "id": "yaMMclDyxRQ",
-     "title": "\"You Have a Lovely Face\" | Witch Love Potion!",
-     "published": "2026-10-22T15:00:39+00:00",
-     "channel": "Crunchyroll",
-     "views": 53230,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/yaMMclDyxRQ/hqdefault.jpg"
-    },
-    {
-     "id": "EAqjVANmiOo",
-     "title": "映画『GROTESQQQUE-グロテスク-』METALVERSE「Shoot Shoot Shoot」コラボMV",
-     "published": "2026-10-22T15:00:21+00:00",
-     "channel": "アニプレックス チャンネル",
-     "views": 48042,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/EAqjVANmiOo/hqdefault.jpg"
-    },
-    {
-     "id": "LeMR9nkaM_w",
-     "title": "Firefly Wedding Episode 1 SUB | An Unwanted Repayment (2 WEEKS ONLY)",
-     "published": "2026-10-23T16:00:11+00:00",
-     "channel": "Crunchyroll",
-     "views": 45498,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/LeMR9nkaM_w/hqdefault.jpg"
-    },
-    {
-     "id": "okUMAXU2Rn8",
-     "title": "Her Mood Went From 0 to 100 Instantly | The Laid-Off Cheat-Granting Mage",
-     "published": "2026-10-22T13:00:20+00:00",
-     "channel": "Crunchyroll",
-     "views": 41212,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/okUMAXU2Rn8/hqdefault.jpg"
-    },
-    {
-     "id": "B_YRAV4DI6g",
-     "title": "Momo and Okarun vs Turbo Granny | DAN DA DAN",
-     "published": "2026-10-22T17:00:38+00:00",
-     "channel": "Crunchyroll",
-     "views": 40804,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/B_YRAV4DI6g/hqdefault.jpg"
-    },
-    {
-     "id": "oHle1mJXq04",
-     "title": "Even the Student Council Has Its Holes! | Character Introduction: Komaro Michinoku",
-     "published": "2026-10-14T18:37:02+00:00",
-     "channel": "Aniplex USA",
-     "views": 40248,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/oHle1mJXq04/hqdefault.jpg"
-    },
-    {
-     "id": "kZnL_YlvhCI",
-     "title": "Maomao Forces Jinshi to Eat Bugs | The Apothecary Diaries Season 3",
-     "published": "2026-10-23T17:00:38+00:00",
-     "channel": "Crunchyroll",
-     "views": 40044,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/kZnL_YlvhCI/hqdefault.jpg"
-    },
-    {
-     "id": "mxOLiywRVAg",
-     "title": "Even the Student Council Has Its Holes! | Character Introduction: Arisu Terui",
-     "published": "2026-10-16T19:06:04+00:00",
-     "channel": "Aniplex USA",
-     "views": 36071,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/mxOLiywRVAg/hqdefault.jpg"
-    },
-    {
-     "id": "dqxCFJTOJv4",
-     "title": "Even the Student Council Has Its Holes! | Character Introduction: Tan Otori",
-     "published": "2026-10-15T18:47:13+00:00",
-     "channel": "Aniplex USA",
-     "views": 30096,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/dqxCFJTOJv4/hqdefault.jpg"
-    },
-    {
-     "id": "VUNSBvlsy2s",
-     "title": "Gen Did A GREAT Job! | Please Excuse My Younger Brothers",
-     "published": "2026-10-23T13:00:05+00:00",
-     "channel": "Crunchyroll",
-     "views": 28560,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/VUNSBvlsy2s/hqdefault.jpg"
-    },
-    {
-     "id": "9FVMHNESgyo",
-     "title": "Though I Am an Inept Villainess 2nd Cour | Official Teaser | Crunchyroll",
-     "published": "2026-10-23T17:00:04+00:00",
-     "channel": "Crunchyroll",
-     "views": 25227,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/9FVMHNESgyo/hqdefault.jpg"
-    },
-    {
-     "id": "DbRYllzV2vs",
-     "title": "【「青春ブタ野郎」シリーズ】カワイヒデヒロ（fox capture plan）×児玉雨子 対談インタビュー｜劇場アニメ「青春ブタ野郎はディアフレンドの夢を見ない」絶賛上映中！！",
-     "published": "2026-10-23T12:00:30+00:00",
-     "channel": "アニプレックス チャンネル",
-     "views": 23868,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/DbRYllzV2vs/hqdefault.jpg"
+     "channelId": "UC14QT5j2nQI8lKBCGtrrBQA",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "music"
   },
   {
    "key": "game-music",
    "name": "Game Music",
    "th": "เพลงเกม",
-   "channels": [
-    "SQUARE ENIX MUSIC Channel"
-   ],
+   "channels": [],
    "minViews": 5000,
-   "videos": [
+   "videos": [],
+   "skippedChannels": [
     {
-     "id": "FBykycxyyyA",
-     "title": "FINAL FANTASY XIV — Pulse Vol. 1–3 Non-stop Remix Medley [Work & Study Mix]",
-     "published": "2026-10-12T11:00:32+00:00",
-     "channel": "SQUARE ENIX MUSIC Channel",
-     "views": 205520,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/FBykycxyyyA/hqdefault.jpg"
-    },
-    {
-     "id": "YOyb6PM6hSc",
-     "title": "[CHRONO TRIGGER] Corridors of Time [Guitar Cover]",
-     "published": "2026-10-09T09:25:14+00:00",
-     "channel": "SQUARE ENIX MUSIC Channel",
-     "views": 95964,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/YOyb6PM6hSc/hqdefault.jpg"
-    },
-    {
-     "id": "aGANvi2lFfw",
-     "title": "[Video Soundtrack] Battle with an Esper (Zodiac Age Version) [FINAL FANTASY XII THE ZODIAC AGE]",
-     "published": "2026-10-13T09:00:36+00:00",
-     "channel": "SQUARE ENIX MUSIC Channel",
-     "views": 15955,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/aGANvi2lFfw/hqdefault.jpg"
-    },
-    {
-     "id": "f3awISpymaI",
-     "title": "[Video Soundtrack] Ozmone Plain (Zodiac Age Version) [FINAL FANTASY XII THE ZODIAC AGE]",
-     "published": "2026-10-14T09:00:05+00:00",
-     "channel": "SQUARE ENIX MUSIC Channel",
-     "views": 13745,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/f3awISpymaI/hqdefault.jpg"
-    },
-    {
-     "id": "NmMfkc6onQ8",
-     "title": "[Video Soundtrack] Life and Death (Zodiac Age Version) [FINAL FANTASY XII THE ZODIAC AGE]",
-     "published": "2026-10-15T09:00:13+00:00",
-     "channel": "SQUARE ENIX MUSIC Channel",
-     "views": 10630,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/NmMfkc6onQ8/hqdefault.jpg"
-    },
-    {
-     "id": "6VbarafI3qY",
-     "title": "[Video Soundtrack] The Tomb of Raithwall (Zodiac Age Version) [FINAL FANTASY XII THE ZODIAC AGE]",
-     "published": "2026-10-08T09:00:00+00:00",
-     "channel": "SQUARE ENIX MUSIC Channel",
-     "views": 10398,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/6VbarafI3qY/hqdefault.jpg"
-    },
-    {
-     "id": "3mSaDx00RJU",
-     "title": "[Video Soundtrack] Eruyt Village (Zodiac Age Version) [FINAL FANTASY XII THE ZODIAC AGE]",
-     "published": "2026-10-22T09:00:11+00:00",
-     "channel": "SQUARE ENIX MUSIC Channel",
-     "views": 9579,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/3mSaDx00RJU/hqdefault.jpg"
-    },
-    {
-     "id": "vWJbukPNm0Q",
-     "title": "[Video Soundtrack] Golmore Jungle (Zodiac Age Version) [FINAL FANTASY XII THE ZODIAC AGE]",
-     "published": "2026-10-21T09:00:09+00:00",
-     "channel": "SQUARE ENIX MUSIC Channel",
-     "views": 8959,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/vWJbukPNm0Q/hqdefault.jpg"
-    },
-    {
-     "id": "PWjt2w7l2CI",
-     "title": "[Video Soundtrack]Jahara - Land of the Garif (Zodiac Age Version) [FINAL FANTASY XII THE ZODIAC AGE]",
-     "published": "2026-10-20T09:00:01+00:00",
-     "channel": "SQUARE ENIX MUSIC Channel",
-     "views": 8348,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/PWjt2w7l2CI/hqdefault.jpg"
-    },
-    {
-     "id": "Iuj8O6fzrXY",
-     "title": "SQUARE ENIX MUSIC Monthly Music Live Stream Archive🎵",
-     "published": "2026-10-23T09:00:18+00:00",
-     "channel": "SQUARE ENIX MUSIC Channel",
-     "views": 5824,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/Iuj8O6fzrXY/hqdefault.jpg"
+     "channelId": "UCMx60HYcw1ieiPlZZagfqXQ",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
-   "skippedChannels": [],
    "section": "music"
   }
- ],
- "skipped": []
+ ]
 }
