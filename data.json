@@ -1,400 +1,6 @@
 {
- "updated": "2026-11-01T00:08:57+00:00",
- "rows": [
-  {
-   "key": "boxing",
-   "name": "Boxing",
-   "th": "มวยสากล",
-   "channels": [
-    "DAZN Boxing"
-   ],
-   "minViews": 20000,
-   "videos": [
-    {
-     "id": "dYKgioxt7Pc",
-     "title": "CANELO ALVAREZ DEFEATS CHRISTIAN MBILLI AND IS THE NEW WBC WORLD CHAMPION! 🏆",
-     "published": "2026-10-31T22:59:53+00:00",
-     "channel": "DAZN Boxing",
-     "views": 24516,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/dYKgioxt7Pc/hqdefault.jpg"
-    },
-    {
-     "id": "qBf7nzDE8c0",
-     "title": "REACTION! Canelo beats Christian Mbilli to become world champion again",
-     "published": "2026-10-31T23:18:59+00:00",
-     "channel": "DAZN Boxing",
-     "views": 15382,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/qBf7nzDE8c0/hqdefault.jpg"
-    },
-    {
-     "id": "5PrpHaKTnSs",
-     "title": "HIGHLIGHTS! | Canelo Alvarez vs Christian Mbilli | WBC World Title Fight",
-     "published": "2026-10-31T23:50:13+00:00",
-     "channel": "DAZN Boxing",
-     "views": 15012,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/5PrpHaKTnSs/hqdefault.jpg"
-    },
-    {
-     "id": "Q_9KqDR20XI",
-     "title": "Emotional Canelo interview after WINNING a world title again",
-     "published": "2026-10-31T23:08:09+00:00",
-     "channel": "DAZN Boxing",
-     "views": 10239,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/Q_9KqDR20XI/hqdefault.jpg"
-    },
-    {
-     "id": "uvADnG9GIg0",
-     "title": "Canelo x Usyk! 👑",
-     "published": "2026-10-31T23:03:16+00:00",
-     "channel": "DAZN Boxing",
-     "views": 5011,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/uvADnG9GIg0/hqdefault.jpg"
-    },
-    {
-     "id": "YsMSGiFZHo8",
-     "title": "His Excellency Turki is team MEXICO! 🇲🇽",
-     "published": "2026-10-31T23:06:17+00:00",
-     "channel": "DAZN Boxing",
-     "views": 4226,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/YsMSGiFZHo8/hqdefault.jpg"
-    },
-    {
-     "id": "tC_9YTssyxo",
-     "title": "TEAM CANELO 🤝 TEAM USYK",
-     "published": "2026-10-31T23:22:02+00:00",
-     "channel": "DAZN Boxing",
-     "views": 2757,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/tC_9YTssyxo/hqdefault.jpg"
-    },
-    {
-     "id": "-THwUSbgreI",
-     "title": "Such a lovely voice! 😌",
-     "published": "2026-10-31T23:18:37+00:00",
-     "channel": "DAZN Boxing",
-     "views": 2746,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/-THwUSbgreI/hqdefault.jpg"
-    },
-    {
-     "id": "s9Rcs48nonI",
-     "title": "ALL ACTION THRILLER! | Munguia vs Zon | Highlights",
-     "published": "2026-10-31T23:49:37+00:00",
-     "channel": "DAZN Boxing",
-     "views": 2144,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/s9Rcs48nonI/hqdefault.jpg"
-    },
-    {
-     "id": "g-e1QsfbDk8",
-     "title": "CANELO WAS IN THE MATRIX! 😎",
-     "published": "2026-10-31T23:52:23+00:00",
-     "channel": "DAZN Boxing",
-     "views": 2069,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/g-e1QsfbDk8/hqdefault.jpg"
-    }
-   ],
-   "skippedChannels": [
-    {
-     "channelId": "UCbzRzJNHx7ZLlJML9BjZQVQ",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UC7LReVje9aPB4B6XAsXX8WQ",
-     "error": "HTTP Error 500: Internal Server Error"
-    },
-    {
-     "channelId": "UCP3MOjimNiqqkhBcuXzO0RA",
-     "error": "HTTP Error 404: Not Found"
-    }
-   ],
-   "section": "sports"
-  },
-  {
-   "key": "pop",
-   "name": "Pop",
-   "th": "ป๊อป",
-   "channels": [
-    "Taylor Swift"
-   ],
-   "minViews": 300000,
-   "videos": [
-    {
-     "id": "c0Y4PqvDvqc",
-     "title": "Taylor Swift - The Life of a Showgirl: The Encore STATION",
-     "published": "2026-09-24T23:35:13+00:00",
-     "channel": "Taylor Swift",
-     "views": 33494733,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/c0Y4PqvDvqc/hqdefault.jpg"
-    },
-    {
-     "id": "hDU4GB1PTxc",
-     "title": "Taylor Swift - I Knew It, I Knew You (from Toy Story 5)",
-     "published": "2026-06-07T19:00:36+00:00",
-     "channel": "Taylor Swift",
-     "views": 33310643,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/hDU4GB1PTxc/hqdefault.jpg"
-    },
-    {
-     "id": "mw3kSNIxjqo",
-     "title": "Taylor Swift - Patient Zero (Official Music Video)",
-     "published": "2026-09-29T22:00:19+00:00",
-     "channel": "Taylor Swift",
-     "views": 26129701,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/mw3kSNIxjqo/hqdefault.jpg"
-    },
-    {
-     "id": "BpR280fXISA",
-     "title": "Taylor Swift - Patient Zero (Official Lyric Video)",
-     "published": "2026-09-26T00:01:38+00:00",
-     "channel": "Taylor Swift",
-     "views": 13715640,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/BpR280fXISA/hqdefault.jpg"
-    },
-    {
-     "id": "WqbJT_vC0rs",
-     "title": "Taylor Swift - Elizabeth Taylor (Official Music Video)",
-     "published": "2026-04-02T12:00:54+00:00",
-     "channel": "Taylor Swift",
-     "views": 10759490,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/WqbJT_vC0rs/hqdefault.jpg"
-    },
-    {
-     "id": "_9jaJtmraXA",
-     "title": "Taylor Swift Performance - The Icon Sessions at the Grammy Museum",
-     "published": "2026-08-24T23:02:12+00:00",
-     "channel": "Taylor Swift",
-     "views": 6460263,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/_9jaJtmraXA/hqdefault.jpg"
-    },
-    {
-     "id": "jfVVXYTZykw",
-     "title": "Taylor Swift - Cleveland! (Official Lyric Video)",
-     "published": "2026-09-26T00:01:38+00:00",
-     "channel": "Taylor Swift",
-     "views": 6181257,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/jfVVXYTZykw/hqdefault.jpg"
-    },
-    {
-     "id": "tZnNLoPKriU",
-     "title": "Taylor Swift - Babylon (Official Lyric Video)",
-     "published": "2026-09-26T00:01:38+00:00",
-     "channel": "Taylor Swift",
-     "views": 5388134,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/tZnNLoPKriU/hqdefault.jpg"
-    },
-    {
-     "id": "j8pR1tyoRFc",
-     "title": "Taylor Swift - Patient Zero (Expanded Video)",
-     "published": "2026-10-05T04:00:36+00:00",
-     "channel": "Taylor Swift",
-     "views": 5162805,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/j8pR1tyoRFc/hqdefault.jpg"
-    },
-    {
-     "id": "kXOKQCtttbw",
-     "title": "Taylor Swift - Pink Clouding (Official Lyric Video)",
-     "published": "2026-09-26T00:01:38+00:00",
-     "channel": "Taylor Swift",
-     "views": 4955105,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/kXOKQCtttbw/hqdefault.jpg"
-    },
-    {
-     "id": "XwCWKSO0F8s",
-     "title": "Taylor Swift - I Knew It, I Knew You (Piano Version) (Official Music Video)",
-     "published": "2026-08-29T13:00:33+00:00",
-     "channel": "Taylor Swift",
-     "views": 2418645,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/XwCWKSO0F8s/hqdefault.jpg"
-    },
-    {
-     "id": "vZJXqv48lIc",
-     "title": "Taylor Swift - Opalite (BUNT. Remix) (Visualizer)",
-     "published": "2026-02-23T19:30:18+00:00",
-     "channel": "Taylor Swift",
-     "views": 1753679,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/vZJXqv48lIc/hqdefault.jpg"
-    },
-    {
-     "id": "ZeiAo9SeDE8",
-     "title": "Taylor Swift - Opalite (Chris Lake Remix) (Visualizer)",
-     "published": "2026-02-23T19:30:22+00:00",
-     "channel": "Taylor Swift",
-     "views": 1570721,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/ZeiAo9SeDE8/hqdefault.jpg"
-    },
-    {
-     "id": "o9LcBozLplo",
-     "title": "“I Knew It, I Knew You” from Toy Story 5 is out everywhere now. 🤠🐴",
-     "published": "2026-06-05T04:13:42+00:00",
-     "channel": "Taylor Swift",
-     "views": 801972,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/o9LcBozLplo/hqdefault.jpg"
-    },
-    {
-     "id": "_voc5oQkvZw",
-     "title": "The Life of a Showgirl: The Encore including 4 new songs is available to pre-order & save now ❤️‍🔥",
-     "published": "2026-09-23T13:15:36+00:00",
-     "channel": "Taylor Swift",
-     "views": 747327,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/_voc5oQkvZw/hqdefault.jpg"
-    }
-   ],
-   "skippedChannels": [
-    {
-     "channelId": "UCPKWE1H6xhxwPlqUlKgHb_w",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UCiGm_E4ZwYSHV3bcW1pnSeQ",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UC9CoOnJkIBMdeijd9qYoT_g",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
-     "error": "HTTP Error 404: Not Found"
-    }
-   ],
-   "section": "music"
-  },
-  {
-   "key": "anime-music",
-   "name": "Anime Music",
-   "th": "เพลงอนิเมะ",
-   "channels": [
-    "Aniplex USA"
-   ],
-   "minViews": 20000,
-   "videos": [
-    {
-     "id": "7zwJY5D4UQ8",
-     "title": "Rascal Does Not Dream of a Dear Friend  |  MAIN TRAILER",
-     "published": "2026-10-29T16:00:01+00:00",
-     "channel": "Aniplex USA",
-     "views": 43806,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/7zwJY5D4UQ8/hqdefault.jpg"
-    },
-    {
-     "id": "EdLfPeS1F2k",
-     "title": "Fate/Grand Order - ★5 (SSR) Hijikata Toshizo Servant Introduction",
-     "published": "2026-10-19T04:30:10+00:00",
-     "channel": "Aniplex USA",
-     "views": 10825,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/EdLfPeS1F2k/hqdefault.jpg"
-    },
-    {
-     "id": "cNaHeLd8qoo",
-     "title": "The Elusive Samurai | Episode #21 Clip",
-     "published": "2026-10-17T20:00:12+00:00",
-     "channel": "Aniplex USA",
-     "views": 8359,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/cNaHeLd8qoo/hqdefault.jpg"
-    },
-    {
-     "id": "Dyt7KNT6dN8",
-     "title": "GROW UP SHOW -Sunflower Circus- | EPISODE CLIP (ENGLISH DUB)",
-     "published": "2026-10-24T22:00:06+00:00",
-     "channel": "Aniplex USA",
-     "views": 7954,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/Dyt7KNT6dN8/hqdefault.jpg"
-    },
-    {
-     "id": "lBT6e5RaVKQ",
-     "title": "Anime “Even the Student Council Has Its Holes!” | OFFICIAL ENGLISH DUB TRAILER",
-     "published": "2026-10-30T23:07:41+00:00",
-     "channel": "Aniplex USA",
-     "views": 7145,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/lBT6e5RaVKQ/hqdefault.jpg"
-    },
-    {
-     "id": "kWhg95hIy4g",
-     "title": "GROW UP SHOW -Sunflower Circus- | EPISODE #11 CLIP (ENGLISH DUB)",
-     "published": "2026-10-20T22:00:05+00:00",
-     "channel": "Aniplex USA",
-     "views": 6910,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/kWhg95hIy4g/hqdefault.jpg"
-    },
-    {
-     "id": "5ZL-tFP6GqE",
-     "title": "GROW UP SHOW -Sunflower Circus- | EPISODE #11 CLIP",
-     "published": "2026-10-19T23:00:25+00:00",
-     "channel": "Aniplex USA",
-     "views": 6900,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/5ZL-tFP6GqE/hqdefault.jpg"
-    },
-    {
-     "id": "Y1ma_8na0Es",
-     "title": "GROW UP SHOW -Sunflower Circus- | EPISODE #12 CLIP (ENGLISH DUB)",
-     "published": "2026-10-22T22:00:37+00:00",
-     "channel": "Aniplex USA",
-     "views": 6336,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/Y1ma_8na0Es/hqdefault.jpg"
-    },
-    {
-     "id": "zr5QQEh8tfs",
-     "title": "GROW UP SHOW -Sunflower Circus- | EPISODE #12 CLIP",
-     "published": "2026-10-21T22:00:35+00:00",
-     "channel": "Aniplex USA",
-     "views": 4881,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/zr5QQEh8tfs/hqdefault.jpg"
-    },
-    {
-     "id": "L5N-Ym0dcXk",
-     "title": "GROW UP SHOW -Sunflower Circus- | EPISODE #13 CLIP",
-     "published": "2026-10-23T22:00:13+00:00",
-     "channel": "Aniplex USA",
-     "views": 4564,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/L5N-Ym0dcXk/hqdefault.jpg"
-    }
-   ],
-   "skippedChannels": [
-    {
-     "channelId": "UC6pGDc4bFGD1_36IKv3FnYg",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UC14QT5j2nQI8lKBCGtrrBQA",
-     "error": "HTTP Error 404: Not Found"
-    }
-   ],
-   "section": "music"
-  }
- ],
+ "updated": "2026-11-01T06:09:13+00:00",
+ "rows": [],
  "skipped": [
   {
    "key": "premier-league",
@@ -451,7 +57,7 @@
    "skippedChannels": [
     {
      "channelId": "UCWJ2lWNubArHWmf3FIHbfcQ",
-     "error": "HTTP Error 404: Not Found"
+     "error": "HTTP Error 500: Internal Server Error"
     }
    ],
    "section": "sports"
@@ -466,7 +72,34 @@
    "skippedChannels": [
     {
      "channelId": "UCB_qr75-ydFVKSF9Dmo6izg",
-     "error": "HTTP Error 500: Internal Server Error"
+     "error": "HTTP Error 404: Not Found"
+    }
+   ],
+   "section": "sports"
+  },
+  {
+   "key": "boxing",
+   "name": "Boxing",
+   "th": "มวยสากล",
+   "channels": [],
+   "minViews": 20000,
+   "videos": [],
+   "skippedChannels": [
+    {
+     "channelId": "UCbzRzJNHx7ZLlJML9BjZQVQ",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UC7LReVje9aPB4B6XAsXX8WQ",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UCurvRE5fGcdUgCYWgh-BDsg",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UCP3MOjimNiqqkhBcuXzO0RA",
+     "error": "HTTP Error 404: Not Found"
     }
    ],
    "section": "sports"
@@ -481,7 +114,7 @@
    "skippedChannels": [
     {
      "channelId": "UCKwGZZMrhNYKzucCtTPY2Nw",
-     "error": "HTTP Error 500: Internal Server Error"
+     "error": "HTTP Error 404: Not Found"
     },
     {
      "channelId": "UCvZwbZt6YZQ4wj_7qyjPDZw",
@@ -523,7 +156,7 @@
    "skippedChannels": [
     {
      "channelId": "UCY_5h5zaSwN7Or4kIJDYNXA",
-     "error": "HTTP Error 500: Internal Server Error"
+     "error": "HTTP Error 404: Not Found"
     }
    ],
    "section": "sports"
@@ -678,7 +311,7 @@
     },
     {
      "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
-     "error": "HTTP Error 500: Internal Server Error"
+     "error": "HTTP Error 404: Not Found"
     },
     {
      "channelId": "UCbu2SsF-Or3Rsn3NxqODImw",
@@ -705,7 +338,7 @@
     },
     {
      "channelId": "UC0WP5P-ufpRfjbNrmOWwLBQ",
-     "error": "HTTP Error 404: Not Found"
+     "error": "HTTP Error 500: Internal Server Error"
     },
     {
      "channelId": "UC3lBXcrKFnFAFkfVk5WuKcQ",
@@ -729,7 +362,7 @@
     },
     {
      "channelId": "UC9CoOnJkIBMdeijd9qYoT_g",
-     "error": "HTTP Error 500: Internal Server Error"
+     "error": "HTTP Error 404: Not Found"
     },
     {
      "channelId": "UC9rMiEjNaCSsebs31MRDCRA",
@@ -737,6 +370,37 @@
     },
     {
      "channelId": "UCpFgmZm65yOU5X-hmWkWjuw",
+     "error": "HTTP Error 404: Not Found"
+    }
+   ],
+   "section": "music"
+  },
+  {
+   "key": "pop",
+   "name": "Pop",
+   "th": "ป๊อป",
+   "channels": [],
+   "minViews": 300000,
+   "videos": [],
+   "skippedChannels": [
+    {
+     "channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UCPKWE1H6xhxwPlqUlKgHb_w",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UCiGm_E4ZwYSHV3bcW1pnSeQ",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UC9CoOnJkIBMdeijd9qYoT_g",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
      "error": "HTTP Error 404: Not Found"
     }
    ],
@@ -760,7 +424,7 @@
     },
     {
      "channelId": "UCfM3zsQsOnfWNUppiycmBuw",
-     "error": "HTTP Error 500: Internal Server Error"
+     "error": "HTTP Error 404: Not Found"
     },
     {
      "channelId": "UCOjEHmBKwdS7joWpW0VrXkg",
@@ -768,11 +432,11 @@
     },
     {
      "channelId": "UCzpl23pGTHVYqvKsgY0A-_w",
-     "error": "HTTP Error 500: Internal Server Error"
+     "error": "HTTP Error 404: Not Found"
     },
     {
      "channelId": "UCeLHszkByNZtPKcaVXOCOQQ",
-     "error": "HTTP Error 500: Internal Server Error"
+     "error": "HTTP Error 404: Not Found"
     }
    ],
    "section": "music"
@@ -799,7 +463,7 @@
     },
     {
      "channelId": "UCOmHUn--16B90oW2L6FRR3A",
-     "error": "HTTP Error 500: Internal Server Error"
+     "error": "HTTP Error 404: Not Found"
     },
     {
      "channelId": "UCLkAepWjdylmXSltofFvsYQ",
@@ -815,7 +479,7 @@
     },
     {
      "channelId": "UC9GtSLeksfK4yuJ_g1lgQbg",
-     "error": "HTTP Error 500: Internal Server Error"
+     "error": "HTTP Error 404: Not Found"
     },
     {
      "channelId": "UCEpFoWeCMCo5z3EvWaz6hQQ",
@@ -962,6 +626,29 @@
     },
     {
      "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+     "error": "HTTP Error 404: Not Found"
+    }
+   ],
+   "section": "music"
+  },
+  {
+   "key": "anime-music",
+   "name": "Anime Music",
+   "th": "เพลงอนิเมะ",
+   "channels": [],
+   "minViews": 20000,
+   "videos": [],
+   "skippedChannels": [
+    {
+     "channelId": "UC6pGDc4bFGD1_36IKv3FnYg",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UCDb0peSmF5rLX7BvuTcJfCw",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UC14QT5j2nQI8lKBCGtrrBQA",
      "error": "HTTP Error 404: Not Found"
     }
    ],
