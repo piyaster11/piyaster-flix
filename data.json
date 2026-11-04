@@ -1,354 +1,6 @@
 {
- "updated": "2026-11-03T23:24:58+00:00",
- "rows": [
-  {
-   "key": "global",
-   "name": "Global Trending",
-   "th": "มาแรงทั่วโลก",
-   "channels": [
-    "BLACKPINK"
-   ],
-   "minViews": 2000000,
-   "videos": [
-    {
-     "id": "PgOGYHPoPsE",
-     "title": "BLACKPINK - ‘Champion’ (Official Audio)",
-     "published": "2026-03-01T05:01:07+00:00",
-     "channel": "BLACKPINK",
-     "views": 11804976,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/PgOGYHPoPsE/hqdefault.jpg"
-    },
-    {
-     "id": "AJ2QxtR0dJc",
-     "title": "BLACKPINK - ‘Me and my’ (Official Audio)",
-     "published": "2026-03-01T05:02:00+00:00",
-     "channel": "BLACKPINK",
-     "views": 6495317,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/AJ2QxtR0dJc/hqdefault.jpg"
-    },
-    {
-     "id": "v33fDKrzbhg",
-     "title": "‘GO’ with JISOO",
-     "published": "2026-03-05T08:01:02+00:00",
-     "channel": "BLACKPINK",
-     "views": 5129974,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/v33fDKrzbhg/hqdefault.jpg"
-    },
-    {
-     "id": "k--lCrP69hg",
-     "title": "BLACKPINK 10TH ANNIVERSARY",
-     "published": "2026-08-08T02:59:56+00:00",
-     "channel": "BLACKPINK",
-     "views": 4574923,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/k--lCrP69hg/hqdefault.jpg"
-    },
-    {
-     "id": "1EmQk31ImH0",
-     "title": "‘GO’ with LISA",
-     "published": "2026-03-09T08:30:01+00:00",
-     "channel": "BLACKPINK",
-     "views": 4396520,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/1EmQk31ImH0/hqdefault.jpg"
-    },
-    {
-     "id": "_lK8YkoOYUI",
-     "title": "‘GO’ with JENNIE",
-     "published": "2026-03-05T08:30:01+00:00",
-     "channel": "BLACKPINK",
-     "views": 4121804,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/_lK8YkoOYUI/hqdefault.jpg"
-    },
-    {
-     "id": "bgKZC7BgG-M",
-     "title": "BLACKPINK - ‘Fxxxboy’ (Official Audio)",
-     "published": "2026-03-01T05:00:48+00:00",
-     "channel": "BLACKPINK",
-     "views": 3993712,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/bgKZC7BgG-M/hqdefault.jpg"
-    },
-    {
-     "id": "PWBgiqpOQqo",
-     "title": "BLACKPINK - ‘GO’ M/V HIGHLIGHT CLIP",
-     "published": "2026-02-28T03:00:29+00:00",
-     "channel": "BLACKPINK",
-     "views": 3939198,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/PWBgiqpOQqo/hqdefault.jpg"
-    },
-    {
-     "id": "7F-XXeRzNb8",
-     "title": "‘GO’ with ROSÉ",
-     "published": "2026-03-09T08:00:06+00:00",
-     "channel": "BLACKPINK",
-     "views": 3373241,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/7F-XXeRzNb8/hqdefault.jpg"
-    },
-    {
-     "id": "0LLFprdOHqo",
-     "title": "BLACKPINK - 'GO' M/V Behind the Scenes",
-     "published": "2026-03-09T09:00:03+00:00",
-     "channel": "BLACKPINK",
-     "views": 3255774,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/0LLFprdOHqo/hqdefault.jpg"
-    },
-    {
-     "id": "w1ayRv8j5yk",
-     "title": "BLACKPINK - DEADLINE JACKET MAKING FILM",
-     "published": "2026-03-13T10:00:03+00:00",
-     "channel": "BLACKPINK",
-     "views": 2699434,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/w1ayRv8j5yk/hqdefault.jpg"
-    },
-    {
-     "id": "wHYqsIg2Qkw",
-     "title": "DEADLINE: BLACKPINK WILL MAKE YOU in NATIONAL MUSEUM OF KOREA with Spotify",
-     "published": "2026-03-05T07:00:01+00:00",
-     "channel": "BLACKPINK",
-     "views": 2277978,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/wHYqsIg2Qkw/hqdefault.jpg"
-    }
-   ],
-   "skippedChannels": [
-    {
-     "channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UCPKWE1H6xhxwPlqUlKgHb_w",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UC0WP5P-ufpRfjbNrmOWwLBQ",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UC3lBXcrKFnFAFkfVk5WuKcQ",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UCO5IQ70V7l-XpHW40HwaGsw",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UCiGm_E4ZwYSHV3bcW1pnSeQ",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UC9CoOnJkIBMdeijd9qYoT_g",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UC9rMiEjNaCSsebs31MRDCRA",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UCpFgmZm65yOU5X-hmWkWjuw",
-     "error": "HTTP Error 404: Not Found"
-    }
-   ],
-   "section": "music"
-  },
-  {
-   "key": "kpop",
-   "name": "K-Pop",
-   "th": "เคป๊อป",
-   "channels": [
-    "BLACKPINK"
-   ],
-   "minViews": 300000,
-   "videos": [
-    {
-     "id": "PgOGYHPoPsE",
-     "title": "BLACKPINK - ‘Champion’ (Official Audio)",
-     "published": "2026-03-01T05:01:07+00:00",
-     "channel": "BLACKPINK",
-     "views": 11804976,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/PgOGYHPoPsE/hqdefault.jpg"
-    },
-    {
-     "id": "AJ2QxtR0dJc",
-     "title": "BLACKPINK - ‘Me and my’ (Official Audio)",
-     "published": "2026-03-01T05:02:00+00:00",
-     "channel": "BLACKPINK",
-     "views": 6495317,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/AJ2QxtR0dJc/hqdefault.jpg"
-    },
-    {
-     "id": "v33fDKrzbhg",
-     "title": "‘GO’ with JISOO",
-     "published": "2026-03-05T08:01:02+00:00",
-     "channel": "BLACKPINK",
-     "views": 5129974,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/v33fDKrzbhg/hqdefault.jpg"
-    },
-    {
-     "id": "k--lCrP69hg",
-     "title": "BLACKPINK 10TH ANNIVERSARY",
-     "published": "2026-08-08T02:59:56+00:00",
-     "channel": "BLACKPINK",
-     "views": 4574923,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/k--lCrP69hg/hqdefault.jpg"
-    },
-    {
-     "id": "1EmQk31ImH0",
-     "title": "‘GO’ with LISA",
-     "published": "2026-03-09T08:30:01+00:00",
-     "channel": "BLACKPINK",
-     "views": 4396520,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/1EmQk31ImH0/hqdefault.jpg"
-    },
-    {
-     "id": "_lK8YkoOYUI",
-     "title": "‘GO’ with JENNIE",
-     "published": "2026-03-05T08:30:01+00:00",
-     "channel": "BLACKPINK",
-     "views": 4121804,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/_lK8YkoOYUI/hqdefault.jpg"
-    },
-    {
-     "id": "bgKZC7BgG-M",
-     "title": "BLACKPINK - ‘Fxxxboy’ (Official Audio)",
-     "published": "2026-03-01T05:00:48+00:00",
-     "channel": "BLACKPINK",
-     "views": 3993712,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/bgKZC7BgG-M/hqdefault.jpg"
-    },
-    {
-     "id": "PWBgiqpOQqo",
-     "title": "BLACKPINK - ‘GO’ M/V HIGHLIGHT CLIP",
-     "published": "2026-02-28T03:00:29+00:00",
-     "channel": "BLACKPINK",
-     "views": 3939198,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/PWBgiqpOQqo/hqdefault.jpg"
-    },
-    {
-     "id": "7F-XXeRzNb8",
-     "title": "‘GO’ with ROSÉ",
-     "published": "2026-03-09T08:00:06+00:00",
-     "channel": "BLACKPINK",
-     "views": 3373241,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/7F-XXeRzNb8/hqdefault.jpg"
-    },
-    {
-     "id": "0LLFprdOHqo",
-     "title": "BLACKPINK - 'GO' M/V Behind the Scenes",
-     "published": "2026-03-09T09:00:03+00:00",
-     "channel": "BLACKPINK",
-     "views": 3255774,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/0LLFprdOHqo/hqdefault.jpg"
-    },
-    {
-     "id": "w1ayRv8j5yk",
-     "title": "BLACKPINK - DEADLINE JACKET MAKING FILM",
-     "published": "2026-03-13T10:00:03+00:00",
-     "channel": "BLACKPINK",
-     "views": 2699434,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/w1ayRv8j5yk/hqdefault.jpg"
-    },
-    {
-     "id": "wHYqsIg2Qkw",
-     "title": "DEADLINE: BLACKPINK WILL MAKE YOU in NATIONAL MUSEUM OF KOREA with Spotify",
-     "published": "2026-03-05T07:00:01+00:00",
-     "channel": "BLACKPINK",
-     "views": 2277978,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/wHYqsIg2Qkw/hqdefault.jpg"
-    },
-    {
-     "id": "uw4OYow_v7Y",
-     "title": "BLACKPINK 10th Anniversary MEET & GREET 🖤💗",
-     "published": "2026-08-17T09:00:25+00:00",
-     "channel": "BLACKPINK",
-     "views": 1891366,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/uw4OYow_v7Y/hqdefault.jpg"
-    },
-    {
-     "id": "k7JitOG5wVo",
-     "title": "BLACKPINK - ‘GO’ (Official Audio)",
-     "published": "2026-03-01T05:03:00+00:00",
-     "channel": "BLACKPINK",
-     "views": 1793642,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/k7JitOG5wVo/hqdefault.jpg"
-    },
-    {
-     "id": "yQhbf7BW_wI",
-     "title": "BLACKPINK - ‘뛰어(JUMP)’ (Official Audio)",
-     "published": "2026-03-01T05:04:00+00:00",
-     "channel": "BLACKPINK",
-     "views": 966380,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/yQhbf7BW_wI/hqdefault.jpg"
-    }
-   ],
-   "skippedChannels": [
-    {
-     "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-     "error": "HTTP Error 500: Internal Server Error"
-    },
-    {
-     "channelId": "UC9rMiEjNaCSsebs31MRDCRA",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UC9GtSLeksfK4yuJ_g1lgQbg",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UCEpFoWeCMCo5z3EvWaz6hQQ",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UCzgxx_DM2Dcb9Y1spb9mUJA",
-     "error": "HTTP Error 404: Not Found"
-    }
-   ],
-   "section": "music"
-  }
- ],
+ "updated": "2026-11-04T06:26:24+00:00",
+ "rows": [],
  "skipped": [
   {
    "key": "premier-league",
@@ -375,7 +27,7 @@
    "skippedChannels": [
     {
      "channelId": "UCTv-XvfzLX3i4IGWAm4sbmA",
-     "error": "HTTP Error 500: Internal Server Error"
+     "error": "HTTP Error 404: Not Found"
     }
    ],
    "section": "sports"
@@ -439,7 +91,7 @@
     },
     {
      "channelId": "UC7LReVje9aPB4B6XAsXX8WQ",
-     "error": "HTTP Error 500: Internal Server Error"
+     "error": "HTTP Error 404: Not Found"
     },
     {
      "channelId": "UCurvRE5fGcdUgCYWgh-BDsg",
@@ -628,7 +280,7 @@
    "skippedChannels": [
     {
      "channelId": "UC6VcWc1rAoWdBCM0JxrRQ3A",
-     "error": "HTTP Error 500: Internal Server Error"
+     "error": "HTTP Error 404: Not Found"
     },
     {
      "channelId": "UCA5SLTAVA6unn1M-6lbo1NA",
@@ -659,7 +311,7 @@
     },
     {
      "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
-     "error": "HTTP Error 500: Internal Server Error"
+     "error": "HTTP Error 404: Not Found"
     },
     {
      "channelId": "UCbu2SsF-Or3Rsn3NxqODImw",
@@ -667,6 +319,61 @@
     }
    ],
    "section": "gaming"
+  },
+  {
+   "key": "global",
+   "name": "Global Trending",
+   "th": "มาแรงทั่วโลก",
+   "channels": [],
+   "minViews": 2000000,
+   "videos": [],
+   "skippedChannels": [
+    {
+     "channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UCPKWE1H6xhxwPlqUlKgHb_w",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UC0WP5P-ufpRfjbNrmOWwLBQ",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UC3lBXcrKFnFAFkfVk5WuKcQ",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UCO5IQ70V7l-XpHW40HwaGsw",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UCiGm_E4ZwYSHV3bcW1pnSeQ",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UC9CoOnJkIBMdeijd9qYoT_g",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UC9rMiEjNaCSsebs31MRDCRA",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UCpFgmZm65yOU5X-hmWkWjuw",
+     "error": "HTTP Error 404: Not Found"
+    }
+   ],
+   "section": "music"
   },
   {
    "key": "pop",
@@ -735,6 +442,57 @@
    "section": "music"
   },
   {
+   "key": "kpop",
+   "name": "K-Pop",
+   "th": "เคป๊อป",
+   "channels": [],
+   "minViews": 300000,
+   "videos": [],
+   "skippedChannels": [
+    {
+     "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UC9rMiEjNaCSsebs31MRDCRA",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UC9GtSLeksfK4yuJ_g1lgQbg",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UCEpFoWeCMCo5z3EvWaz6hQQ",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UCzgxx_DM2Dcb9Y1spb9mUJA",
+     "error": "HTTP Error 404: Not Found"
+    }
+   ],
+   "section": "music"
+  },
+  {
    "key": "jpop",
    "name": "J-Pop",
    "th": "เจป๊อป",
@@ -756,7 +514,7 @@
     },
     {
      "channelId": "UCUCeZaZeJbEYAAzvMgrKOPQ",
-     "error": "HTTP Error 500: Internal Server Error"
+     "error": "HTTP Error 404: Not Found"
     },
     {
      "channelId": "UCln9P4Qm3-EAY4aiEPmRwEA",
@@ -795,7 +553,7 @@
     },
     {
      "channelId": "UCEziz_UlMBt0e_pT-nWiRPw",
-     "error": "HTTP Error 500: Internal Server Error"
+     "error": "HTTP Error 404: Not Found"
     }
    ],
    "section": "music"
