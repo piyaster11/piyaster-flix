@@ -1,261 +1,186 @@
 {
- "updated": "2026-11-04T23:41:22+00:00",
+ "updated": "2026-11-05T06:50:05+00:00",
  "rows": [
   {
-   "key": "apex",
-   "name": "Apex Legends",
-   "th": "เอเพ็กซ์ เลเจนด์ส",
+   "key": "kpop",
+   "name": "K-Pop",
+   "th": "เคป๊อป",
    "channels": [
-    "Apex Legends"
+    "BLACKPINK"
    ],
-   "minViews": 30000,
+   "minViews": 300000,
    "videos": [
     {
-     "id": "yQ9LVy4DR9U",
-     "title": "Apex Legends: Cipher Gameplay Trailer",
-     "published": "2026-10-29T15:00:08+00:00",
-     "channel": "Apex Legends",
-     "views": 956311,
+     "id": "PgOGYHPoPsE",
+     "title": "BLACKPINK - ‘Champion’ (Official Audio)",
+     "published": "2026-03-01T05:01:07+00:00",
+     "channel": "BLACKPINK",
+     "views": 11823785,
      "short": false,
-     "thumb": "https://i.ytimg.com/vi/yQ9LVy4DR9U/hqdefault.jpg"
+     "thumb": "https://i.ytimg.com/vi/PgOGYHPoPsE/hqdefault.jpg"
     },
     {
-     "id": "33220_0t0H8",
-     "title": "Apex Legends VS Street Fighter 6 Event",
-     "published": "2026-09-15T15:00:03+00:00",
-     "channel": "Apex Legends",
-     "views": 642432,
+     "id": "AJ2QxtR0dJc",
+     "title": "BLACKPINK - ‘Me and my’ (Official Audio)",
+     "published": "2026-03-01T05:02:00+00:00",
+     "channel": "BLACKPINK",
+     "views": 6503793,
      "short": false,
-     "thumb": "https://i.ytimg.com/vi/33220_0t0H8/hqdefault.jpg"
+     "thumb": "https://i.ytimg.com/vi/AJ2QxtR0dJc/hqdefault.jpg"
     },
     {
-     "id": "XoCCpg-qBtw",
-     "title": "Define \"1 shot\"",
-     "published": "2026-09-03T17:00:23+00:00",
-     "channel": "Apex Legends",
-     "views": 277222,
+     "id": "v33fDKrzbhg",
+     "title": "‘GO’ with JISOO",
+     "published": "2026-03-05T08:01:02+00:00",
+     "channel": "BLACKPINK",
+     "views": 5133502,
      "short": true,
-     "thumb": "https://i.ytimg.com/vi/XoCCpg-qBtw/hqdefault.jpg"
+     "thumb": "https://i.ytimg.com/vi/v33fDKrzbhg/hqdefault.jpg"
     },
     {
-     "id": "bj2vNoaIQXc",
-     "title": "MAJOR RANKED IMPROVEMENTS - Apex Legends  #apexlegends",
-     "published": "2026-10-20T17:00:13+00:00",
-     "channel": "Apex Legends",
-     "views": 229478,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/bj2vNoaIQXc/hqdefault.jpg"
-    },
-    {
-     "id": "KR1MCtCsuNY",
-     "title": "Apex Legends: Blood Pact Event Trailer",
-     "published": "2026-10-08T15:00:05+00:00",
-     "channel": "Apex Legends",
-     "views": 197576,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/KR1MCtCsuNY/hqdefault.jpg"
-    },
-    {
-     "id": "91beDJjQBqg",
-     "title": "CHUN-LI 🆚 ALTER",
-     "published": "2026-09-19T16:00:18+00:00",
-     "channel": "Apex Legends",
-     "views": 124259,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/91beDJjQBqg/hqdefault.jpg"
-    },
-    {
-     "id": "6B0_V9o1spA",
-     "title": "TRANSMISSION: INTERCEPTED",
-     "published": "2026-10-28T22:36:24+00:00",
-     "channel": "Apex Legends",
-     "views": 91010,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/6B0_V9o1spA/hqdefault.jpg"
-    },
-    {
-     "id": "pRnyjt_eIHQ",
-     "title": "⬇️ ↘️ ➡️ + 👊",
-     "published": "2026-09-14T17:59:47+00:00",
-     "channel": "Apex Legends",
-     "views": 76989,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/pRnyjt_eIHQ/hqdefault.jpg"
-    },
-    {
-     "id": "UDCZ-ogxdmM",
-     "title": "High risk, game-changing rewards.",
-     "published": "2026-11-02T15:00:32+00:00",
-     "channel": "Apex Legends",
-     "views": 71945,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/UDCZ-ogxdmM/hqdefault.jpg"
-    },
-    {
-     "id": "Aq081I5HO4k",
-     "title": "Akimbo Wingman #apexlegends",
-     "published": "2026-11-03T18:00:02+00:00",
-     "channel": "Apex Legends",
-     "views": 64547,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/Aq081I5HO4k/hqdefault.jpg"
-    },
-    {
-     "id": "UrOaeMq_h5M",
-     "title": "Big changes are landing in the Outlands for Season 31. #apexlegends",
-     "published": "2026-11-01T17:47:57+00:00",
-     "channel": "Apex Legends",
-     "views": 60888,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/UrOaeMq_h5M/hqdefault.jpg"
-    },
-    {
-     "id": "uF-JQowDlmY",
-     "title": "Gibby's going god mode",
-     "published": "2026-09-01T17:00:31+00:00",
-     "channel": "Apex Legends",
-     "views": 60233,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/uF-JQowDlmY/hqdefault.jpg"
-    },
-    {
-     "id": "TrnKEw_E8Hw",
-     "title": "Something big is coming #apexlegends",
-     "published": "2026-11-02T23:47:00+00:00",
-     "channel": "Apex Legends",
-     "views": 41886,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/TrnKEw_E8Hw/hqdefault.jpg"
-    },
-    {
-     "id": "UAgBVjrx_FQ",
-     "title": "RYU 🆚 SPARROW",
-     "published": "2026-09-18T23:22:07+00:00",
-     "channel": "Apex Legends",
-     "views": 30782,
-     "short": true,
-     "thumb": "https://i.ytimg.com/vi/UAgBVjrx_FQ/hqdefault.jpg"
-    }
-   ],
-   "skippedChannels": [],
-   "section": "gaming"
-  },
-  {
-   "key": "edm",
-   "name": "EDM / Dance",
-   "th": "อีดีเอ็ม / แดนซ์",
-   "channels": [
-    "Calvin Harris"
-   ],
-   "minViews": 50000,
-   "videos": [
-    {
-     "id": "8NCvtqKmKHI",
-     "title": "Calvin Harris, Kasabian - Release The Pressure (Official Visualiser)",
-     "published": "2026-02-06T18:00:43+00:00",
-     "channel": "Calvin Harris",
-     "views": 2937816,
+     "id": "k--lCrP69hg",
+     "title": "BLACKPINK 10TH ANNIVERSARY",
+     "published": "2026-08-08T02:59:56+00:00",
+     "channel": "BLACKPINK",
+     "views": 4580898,
      "short": false,
-     "thumb": "https://i.ytimg.com/vi/8NCvtqKmKHI/hqdefault.jpg"
+     "thumb": "https://i.ytimg.com/vi/k--lCrP69hg/hqdefault.jpg"
     },
     {
-     "id": "GEqcQnf05cw",
-     "title": "Calvin Harris, Jazzy - Satisfy (Official Visualiser)",
-     "published": "2026-06-11T16:00:06+00:00",
-     "channel": "Calvin Harris",
-     "views": 2650005,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/GEqcQnf05cw/hqdefault.jpg"
+     "id": "1EmQk31ImH0",
+     "title": "‘GO’ with LISA",
+     "published": "2026-03-09T08:30:01+00:00",
+     "channel": "BLACKPINK",
+     "views": 4402847,
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/1EmQk31ImH0/hqdefault.jpg"
     },
     {
-     "id": "VCUSH0pWnTc",
-     "title": "Calvin Harris, Jazzy - Satisfy (Official Audio)",
-     "published": "2026-05-08T04:00:29+00:00",
-     "channel": "Calvin Harris",
-     "views": 1105218,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/VCUSH0pWnTc/hqdefault.jpg"
+     "id": "_lK8YkoOYUI",
+     "title": "‘GO’ with JENNIE",
+     "published": "2026-03-05T08:30:01+00:00",
+     "channel": "BLACKPINK",
+     "views": 4125385,
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/_lK8YkoOYUI/hqdefault.jpg"
     },
     {
-     "id": "QJXse_NH9Ho",
-     "title": "Calvin Harris - The Station",
-     "published": "2026-09-09T16:24:58+00:00",
-     "channel": "Calvin Harris",
-     "views": 626070,
+     "id": "bgKZC7BgG-M",
+     "title": "BLACKPINK - ‘Fxxxboy’ (Official Audio)",
+     "published": "2026-03-01T05:00:48+00:00",
+     "channel": "BLACKPINK",
+     "views": 3999088,
      "short": false,
-     "thumb": "https://i.ytimg.com/vi/QJXse_NH9Ho/hqdefault.jpg"
+     "thumb": "https://i.ytimg.com/vi/bgKZC7BgG-M/hqdefault.jpg"
     },
     {
-     "id": "JhWIGurLiT4",
-     "title": "Calvin Harris, Kasabian - Release The Pressure (Official Audio)",
-     "published": "2026-02-06T05:00:31+00:00",
-     "channel": "Calvin Harris",
-     "views": 274430,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/JhWIGurLiT4/hqdefault.jpg"
+     "id": "PWBgiqpOQqo",
+     "title": "BLACKPINK - ‘GO’ M/V HIGHLIGHT CLIP",
+     "published": "2026-02-28T03:00:29+00:00",
+     "channel": "BLACKPINK",
+     "views": 3941512,
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/PWBgiqpOQqo/hqdefault.jpg"
     },
     {
-     "id": "37bcDhfHXf4",
-     "title": "Calvin Harris, Jazzy - Satisfy (Extended Mix - Official Audio)",
-     "published": "2026-05-22T04:00:02+00:00",
-     "channel": "Calvin Harris",
-     "views": 135973,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/37bcDhfHXf4/hqdefault.jpg"
+     "id": "7F-XXeRzNb8",
+     "title": "‘GO’ with ROSÉ",
+     "published": "2026-03-09T08:00:06+00:00",
+     "channel": "BLACKPINK",
+     "views": 3378009,
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/7F-XXeRzNb8/hqdefault.jpg"
     },
     {
-     "id": "XS9qhu0FrfU",
-     "title": "Calvin Harris, Jazzy - Satisfy (James Poole Remix - Official Audio)",
-     "published": "2026-07-10T04:00:22+00:00",
-     "channel": "Calvin Harris",
-     "views": 134721,
+     "id": "0LLFprdOHqo",
+     "title": "BLACKPINK - 'GO' M/V Behind the Scenes",
+     "published": "2026-03-09T09:00:03+00:00",
+     "channel": "BLACKPINK",
+     "views": 3258673,
      "short": false,
-     "thumb": "https://i.ytimg.com/vi/XS9qhu0FrfU/hqdefault.jpg"
+     "thumb": "https://i.ytimg.com/vi/0LLFprdOHqo/hqdefault.jpg"
     },
     {
-     "id": "bW7J93uf8J4",
-     "title": "Calvin Harris, Kasabian - Release The Pressure (VIP Mix - Official Audio)",
-     "published": "2026-02-27T05:00:41+00:00",
-     "channel": "Calvin Harris",
-     "views": 121932,
+     "id": "w1ayRv8j5yk",
+     "title": "BLACKPINK - DEADLINE JACKET MAKING FILM",
+     "published": "2026-03-13T10:00:03+00:00",
+     "channel": "BLACKPINK",
+     "views": 2702535,
      "short": false,
-     "thumb": "https://i.ytimg.com/vi/bW7J93uf8J4/hqdefault.jpg"
+     "thumb": "https://i.ytimg.com/vi/w1ayRv8j5yk/hqdefault.jpg"
     },
     {
-     "id": "ZnfcVLpc6v0",
-     "title": "Calvin Harris, Kasabian - Release The Pressure (Brutal Edit - Official Audio)",
-     "published": "2026-03-13T05:00:37+00:00",
-     "channel": "Calvin Harris",
-     "views": 109419,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/ZnfcVLpc6v0/hqdefault.jpg"
+     "id": "wHYqsIg2Qkw",
+     "title": "DEADLINE: BLACKPINK WILL MAKE YOU in NATIONAL MUSEUM OF KOREA with Spotify",
+     "published": "2026-03-05T07:00:01+00:00",
+     "channel": "BLACKPINK",
+     "views": 2280349,
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/wHYqsIg2Qkw/hqdefault.jpg"
     },
     {
-     "id": "obaJlMFEud4",
-     "title": "Calvin Harris, Kasabian - Release The Pressure (Rebūke Remix)",
-     "published": "2026-03-27T05:00:40+00:00",
-     "channel": "Calvin Harris",
-     "views": 78154,
-     "short": false,
-     "thumb": "https://i.ytimg.com/vi/obaJlMFEud4/hqdefault.jpg"
+     "id": "uw4OYow_v7Y",
+     "title": "BLACKPINK 10th Anniversary MEET & GREET 🖤💗",
+     "published": "2026-08-17T09:00:25+00:00",
+     "channel": "BLACKPINK",
+     "views": 1899991,
+     "short": true,
+     "thumb": "https://i.ytimg.com/vi/uw4OYow_v7Y/hqdefault.jpg"
     },
     {
-     "id": "evJTe5-OmdI",
-     "title": "Calvin Harris, Jessie Reyez - Ocean (.EXA Remix - Official Audio)",
-     "published": "2025-10-31T10:15:12+00:00",
-     "channel": "Calvin Harris",
-     "views": 65541,
+     "id": "k7JitOG5wVo",
+     "title": "BLACKPINK - ‘GO’ (Official Audio)",
+     "published": "2026-03-01T05:03:00+00:00",
+     "channel": "BLACKPINK",
+     "views": 1795889,
      "short": false,
-     "thumb": "https://i.ytimg.com/vi/evJTe5-OmdI/hqdefault.jpg"
+     "thumb": "https://i.ytimg.com/vi/k7JitOG5wVo/hqdefault.jpg"
+    },
+    {
+     "id": "yQhbf7BW_wI",
+     "title": "BLACKPINK - ‘뛰어(JUMP)’ (Official Audio)",
+     "published": "2026-03-01T05:04:00+00:00",
+     "channel": "BLACKPINK",
+     "views": 967104,
+     "short": false,
+     "thumb": "https://i.ytimg.com/vi/yQhbf7BW_wI/hqdefault.jpg"
     }
    ],
    "skippedChannels": [
     {
-     "channelId": "UC1l7wYrva1qCH-wgqcHaaRg",
+     "channelId": "UC3IZKseVpdzPSBaWxBxundA",
      "error": "HTTP Error 404: Not Found"
     },
     {
-     "channelId": "UC5H_KXkPbEsGs0tFt8R35mA",
+     "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UC9rMiEjNaCSsebs31MRDCRA",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UC9GtSLeksfK4yuJ_g1lgQbg",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UCEpFoWeCMCo5z3EvWaz6hQQ",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UCzgxx_DM2Dcb9Y1spb9mUJA",
      "error": "HTTP Error 404: Not Found"
     }
    ],
@@ -273,7 +198,7 @@
    "skippedChannels": [
     {
      "channelId": "UCG5qGWdu8nIRZqJ_GgDwQ-w",
-     "error": "HTTP Error 500: Internal Server Error"
+     "error": "HTTP Error 404: Not Found"
     }
    ],
    "section": "sports"
@@ -379,11 +304,11 @@
     },
     {
      "channelId": "UCvZwbZt6YZQ4wj_7qyjPDZw",
-     "error": "HTTP Error 404: Not Found"
+     "error": "HTTP Error 500: Internal Server Error"
     },
     {
      "channelId": "UCWZbPo5_riXyCFDyaMl2yRA",
-     "error": "HTTP Error 500: Internal Server Error"
+     "error": "HTTP Error 404: Not Found"
     },
     {
      "channelId": "UCSZxaHGo1OEs06vQumIooug",
@@ -432,10 +357,25 @@
    "skippedChannels": [
     {
      "channelId": "UCaBIVVpHjq6j3tSyxwTE-8Q",
-     "error": "HTTP Error 500: Internal Server Error"
+     "error": "HTTP Error 404: Not Found"
     }
    ],
    "section": "sports"
+  },
+  {
+   "key": "apex",
+   "name": "Apex Legends",
+   "th": "เอเพ็กซ์ เลเจนด์ส",
+   "channels": [],
+   "minViews": 30000,
+   "videos": [],
+   "skippedChannels": [
+    {
+     "channelId": "UC0ZV6M2THA81QT9hrVWJG3A",
+     "error": "HTTP Error 404: Not Found"
+    }
+   ],
+   "section": "gaming"
   },
   {
    "key": "diablo",
@@ -481,7 +421,7 @@
    "skippedChannels": [
     {
      "channelId": "UCH3sMKVJ2P7hm7ROBy5FHJg",
-     "error": "HTTP Error 404: Not Found"
+     "error": "HTTP Error 500: Internal Server Error"
     }
    ],
    "section": "gaming"
@@ -580,7 +520,7 @@
     },
     {
      "channelId": "UCPKWE1H6xhxwPlqUlKgHb_w",
-     "error": "HTTP Error 500: Internal Server Error"
+     "error": "HTTP Error 404: Not Found"
     },
     {
      "channelId": "UC0WP5P-ufpRfjbNrmOWwLBQ",
@@ -643,7 +583,7 @@
     },
     {
      "channelId": "UC9CoOnJkIBMdeijd9qYoT_g",
-     "error": "HTTP Error 404: Not Found"
+     "error": "HTTP Error 500: Internal Server Error"
     },
     {
      "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
@@ -688,57 +628,6 @@
    "section": "music"
   },
   {
-   "key": "kpop",
-   "name": "K-Pop",
-   "th": "เคป๊อป",
-   "channels": [],
-   "minViews": 300000,
-   "videos": [],
-   "skippedChannels": [
-    {
-     "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-     "error": "HTTP Error 500: Internal Server Error"
-    },
-    {
-     "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
-     "error": "HTTP Error 500: Internal Server Error"
-    },
-    {
-     "channelId": "UCOmHUn--16B90oW2L6FRR3A",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UC9rMiEjNaCSsebs31MRDCRA",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UC9GtSLeksfK4yuJ_g1lgQbg",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UCEpFoWeCMCo5z3EvWaz6hQQ",
-     "error": "HTTP Error 404: Not Found"
-    },
-    {
-     "channelId": "UCzgxx_DM2Dcb9Y1spb9mUJA",
-     "error": "HTTP Error 404: Not Found"
-    }
-   ],
-   "section": "music"
-  },
-  {
    "key": "jpop",
    "name": "J-Pop",
    "th": "เจป๊อป",
@@ -748,7 +637,7 @@
    "skippedChannels": [
     {
      "channelId": "UCvpredjG93ifbCP1Y77JyFA",
-     "error": "HTTP Error 404: Not Found"
+     "error": "HTTP Error 500: Internal Server Error"
     },
     {
      "channelId": "UCpFgmZm65yOU5X-hmWkWjuw",
@@ -795,11 +684,34 @@
     },
     {
      "channelId": "UCs2t9DlvAuyTBkvk2djGZKw",
-     "error": "HTTP Error 500: Internal Server Error"
+     "error": "HTTP Error 404: Not Found"
     },
     {
      "channelId": "UCEziz_UlMBt0e_pT-nWiRPw",
      "error": "HTTP Error 404: Not Found"
+    }
+   ],
+   "section": "music"
+  },
+  {
+   "key": "edm",
+   "name": "EDM / Dance",
+   "th": "อีดีเอ็ม / แดนซ์",
+   "channels": [],
+   "minViews": 50000,
+   "videos": [],
+   "skippedChannels": [
+    {
+     "channelId": "UC1l7wYrva1qCH-wgqcHaaRg",
+     "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+     "channelId": "UCIjYyZxkFucP_W-tmXg_9Ow",
+     "error": "HTTP Error 404: Not Found"
+    },
+    {
+     "channelId": "UC5H_KXkPbEsGs0tFt8R35mA",
+     "error": "HTTP Error 500: Internal Server Error"
     }
    ],
    "section": "music"
@@ -868,7 +780,7 @@
     },
     {
      "channelId": "UCDb0peSmF5rLX7BvuTcJfCw",
-     "error": "HTTP Error 500: Internal Server Error"
+     "error": "HTTP Error 404: Not Found"
     },
     {
      "channelId": "UC14QT5j2nQI8lKBCGtrrBQA",
